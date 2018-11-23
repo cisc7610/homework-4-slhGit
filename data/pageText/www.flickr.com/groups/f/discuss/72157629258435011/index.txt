@@ -1,0 +1,92 @@
+Flickr logo. If you click it, you'll go home
+Go back to the beta groups experience
+! !^Into Your Heart Level 1 (Post 1:Award/Fave 3) 
+A very warm welcome to  Into Your Heart.    This is an Award/Faves group for your great shots.   The group accepts... 
+Top of the Month Gallery (October, 2018)
+Dedicated to The Best Pics of the Month chosen by a panel of...
+Fat Burns ☮ (gone bush)
+Only 3+ awards  Level 1 ? Post here for more
+Post your photos with 3 or 4 
+Into Your Heart Level 1
+ awards here to get more...
+italianoadoravel .BACK ,,,,,,,,,,,,
+Award But Not Faved Post Here
+If  Someone, Awards your pic  but  forget to give  FAVES,,,
+italianoadoravel .BACK ,,,,,,,,,,,,
+Thank you for selecting my image as this months cover photo: I am truly honored ...
+I cordially greet the group!
+Is your name here? 15 October, 2016: Sweeper Results
+If your name appears here two times or a serial offender you will be banned ...
+Fat Burns ☮ (gone bush)
+Top of the Month Gallery (August, 2015)
+Dedicated to The Best Pics of the Month chos...
+Fat Burns ☮ (gone bush)
+Top of the Month Gallery (July, 2015)
+Dedicated to The Best Pics of the Month chosen by a pa...
+Fat Burns ☮ (gone bush)
+Top of the Month Gallery (June, 2015)
+Dedicated to The Best Pics of the...
+Fat Burns ☮ (gone bush)
+Top of the Month Gallery (May, 2015)
+Dedicated to The Best Pics of the Mont...
+Fat Burns ☮ (gone bush)
+Top of the Month Gallery (April, 2015)
+Dedicated to The Best Pics of the Month. Artists will be f...
+Fat Burns ☮ (gone bush)
+hola he visto vuestro grupo y me gustaría unirme si lo que hago tiene lugar
+Search this group's discussions
+					Only 3+ awards  Level 1 ? Post here for more
+italianoadoravel .BACK ,,,,,,,,,,,,
+Post your photos with 3 or 4 
+Into Your Heart Level 1
+ awards here to get more.
+Please post your photo in Medium Size to make it easier to view.
+You have 3 DAYS for your photo to get 5+ 
+Into Your Heart Level 1
+AFTER 3 DAYS Admin will delete your photo.
+Please do not re-post your photo.
+4 things you need to do as you post here:
+1- Mark your image with the ordinal number (#) following on from the image immediately above
+2- Mark your image with how many awards you have received
+3 - Post 1, Please Award and Fave 3 using the award code below
+4- Mark the numbers of the photos you have awarded and faved in this thread SEE EXAMPLE PHOTO BELOW
+If there are less than 3 photos in this thread, please award/fave photos in the main pool.
+***Members' Award Code***
+<---------Members - Start from this line----------->
+<b><i>♥ Faved! This is Sublime! ♥</i></b>
+<b> Admired in <i>Into Your Heart Level 1</i></b><a href="https://www.flickr.com/groups/f/" target="_blank">
+<img src="https://c1.staticflickr.com/9/8857/17775843338_0139b63427.jpg" /></a><a href="https://www.flickr.com/groups/f/" target="_blank"></a>
+(Post 1, Please Award and Fave 3)
+5+ Awards? <a href="https://www.flickr.com/groups/2704598@N20/pool/">Post here for Level 2</a>
+Get 25+ Awards. <a href="https://www.flickr.com/groups/2755949@N22/discuss/72157648991054509/">Post </a> for <a href="https://www.flickr.com/groups/2755949@N22/pool/"><i>☰The Vernissage☰</i></a>
+<---------Members - Stop at this line----------->
+♥ Faved! This is Sublime! ♥
+Into Your Heart Level 1
+(Post 1, Please Award and Fave 3)
+Post here for Level 2
+*** Example Photo ***
+faved and awardes #xx, #yy,  #zz or more in the pool
+																						Originally posted at 7:19AM, 10 February 2012 PST
+																				    italianoadoravel .BACK ,,,,,,,,,,,, edited this topic 24 months ago.
+Awarded 199 + 2 in the main pool
+			199,200 & PLUS ONE IN MAIN POOL (Please accept this dead fish as a token of my Love)
+																			Originally posted 8 days ago. 
+																					  									dimitris.g edited this topic 8 days ago.
+RD Glamour Photography
+Awarded #200, #202, #203
+Would you like to comment?
+ for a free account, or 
+ (if you're already a member).
+ – Subscribe to ! !^Into Your Heart Level 1 (Post 1:Award/Fave 3) discussion threads
+				var field_node = Y.one('#gn-search-field');
+				var nav_selecta = new Y.NavSelecta(field_node, {linkUsernameToPhotostream: 1,preloadText:field_node.get('value')});
+	Y.UA.ie && (document.body.className = document.body.className + ' ua-windows-ie');
+	Y.UA.opera && (document.body.className = document.body.className + ' ua-opera');
+	var navViewCtrl = new Y.GroupsSubnavView({
+			lowres: 'Hey there! The photo you selected is small, it may not look great as a cover photo. Are you sure you want to use it?',
+	/* Used to hide the more-hover menu when share menu is open*/
+	var actionMenu = '.subnav-view .sn-dropdown';
+			var menu = Y.one(actionMenu);
+			var menu = Y.one(actionMenu);
+	if (typeof COMSCORE !== 'undefined') {
+		COMSCORE._flickrconf = { c1: 2, c2: 7241469, c3: "", c4: "www.flickr.com%2Fgroups%2Ff%2Fdiscuss%2F72157629258435011%2F%2F", c5: "792600129", c6: "", c15: "" };

@@ -1,0 +1,1330 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+
+	<!-- for Facebook -->
+
+
+
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Bustler is all about architecture and architecture-related competitions and events.">
+	<meta name="keywords" content="architecture, competition, competitions, competitive, architects, architect, charrette, deadlines, event, events" />
+	<meta name="author" content="Bustler" />
+	<meta name="copyright" content="Bustler" />
+
+
+				  	<meta property="og:title" content="Hey New York City, here are our must-see Archtober exhibitions (and one party!)" />
+	  	<meta property="og:url" content="http://bustler.net/news/5963/hey-new-york-city-here-are-our-must-see-archtober-exhibitions-and-one-party" />
+		
+		<meta property="og:type" content="article" />
+
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+			  	<meta property="og:image" content="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=1200" />
+		
+
+
+			  	<meta property="og:description" content="New Yorkers know it's that time of the year again when the days are getting shorter, the mornings a bit crisper, and a flood of outstanding architecture and design events is about to hit the city:&nbsp;Archtober is here!&nbsp..." />
+		  
+		<meta property="og:site_name" content="Bustler" />
+		<meta property="article:publisher" content="Bustler" />
+		
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=yyye24kqLx">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=yyye24kqLx">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png?v=yyye24kqLx" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-194x194.png?v=yyye24kqLx" sizes="194x194">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png?v=yyye24kqLx" sizes="96x96">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=yyye24kqLx" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png?v=yyye24kqLx" sizes="16x16">
+	<link rel="manifest" href="/manifest.json?v=yyye24kqLx">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg?v=yyye24kqLx" color="#000000">
+	<link rel="shortcut icon" href="/favicon.ico?v=yyye24kqLx">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=yyye24kqLx">
+	<meta name="theme-color" content="#ffffff">
+
+	<title>Hey New York City, here are our must-see Archtober exhibitions (and one party!)</title>
+
+	<!-- Google Analytics Tracking Code - start -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-162408-2', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	<!-- Google Analytics Tracking Code - end -->
+
+	<style type="text/css">
+
+	</style>
+<!--		<script type="text/javascript"
+			src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRldKpaloGzY-LrJ7tVhAUuPwuObTycDA">
+	</script>-->
+	<!--<script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyBRldKpaloGzY-LrJ7tVhAUuPwuObTycDA"></script>-->
+	<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>-->
+	<!--<script type="text/javascript" src="http://gmap.nurtext.de/js/jquery.gmap-1.1.0-min.js"></script>-->
+
+
+
+	<link href="http://bustler.net/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="http://bustler.net/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,500" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300italic,700,700italic" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://bustler.net/assets/css/bootstrap-select.css">
+<link rel="stylesheet" href="http://bustler.net/assets/css/magnific-popup.css">
+<link rel="stylesheet" href="http://bustler.net/assets/css/bustler.css?v=1">
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+	<![endif]-->
+	<script>
+	  var urls = '{"base_url":"http:\/\/bustler.net\/","assets":{"base":"http:\/\/bustler.net\/assets\/","js":"http:\/\/bustler.net\/assets\/","css":"http:\/\/bustler.net\/assets\/","images":"http:\/\/bustler.net\/assets\/"}}';
+	</script>
+
+	<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+	<script>
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	</script>
+
+	<script type='text/javascript'>
+	 googletag.cmd.push(function() {
+	   googletag.defineSlot('/1004793/Bustler_300x250', [300, 250], 'div-gpt-ad-1482442501210-0').addService(googletag.pubads());
+	   googletag.defineSlot('/1004793/Bustler_Leaderboard', [728, 90], 'div-gpt-ad-1458689868395-0').addService(googletag.pubads());
+	   googletag.pubads().enableSingleRequest();
+	   googletag.enableServices();
+	 });
+	</script>
+
+  </head>
+
+  <body class="news-page" style="background-color:">
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+	  <div class="navbar-top clearfix hidden-xs">
+		<ul class="topbar-nav pull-right">
+		  		  		  <li>
+			  			<a href="javascript:void(0);" id="loginModalevent"><span class="glyphicon glyphicon-log-in"></span>Login / Join</a>
+					  </li>
+		</ul>
+		<ul class="topbar-nav">
+		  <li><a href="http://bustler.net/about">About</a></li>
+		  <li><span>&#8226;</span></li>
+		  <li><a href="http://bustler.net/contact">Contact</a></li>
+		  <li><span>&#8226;</span></li>
+		  <li><a href="http://bustler.net/advertising">Advertising</a></li>
+		</ul>
+	  </div>
+
+	  <div class="container">
+
+		<div class="navbar-header clearfix">
+		  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		  </button>
+          <a href="http://bustler.net/" class="home-button visible-xs-block"><img class="navbar-brand logo" src="http://bustler.net/assets/img/logo.png" alt="bustler logo" /></a>
+		</div>
+
+		<div class="collapse navbar-collapse">
+
+		  <div class="navigation-full hidden-xs">
+
+			<a class="navbar-brand logo hidden-xs" href="http://bustler.net/"><img src="http://bustler.net/assets/img/logo.png" alt="bustler logo" /><div class="logo-dimmer"></div></a>
+			  			<ul class="nav navbar-nav primary-nav">
+  			  <li class="dropdown">
+  				<a href="http://bustler.net/news" class="nav-toggle-news" id="navToggleNews">News<div class="dropdown-marker"></div></a>
+  			  </li>
+  			  <li class="dropdown">
+  				<a href="http://bustler.net/competitions" class="nav-toggle-competitions" id="navToggleCompetitions">Competitions</a>
+  			  </li>
+  			  <li class="dropdown">
+  				<a href="http://bustler.net/events" class="nav-toggle-events" id="navToggleEvents">Events</a>
+  			  </li>
+  			</ul>
+			
+			<ul class="nav navbar-nav navbar-right quicklinks">
+			  <li><a href="https://www.facebook.com/Bustler.net" title="Bustler on Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+			  <li><a href="https://twitter.com/bustlernet" title="Bustler on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+			  <li class="social-archinect"><a href="http://archinect.com/" title="Bustler is powered by Archinect" target="_blank"><img src="http://bustler.net/assets/img/logo-archinect-34x34.png" alt="Bustler is powered by Archinect" /></a></li>
+
+			  <li class="dropdown">
+				<a class="dropdown-toggle nav-toggle-subscribe" id="navToggleSubscribe" data-toggle="dropdown" title="Newsletter Signup"><i class="fa fa-envelope"></i><div class="dropdown-marker"></div></a>
+
+				<div class="dropdown-menu smart-dropdown signup-form" role="menu" id="navDropdownSubscribe">
+				  <form class="form-inline mailchimpFormSubmit" role="form" method="post" action="http://bustler.us1.list-manage.com/subscribe/post-json?u=6e00e9d4412222e5112935965&amp;id=755f9928e6&amp;c=?" novalidate="novalidate" name="mc-embedded-subscribe-form" id="mc-embedded-subscribe-form">
+					<div class="container clearfix">
+					  <div class="dropdown-subscribe">
+						<div class="form-group">
+						  <p>Sign up for Bustler's Email Newsletters</p>
+						</div>
+						<div class="input-group">
+						  <label class="sr-only" for="signupEmail">Email address</label>
+						  <input type="email" name="EMAIL" class="form-control signup-email required email EMAIL_signup" id="mce-EMAIL" placeholder="Email Address">
+						  <span class="input-group-btn">
+							<span class="icon-input-btn">
+								<i class="fa fa-arrow-circle-right"></i>
+								<input type="submit" value="" name="subscribe" id="" class="btn button mc_embedded_subscribe mc-embedded-subscribe">
+							</span>
+						  </span>
+						</div>
+						<div class="form-group checkbox_newslatter">
+						  <label class="checkbox-inline">
+							<input type="checkbox" value="2" name="group[13][2]" id="mce-group[13]-13-1" class="daily_checkbox" checked><span>Daily</span>
+						  </label>
+						  <label class="checkbox-inline">
+							<input type="checkbox" value="1" name="group[13][1]" id="mce-group[13]-13-0" class="weekly_checkbox" checked><span>Weekly</span>
+						  </label>
+						</div>
+						<div class="form-group">
+						  <span class="success_subscription response mce-success-response" id=""></span>
+						</div>
+
+					  </div>
+
+					</div>
+				  </form>
+				</div>
+			  </li>
+
+			  <li class="dropdown">
+				<a class="dropdown-toggle nav-toggle-rss" id="navToggleRSS" data-toggle="dropdown" title="RSS Feeds"><i class="fa fa-rss"></i><div class="dropdown-marker"></div></a>
+
+				<div class="dropdown-menu smart-dropdown" role="menu" id="navDropdownRSS">
+				  <form class="form-inline" role="form">
+					<div class="container clearfix">
+					  <div class="dropdown-rss">
+
+						<div class="form-group">
+						  <p>Follow these Bustler feeds:</p>
+						</div>
+						<div class="form-group">
+						  <a href="http://bustler.net/feed"><button type="button" class="btn btn-rss-combined">Combined Feed <br /><small>(News + Competitions + Events)</small></button></a>
+						</div>
+						<div class="form-group">
+						  <a href="http://bustler.net/feed/news"><button type="button" class="btn btn-rss-news">News Feed</button></a>
+						</div>
+						<div class="form-group">
+						  <a href="http://bustler.net/feed/competitions"><button type="button" class="btn btn-rss-competitions">Competition Feed</button></a>
+						</div>
+						<div class="form-group">
+						  <a href="http://bustler.net/feed/events"><button type="button" class="btn btn-rss-events">Event Feed</button></a>
+						</div>
+
+					  </div><!--/.dropdown-rss -->
+
+					</div><!--/.container -->
+				  </form>
+				</div><!--/#navDropdownRSS -->
+			  </li>
+			</ul>
+
+
+			<ul class="nav navbar-nav secondary-nav">
+			    			  <li class="dropdown">
+  				<a class="dropdown-toggle nav-toggle-search" id="navToggleSearch" data-toggle="dropdown"><span class="glyphicon glyphicon-search"></span>Search<div class="dropdown-marker"></div></a>
+
+  				<div class="dropdown-menu smart-dropdown" role="menu" id="navDropdownSearch">
+  				  <form onkeypress="stopEnterSubmitting(event);" class="form-inline" role="form" method="POST"  action="">
+  					<div class="container clearfix">
+  					  <div class="dropdown-search">
+  						<div class="form-group">
+  						  <label for="searchField" class="sr-only">Search Bustler</label>
+  						  <input name="searchtext" type="text" class="form-control input-lg search-field" id="searchField" placeholder="Search Bustler">
+  						  <input name="hidden_searchtext" type="hidden" class="hidden_searchField">
+  						</div>
+  						<div class="form-group">
+  						  <p>Search in</p>
+  						</div>
+  						<div class="form-group">
+  						  <button type="submit" onclick="this.form.action = 'http://bustler.net/news/search/';" class="btn btn-search-news">News</button>
+  						</div>
+  						<div class="form-group">
+  						  <button type="submit" onclick="this.form.action = 'http://bustler.net/competitions/search/';" class="btn btn-search-competitions">Competitions</button>
+  						</div>
+  						<div class="form-group">
+  						  <button type="submit" onclick="this.form.action = 'http://bustler.net/events/search/';" class="btn btn-search-events">Events</button>
+  						</div>
+  						<div class="search-alert" id="searchAlert">
+  							<!--<div class="alert alert-warning" role="alert"><span class="glyphicon glyphicon-exclamation-sign"></span> &nbsp;Click a button to initiate your search</div>-->
+  						  <div class="alert alert-warning" role="alert" id="alert_msg"></div>
+  						</div>
+
+  					  </div><!--/.dropdown-search -->
+
+  					</div><!--/.container -->
+  				  </form>
+  				</div><!--/#navDropdownSearch -->
+
+  			  </li>
+
+
+  			  <li class="dropdown">
+  				<a class="dropdown-toggle nav-toggle-submit" id="navToggleSubmit" data-toggle="dropdown"><span class="glyphicon glyphicon-cloud-upload"></span>Submit<div class="dropdown-marker"></div></a>
+
+  				<div class="dropdown-menu smart-dropdown" role="menu" id="navDropdownSubmit">
+  				  <form class="form-inline" role="form">
+  					<div class="container clearfix">
+  					  <div class="dropdown-submit">
+
+  						<div class="form-group">
+  						  <p>What are you submitting?</p>
+  						</div>
+  						<div class="form-group">
+
+
+														  <a href="javascript:;" class="loginModashow btn btn-submit-news" id="loginAutoPop1">News Pitch</a>
+
+							  						</div>
+  						<div class="form-group">
+  							<a href="http://bustler.net/submission/start_competition" class="btn btn-submit-competitions">Competition</a>
+  						</div>
+  						<div class="form-group">
+  							<a href="http://bustler.net/submission/start_event" class="btn btn-submit-events">Event</a>
+  						</div>
+
+  					  </div><!--/.dropdown-submit -->
+
+  					</div><!--/.container -->
+  				  </form>
+  				</div><!--/#navDropdownSubmit -->
+
+  			  </li>
+
+
+			  
+
+			  			  			  <li class="visible-xs">
+				  				<a href="javascript:void(0);" id="loginModalevent"><span class="glyphicon glyphicon-log-in"></span> Login / Join</a>
+							  </li>
+
+
+			</ul>
+
+
+
+
+
+		  </div><!--/.navigation-full -->
+
+
+
+
+		  <div class="navigation-mobile visible-xs-block">
+
+            <ul class="nav navbar-nav primary-nav">
+              <li>
+				<a href="http://bustler.net/news" class="nav-toggle-news">News</a><span class="separator">|</span><a href="http://bustler.net/competitions" class="nav-toggle-competitions">Competitions</a><span class="separator">|</span><a href="http://bustler.net/events" class="nav-toggle-events">Events</a>
+              </li>
+            </ul>
+
+            <ul class="nav navbar-nav secondary-nav">
+
+              <li class="toggle-bar">
+                <a class="dropdown-toggle" id="navToggleSearchMobile"><span class="glyphicon glyphicon-search"></span>Search<div class="dropdown-marker"></div></a>
+                <span class="separator">|</span>
+                <a class="dropdown-toggle" id="navToggleSubmitMobile"><span class="glyphicon glyphicon-cloud-upload"></span>Submit<div class="dropdown-marker"></div></a>
+                <span class="separator">|</span>
+                <a class="dropdown-toggle" id="navToggleRSSMobile"><i class="fa fa-rss"></i>Follow<div class="dropdown-marker"></div></a>
+              </li>
+
+			  <div class="nav-spacer-mobile" id="navSpacerMobile"></div>
+
+			  <div class="nav-dropdown-mobile" id="navDropdownSearchMobile">
+				<form onkeypress="stopEnterSubmitting(event);" class="form-inline" role="form" method="POST"  action="">
+				  <div class="container clearfix">
+					<div class="dropdown-search">
+
+					  <div class="form-group">
+						<label for="searchField" class="sr-only">Search Bustler</label>
+						<input name="searchtext" type="text" class="form-control input-lg search-field" id="searchFieldMobile" placeholder="Search Bustler">
+						<input name="hidden_searchtext" type="hidden" class="hidden_searchField">
+					  </div>
+					  <div class="form-group">
+						<p>Search in</p>
+					  </div>
+					  <div class="form-group">
+						<button type="submit" onclick="this.form.action = 'http://bustler.net/news/search/';" class="btn btn-search-news">News</button>
+					  </div>
+					  <div class="form-group">
+						<button type="submit" onclick="this.form.action = 'http://bustler.net/competitions/search/';" class="btn btn-search-competitions">Competitions</button>
+					  </div>
+					  <div class="form-group">
+						<button type="submit" onclick="this.form.action = 'http://bustler.net/events/search/';" class="btn btn-search-events">Events</button>
+					  </div>
+					  <div class="search-alert clearfix" id="searchAlert">
+						<div class="alert alert-warning" role="alert" id="alert_msg"></div>
+					  </div>
+
+					</div><!--/.dropdown-search -->
+
+				  </div><!--/.container -->
+				</form>
+			  </div><!--/.nav-dropdown-search-mobile -->
+
+			  <div class="nav-dropdown-mobile" id="navDropdownSubmitMobile">
+				<form class="form-inline" role="form">
+				  <div class="container clearfix">
+					<div class="dropdown-submit clearfix">
+
+					  <div class="form-group">
+						<p>What are you submitting?</p>
+					  </div>
+					  <div class="form-group">
+						  						<a href="javascript:;" class="loginModashow btn btn-submit-news" id="loginAutoPop1">News Pitch</a>
+											  </div>
+					  <div class="form-group">
+					  	<a href="http://bustler.net/submission/start_competition" class="btn btn-submit-competitions">Competition</a>
+					  </div>
+					  <div class="form-group">
+					  	<a href="http://bustler.net/submission/start_event" class="btn btn-submit-events">Event</a>
+					  </div>
+
+					</div><!--/.dropdown-submit -->
+
+				  </div><!--/.container -->
+				</form>
+			  </div><!--/.nav-dropdown-submit-mobile -->
+
+			  <div class="nav-dropdown-mobile" id="navDropdownRSSMobile">
+				<form class="form-inline" role="form">
+				  <div class="container clearfix">
+					<div class="dropdown-rss clearfix">
+
+					  <div class="form-group">
+						<p>Follow these Bustler feeds:</p>
+					  </div>
+					  <div class="form-group">
+						<a href="#"><button type="button" class="btn btn-rss-combined">Combined Feed</button></a>
+					  </div>
+					  <div class="form-group">
+						<a href="#"><button type="button" class="btn btn-rss-news">News</button></a>
+					  </div>
+					  <div class="form-group">
+						<a href="#"><button type="button" class="btn btn-rss-competitions">Competitions</button></a>
+					  </div>
+					  <div class="form-group">
+						<a href="#"><button type="button" class="btn btn-rss-events">Events</button></a>
+					  </div>
+
+					</div><!--/.dropdown-rss -->
+
+				  </div><!--/.container -->
+				</form>
+			  </div><!--/.nav-dropdown-rss-mobile -->
+
+			  <li>
+				<a href="http://bustler.net/about">About</a><span class="separator">|</span><a href="http://bustler.net/contact">Contact</a><span class="separator">|</span><a href="http://bustler.net/advertising">Advertising</a>
+			  </li>
+
+			  			  			  <li class="session-link">
+				  				<a href="javascript:void(0);" id="loginModalevent"><span class="glyphicon glyphicon-log-in"></span> Login / Join</a>
+							  </li>
+
+            </ul>
+
+		  </div><!--/.navigation-mobile -->
+
+
+		</div><!--/.nav-collapse -->
+
+	  </div>
+	</nav><!--/.navbar-fixed-top -->
+	<div id="main_content">
+	  
+
+<!-- Begin page content -->
+<div class="container content-page">
+  <div class="row" >
+	<aside class="list-column  news-list scrollTo_mobile" style="-webkit-overflow-scrolling: touch;">
+	  <div class="list-col-header">
+		  <!--<form class="form" role="form" method="post" action="">-->
+		<div class="btn-group">
+		  		  <button onclick="location.href = 'http://bustler.net/news/top'" type="button" class="btn ">Top Stories</button>
+		  <button onclick="location.href = 'http://bustler.net/news'" type="button" class="btn active">Latest News</button>
+		</div>
+						<!--</form>-->
+	  </div>
+
+
+	  <div class="media scrollTo">
+		<div id="left_container_scroll">
+
+		  <!--
+
+		  <!-- THIS SEGMENT IS ONLY VISIBLE IN MOBILE VIEW AND LOADED DYNAMICALLY VIA AJAX UPON CLICKING AN ENTRY FROM THE LIST -->
+		  <div id="container_scroll_mobile">
+
+			<!--			<aside class="list-col-entry signup-form light-theme">
+						  <form>
+							<h3 class="title">Sign up for Bustler's Email Newsletters</h3>
+							<div class="form-group">
+							  <select class="form-control newsletter-select selectpicker" data-style="btn-inverse">
+								<option>Daily & Weekly</option>
+								<option>Daily only</option>
+								<option>Weekly only</option>
+							  </select>
+							</div>
+							<div class="form-group">
+							  <label class="sr-only" for="signupEmail">Email address</label>
+							  <input type="email" class="form-control" id="signupEmail" placeholder="Email Address">
+							</div>
+						  </form>
+						</aside>-->
+
+
+			
+				<article  class="entry entry-mobile visible-xs" id="window_scroll" ontouchstart="mouse_scrole_title();">
+				  <div class="item_click" id="item5963" data-title="hey-new-york-city-here-are-our-must-see-archtober-exhibitions-and-one-party" page-title="Hey New York City, here are our must-see Archtober exhibitions (and one party!)"  data-article-id = "5963">
+
+					
+	  				<header class="entry-header title-above-image">
+							  				  <h1 class="entry-title">Hey New York City, here are our must-see Archtober exhibitions (and one party!)</h1>
+	  				  <div class="row entry-details">
+	  					<div class="entry-details-wrapper">
+															  <h4 class="author">By Alexander Walter<span>|</span></h4>
+								  								  					  <h4 class="date"><span class="date-weekday">Friday, </span>Sep 22, 2017							  	  						<div class="entry-pointer"><i class="fa fa-caret-up"></i></div>
+	  					</div>
+	  				  </div>
+
+												  <figure class="entry-main-image">
+
+							<img srcset="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=768 1x,https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=768&dpr=2 2x, https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=768&dpr=3 3x" src="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=768" border="0" class="img-responsive" title="" alt="" width="768" height="" />
+									  					<figcaption class="image-caption">Photo credit: Jörg Schubert/<a href="https://www.flickr.com/photos/tinto/35176711425/">Flickr</a></figcaption>
+													  </figure>
+							  				</header>
+					
+					<section class="entry-body">
+                    <div class="content-width">
+					  <p>New Yorkers know it's that time of the year again when the days are getting shorter, the mornings a bit crisper, and a flood of outstanding architecture and design events is about to hit the city: <a href="http://archtober.org/" target="_blank">Archtober</a> is here! </p><p>For the seventh year in a row, Archinect & Bustler are proud to present the city-wide festival with its packed roster of exhibitions, lectures, conferences, films, and tours across the five boroughs. </p><p>From Archtober's lengthy <a href="https://archtober.org/calendar" target="_blank">calendar of events</a>, we'll be presenting weekly highlights starting on Monday. </p><p>For today's post, we've put together a handy guide of some of the key exhibitions (<em>and one party co-hosted by Archinect!</em>) you should certainly not miss.</p> 								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Never Built New York, installation view at the Queens Museum.</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9858/never-built-new-york">Never Built New York</a></strong><br>Queens Museum, now open&nbsp;until February 18</p><p>Co-curated by Sam Lubell and Greg Goldin, and designed by Christian Wassmann, <em>Never Built</em> presents the "ghost of the city that could have been." Through prints, drawings, models, installations, and animations the show invites New Yorkers to see their metropolis from a new perspective.<br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9858/never-built-new-york">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Never Built New York												</h6>
+											</div>
+										</a>
+																	  	<a class="media related-entry related-news" href="http://bustler.net/news/5972/new-york-s-paper-architecture-at-the-queens-museum">
+									  											                	<div class="media-left">
+															<img srcset="https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="media-object related-entry-img" title="" alt="" width="80" height="80" />														</div>
+									                												<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED NEWS</small>
+													New York's Paper Architecture at the Queens Museum												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Design Earth: “Below the Water Towers,” Pacific Aquarium, 2016.</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9863/geostories-another-architecture-for-the-environment">Geostories: Another Architecture for the Environment</a></strong><br>Cooper Union, October 17 - December 2</p><p>By presenting four subject-specific projects – After Oil,&nbsp;Of Oil and Ice,&nbsp;Pacific Aquarium&nbsp;and&nbsp;Trash Peaks&nbsp;– <em>Geostories</em> is touted as a manifesto "on the environmental imagination presented in architectural projects that engage the planetary scale with a commitment to the drawing as medium." The exhibition at Cooper Union's Arthur A. Houghton Jr. Gallery was developed by award-winning design-research practice, Design Earth. <br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9863/geostories-another-architecture-for-the-environment">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Geostories: Another Architecture for the Environment												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Kibera Hamlets School by SelgasCano, Helloeverything, and studio.14, photo credit: helloeverything</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9854/scaffolding">Scaffolding</a></strong><br>Center for Architecture, October 2 - January 18</p><p>Hiding in plain sight, scaffolding is ubiquitous in New York City, yet so underappreciated. The exhibition takes a look at its history, its potential as a kit-of-parts technology, and even had OMA partner Shohei Shigematsu reimagine the Center's architectural space through an installation of actual scaffolding. <br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9854/scaffolding">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Scaffolding												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Photo: © Robert Prochaska</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9412/5x5-participatory-provocations">5x5: Participatory Provocations</a></strong><br>Center for Architecture, now open until October 31</p><p>Also at the Center right now is this exhibition that invited 25 young architects to respond to various prompts&nbsp;–  some controversial&nbsp;– and create physical expressions or even provocations. The list of participating firms includes Snarkitecture, Formlessfinder, SOFTlab, Platform for Architecture + Research, Ultramoderne, among others.<br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-news" href="http://bustler.net/news/5781/5x5-participatory-provocations-exhibition-opens-at-the-center-for-architecture-on-july-11">
+									  											                	<div class="media-left">
+															<img srcset="https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="media-object related-entry-img" title="" alt="" width="80" height="80" />														</div>
+									                												<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED NEWS</small>
+													“5x5 Participatory Provocations” exhibition opens at the Center for Architecture on July 11												</h6>
+											</div>
+										</a>
+																	  	<a class="media related-entry related-events" href="http://bustler.net/events/9807/archtober-2017">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Archtober 2017												</h6>
+											</div>
+										</a>
+																	  	<a class="media related-entry related-events" href="http://bustler.net/events/9412/5x5-participatory-provocations">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													5x5: Participatory Provocations												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Naama Tsabar, ‘Propagation (Opus 3)’, 2015. Photo via Museum of Arts and Design/Facebook.</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9701/sonic-arcade-shaping-space-with-sound">Sonic Arcade: Shaping Space with Sound</a></strong><br>Museum of Arts and Design, now open until February 25</p><p>Don't miss this exciting show at MAD featuring artists, designers, and performers who explore how the ephemeral and abstract nature of sound can be made material, thus helping to reorient "the body to consider spatial and interpersonal relationships anew." Interactive installations, immersive environments, and performing objects make this a must-visit.<br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9701/sonic-arcade-shaping-space-with-sound">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Sonic Arcade: Shaping Space with Sound												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Chen Shaoxiong, 5 Hours, 1993/2006. DSL Collection. Performance view: The Third Artistic Event of the Big Tail Elephant Working Group, outside Red Ant Bar, Guangzhou, November 24, 1993 © Chen Shaoxiong.</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9768/art-and-china-after-1989-theater-of-the-world">Art and China after 1989: Theater of the World</a></strong><br>Solomon R. Guggenheim Museum, October 6 - January 7</p><p>The Guggenheim is hosting an ambitious show (reportedly the largest show of this subject ever mounted in North America) that looks at&nbsp;the contemporary art coming out of China&nbsp;between 1989 and 2008&nbsp;– arguably the country's most transformative period in its modern history, spanning from the&nbsp;Tiananmen Square protests all the way to the euphoria surrounding the Beijing Olympics.<br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9768/art-and-china-after-1989-theater-of-the-world">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Art and China after 1989: Theater of the World												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Ettore Sottsass: Design Radical exhibition view. Image courtesy The Met Breuer.</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9672/ettore-sottsass-design-radical">Ettore Sottsass: Design Radical</a></strong><br>The Met Breuer, now open until October 8</p><p>Over at the Met Breuer, a major exhibition looks at the six-decade career of Italian architect and designer Ettore Sottsass, presenting key works in a variety of media, including architectural drawings, interiors, furniture, machines, ceramics, glass, jewelry, textiles and pattern, painting, and photography. Don't be tardy though&nbsp;– the show comes to an end on Sunday, October 8.<br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9672/ettore-sottsass-design-radical">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Ettore Sottsass: Design Radical												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption">Installation view. Image via cooperhewitt.org.</figcaption>
+																	  </figure>
+								  				  				  <p><p><strong><a href="http://bustler.net/events/9862/esperanza-spalding-selects">Esperanza Spalding Selects</a></strong><br>Cooper Hewitt, Smithsonian Design Museum, now open until January 7</p><p>Acclaimed Grammy Award-winning musician Esperanza Spalding had the honor of curating the 15th installation in Cooper Hewitt's <em>Selects</em> exhibition series. Digging through the museum's vast collection, the chanteuse selected nearly 40 drawings, prints, textiles, jewelry, and furniture under the theme of transformation.<br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9862/esperanza-spalding-selects">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Esperanza Spalding Selects												</h6>
+											</div>
+										</a>
+								</aside>								  <figure class="entry-body-image inset-left">
+
+									<img srcset="https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=710 1x,https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=2 2x, https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=710&dpr=3 3x" src="https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=710" border="0" class="img-responsive" title="" alt="" width="710" height="" />
+													  					<figcaption class="image-caption"></figcaption>
+																	  </figure>
+								  				  				  <p><p><a href="http://bustler.net/events/9922/archtober-party-presented-by-bespoke-careers-archinect"><strong>Archtober Party, presented by Bespoke Careers & Archinect</strong></a><strong></strong><br>Steelcase showroom, 4 Columbus Circle, October 12, 6:30 PM</p><p>Ain't no party like an Archtober party! After visiting all these exciting shows, it's time to treat yourself to a fun evening of champagne and&nbsp;hors d’oeuvres with&nbsp;a chance to network with your peers. Don't forget to RSVP <a href="http://archtoberparty.eventbrite.com/" target="_blank">here</a>.&nbsp;</p><p>Stay tuned for our weekly Archtober picks every Monday morning throughout the month of October.<br></p></p>
+									<aside class="related-entries">									  	<a class="media related-entry related-events" href="http://bustler.net/events/9922/archtober-party-presented-by-bespoke-careers-archinect">
+									  													<div class="media-body">
+												<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+													Archtober Party, presented by Bespoke Careers & Archinect												</h6>
+											</div>
+										</a>
+								</aside>
+                     </div>
+					</section><!-- /entry-body -->
+
+
+
+
+
+					
+					<!--/* multiple listing image */-->
+
+					
+					<section class="row entry-body">
+
+					  
+	  				  <aside class="entry-related">
+
+	  					<h4>Related</h4>
+						  							<div class="entry-tags">
+							  <div class="tag-cloud">
+											  						<a href="http://bustler.net/news/tags/archtober/11474" class="tag">archtober</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/archtober-2017/731557" class="tag">archtober 2017</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/new-york/377" class="tag">new york</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/event/724" class="tag">event</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/usa/251" class="tag">usa</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/exhibition/249" class="tag">exhibition</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/party/250" class="tag">party</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/archinect/376" class="tag">archinect</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/bustler/4793" class="tag">bustler</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/brooklyn/1403" class="tag">brooklyn</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/staten-island/666119" class="tag">staten island</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/queens/6657" class="tag">queens</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/bronx/16838" class="tag">bronx</a>
+									  										<span>&#9679;</span>
+													  						<a href="http://bustler.net/news/tags/manhattan/1566" class="tag">manhattan</a>
+									  							  </div>
+							</div>
+							
+
+						  
+	  				  </aside><!-- /entry-related -->
+					  					</section>
+
+				  </div>
+
+				  <section class="entry-comments">
+
+					<a name="CommentsMobile5963"></a>
+
+					<div class="social-sharing">
+					  <h4>Share</h4>
+					  <a onclick="facebook_call($(this).attr('fb-news:url'))" id="facebook_url_mobile5963" class="share-button-facebook" fb-news:url="" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+					  <a onclick="twiter_call($(this).attr('tw-news:url'), $(this).attr('tw-news:title'))" id="twitter_url_mobile5963" class="share-button-twitter" tw-news:url="" tw-news:title="" tw:via="addthis"><i class="fa fa-twitter" title="Share on Twitter"></i></a>
+					  <a id="email_url_mobile5963" class="share-button-email" href="" title="Share via Email"><i class="fa fa-envelope"></i></a>
+					</div>
+
+					<ul class="media-list" id="commentContainerMobile5963">
+
+					  <li class="media">
+						<div class="media-body">
+						  <a class="comment-follow-toggle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow this to get alerted whenever new comments are posted"><i class="fa fa-comments-o" aria-hidden="true"></i><span>Follow</span></a>
+						  		  					  <h4 class="media-heading"> 0 Comments</h4>
+														</div>
+					  </li>
+					  					  <div class="new_comment"></div>
+					</ul>
+
+					<ul class="media-list">
+					  <li class="media">
+						<div class="pull-left avatar hidden-xs">
+						  	  					  <img class="media-object" src="http://bustler.net/assets//images/nav/spacer.gif" alt="">
+						  						</div>
+
+						<div class="media-body">
+						  <div class="pull-left avatar visible-xs">
+								  						<img class="media-object" src="http://bustler.net/assets//images/nav/spacer.gif" alt="">
+													  </div>
+
+						  <h4 class="media-heading comment-as">Comment as <span></span>:</h4>
+						  <form  class="comment-form clearfix" id="comment-content-form15963" role="form" method="post" action="">
+
+							
+<input type="hidden" name="bustler_id" value="5963" />
+							<div class="form-group">
+							  <label class="sr-only" for="commentField">Comment</label>
+							  <textarea name="body_html" class="form-control formfield-comment textarea comment_news5963" id="commentFieldMobile5963" rows="7" placeholder="Type here"></textarea>
+							  <span class="error5963 bracket_error"></span>
+							</div>
+							<div class="form-group pull-right">
+							  	  						  <a href="javascript:;"  class="" onclick="login_page();" id="loginAutoPop1"><button type="button" class="btn btn-primary">Post Comment</button></a>
+
+							  							</div>
+						  </form>
+						</div>
+					  </li>
+					</ul>
+				  </section><!-- /entry-comments -->
+
+				</article><!-- /entry -->
+
+						  </div>
+
+		  <!-- END OF AJAX-LOADED ENTRY IN MOBILE VIEW -->
+
+
+
+
+			<aside class="list-col-entry ad-spot">
+				<!-- /1004793/Bustler_300x250 -->
+				<div id='div-gpt-ad-1482442501210-0' style='height:250px; width:300px;'>
+				<script>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482442501210-0'); });
+				</script>
+				</div>
+			</aside>
+
+		  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item5963  active " data-news-id="5963" coun-left-row="1" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Hey New York City, here are our must-see Archtober exhibitions (and one party!)</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6932 " data-news-id="6932" coun-left-row="2" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/c0/c0j5xuncozyf0k3z.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/c0/c0j5xuncozyf0k3z.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/c0/c0j5xuncozyf0k3z.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/c0/c0j5xuncozyf0k3z.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h4 class="sponsored-marker">Sponsored Post by Bee Breeders</h4><h3 class="title">Co-Living to Create Communities And Battle Loneliness in Rome</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6959 " data-news-id="6959" coun-left-row="3" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/hk/hkmdisija9tub8ch.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/hk/hkmdisija9tub8ch.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/hk/hkmdisija9tub8ch.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/hk/hkmdisija9tub8ch.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h4 class="sponsored-marker">Sponsored Post by YAC</h4><h3 class="title">Enroll for early bird submission for YAC's Common Ruins competition</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6962 " data-news-id="6962" coun-left-row="4" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/ww/wwj7pckwsu4kpbey.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/ww/wwj7pckwsu4kpbey.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/ww/wwj7pckwsu4kpbey.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/ww/wwj7pckwsu4kpbey.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Forensic Architecture's Counter Investigations is crowned Beazley Design of the Year 2018</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6963 " data-news-id="6963" coun-left-row="5" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/sf/sfnejd4ldgma13q9.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/sf/sfnejd4ldgma13q9.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/sf/sfnejd4ldgma13q9.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/sf/sfnejd4ldgma13q9.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">RIBA and V&A's upcoming “A Home for All​” exhibition revisits six experimental social housing designs</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6961 " data-news-id="6961" coun-left-row="6" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/h1/h1qyk5xx6m0rb3sq.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/h1/h1qyk5xx6m0rb3sq.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/h1/h1qyk5xx6m0rb3sq.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/h1/h1qyk5xx6m0rb3sq.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Our weekly wrap-up of new design competitions worth checking out</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6955 " data-news-id="6955" coun-left-row="7" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/bs/bstsmxjomd529zyo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/bs/bstsmxjomd529zyo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/bs/bstsmxjomd529zyo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/bs/bstsmxjomd529zyo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Palassis Architects' cathedral-like Cadogan Song School in Perth</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6928 " data-news-id="6928" coun-left-row="8" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/bd/bdgoz21e78lnj9wo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/bd/bdgoz21e78lnj9wo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/bd/bdgoz21e78lnj9wo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/bd/bdgoz21e78lnj9wo.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h4 class="sponsored-marker">Sponsored Post by Bee Breeders</h4><h3 class="title">Inspiring Accommodation For Poets In A Scenic Fisherman’s Village</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6954 " data-news-id="6954" coun-left-row="9" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/ss/ss6qti9tfj0qqt6u.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/ss/ss6qti9tfj0qqt6u.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/ss/ss6qti9tfj0qqt6u.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/ss/ss6qti9tfj0qqt6u.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">The intricate details of Central European University impress on RIBA's 2018 international shortlist</h3></div>
+			  </a>
+			  	  		  <aside class="list-col-entry signup-form light-theme subscription_dropdown_height">
+	  			<form class="form-inline validate mailchimpFormSubmit" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate action="http://bustler.us1.list-manage.com/subscribe/post-json?u=6e00e9d4412222e5112935965&amp;id=755f9928e6&amp;c=?" method="post">
+	  			  <h3 class="title">Sign up for Bustler's Email Newsletters</h3>
+	  			  <div class="form-group first">
+	  				<div class="input-group">
+	  				  <label class="sr-only" for="signupEmail">Email address</label>
+	  				  <input type="email" name="EMAIL" class="form-control signup-email required email EMAIL_signup" id="mce-EMAIL" placeholder="Email Address">
+	  				  <span class="input-group-btn">
+	  					<span class="icon-input-btn">
+	  					  <i class="fa fa-arrow-circle-right"></i>
+	  					  <input type="submit" value="" name="subscribe" id="" class="btn button mc_embedded_subscribe mc-embedded-subscribe">
+	  					</span>
+	  				  </span>
+	  				</div>
+	  				<input type="hidden" name="b_6e00e9d4412222e5112935965_755f9928e6" tabindex="-1" value="">
+	  				<span id="" class="bracket_error response mce-error-response"></span>
+	  			  </div>
+	  			  <div class="form-group">
+	  				<label class="checkbox-inline">
+	  				  <input type="checkbox" value="2" name="group[13][2]" id="mce-group[13]-13-1" class="daily_checkbox" checked><span>Daily</span>
+	  				</label>
+	  				<label class="checkbox-inline">
+	  				  <input type="checkbox" value="1" name="group[13][1]" id="mce-group[13]-13-0" class="weekly_checkbox" checked><span>Weekly</span>
+	  				</label>
+	  			  </div>
+	  			  <div class="form-group">
+	  				<span class="success_subscription response mce-success-response" id=""></span>
+	  			  </div>
+	  			</form>
+	  		  </aside>
+	  		  <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {
+	  			  window.fnames = new Array();
+	  			  window.ftypes = new Array();
+	  			  fnames[0] = 'EMAIL';
+	  			  ftypes[0] = 'email';
+	  			  fnames[1] = 'FNAME';
+	  			  ftypes[1] = 'text';
+	  			}(jQuery));
+	  			var $mcj = jQuery.noConflict(true);</script>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6953 " data-news-id="6953" coun-left-row="10" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/a4/a49m267xgmrmg1vt.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/a4/a49m267xgmrmg1vt.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/a4/a49m267xgmrmg1vt.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/a4/a49m267xgmrmg1vt.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">U.S. Air Force Academy's Center for Character and Leadership Development wins a 2018 IDEAS2 National Steel Award</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6946 " data-news-id="6946" coun-left-row="11" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/zh/zha403onetxmweot.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/zh/zha403onetxmweot.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/zh/zha403onetxmweot.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/zh/zha403onetxmweot.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Winners of the 2018 New Zealand Architecture Awards</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6952 " data-news-id="6952" coun-left-row="12" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/68/68k4tr3xsjeesssv.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/68/68k4tr3xsjeesssv.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/68/68k4tr3xsjeesssv.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/68/68k4tr3xsjeesssv.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Stefano Boeri's Vertical Forest dazzles as it stands on RIBA's 2018 international shortlist</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6930 " data-news-id="6930" coun-left-row="13" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/3n/3n88s4kk7f25093l.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/3n/3n88s4kk7f25093l.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/3n/3n88s4kk7f25093l.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/3n/3n88s4kk7f25093l.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h4 class="sponsored-marker">Sponsored Post by Bee Breeders</h4><h3 class="title">A Coworking Interior Design Challenge To Let The Imagination Run Wild</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6945 " data-news-id="6945" coun-left-row="14" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/nd/ndndkqbdrmk65tc1.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/nd/ndndkqbdrmk65tc1.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/nd/ndndkqbdrmk65tc1.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/nd/ndndkqbdrmk65tc1.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Nikken Sekkei's Toho Gakuen School of Music shines as it's placed on RIBA's 2018 international shortlist</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6944 " data-news-id="6944" coun-left-row="15" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/op/ope6nvsfy87yr3e4.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/op/ope6nvsfy87yr3e4.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/op/ope6nvsfy87yr3e4.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/op/ope6nvsfy87yr3e4.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">Our weekly wrap-up of new design competitions worth checking out</h3></div>
+			  </a>
+			  			  <a onclick="Get_News_Data($(this).attr('data-news-id'), $(this).attr('coun-left-row'), $(this).attr('filter_attribute'), $(this).attr('tag_id'), $(this).attr('filter_tag'), $(this).attr('search_text'), $('.get_news_list').removeClass('active'), $(this).addClass('active'));" href="javascript:;" class="list-col-entry get-news-list2 get_news_list item6943 " data-news-id="6943" coun-left-row="16" filter_attribute= "5963" tag_id= "" filter_tag= ""  search_text= "">
+								  <img srcset="https://archinect.imgix.net/uploads/qk/qkkecmveqrayt7so.jpeg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/qk/qkkecmveqrayt7so.jpeg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/qk/qkkecmveqrayt7so.jpeg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/qk/qkkecmveqrayt7so.jpeg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="" title="" alt="" width="80" height="80" />								<div class="media-body"><h3 class="title">A deeper look at RIBA's 2018 international shortlist building Children Village by Rosenbaum + Aleph Zero</h3></div>
+			  </a>
+			  
+		  
+
+		</div>
+		<span id="page-nav-left" class="hide">
+		  <a href="http://bustler.net/news/news_pagination_left/latest/15/5963">Next page &raquo;</a>
+		</span>
+		<span class="post-loader" id="post-loader-left" style="display: none;">
+		  <img src="http://bustler.net/assets/images/nav/loader.gif" alt="Loading">
+		</span>
+	  </div>
+	</aside><!-- /list-column -->
+
+	<div class="content-column hidden-xs scroll_con">
+
+	  <div id="container_scroll">
+					<div class="entry-wrapper" >
+
+			  <article  class="entry" id="window_scroll" onmouseover="mouse_scrole_title();" ontouchstart="mouse_scrole_title();">
+
+
+				<div onscroll="show_share_button();" class="waypoint-marker entry-beginning5963"></div>
+				<div class="item_click" id="item5963" data-title="hey-new-york-city-here-are-our-must-see-archtober-exhibitions-and-one-party" page-title="Hey New York City, here are our must-see Archtober exhibitions (and one party!)"  data-article-id = "5963">
+
+				  
+	  			  <header class="entry-header title-above-image">
+					  	  				<h1 class="entry-title">Hey New York City, here are our must-see Archtober exhibitions (and one party!)</h1>
+	  				<div class="row entry-details">
+	  				  <div class="entry-details-wrapper">
+						  								<h4 class="author">By Alexander Walter<span>|</span></h4>
+														  	  					<h4 class="date"><span class="date-weekday">Friday, </span>Sep 22, 2017							
+	  					</h4>
+	  					<div class="social-sharing">
+	  					  <h4>Share</h4>
+	  					  <a onclick="facebook_call($(this).attr('fb-news:url'))" id="facebook_add_url5963" class="share-button-facebook" fb-news:url="" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+	  					  <a onclick="twiter_call($(this).attr('tw-news:url'), $(this).attr('tw-news:title'))" id="twitter_add_url5963" class="share-button-twitter" tw-news:url="" tw-news:title="" tw:via="addthis"><i class="fa fa-twitter" title="Share on Twitter"></i></a>
+	  					  <a id="email_add_url5963" class="share-button-email" href="" title="Share via Email"><i class="fa fa-envelope"></i></a>
+	  					</div>
+	  					<div class="entry-pointer"><i class="fa fa-caret-up"></i></div>
+	  				  </div>
+	  				</div>
+
+					  						<figure class="entry-main-image">
+						  <a href="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963"  title="Photo credit: Jörg Schubert/&lt;a href=&quot;https://www.flickr.com/photos/tinto/35176711425/&quot;&gt;Flickr&lt;/a&gt;">
+							<img srcset="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=1200 1x,https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=1200&dpr=2 2x, https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=1200&dpr=3 3x" src="https://archinect.imgix.net/uploads/8o/8o8o0jdn7c8g1xba.jpg?fit=crop&auto=compress%2Cformat&w=1200" border="0" class="img-responsive" title="" alt="" width="1200" height="" />						  </a>
+						  		  				  <figcaption class="image-caption">Photo credit: Jörg Schubert/<a href="https://www.flickr.com/photos/tinto/35176711425/">Flickr</a></figcaption>
+						  						</figure>
+					  	  			  </header>
+				  
+
+				  <section class="entry-body">
+						  				<aside class="entry-related">
+
+	  				  <h4>Related</h4>
+												  <div class="entry-tags">
+							<div class="tag-cloud">
+							  			  					  <a href="http://bustler.net/news/tags/archtober/11474" class="tag">archtober</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/archtober-2017/731557" class="tag">archtober 2017</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/new-york/377" class="tag">new york</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/event/724" class="tag">event</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/usa/251" class="tag">usa</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/exhibition/249" class="tag">exhibition</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/party/250" class="tag">party</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/archinect/376" class="tag">archinect</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/bustler/4793" class="tag">bustler</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/brooklyn/1403" class="tag">brooklyn</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/staten-island/666119" class="tag">staten island</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/queens/6657" class="tag">queens</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/bronx/16838" class="tag">bronx</a>
+																		  <span>&#9679;</span>
+									  			  					  <a href="http://bustler.net/news/tags/manhattan/1566" class="tag">manhattan</a>
+																</div>
+						  </div>
+						  
+
+						
+
+	  				</aside><!-- /entry-related -->
+					
+					<div class="content-width">
+                    <p>New Yorkers know it's that time of the year again when the days are getting shorter, the mornings a bit crisper, and a flood of outstanding architecture and design events is about to hit the city: <a href="http://archtober.org/" target="_blank">Archtober</a> is here! </p><p>For the seventh year in a row, Archinect & Bustler are proud to present the city-wide festival with its packed roster of exhibitions, lectures, conferences, films, and tours across the five boroughs. </p><p>From Archtober's lengthy <a href="https://archtober.org/calendar" target="_blank">calendar of events</a>, we'll be presenting weekly highlights starting on Monday. </p><p>For today's post, we've put together a handy guide of some of the key exhibitions (<em>and one party co-hosted by Archinect!</em>) you should certainly not miss.</p> 								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Never Built New York, installation view at the Queens Museum.">
+									<img srcset="https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/is/isx4dwarttm3z0a5.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Never Built New York, installation view at the Queens Museum.</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9858/never-built-new-york">Never Built New York</a></strong><br>Queens Museum, now open&nbsp;until February 18</p><p>Co-curated by Sam Lubell and Greg Goldin, and designed by Christian Wassmann, <em>Never Built</em> presents the "ghost of the city that could have been." Through prints, drawings, models, installations, and animations the show invites New Yorkers to see their metropolis from a new perspective.<br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9858/never-built-new-york">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Never Built New York											</h6>
+										</div>
+									</a>
+																  	<a class="media related-entry related-news" href="http://bustler.net/news/5972/new-york-s-paper-architecture-at-the-queens-museum">
+								  										                	<div class="media-left">
+														<img srcset="https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/y4/y4ozes4rjl0fil2e.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="media-object related-entry-img" title="" alt="" width="80" height="80" />													</div>
+								                											<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED NEWS</small>
+												New York's Paper Architecture at the Queens Museum											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Design Earth: “Below the Water Towers,” Pacific Aquarium, 2016.">
+									<img srcset="https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/7a/7alow5vm0d3eg223.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Design Earth: “Below the Water Towers,” Pacific Aquarium, 2016.</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9863/geostories-another-architecture-for-the-environment">Geostories: Another Architecture for the Environment</a></strong><br>Cooper Union, October 17 - December 2</p><p>By presenting four subject-specific projects – After Oil,&nbsp;Of Oil and Ice,&nbsp;Pacific Aquarium&nbsp;and&nbsp;Trash Peaks&nbsp;– <em>Geostories</em> is touted as a manifesto "on the environmental imagination presented in architectural projects that engage the planetary scale with a commitment to the drawing as medium." The exhibition at Cooper Union's Arthur A. Houghton Jr. Gallery was developed by award-winning design-research practice, Design Earth. <br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9863/geostories-another-architecture-for-the-environment">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Geostories: Another Architecture for the Environment											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Kibera Hamlets School by SelgasCano, Helloeverything, and studio.14, photo credit: helloeverything">
+									<img srcset="https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/mt/mto9s1bea57opfxl.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Kibera Hamlets School by SelgasCano, Helloeverything, and studio.14, photo credit: helloeverything</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9854/scaffolding">Scaffolding</a></strong><br>Center for Architecture, October 2 - January 18</p><p>Hiding in plain sight, scaffolding is ubiquitous in New York City, yet so underappreciated. The exhibition takes a look at its history, its potential as a kit-of-parts technology, and even had OMA partner Shohei Shigematsu reimagine the Center's architectural space through an installation of actual scaffolding. <br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9854/scaffolding">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Scaffolding											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Photo: © Robert Prochaska">
+									<img srcset="https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/kc/kccyympoivvn83fn.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Photo: © Robert Prochaska</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9412/5x5-participatory-provocations">5x5: Participatory Provocations</a></strong><br>Center for Architecture, now open until October 31</p><p>Also at the Center right now is this exhibition that invited 25 young architects to respond to various prompts&nbsp;–  some controversial&nbsp;– and create physical expressions or even provocations. The list of participating firms includes Snarkitecture, Formlessfinder, SOFTlab, Platform for Architecture + Research, Ultramoderne, among others.<br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-news" href="http://bustler.net/news/5781/5x5-participatory-provocations-exhibition-opens-at-the-center-for-architecture-on-july-11">
+								  										                	<div class="media-left">
+														<img srcset="https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80 1x,https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=2 2x, https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80&dpr=3 3x" src="https://archinect.imgix.net/uploads/2a/2ae3qih45sdaell3.jpg?fit=crop&auto=compress%2Cformat&w=80&h=80" border="0" class="media-object related-entry-img" title="" alt="" width="80" height="80" />													</div>
+								                											<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED NEWS</small>
+												“5x5 Participatory Provocations” exhibition opens at the Center for Architecture on July 11											</h6>
+										</div>
+									</a>
+																  	<a class="media related-entry related-events" href="http://bustler.net/events/9807/archtober-2017">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Archtober 2017											</h6>
+										</div>
+									</a>
+																  	<a class="media related-entry related-events" href="http://bustler.net/events/9412/5x5-participatory-provocations">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												5x5: Participatory Provocations											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Naama Tsabar, ‘Propagation (Opus 3)’, 2015. Photo via Museum of Arts and Design/Facebook.">
+									<img srcset="https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/en/enr048f7mi273u10.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Naama Tsabar, ‘Propagation (Opus 3)’, 2015. Photo via Museum of Arts and Design/Facebook.</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9701/sonic-arcade-shaping-space-with-sound">Sonic Arcade: Shaping Space with Sound</a></strong><br>Museum of Arts and Design, now open until February 25</p><p>Don't miss this exciting show at MAD featuring artists, designers, and performers who explore how the ephemeral and abstract nature of sound can be made material, thus helping to reorient "the body to consider spatial and interpersonal relationships anew." Interactive installations, immersive environments, and performing objects make this a must-visit.<br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9701/sonic-arcade-shaping-space-with-sound">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Sonic Arcade: Shaping Space with Sound											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Chen Shaoxiong, 5 Hours, 1993/2006. DSL Collection. Performance view: The Third Artistic Event of the Big Tail Elephant Working Group, outside Red Ant Bar, Guangzhou, November 24, 1993 © Chen Shaoxiong.">
+									<img srcset="https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/05/057rqltc4d3a6rza.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Chen Shaoxiong, 5 Hours, 1993/2006. DSL Collection. Performance view: The Third Artistic Event of the Big Tail Elephant Working Group, outside Red Ant Bar, Guangzhou, November 24, 1993 © Chen Shaoxiong.</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9768/art-and-china-after-1989-theater-of-the-world">Art and China after 1989: Theater of the World</a></strong><br>Solomon R. Guggenheim Museum, October 6 - January 7</p><p>The Guggenheim is hosting an ambitious show (reportedly the largest show of this subject ever mounted in North America) that looks at&nbsp;the contemporary art coming out of China&nbsp;between 1989 and 2008&nbsp;– arguably the country's most transformative period in its modern history, spanning from the&nbsp;Tiananmen Square protests all the way to the euphoria surrounding the Beijing Olympics.<br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9768/art-and-china-after-1989-theater-of-the-world">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Art and China after 1989: Theater of the World											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Ettore Sottsass: Design Radical exhibition view. Image courtesy The Met Breuer.">
+									<img srcset="https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/cn/cn30qqasiy40olpe.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Ettore Sottsass: Design Radical exhibition view. Image courtesy The Met Breuer.</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9672/ettore-sottsass-design-radical">Ettore Sottsass: Design Radical</a></strong><br>The Met Breuer, now open until October 8</p><p>Over at the Met Breuer, a major exhibition looks at the six-decade career of Italian architect and designer Ettore Sottsass, presenting key works in a variety of media, including architectural drawings, interiors, furniture, machines, ceramics, glass, jewelry, textiles and pattern, painting, and photography. Don't be tardy though&nbsp;– the show comes to an end on Sunday, October 8.<br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9672/ettore-sottsass-design-radical">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Ettore Sottsass: Design Radical											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="Installation view. Image via cooperhewitt.org.">
+									<img srcset="https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/38/38si55tifvcjyrdz.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption">Installation view. Image via cooperhewitt.org.</figcaption>
+								  								</figure>
+												  				<p><p><strong><a href="http://bustler.net/events/9862/esperanza-spalding-selects">Esperanza Spalding Selects</a></strong><br>Cooper Hewitt, Smithsonian Design Museum, now open until January 7</p><p>Acclaimed Grammy Award-winning musician Esperanza Spalding had the honor of curating the 15th installation in Cooper Hewitt's <em>Selects</em> exhibition series. Digging through the museum's vast collection, the chanteuse selected nearly 40 drawings, prints, textiles, jewelry, and furniture under the theme of transformation.<br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9862/esperanza-spalding-selects">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Esperanza Spalding Selects											</h6>
+										</div>
+									</a>
+								</aside>								<figure class="entry-body-image inset-left">
+								  <a href="https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=1500" class="image-link-list5963 " title="">
+									<img srcset="https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=800 1x,https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=2 2x, https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=800&dpr=3 3x" src="https://archinect.imgix.net/uploads/bh/bhm4zwet8kmtv057.jpg?fit=crop&auto=compress%2Cformat&w=800" border="0" class="img-responsive media-object related-entry-img" title="" alt="" width="800" height="" />								  </a>
+								  				  				  <figcaption class="image-caption"></figcaption>
+								  								</figure>
+												  				<p><p><a href="http://bustler.net/events/9922/archtober-party-presented-by-bespoke-careers-archinect"><strong>Archtober Party, presented by Bespoke Careers & Archinect</strong></a><strong></strong><br>Steelcase showroom, 4 Columbus Circle, October 12, 6:30 PM</p><p>Ain't no party like an Archtober party! After visiting all these exciting shows, it's time to treat yourself to a fun evening of champagne and&nbsp;hors d’oeuvres with&nbsp;a chance to network with your peers. Don't forget to RSVP <a href="http://archtoberparty.eventbrite.com/" target="_blank">here</a>.&nbsp;</p><p>Stay tuned for our weekly Archtober picks every Monday morning throughout the month of October.<br></p></p>
+								  <aside class="related-entries">								  	<a class="media related-entry related-events" href="http://bustler.net/events/9922/archtober-party-presented-by-bespoke-careers-archinect">
+								  												<div class="media-body">
+											<h6 class="media-heading related-entry-title"><small>RELATED EVENT</small>
+												Archtober Party, presented by Bespoke Careers & Archinect											</h6>
+										</div>
+									</a>
+								</aside>
+                   </div>
+				  </section><!-- /entry-body -->
+
+
+
+
+
+				  
+				  <!--/* multiple listing image */-->
+
+				  
+				</div>
+
+				<section class="entry-comments">
+				  <a name="Comments5963"></a>
+				  <div class="social-sharing">
+					<h4>Share</h4>
+					<a onclick="facebook_call($(this).attr('fb-news:url'))" id="facebook_comment5963" class="share-button-facebook" fb-news:url="" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+					<a onclick="twiter_call($(this).attr('tw-news:url'), $(this).attr('tw-news:title'))" id="twitter_comment5963" class="share-button-twitter" tw-news:url="" tw-news:title="" tw:via="addthis"><i class="fa fa-twitter"></i></a>
+					<a id="email_comment5963" class="share-button-email" href="" title="Share via Email"><i class="fa fa-envelope"></i></a>
+				  </div>
+
+				  <ul class="media-list" id="commentContainer5963">
+					<li class="media">
+					  <div class="media-body">
+					    <a href="javascript:;" entry="1" cid="5963" class="comment-follow-toggle loginModashow" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow this to get alerted whenever new comments are posted" rel="follow">
+					    	<i class="fa fa-comments-o" aria-hidden="true"></i><span>Follow</span>
+					    </a>
+								  					<h4 class="media-heading"> 0 Comments</h4>
+							  					  </div>
+					</li>
+										<div class="new_comment"></div>
+				  </ul>
+
+				  <ul class="media-list">
+					<li class="media">
+					  <div class="pull-left avatar hidden-xs">
+							  					<img class="media-object" src="http://bustler.net/assets//images/nav/spacer.gif" alt="">
+											  </div>
+
+
+
+
+
+					  <div class="media-body">
+						<h4 class="media-heading comment-as">Comment as <span></span>:</h4>
+						<form  class="comment-form clearfix" id="comment-content-form5963" role="form" method="post" action="">
+
+						  
+<input type="hidden" name="bustler_id" value="5963" />
+						  <div class="form-group">
+							<label class="sr-only" for="commentField">Comment</label>
+							<textarea name="body_html" class="form-control formfield-comment textarea comment_news5963" id="commentField5963" rows="7" placeholder="Type here"></textarea>
+							<span class="error5963 bracket_error"></span>
+						  </div>
+						  <div class="form-group pull-right">
+								  						<a href="javascript:;"  class="" onclick="login_page();" id="loginAutoPop1"><button type="button" class="btn btn-primary">Post Comment</button></a>
+
+													  </div>
+						  <div class="form-group comment-notify">
+							<div class="checkbox">
+								<label>
+									<input type="checkbox" value="1" name="notify" checked="checked">
+									<div>
+										<i class="fa fa-comments-o" aria-hidden="true"></i>Alert me about new comments
+									</div>
+								</label>
+							</div>
+						  </div>
+						</form>
+					  </div>
+					</li>
+				  </ul>
+				</section><!-- /entry-comments -->
+
+				<div onscroll="hide_share_button();" class="waypoint-marker entry-end5963"></div>
+
+			  </article><!-- /entry -->
+			</div><!-- /entry-wrapper -->
+
+						<footer class="entry-divider jobs">
+
+			  <div class="entry-divider-center clearfix">
+
+				<div class="entry-divider-header">
+				  <a href="http://archinect.com/jobs" target="_blank"><h2 class="entry-divider-title"><img src="http://bustler.net/assets/img/logo-archinect.png" alt="Archinect Jobs" class="entry-divider-logo" />Archinect Jobs</h2></a>
+				  <p>The <a href="http://archinect.com/jobs" target="_blank">Archinect Job Board</a> attracts the world's top architectural design talents.</p><p><a href="http://archinect.com/jobs" target="_blank" class="btn">VIEW ALL JOBS <i class="fa fa-angle-right"></i></a> <a href="http://archinect.com/add_job" target="_blank" class="btn">POST A JOB <i class="fa fa-angle-right"></i></a></p>
+				</div>
+
+				<div class="item-list jobs-list">
+
+				  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150096032/assistant-professor-tenure-track-in-landscape-architecture" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/24/2442eac128191d4aa078e893946ae62e.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/24/2442eac128191d4aa078e893946ae62e.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/24/2442eac128191d4aa078e893946ae62e.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/24/2442eac128191d4aa078e893946ae62e.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Assistant Professor (Tenure Track) in Landscape Architecture" alt="Assistant Professor (Tenure Track) in Landscape Architecture" width="158" height="158" />						<p class="job-firm">University of Hawaiʻi at Mānoa</p>
+						<p class="job-title">Assistant Professor (Tenure Track) in Landscape Architecture</p>
+						<p class="job-location">Honolulu, HI, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150094508/architectural-team-member" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/88/886itkebhemtq0k3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/88/886itkebhemtq0k3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/88/886itkebhemtq0k3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/88/886itkebhemtq0k3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Architectural Team Member" alt="Architectural Team Member" width="158" height="158" />						<p class="job-firm">Make Architecture</p>
+						<p class="job-title">Architectural Team Member</p>
+						<p class="job-location">Los Angeles, CA, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150096462/junior-interior-designer" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/5i/5i2zhf0yzswyv8xu.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/5i/5i2zhf0yzswyv8xu.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/5i/5i2zhf0yzswyv8xu.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/5i/5i2zhf0yzswyv8xu.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Junior Interior Designer" alt="Junior Interior Designer" width="158" height="158" />						<p class="job-firm">MR Architecture &amp; Decor</p>
+						<p class="job-title">Junior Interior Designer</p>
+						<p class="job-location">New York, NY, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150096667/architectural-project-manager" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/e4/e464085d7e1acd8fd98763735bd80237.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/e4/e464085d7e1acd8fd98763735bd80237.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/e4/e464085d7e1acd8fd98763735bd80237.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/e4/e464085d7e1acd8fd98763735bd80237.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Architectural Project Manager" alt="Architectural Project Manager" width="158" height="158" />						<p class="job-firm">Kimmerle Group</p>
+						<p class="job-title">Architectural Project Manager</p>
+						<p class="job-location">Harding, NJ, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150096445/intermediate-architect" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/68/681b42543819c9711d8c77157a31b9b6.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/68/681b42543819c9711d8c77157a31b9b6.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/68/681b42543819c9711d8c77157a31b9b6.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/68/681b42543819c9711d8c77157a31b9b6.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Intermediate Architect" alt="Intermediate Architect" width="158" height="158" />						<p class="job-firm">RKTB Architects, P.C.</p>
+						<p class="job-title">Intermediate Architect</p>
+						<p class="job-location">New York, NY, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150094556/director-of-design-studio" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/a7/a74bf4b3ccaea1626ba139996e725000.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/a7/a74bf4b3ccaea1626ba139996e725000.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/a7/a74bf4b3ccaea1626ba139996e725000.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/a7/a74bf4b3ccaea1626ba139996e725000.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Director of Design Studio" alt="Director of Design Studio" width="158" height="158" />						<p class="job-firm">Industrious</p>
+						<p class="job-title">Director of Design Studio</p>
+						<p class="job-location">New York, NY, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150095991/new-client-project-manager" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/9e/9ea49cc3fd46d6c4c5c619c5467605b3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/9e/9ea49cc3fd46d6c4c5c619c5467605b3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/9e/9ea49cc3fd46d6c4c5c619c5467605b3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/9e/9ea49cc3fd46d6c4c5c619c5467605b3.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="New Client Project Manager " alt="New Client Project Manager " width="158" height="158" />						<p class="job-firm">Connect Homes</p>
+						<p class="job-title">New Client Project Manager </p>
+						<p class="job-location">Los Angeles, CA, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150086808/hospitality-firm-intermediate-interior-architectural-designer_-revit-required" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/v2/v2qycz03p7w12gbz.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/v2/v2qycz03p7w12gbz.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/v2/v2qycz03p7w12gbz.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/v2/v2qycz03p7w12gbz.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="HOSPITALITY FIRM! Intermediate Interior Architectural Designer_ REVIT required" alt="HOSPITALITY FIRM! Intermediate Interior Architectural Designer_ REVIT required" width="158" height="158" />						<p class="job-firm">BG Studio International</p>
+						<p class="job-title">HOSPITALITY FIRM! Intermediate Interior Architectural Designer_ REVIT required</p>
+						<p class="job-location">New York, NY, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150095036/architectural-designer-with-3-6-years-experience" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/c1/c17bmnbnlkkh7gpf.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/c1/c17bmnbnlkkh7gpf.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/c1/c17bmnbnlkkh7gpf.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/c1/c17bmnbnlkkh7gpf.png?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Architectural Designer with 3-6 years experience" alt="Architectural Designer with 3-6 years experience" width="158" height="158" />						<p class="job-firm">BNIM</p>
+						<p class="job-title">Architectural Designer with 3-6 years experience</p>
+						<p class="job-location">Kansas City, MO, US</p>
+					  </a>
+					  					  					  <a class="item job-listing" href="http://archinect.com/jobs/entry/150096364/architect" target="_blank">
+						<img srcset="https://archinect.imgix.net/uploads/13/132eme11oeqn1b7u.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158 1x,https://archinect.imgix.net/uploads/13/132eme11oeqn1b7u.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=2 2x, https://archinect.imgix.net/uploads/13/132eme11oeqn1b7u.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158&dpr=3 3x" src="https://archinect.imgix.net/uploads/13/132eme11oeqn1b7u.jpg?fit=fill&bg=FFFFFF&auto=compress%2Cformat&w=158&h=158" border="0" class="img-responsive job-logo" title="Architect" alt="Architect" width="158" height="158" />						<p class="job-firm">Foster + Partners</p>
+						<p class="job-title">Architect</p>
+						<p class="job-location">San Francisco, CA, US</p>
+					  </a>
+					  
+				</div><!-- /jobs-list -->
+
+			  </div><!-- /entry-divider-center -->
+
+			</footer><!-- /entry-divider -->
+
+
+				  </div>
+	  <span id="page-nav" class="hide">
+		<a href="http://bustler.net/news/news_pagination/5963/0">Next page &raquo;</a>
+	  </span>
+	  <span class="post-loader" id="post-loader" style="display: none;">
+		<img src="http://bustler.net/assets/images/nav/loader.gif" alt="Loading">
+	  </span>
+
+
+	  <h2 class=""></h2>
+
+
+	  <!--            <aside class="social-sharing">
+					  <div class="addthis_toolbox">
+						  <div class="custom_images">
+							  <a onclick="facebook_call($(this).attr('fb-news:url'))" id="facebook_add_url" class="" fb-news:url="" ><i class="fa fa-facebook"></i></a>
+							  <a onclick="twiter_call($(this).attr('tw-news:url'), $(this).attr('tw-news:title'))" id="twitter_add_url" class="" tw-news:url="" tw-news:title="" tw:via="addthis"><i class="fa fa-twitter"></i></a>
+							  <a id="email_add_url" class="" href=""><i class="fa fa-envelope"></i></a>
+							  <a id="comment_id_hash" class="button-comment" href="" title="Jump to Comment Section"><i class="fa fa-comments"></i></a>
+						  </div>
+					  </div>
+				  </aside>-->
+
+	</div><!-- /content-column -->
+
+  </div><!-- /row -->
+
+  <div class="smart-dropdown-background"></div>
+
+</div> <!-- /container content-page -->
+
+<!-- Placed at the end of the document so the pages load faster -->	</div>
+
+
+	<!-- Login/Join Modal -->
+	<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+	  </div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+	<!-- Account Modal -->
+	<div class="modal fade" id="accountModal" tabindex="-1" role="dialog" aria-labelledby="accountModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+	  </div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+	<div class="modal fade" id="submissionModal" tabindex="-1" role="dialog" aria-labelledby="submissionModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+	  </div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+	<!--        <div class="modal fade modal-alert" id="alertModel" tabindex="-1" role="dialog" aria-labelledby="alertModelLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							<span class="glyphicon glyphicon-exclamation-sign"></span><div id="alert_msg"> </div>
+						</div>
+						<div class="modal-body">
+
+						</div>
+					</div>
+				</div>
+			</div>-->
+
+	<div class="modal fade modal-free-listing" id="modal-free-listing" tabindex="-1" role="dialog" aria-labelledby="freelistingModelLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <div id="alert_msg"> </div>
+          </div>
+          <div class="modal-body">
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+	<script src="http://bustler.net/assets/js/core/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script src="http://bustler.net/assets/js/core/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://bustler.net/assets/js/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+<script src="http://bustler.net/assets/js/core/app.js" type="text/javascript"></script>
+<script src="http://bustler.net/assets/js/custom.js" type="text/javascript"></script>
+<script src="http://bustler.net/assets/js/autocomplete.js" type="text/javascript"></script>
+<script src="http://bustler.net/assets/js/handlebars.runtime.min.js"></script>
+<script src="http://bustler.net/assets/js/jquery.fitvids.js"></script>
+<script src="http://bustler.net/assets/js/bootstrap-select.js"></script>
+<script src="http://bustler.net/assets/js/jquery.magnific-popup.js"></script>
+<script src="http://bustler.net/assets/js/newscript.js"></script>
+	<script src="http://bustler.net/assets/js/mobile-nav.js"></script>
+	<script src="http://bustler.net/assets/js/bustler-scripts.js"></script>
+
+
+  </body>
+</html>

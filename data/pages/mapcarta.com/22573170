@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://api.mapbox.com" />
+<link rel="dns-prefetch" href="https://a.tiles.mapbox.com" />
+<link rel="dns-prefetch" href="https://b.tiles.mapbox.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="description" content="Corlears Hook is a cape and is nearby to East River Houses and Hillman Housing. Corlears Hook, New York from Mapcarta, the free map." />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="application-name" content="Mapcarta" />
+<meta name="apple-mobile-web-app-title" content="Mapcarta" />
+<meta property="og:url" content="https://mapcarta.com/22573170" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1764/42178281264_0897143f16_b.jpg" />
+<meta property="og:image" content="https://farm4.staticflickr.com/3663/3656202167_1d33ee0141_b.jpg" />
+<meta property="og:image" content="https://farm1.staticflickr.com/891/42900582012_6ffc745b78_b.jpg" />
+<meta property="og:image" content="https://farm5.staticflickr.com/4299/35556770920_c3e3e3c36d_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1755/28883360978_d96ab690da_b.jpg" />
+<meta property="og:title" content="Corlears Hook" />
+<meta property="og:description" content="Corlears Hook is a cape and is nearby to East River Houses and Hillman Housing. Corlears Hook, New York from Mapcarta, the free map." />
+<meta property="og:site_name" content="Mapcarta" />
+<meta name="ICBM" content="40.71094, -73.97819" />
+<meta name="geo.position" content="40.71094;-73.97819" />
+<meta name="geo.placename" content="Corlears Hook" />
+<link rel="canonical" href="https://mapcarta.com/22573170" />
+<link rel="alternate" hreflang="de" href="https://mapcarta.com/de/22573170" />
+<link rel="alternate" hreflang="es" href="https://mapcarta.com/es/22573170" />
+<link rel="alternate" hreflang="fr" href="https://mapcarta.com/fr/22573170" />
+<link rel="alternate" hreflang="it" href="https://mapcarta.com/it/22573170" />
+<link rel="alternate" hreflang="pt" href="https://mapcarta.com/pt/22573170" />
+<title>Corlears Hook Map - New York - Mapcarta</title>
+<script>
+var rosetta = {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"weekdays":["Su","Mo","Tu","We","Th","Fr","Sa"],"units":["meter","meters","mile","miles","foot","feet","second","seconds","minute","minutes","hour","hours"],"interface":["Search","Loading","Searching","of","Improve this map","and","Locations and directions are provided by *, and are copyrighted.","View on the map"],"titles":["* Map","* Directions","* Hotels","Hotels Near *","* Photos","Photos Near *"],"atlas":["Standard","Satellite","Traffic","Driving","Bicycling","Walking"],"label":["Localities","Attractions","Natural","Transport","Water","Hotels","Other"],"itinerary":["Enter your trip details","to find hotel deals and availability","for directions","Use the map to set your destination","Change trip details"],"searching":["Searching *","Select this recommended site","Select these two recommended sites","Select your 2 preferred sites","to show *","* hotels","We recommend *","for hotels in *.","You've chosen * recommended hotel sites."],"hotels":["My Destination","Travel Dates","Guest","Guests","Search Hotels","Find your ideal hotel","in *"],"photography":["Photos provided by * under the copyright of their owners.","Copyright","* uses the Flickr API but is not endorsed or certified by Flickr.","Please contact us if you'd prefer to remove your Flickr photos from *."],"fail":["An error occurred.","Your trip details are incomplete.","Please try again.","We couldn't locate your start or end point.","We couldn't find a route between those places.","Your start and end points are too far apart.","No photos are available for this place."],"aboutsite":"About Mapcarta"};
+var phase = 0, queue = null, language = "en", sitename = "Mapcarta", siteurl = "mapcarta.com", abouturi = "About_Mapcarta", mapstyle = 0, testing = false, hasads = [true,true,true,true,true,true], gplace = false, monday = false, country = "us", separators = [".",","], mbtoken = "pk.eyJ1IjoiY3licml3c2t5IiwiYSI6ImNqZ3k3c2UxajEwMmsyd280dzk4azM0NTcifQ.78YbjrPjSONzuqWG4-CIGA", viewnames = {"photo":"Photos","stay":"Hotels","results":"Search","map":"Map","plot":"Directions","driving":"Driving","cycling":"Bicycling","walking":"Walking","main":"Overview","album":"Gallery"}, routes = ["driving","cycling","walking"], pageid = "22573170", searchvalue = "Search", viewtype = "main", albumid = null, plotmode = 0, present = [19,11,2018], checkin = [30,11,2018], checkout = [2,12,2018], guests = 2, pages = {};
+/* start import */pages[pageid] = {
+	"pagename":"Corlears Hook",
+	"pageuri":"22573170",
+	"tongue":null,
+	"lat":40.71094,
+	"lng":-73.97819,
+	"zoom":13,
+	"islocation":true,
+	"mappable":true,
+	"hyperlocal":true,
+	"markerclass":13,
+	"imperial":true,
+	"country":"United States",
+	"locality":true,
+	"landmark":false,
+	"feature":"cape",
+	"featureclass":"n",
+	"hotelplace":false,
+	"maintitle":"Corlears Hook Map - New York - Mapcarta",
+	"mapsummary":"<a onclick=\"act('main'); return false;\" href=\"/22573170\" title=\"Corlears Hook\" rel=\"noopener\">Corlears Hook</a> is a cape and is nearby to <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/25010686\" title=\"East River Houses\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">East River Houses</span></a></span> and <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/25010688\" title=\"Hillman Housing\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Hillman Housing</span></a></span>.",
+	"spot":"New_York_City",
+	"spots":{"New_York_City":"New York, New York","Weehawken":"Weehawken, New Jersey (4\u00bd miles northwest)","Jersey_City":"Jersey City, New Jersey (5 miles west)","Hoboken":"Hoboken, New Jersey (3\u00bd miles northwest)","Secaucus":"Secaucus, New Jersey (7 miles northwest)"},
+	"ph0t0s":["22573170"],
+	"photodata":{"22573170":["22573170","22573170","40.71094,-73.97819,13"]},
+	"pics":{"22573170":[{"id":42178281264,"secret":"0897143f16","server":1764,"farm":2,"title":"Dreams of New York","ratio":1.778000000000000024868995751603506505489349365234375,"owner":"51035555243@N01","ownername":"Thomas Hawk"},{"id":3656202167,"secret":"1d33ee0141","server":3663,"farm":4,"title":"NYC Skyline","ratio":1.5060000000000000053290705182007513940334320068359375,"owner":"8491347@N05","ownername":"dariogiannelli\u2122"},{"id":42900582012,"secret":"6ffc745b78","server":891,"farm":1,"title":"Broome Street","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"142995416@N07","ownername":"erichudson78"},{"id":35556770920,"secret":"c3e3e3c36d","server":4299,"farm":5,"title":"Manhattan Bridge","ratio":0.69899999999999995470290059529361315071582794189453125,"owner":"65023787@N07","ownername":"MecCanon [Insta: JLPhotoOfficial]"},{"id":28883360978,"secret":"d96ab690da","server":1755,"farm":2,"title":"Gateway to the City","ratio":1.29000000000000003552713678800500929355621337890625,"owner":"143838215@N06","ownername":"ADFitz1967"},{"id":5621479954,"secret":"87c3c54f7d","server":5225,"farm":6,"title":"Broke-lyn Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"25499439@N04","ownername":"foldablechair"},{"id":43977213871,"secret":"5d97577b32","server":1820,"farm":2,"title":"DUMBO","ratio":1.25,"owner":"67441602@N06","ownername":"Ralph Cherubin"},{"id":42006646535,"secret":"6540733b40","server":1766,"farm":2,"title":"The Sentinel","ratio":0.6670000000000000373034936274052597582340240478515625,"owner":"143838215@N06","ownername":"ADFitz1967"},{"id":41747372900,"secret":"2e260ca251","server":844,"farm":1,"title":"Fog Bridge at Domino Park","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"98411817@N00","ownername":"Zach K"},{"id":42579616802,"secret":"5223124344","server":1739,"farm":2,"title":"Bridge Of Sighs","ratio":0.6670000000000000373034936274052597582340240478515625,"owner":"53632001@N02","ownername":"CDeahr23"},{"id":42518540291,"secret":"6781938494","server":1747,"farm":2,"title":"Evening at the Bridge","ratio":1.778000000000000024868995751603506505489349365234375,"owner":"43592720@N08","ownername":"GeraldGrote"},{"id":44044934262,"secret":"317bc109b8","server":1815,"farm":2,"title":"NYC - Brooklyn Bridge - East River","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"142919221@N05","ownername":"CHWVB"},{"id":42736093111,"secret":"5d01dd5b5f","server":1732,"farm":2,"title":"A Walk Through Dumbo","ratio":0.8000000000000000444089209850062616169452667236328125,"owner":"147147858@N08","ownername":"DChoi95"},{"id":44067800704,"secret":"14c70db378","server":1862,"farm":2,"title":"DUMBO Sunset - Manhattan Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"113843906@N07","ownername":"PiccaPixel"},{"id":30743821358,"secret":"8642492ab7","server":1868,"farm":2,"title":"Watchtower of Freedom","ratio":1.8620000000000000994759830064140260219573974609375,"owner":"79184155@N03","ownername":"TheExplorographer.com"},{"id":23719956208,"secret":"cd44be3c74","server":4514,"farm":5,"title":"Manhattan Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"84615308@N02","ownername":"Joe Rebello"}]}
+};/* end import */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create','UA-4656078-5');
+ga('set','anonymizeIp',true);
+function fields(a) { var i = pages[pageid]; if (i.islocation) { if (i.country) { a.dimension1 = i.country; } a.dimension2 = i.locality ? 'Locality' : (i.landmark ? 'Landmark' : 'Place'); a.dimension3 = i.feature; a.dimension4 = i.featureclass; } return a; }
+ga('send','pageview',fields({}));
+function domload() { if (phase < 2) { phase += 2; if (phase === 3) { initiate(); } } }
+if (document.addEventListener) { document.addEventListener('DOMContentLoaded',domload,false); }
+function act(i) { if (phase === 5) { launch(i); } else { queue = i; } }
+function noads() { if (hasads.length) { hasads = []; if (phase === 5) { setads(); } } }
+</script>
+<link rel="stylesheet" type="text/css" href="/static/874.css" />
+<link rel="shortcut icon" href="https://mapcarta.com/favicon.ico" />
+<link rel="apple-touch-icon" href="https://mapcarta.com/icons/appicon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://mapcarta.com/icons/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mapcarta.com/icons/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://mapcarta.com/icons/icon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://mapcarta.com/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://mapcarta.com/icons/icon-512.png">
+<script async src="/static/874.js"></script>
+</head>
+<body onload="domload();" class="pagemode mappage mainview" onclick="if (phase === 5) { checkclose(event); } return true;">
+<script id="adsscript" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noads();"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client:'ca-pub-3417291128493297',
+enable_page_level_ads:true
+});
+window.google_analytics_uacct = "UA-4656078-5";
+</script>
+<div id="pagebox">
+<div id="backbox">
+<div id="headbox">
+<a href="/" title="Mapcarta" class="pagelogo" rel="noopener"></a>
+<div class="searchbar"><form action="https://google.com/cse" onsubmit="if (phase === 5) { submitsearch(this); } return false;"><input type="hidden" name="cx" value="004731645928269741811:1t7of2uek1o" /><input type="hidden" name="ie" value="UTF-8" /><div class="searchsubmit"><input type="image" class="searcharea" src="/images/clear.gif" alt="Search" name="sa" /><span class="ikon searchicon"></span></div><input class="searchfield" name="q" maxlength="47" value="Search" onfocus="this.value = '';" onblur="if (!this.value) { this.value = searchvalue; }" autocomplete="off" /></form></div>
+<div class="stayleader">Hotels</div>
+</div>
+<div class="helmbox">
+<div class="helmdouble firstblock"><div class="mainbutton helmblock"><a onclick="act('main'); return false;" href="/22573170" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></div><div class="mapbutton helmblock helmright"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div></div>
+<div class="helmdouble lastblock"><div class="staybutton helmblock"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div><div class="photobutton helmblock helmright"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mainbutton"><a onclick="act('main'); return false;" href="/22573170" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></span><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div>
+<div id="breadcrumbs">
+<!-- start breadcrumbs -->
+<div class="pillbox" itemscope itemtype="https://schema.org/BreadcrumbList">
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/North_America" title="North America" class="pill" itemprop="item" rel="noopener"><span itemprop="name">North America</span><meta itemprop="position" content="1" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/United_States_of_America" title="United States" class="pill" itemprop="item" rel="noopener"><span itemprop="name">USA</span><meta itemprop="position" content="2" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/Mid-Atlantic" title="Mid-Atlantic" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Mid-Atlantic</span><meta itemprop="position" content="3" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/New_York_%28state%29" title="New York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">New York</span><meta itemprop="position" content="4" /></a></span>
+<div class="clearboth"></div>
+</div>
+<!-- end breadcrumbs -->
+</div>
+<div id="mainbox" itemscope itemtype="https://schema.org/Place">
+<!-- start mainbox -->
+<h1><span itemprop="name">Corlears Hook</span></h1>
+<div id="topbox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<div class="pod backdrop podback"><div class="headpouch icyshade"><span itemprop="description">Corlears Hook is a cape and is south of <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010686" title="East River Houses" itemprop="url" rel="noopener"><span itemprop="name">East River Houses</span></a></span> and southeast of <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010688" title="Hillman Housing" itemprop="url" rel="noopener"><span itemprop="name">Hillman Housing</span></a></span> and <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010690" title="Amalgamated Dwellings" itemprop="url" rel="noopener"><span itemprop="name">Amalgamated Dwellings</span></a></span>. Corlears Hook has an elevation of 3 feet.</span></div><div class="tailpouch"><div class="helmdouble firstblock"><div class="mapbutton helmblock"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div><div class="staybutton helmblock helmright"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div></div>
+<div class="helmdouble lastblock"><div class="photobutton helmblock"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div></div>
+<div id="blurb0" class="plug"></div>
+<h2 id="photoheading">Corlears Hook Photos</h2>
+<div id="corebox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<h2>Corlears Hook</h2>
+<div class="pod pouch shaded"><ul>
+<li>Type:&nbsp; cape</li>
+<li>Location:&nbsp; <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_%28state%29" title="New York" itemprop="url" rel="noopener"><span itemprop="name">New York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Mid-Atlantic" title="Mid-Atlantic" itemprop="url" rel="noopener"><span itemprop="name">Mid-Atlantic</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/United_States_of_America" title="United States" itemprop="url" rel="noopener"><span itemprop="name">United States</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/North_America" title="North America" itemprop="url" rel="noopener"><span itemprop="name">North America</span></a></span></li>
+<li>Latitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="latitude">40°&nbsp;42'&nbsp;39.4" (40.7109°) north</span></span></li>
+<li>Longitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="longitude">73°&nbsp;58'&nbsp;41.5" (73.9782°) west</span></span></li>
+<li>Elevation:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="elevation">3 feet (1 meter)</span></span></li>
+</ul></div>
+<h2>New York Hotels</h2>
+<div class="subline texthue"><b class="hue">✓</b> Find your ideal hotel in New York</div>
+<div class="pod stayform backdrop stayback"><div class="pouch frostyshade"><form onsubmit="act('Preset Search'); return false;"><div class="formarea"><div class="formdetails"><div class="formdate formspaced"><div class="forminfo">Travel Dates</div><div class="formbase"><input value="11/30 – 12/2" id="spreadcal" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" readonly="readonly" /></div></div><div class="formguests formspaced"><div class="forminfo">Guests</div><div class="formbase"><input value="2" id="spreadguests" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" size="1" maxlength="1" /></div></div></div><div class="formbutton"><a onclick="act('Preset Search'); return false;" title="Search Hotels" class="button" rel="noopener"><span class="formcut"><span class="withicon"><span class="ikon whitesearchicon"></span>Search<wbr /> Hotels</span></span></a></div></div></form></div></div>
+<h2>Maps of Corlears Hook</h2>
+<div class="pod pouch shaded"><ul>
+<li><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.openstreetmap.org/#map=13/40.71094/-73.97819" title="OpenStreetMap" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon osmicon"></span>OpenStreetMap</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.google.com/maps/@40.71094,-73.97819,13z" title="Google Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon gmapsicon"></span>Google Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://wego.here.com/?map=40.71094,-73.97819,13" title="Here WeGo" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon hereicon"></span>Here WeGo</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.bing.com/maps/?cp=40.71094~-73.97819&amp;lvl=13&amp;where1=Corlears+Hook" title="Bing Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon bingicon"></span>Bing Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.mapquest.com/?center=40.71094,-73.97819&amp;zoom=13" title="MapQuest" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon mapquesticon"></span>MapQuest</span></a></span></li>
+</ul></div>
+<h2>Other Names for Corlears Hook</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule"><span class="pill" itemprop="alternateName">Corlaer's Hook</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Corlar Hook</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Corlear's Hook</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Corlers Hook</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Correlaers Hoeck</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Nagh-tongk</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Naghtognk</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Nechtanc</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Nechtank</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Nechtauk</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Rech-ta-uck</span></span>
+<span class="capsule"><span class="pill" itemprop="alternateName">Rechtank</span></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Localities in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010686" title="East River Houses" class="pill" itemprop="url" rel="noopener"><span itemprop="name">East River Houses</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010688" title="Hillman Housing" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Hillman Housing</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010690" title="Amalgamated Dwellings" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Amalgamated Dwellings</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan/Lower_East_Side" title="Lower East Side" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Lower East Side</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010708" title="Vinegar Hill" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Vinegar Hill</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29218634" title="Navy Yard" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Navy Yard</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010682" title="Hester - Allen Turnkey Housing" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Hester - Allen Turnkey Housing</span>&nbsp; <span class="addendum texthue">1 mile northwest</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Landmarks in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/33023084" title="East River Park Amphitheater" class="pill" itemprop="url" rel="noopener"><span itemprop="name">East River Park Amphitheater</span>&nbsp; <span class="addendum texthue">Amphitheater</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26799838" title="Corlears Hook Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Corlears Hook Park</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22631888" title="Wallabout Bay" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Wallabout Bay</span>&nbsp; <span class="addendum texthue">Bay</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26799840" title="Vladeck Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Vladeck Park</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26799842" title="Henry M Jackson Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Henry M Jackson Park</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26799850" title="Sidney Hillman Playground" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Sidney Hillman Playground</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22634840" title="Williamsburg Bridge" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Williamsburg Bridge</span>&nbsp; <span class="addendum texthue">Bridge</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Popular Destinations in <span itemprop="name">New York</span></h2>
+<div class="pod pouch shaded"><div itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><div class="pillbox">
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_City" title="New York City" class="pill" itemprop="url" rel="noopener"><span itemprop="name">New York City</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Buffalo" title="Buffalo" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Buffalo</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan" title="Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Manhattan</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Rochester_%28New_York%29" title="Rochester" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rochester</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Binghamton" title="Binghamton" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Binghamton</span></a></span>
+<div class="clearboth"></div>
+</div>
+<meta itemprop="url" content="https://mapcarta.com/New_York_%28state%29" /></div></div>
+<h2>Escape to a Random Place</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Annapurna" title="Annapurna" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Annapurna</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Cambridge_%28England%29" title="Cambridge" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Cambridge</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Nice" title="Nice" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Nice</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Quito" title="Quito" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Quito</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Amritsar" title="Amritsar" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Amritsar</span><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="blurb1" class="plug"></div>
+<h2>Your World is Without Borders</h2>
+<div class="pod pouch shaded"><div class="languagelist"><a href="/de/22573170" title="Deutsch" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon deicon"></span>Deutsch</span></a><a href="/es/22573170" title="Español" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon esicon"></span>Español</span></a><a href="/fr/22573170" title="Français" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon fricon"></span>Français</span></a><a href="/it/22573170" title="Italiano" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon iticon"></span>Italiano</span></a><a href="/pt/22573170" title="Português" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon pticon"></span>Português</span></a></div></div>
+<div class="spacer3"></div>
+<div class="pod pouch footerpod"><a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" class="cclink" rel="noopener"><span class="cclogo"></span></a>Text is available under the <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" rel="noopener">Creative Commons Attribution-ShareAlike License</a>, excluding photos, directions and the map.<div class="spacer1"></div><a href="/About_Mapcarta" title="About Mapcarta" rel="noopener">About Mapcarta</a>. Thanks to <a target="_blank" href="https://www.mapbox.com" title="Mapbox" rel="noopener">Mapbox</a> for providing amazing maps. Photos provided by <a target="_blank" href="https://www.flickr.com" title="Flickr" rel="noopener">Flickr</a> under the copyright of their owners. Mapcarta uses the Flickr API but is not endorsed or certified by Flickr. Please contact us if you'd prefer to remove your Flickr photos from Mapcarta.<meta itemprop="image" content="https://farm2.staticflickr.com/1764/42178281264_0897143f16_b.jpg" /><meta itemprop="image" content="https://farm4.staticflickr.com/3663/3656202167_1d33ee0141_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/891/42900582012_6ffc745b78_b.jpg" /><meta itemprop="image" content="https://farm5.staticflickr.com/4299/35556770920_c3e3e3c36d_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1755/28883360978_d96ab690da_b.jpg" /><meta itemprop="image" content="https://farm6.staticflickr.com/5225/5621479954_87c3c54f7d_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1820/43977213871_5d97577b32_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1766/42006646535_6540733b40_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/844/41747372900_2e260ca251_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1739/42579616802_5223124344_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1747/42518540291_6781938494_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1815/44044934262_317bc109b8_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1732/42736093111_5d01dd5b5f_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1862/44067800704_14c70db378_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1868/30743821358_8642492ab7_b.jpg" /><meta itemprop="image" content="https://farm5.staticflickr.com/4514/23719956208_cd44be3c74_b.jpg" /></div>
+<!-- end mainbox -->
+</div>
+<div id="hotelbox"></div>
+<div id="resultsbox"></div>
+<div id="noticebox"></div>
+<div id="photobox"></div>
+<div id="plotbox"></div>
+</div>
+</div>
+<div id="mapbox" class="pick0"></div>
+<div id="albumbox"></div>
+<div id="checksplit" class="checkunit"></div>
+<div id="checkmini" class="checkunit"></div>
+<div id="checksingle" class="checkunit"></div>
+<div id="checkad" class="checkunit"></div>
+<div id="checkphoto" class="checkunit"></div>
+<!-- Complete -->
+</body>
+</html>

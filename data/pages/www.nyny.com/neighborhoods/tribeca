@@ -1,0 +1,1690 @@
+<!DOCTYPE html>
+<html lang="en" id="nyny-com">
+<head><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<title>TriBeCa New York Neighborhood Information</title>
+<meta name="Description" content="Things to do in TriBeCa New York, NY including top Restaurants, Nightlife, Hotels, Attractions, Shopping, Bars in the area" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta name="robots" content="index, follow" />
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<link rel="shortcut icon" href="https://cdn.boulevards.com/imgs/favicon.nyny.com.ico" type="image/x-icon" />
+<link rel="stylesheet" href="https://cdn.boulevards.com/css/blvds-20160615231612.min.css" type="text/css" />
+<style>
+	#hd .logo{clear:both;}
+		</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdn.boulevards.com/css/blvds.mobile-20160615231612.min.css" type="text/css" />
+<script type="text/javascript">
+      (function(window){
+        var fake = window.jQuery = window.$ = function( fn ) {
+          if ( Object.prototype.toString.call( fn ) === '[object Function]' ) {
+            fake.queue.push( fn );
+          }
+        };
+        fake.queue = [];
+      })(window);
+    </script>
+<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-584946-27']);
+			_gaq.push(['_setDomainName', 'none']);
+			_gaq.push(['_setAllowLinker', true]);
+							_gaq.push(['_setCustomVar', 1, 'pageType', 'neighborhood', 3]);
+							_gaq.push(['_trackPageview', ]);
+			_gaq.push(['_trackPageLoadTime']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement('script'); gads.type = 'text/javascript'; gads.async = true;
+			gads.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gads, s);
+		})();
+	</script>
+<script type="text/javascript" charset="utf-8">
+	  (function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+	  arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+	  O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+	  e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+	</script>
+<script type="text/javascript">
+		googletag.cmd.push(function() {
+			googletag.pubads().setTargeting('page_type', 'neighborhood');
+			googletag.pubads().setTargeting("hood", 'tribeca');
+			googletag.defineSlot('/1048893/Nyny_728x90_ROS_ATF', [[728, 90], [970, 90], [970, 250]], 'atf-728x90').addService(googletag.pubads());
+			googletag.defineSlot('/1048893/Nyny_728x90_ROS_BTF', [728, 90], 'btf-728x90').addService(googletag.pubads());
+			googletag.defineSlot('/1048893/Nyny_300x250_ROS_ATF', [[300,250],[300,600]], 'div-gpt-ad-1332799363424-1').addService(googletag.pubads());
+		});
+	</script>
+<script type="text/javascript">
+		googletag.cmd.push(function() {
+			googletag.pubads().collapseEmptyDivs();
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+	</script>
+<script type="text/javascript">
+		  var _qevents = _qevents || [];
+		  (function() {
+		   var elem = document.createElement('script');
+		   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+		               + ".quantserve.com/quant.js";
+		   elem.async = true;
+		   elem.type = "text/javascript";
+		   var scpt = document.getElementsByTagName('script')[0];
+		   scpt.parentNode.insertBefore(elem, scpt);  
+		  })();
+		</script>
+</head>
+<body id="neighborhood" class="">
+<div id="atf_banner_ad" class="visible-desktop">
+<div class="ads ad_728x90 " id="atf-728x90">
+<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('atf-728x90'); });
+	</script>
+</div>
+</div>
+<div id="main_container">
+<div id="hd" class="clearfix">
+<span class="nav-mobile-trigger visible-phone">
+<i class="icon-align-justify"></i>
+</span>
+<div class="logo">
+<a id="logo" href="http://www.nyny.com/"><img src="http://cdn.boulevards.com/imgs/logo-nyny.com.png" alt="NYNY.com" /></a>
+</div>
+<span class="nav-weather visible-phone"></span>
+<div class="userNav clearfix"></div>
+<div id="nav-search">
+<style>
+							td.gsc-clear-button {
+								display: none;
+							}
+							table.gsc-search-box td.gsc-input {
+								padding-top: 10px;
+							}
+						</style>
+<script>
+							(function() {
+								var cx = 'partner-pub-0032919224847766:8192112420';
+								var gcse = document.createElement('script');
+								gcse.type = 'text/javascript';
+								gcse.async = true;
+								gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+								var s = document.getElementsByTagName('script')[0];
+								s.parentNode.insertBefore(gcse, s);
+							})();
+						</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+<div class="nav visible-desktop clearfix">
+<ul class="clearfix">
+<li id="nav-restaurants" class="nav-link">
+<a href="http://www.nyny.com/restaurants">Restaurants</a>
+</li>
+<li id="nav-nightlife" class="nav-link">
+<a href="http://www.nyny.com/nightlife">Nightlife</a>
+</li>
+<li id="nav-events" class="nav-link">
+<a href="http://www.nyny.com/events">Events</a>
+</li>
+<li id="nav-attractions" class="nav-link">
+<a href="http://www.nyny.com/attractions">Attractions</a>
+</li>
+<li id="nav-hotels" class="nav-link">
+<a href="http://www.nyny.com/hotels">Hotels</a>
+</li>
+<li id="nav-realestate" class="nav-link">
+<a href="http://www.nyny.com/real-estate">Real Estate</a>
+</li>
+<li id="nav-jobs" class="nav-link">
+<a href="http://www.nyny.com/jobs">Jobs</a>
+</li>
+<li id="nav-directory" class="nav-link">
+<a href="http://www.nyny.com/places">Directory</a>
+</li>
+<li id="nav-neighborhoods" class="nav-link">
+<a href="http://www.nyny.com/neighborhoods">Neighborhoods</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="bd" class="row">
+<div class="span12">
+<div id="subnav-template" class="clearfix">
+<style>
+.roomSelect td{padding:5px 0;}
+.roomCount td{ border-top:1px solid #f3f3f3;}
+</style>
+<div data-event="horizontal_hotel_bot" class="booking-module book_hotel_horizontal card-container nofloat clearfix">
+<div class="bd clearfix">
+<div class="bd-wrapper clearfix">
+<div class="title pull-left"><strong>Great rates on hotels</strong> <span>in New York</span></div>
+<form id="hotelBookingForm" class="pull-left clearfix" method="get" action="http://travel.blvds.com/hotels/results/" target="_blank">
+<input type="hidden" name="city_id" value="800049480" />
+<input type="hidden" name="refid" value="7957" />
+<input type="hidden" name="refclickid" value="www.nyny.com">
+<table>
+<tr>
+<td>
+<input name="check_in" class="text date checkin" type="text" title="check in mm/dd/yyyy" value="11/21/2018" />
+</td>
+<td>
+<input name="check_out" class="text date checkout" type="text" title="check out mm/dd/yyyy" value="11/23/2018" />
+</td>
+<td id="roomOptions-cell">
+<div class="roomOptions">
+<div id="selectedRoomOptions" class="text-center"><span id="numRoomsSelected">1 room</span> / <span id="numGuestsSelected">2 guests</span> <span class="caret"></span></div>
+<div class="options_tooltip">
+<div class="tooltip-arrow"></div>
+<table class="roomSelect">
+<tr>
+<td>
+<select name="rooms" id="numRooms">
+<option value="1">1 rooms</option>
+<option value="2">2 rooms</option>
+<option value="3">3 rooms</option>
+<option value="4">4 rooms</option>
+<option value="5">5 rooms</option>
+<option value="6">6 rooms</option>
+<option value="7">7 rooms</option>
+<option value="8">8 rooms</option>
+<option value="9">9 rooms</option>
+<option value="10+">10+ rooms</option>
+</select>
+</td>
+<td>
+<select name="guests" id="numGuest-rm0" class="room-numGuest">
+<option value="1">1 guests</option>
+<option value="2" selected="selected">2 guests</option>
+<option value="3">3 guests</option>
+<option value="4">4 guests</option>
+<option value="5">5 guests</option>
+</select>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+<td id="formSubmit-cell">
+<button class="btn btn-primary" id="submit" type="submit">Find Hotels</button>
+</td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+<div class="ft clearfix">
+<div class="ft-wrapper">
+<div class="ft-block group">
+<a title="Search group bookings in New York" href="http://meetings.nyny.com">Group Bookings</a>
+</div>
+<div class="ft-block gaurantee">
+<span class="guarantee"><a rel="nofollow" href="#" title="Best hotel rates on NYNY.com">Lowest available rates guaranteed</a></span> &bull; No cancellation fees &bull; Secure checkout
+</div>
+<div class="ft-block collapse-bot-ft">
+<div class="pull-right"><i class="icon-chevron-up icon-white"></i></div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function(){
+	function getHotelBotContentWidth(){
+		// set width of .bd-wrapper so it can be centered 
+		var theWidth = $('.book_hotel_horizontal .bd-wrapper .title').width() + $('.book_hotel_horizontal .bd-wrapper #hotelBookingForm').width() + parseInt($('.book_hotel_horizontal .bd-wrapper .title').css('padding-right').replace('px', '')) + 1;
+		$('.book_hotel_horizontal .bd-wrapper').css('width', theWidth);
+	}
+	getHotelBotContentWidth();
+
+	var datePickerOpen = false;
+	$('.book_hotel_horizontal .bd').hoverIntent(function(){$('.book_hotel_horizontal .ft').slideDown(200)});
+	
+	$('.collapse-bot-ft').on('click', function(){
+		$('.book_hotel_horizontal .ft').slideUp(200);
+	});
+
+	$('.guarantee a').bind('click', function(e){
+		e.preventDefault();
+		$('#guarantee-modal').modal('show');
+	});
+	
+	$('.modal-close, .modal .close').bind('click', function(){
+		$('#guarantee-modal').modal('hide');
+	});
+	
+	$('.book_hotel_horizontal .checkin').datepicker({
+		minDate: "today",
+		dateFormat:"mm/dd/yy",
+		onSelect: function(selectedDate){
+			var dateObject = $('input[name="check_in"]').datepicker("getDate");
+			dateObject.setDate(dateObject.getDate()+1);
+			theCheckoutDate = $.datepicker.formatDate("mm/dd/yy", dateObject);
+			$('.book_hotel_horizontal .checkout').datepicker( "option", "minDate", theCheckoutDate );
+			$('input[name="check_in"]').val(selectedDate);
+		},
+		beforeShow: function() {
+			datePickerOpen = true;
+		},
+		onClose: function(){
+			$('.book_hotel_horizontal .checkout').datepicker("show");
+		}
+	});
+	$('.book_hotel_horizontal .checkout').datepicker({
+		defaultDate: "+3d",
+		dateFormat:"mm/dd/yy",
+		onSelect: function(selectedDate){
+			$('.book_hotel_horizontal .checkin').datepicker('option', 'maxDate', selectedDate);
+			$('input[name="check_out"]').val(selectedDate);
+		},
+		beforeShow: function() {
+			datePickerOpen = true;
+		},
+		onClose: function() {
+			datePickerOpen = false;
+		}
+	});
+	
+	$('.roomOptions').bind('click', function(e){
+		e.preventDefault();
+		var botOffset = $('.book_hotel_horizontal').position();
+		var botWidth = $('.book_hotel_horizontal').width();
+		var tooltipWidth = $('.options_tooltip').width();
+		
+		var tooltipPosition = botOffset.left + (botWidth/2) - (tooltipWidth/2);
+
+		//$('.options_tooltip').css('left', tooltipPosition+'px');
+		$('.options_tooltip').fadeIn('400', function(){
+			$('body').bind('click', function(e){
+				if ($(e.target).parents('.options_tooltip').length == 0){
+					$('.options_tooltip').fadeOut('400',
+					function(){
+						$('body').unbind('click');						
+					});					
+				}
+			});
+		});
+	});
+	
+	function update_num_guests(){
+		var numRooms = $('select[name="rooms"]').val();
+		var numGuests = $('select[name="guests"]').val();
+		$('#numRoomsSelected').html(numRooms + (numRooms == 1 ? ' room' : ' rooms'));
+		if (numGuests) {
+			$('#numGuestsSelected').html(numGuests + (numGuests == 1 ? ' guest' : ' guests'));
+		} else {
+			$('#numGuestsSelected').html('');
+		}
+	}
+	$('table.roomSelect').on('change', '.room-numGuest', update_num_guests);
+	//get all room rows
+	var rows = $('table.roomSelect tr.roomCount');
+	var roomCount = 1;
+	
+	//on click get room value
+	$('select[name="rooms"]').change(function() {
+		//get roomCount
+		var roomCount = $(this).val();
+		if (roomCount == '10+') {
+			$('select[name="guests"] option').remove();
+			return;
+		}
+		var newOptions = '';
+		for (var guests = roomCount; guests <= roomCount * 5; guests++)
+		{
+			newOptions += '<option value="' + guests + '">' + guests + ' guests</option>';
+		}
+		$('select[name="guests"]').html($(newOptions));
+		update_num_guests();
+	});
+
+	$('.book_hotel_horizontal form').submit(function(e){
+		var checkin = $('input[name="check_in"]').val().replace(/^[0]+/g,"").split('/');
+		var checkout = $('input[name="check_out"]').val().replace(/^[0]+/g,"").split('/');
+		// send form to meetings affiliate if user selects n+ rooms
+		if ($('select[name="rooms"]').val() == '10+') {
+			var meetingsFormAction = 'http://meetings.nyny.com/?checkIn='+ $('input[name="check_in"]').val() +'&checkOut='+ $('input[name="check_out"]').val() + '&rooms=' + $('select[name="rooms"]').val();
+			BLVDS.trackEvent('hotel', 'Find Hotel Meetings', 'http://travel.ian.com/index.jsp');
+			window.location.replace(meetingsFormAction);
+			e.preventDefault();
+		} else {
+			BLVDS.trackEvent('hotel', 'Find Hotel', 'http://travel.ian.com/index.jsp');
+		}
+	});
+	
+});
+</script>
+</div>
+<h1 class="page_header">Guide to TriBeCa</h1>
+</div>
+<div class="topRail span12 clearfix">
+</div>
+<div class="span8 mainContent">
+<div data-event="efm_slider" class="editorial_feature_module nofloat clearfix">
+<div id="category_feature_main" class="efm_wrapper carousel slide">
+<div class="carousel-inner">
+<div class="feature item active">
+<a href="/events/middle-kids-at-bowery-ballroom-nov-30th-2018-9-00pm" title="Middle Kids">
+<div class="img">
+ <img src="https://image-ticketfly.imgix.net/00/02/53/56/11-og.jpg?w=600&h=398" alt="Middle Kids" />
+</div>
+<div class="details">
+<h2>Middle Kids</h2>
+<span class="kicker">at Bowery Ballroom <span class="muted">&bull; Fri, Nov 30</span></span>
+</div>
+<div class="overlay"></div>
+</a>
+</div>
+<div class="feature item ">
+<a href="/events/caamp-at-bowery-ballroom-dec-12th-2018-9-00pm" title="CAAMP">
+<div class="img">
+<img data-lazy-load-src="https://image-ticketfly.imgix.net/00/02/59/10/18-og.jpg?w=960&h=640" alt="CAAMP" />
+</div>
+<div class="details">
+<h2>CAAMP</h2>
+<span class="kicker">at Bowery Ballroom <span class="muted">&bull; Wed, Dec 12</span></span>
+</div>
+<div class="overlay"></div>
+</a>
+</div>
+<div class="feature item ">
+<a href="/events/darlingside-at-bowery-ballroom-dec-13th-2018-9-00pm" title="Darlingside">
+<div class="img">
+<img data-lazy-load-src="https://image-ticketfly.imgix.net/00/02/73/65/51-og.jpg?w=960&h=640" alt="Darlingside" />
+</div>
+<div class="details">
+<h2>Darlingside</h2>
+<span class="kicker">at Bowery Ballroom <span class="muted">&bull; Thu, Dec 13</span></span>
+</div>
+<div class="overlay"></div>
+</a>
+</div>
+<div class="feature item ">
+<a href="/events/cavetown-at-bowery-ballroom-dec-15th-2018-8-00pm" title="Cavetown">
+<div class="img">
+<img data-lazy-load-src="http://cdn.boulevards.com/imgs/event_imgs/event-600-concert.jpg" alt="Cavetown" />
+</div>
+<div class="details">
+<h2>Cavetown</h2>
+<span class="kicker">at Bowery Ballroom <span class="muted">&bull; Sat, Dec 15</span></span>
+</div>
+<div class="overlay"></div>
+</a>
+</div>
+</div>
+<a class="carousel-control left" href="#category_feature_main" data-slide="prev">&lsaquo;</a>
+<a class="carousel-control right" href="#category_feature_main" data-slide="next">&rsaquo;</a>
+</div>
+</div>
+<script type="text/javascript">
+$(function(){
+	$('.carousel').carousel();
+	$('.carousel').on("slide", function(e) {
+
+        //SCROLLING LEFT
+        var prevItem = $('.active.item', this).prev('.item');
+
+        //Account for looping to LAST image
+        if(!prevItem.length){
+            prevItem = $('.active.item', this).siblings(":last");
+        }
+
+        //Get image selector
+        prevImage = prevItem.find('img');
+
+        prevImage.attr('src', prevImage.data('lazy-load-src'));
+
+        //SCROLLING RIGHT
+        var nextItem = $('.active.item', this).next('.item');
+
+        //Account for looping to FIRST image
+        if(!nextItem.length){
+            nextItem = $('.active.item', this).siblings(":first");
+        }
+
+        //Get image selector
+        nextImage = nextItem.find('img');
+
+        nextImage.attr('src', nextImage.data('lazy-load-src'));
+
+    });
+});
+</script>
+<div class="location_photos justified_photos flickr clearfix" data-event="location_photos">
+<div class="hd">Scenes from TriBeCa</div>
+<div class="bd">
+<a rel="no-follow" href="https://www.flickr.com/photos/25582125@N04/44836379231" target="_blank"><img title="Uptown bound on 1st - New York City" src="https://farm2.staticflickr.com/1929/44836379231_920fee7857_m.jpg" alt="Uptown bound on 1st - New York City" /></a><a rel="no-follow" href="https://www.flickr.com/photos/25582125@N04/43798473555" target="_blank"><img title="Chrysler Building Cityscape - New York City" src="https://farm2.staticflickr.com/1863/43798473555_0e57d9ff45_m.jpg" alt="Chrysler Building Cityscape - New York City" /></a><a rel="no-follow" href="https://www.flickr.com/photos/63848257@N06/24016855707" target="_blank"><img title="New York 2016 - Helicopter tour" src="https://farm5.staticflickr.com/4558/24016855707_1e050f887d_m.jpg" alt="New York 2016 - Helicopter tour" /></a><a rel="no-follow" href="https://www.flickr.com/photos/33634811@N07/38427227466" target="_blank"><img title="Brooklyn Bridge sunset [Explored]" src="https://farm5.staticflickr.com/4542/38427227466_100fa110d0_m.jpg" alt="Brooklyn Bridge sunset [Explored]" /></a><a rel="no-follow" href="https://www.flickr.com/photos/25582125@N04/35376943613" target="_blank"><img title="Street Market on 8th - Chelsea, New York City" src="https://farm5.staticflickr.com/4305/35376943613_c1f77122a0_m.jpg" alt="Street Market on 8th - Chelsea, New York City" /></a><a rel="no-follow" href="https://www.flickr.com/photos/70075489@N03/44107152490" target="_blank"><img title="At lunch" src="https://farm5.staticflickr.com/4811/44107152490_cd2faba75e_m.jpg" alt="At lunch" /></a><a rel="no-follow" href="https://www.flickr.com/photos/25582125@N04/42921862800" target="_blank"><img title="Superheroes and villains - Times Square, New York City" src="https://farm2.staticflickr.com/1890/42921862800_fc0e56370b_m.jpg" alt="Superheroes and villains - Times Square, New York City" /></a> </div>
+</div>
+<script type="text/javascript">
+$(function(){ 
+	$.getScript("/js/jquery.justifiedGallery.min.js", function(){ 
+		$('.justified_photos .bd').justifiedGallery({
+			margins: 2,
+		}); 
+	}); 
+});
+</script>
+<div data-event="category_overview_tiles" class="category_overview_tiles categories_tile_list module-primary clearfix">
+<div class="hd clearfix">
+<h2 class="module-title">Popular in TriBeCa</h2>
+<span class="module-actions">
+<a href="http://www.nyny.com/add-places" class="primary-color">Add Your Listing</a>
+</span>
+</div>
+<div class="bd clearfix">
+<div class="tile_list card-container clearfix column1">
+<div class="hd">
+<a href="/restaurants-in-tribeca" title="TriBeCa restaurants"><h2>Restaurants</h2></a>
+</div>
+<div class="bd">
+<ul>
+<li id="popular_business_1">
+<a href="/places/locanda-verde">
+<div class="thm_frame">
+<img data-original="http://s3-media1.fl.yelpassets.com/bphoto/KHVCFNh86MiW4VnVheqqwQ/ls.jpg" alt="Locanda Verde" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Locanda Verde</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_2">
+<a href="/places/osteria-morini">
+<div class="thm_frame">
+<img data-original="http://s3-media2.fl.yelpassets.com/bphoto/RxUpXMOpYWmJQ1OjTBK4pg/ls.jpg" alt="Osteria Morini" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Osteria Morini</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_3">
+<a href="/places/distilled">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150613091550-CetpMzG47uHoBjqh2H1E3gCetpMzG47uHoBjqh2H1E3g_ls_180x120r.jpg" alt="Distilled" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Distilled</h3>
+<p class="locality">NY</p>
+</div>
+</a>
+</li>
+<li id="popular_business_4">
+<a href="/places/balthazar-restaurant">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150613120058-kVv2JLf03QMS4iiiFfII7AkVv2JLf03QMS4iiiFfII7A_ls_180x120r.jpg" alt="Balthazar Restaurant" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Balthazar Restaurant</h3>
+<p class="locality">NY</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="ft">
+<a href="/restaurants-in-tribeca" class="primary-color more-link" title="See more TriBeCa Restaurants"><i class="icon-circle-arrow-right"></i> More Restaurants in TriBeCa</a>
+</div>
+</div>
+<div class="tile_list card-container clearfix column2">
+<div class="hd">
+<a href="/nightlife-in-tribeca" title="TriBeCa nightlife"><h2>Nightlife</h2></a>
+</div>
+<div class="bd">
+<ul>
+<li id="popular_business_1">
+<a href="/places/sazon">
+<div class="thm_frame">
+<img data-original="http://s3-media2.fl.yelpassets.com/bphoto/qudiveR_jku3XHd6YAjNhQ/ls.jpg" alt="Sazón" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Sazón</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_2">
+<a href="/places/mercer-kitchen">
+<div class="thm_frame">
+<img data-original="https://graph.facebook.com/110739965685804/picture?type=large" alt="Mercer Kitchen" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Mercer Kitchen</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_3">
+<a href="/places/tribeca-grill">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150614025810-fIPDXbeHkxrykFUcMRze9AfIPDXbeHkxrykFUcMRze9A_ls_180x120r.jpg" alt="Tribeca Grill" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Tribeca Grill</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_4">
+<a href="/places/saxon-parole">
+<div class="thm_frame">
+<img data-original="https://graph.facebook.com/186092648122996/picture?type=large" alt="Saxon + Parole" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Saxon + Parole</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="ft">
+<a href="/nightlife-in-tribeca" class="primary-color more-link" title="See more TriBeCa Nightlife"><i class="icon-circle-arrow-right"></i> More Nightlife in TriBeCa</a>
+</div>
+</div>
+<div class="tile_list card-container clearfix column1">
+<div class="hd">
+<a href="/hotels-in-tribeca" title="TriBeCa hotels"><h2>Hotels</h2></a>
+</div>
+<div class="bd">
+<ul>
+<li id="popular_business_1">
+<a href="/places/duane-street-hotel-tribeca">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/h/20150218191514-1793639_26_s.jpg" alt="Duane Street Hotel Tribeca" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Duane Street Hotel Tribeca</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_2">
+<a href="/places/club-quarters-world-trade-center">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/h/20150218191517-3016212_54_s.jpg" alt="Club Quarters World Trade Center" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Club Quarters World Trade Center</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_3">
+<a href="/places/new-york-marriott-downtown">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/h/20150218191523-11559_247_s.jpg" alt="New York Marriott Downtown" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">New York Marriott Downtown</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_4">
+<a href="/places/the-james-new-york">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/h/20150218191526-3681052_160_s.jpg" alt="The James New York" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">The James New York</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="ft">
+<a href="/hotels-in-tribeca" class="primary-color more-link" title="See more TriBeCa Hotels"><i class="icon-circle-arrow-right"></i> More Hotels in TriBeCa</a>
+</div>
+</div>
+<div class="tile_list card-container clearfix column2">
+<div class="hd">
+<a href="/attractions-in-tribeca" title="TriBeCa attractions"><h2>Attractions</h2></a>
+</div>
+<div class="bd">
+<ul>
+<li id="popular_business_1">
+<a href="/places/terroir-tribeca">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150613092708-mgJ-SrlzPhUMLCyQ3PO-NAmgJ-SrlzPhUMLCyQ3PO-NA_ls_180x120r.jpg" alt="Terroir Tribeca" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Terroir Tribeca</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_2">
+<a href="/places/911-tribute-center">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150612074748-Aty3R4OGJZ--XVUr3xQySgAty3R4OGJZ--XVUr3xQySg_ls_180x120r.jpg" alt="9/11 Tribute Center" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">9/11 Tribute Center</h3>
+<p class="locality">NY</p>
+</div>
+</a>
+</li>
+<li id="popular_business_3">
+<a href="/places/new-museum">
+<div class="thm_frame">
+<img data-original="http://s3-media1.fl.yelpassets.com/bphoto/ECXrp907Ul6C2BAhex0IhA/ls.jpg" alt="New Museum" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">New Museum</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_4">
+<a href="/places/the-drawing-center">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150613105720-XyO3ZV_kSwZQ_WD0RR_igAXyO3ZV_kSwZQ_WD0RR_igA_ls_180x120r.jpg" alt="The Drawing Center" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">The Drawing Center</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="ft">
+<a href="/attractions-in-tribeca" class="primary-color more-link" title="See more TriBeCa Attractions"><i class="icon-circle-arrow-right"></i> More Attractions in TriBeCa</a>
+</div>
+</div>
+<div class="tile_list card-container clearfix column1">
+<div class="hd">
+<a href="/shopping-in-tribeca" title="TriBeCa shopping"><h2>Shopping</h2></a>
+</div>
+<div class="bd">
+<ul>
+<li id="popular_business_1">
+<a href="/places/despana">
+<div class="thm_frame">
+<img data-original="http://s3-media4.fl.yelpassets.com/bphoto/sF8bq_Mg6Zxfdxeed37gXg/ls.jpg" alt="Despaña" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Despaña</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_2">
+<a href="/places/mcnally-jackson">
+<div class="thm_frame">
+<img data-original="http://s3-media3.fl.yelpassets.com/bphoto/eZ3dQvGo6ELcnmpiuCZq9Q/ls.jpg" alt="McNally Jackson" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">McNally Jackson</h3>
+<p class="locality">NY</p>
+</div>
+</a>
+</li>
+<li id="popular_business_3">
+<a href="/places/uniqlo-soho">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150614034956-K_e-XNRZdYhkrAW-eNn35gK_e-XNRZdYhkrAW-eNn35g_ls_180x120r.jpg" alt="UNIQLO Soho" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">UNIQLO Soho</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_4">
+<a href="/places/jcrew-on-235-237-west-broadway-10013">
+<div class="thm_frame">
+<img data-original="http://s3-media3.fl.yelpassets.com/bphoto/AWrK4XI_7qAfIiipbpaYTg/ls.jpg" alt="J.Crew" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">J.Crew</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="ft">
+<a href="/shopping-in-tribeca" class="primary-color more-link" title="See more TriBeCa Shopping"><i class="icon-circle-arrow-right"></i> More Shopping in TriBeCa</a>
+</div>
+</div>
+<div class="tile_list card-container clearfix column2">
+<div class="hd">
+<a href="/bars-in-tribeca" title="TriBeCa bars"><h2>Bars</h2></a>
+</div>
+<div class="bd">
+<ul>
+<li id="popular_business_1">
+<a href="/places/macao-trading-co">
+<div class="thm_frame">
+<img data-original="http://s3-media1.fl.yelpassets.com/bphoto/WNadIfgY7ivunzDW8D_TWw/ls.jpg" alt="Macao Trading Co." />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Macao Trading Co.</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_2">
+<a href="/places/khe-yo">
+<div class="thm_frame">
+<img data-original="http://s3-media4.fl.yelpassets.com/bphoto/SgzUywyVwxJe37L-K9Pmrw/ls.jpg" alt="Khe-Yo" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Khe-Yo</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+<li id="popular_business_3">
+<a href="/places/the-odeon">
+<div class="thm_frame">
+<img data-original="http://cdn.boulevards.com/imgs/y/20150614121152-ryt68SO8KG7pteX2oxKlPAryt68SO8KG7pteX2oxKlPA_ls_180x120r.jpg" alt="The Odeon" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">The Odeon</h3>
+<p class="locality">NY</p>
+</div>
+</a>
+</li>
+<li id="popular_business_4">
+<a href="/places/papatzul">
+<div class="thm_frame">
+<img data-original="http://s3-media1.fl.yelpassets.com/bphoto/DsZkiTHNdDhZF1U1Q6c8_Q/ls.jpg" alt="Papatzul" />
+</div>
+<div class="tile_details">
+<h3 class="fn org">Papatzul</h3>
+<p class="locality">New York</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="ft">
+<a href="/bars-in-tribeca" class="primary-color more-link" title="See more TriBeCa Bars"><i class="icon-circle-arrow-right"></i> More Bars in TriBeCa</a>
+</div>
+</div>
+</div>
+<div class="ft card-container"></div>
+</div>
+<div data-event="boundary_list" class="neighborhood_list card-container extra-padding module clearfix">
+<div class="hd"><h2>Nearby Neighborhoods</h2></div>
+<div class="bd row">
+<ul class="unstyled clearfix">
+<li class="span2"><a href="/neighborhoods/new-york">New York</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="span4 rightRail">
+<div class="ads ad_300x250 " id="div-gpt-ad-1332799363424-1">
+<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1332799363424-1'); });
+	</script>
+</div>
+<div data-event="events_side_rail" class="event_list module card-container clearfix">
+<div class="hd">Upcoming Events</div>
+<div class="bd">
+<div class="event vevent clearfix ">
+<span class="cal-day">
+<p class="day muted">
+Fri </p>
+<p class="date">
+11/30 </p>
+</span>
+<div class="event_info_wrapper">
+<div class="fn org">
+<a class="url summary" href="/events/middle-kids-at-bowery-ballroom-nov-30th-2018-9-00pm" title="Middle Kids">Middle Kids</a>
+</div>
+<div class="event_info">
+<div class="venue vcard location">
+<a class="venue-name fn org muted" href="/places/bowery-ballroom">Bowery Ballroom</a>
+<span class="adr">
+<span class="street-address">
+<span class="value-title" title="6 Delancey St"></span>
+</span>
+<span class="locality">
+<span class="value-title" title="Ny"></span>
+<span class="region">
+<span class="value-title" title="NY"></span>
+</span>
+</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.720406"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.993355"></span>
+</span>
+</span>
+</div>
+<span class="event-time dtstart">
+<span class="value-title" title="2018-11-30T21:00:00-05:00"></span>
+</span>
+</div>
+</div>
+</div>
+<div class="event vevent clearfix ">
+<span class="cal-day">
+<p class="day muted">
+Wed </p>
+<p class="date">
+12/12 </p>
+</span>
+<div class="event_info_wrapper">
+<div class="fn org">
+<a class="url summary" href="/events/caamp-at-bowery-ballroom-dec-12th-2018-9-00pm" title="CAAMP">CAAMP</a>
+</div>
+<div class="event_info">
+<div class="venue vcard location">
+<a class="venue-name fn org muted" href="/places/bowery-ballroom">Bowery Ballroom</a>
+<span class="adr">
+<span class="street-address">
+<span class="value-title" title="6 Delancey St"></span>
+</span>
+<span class="locality">
+<span class="value-title" title="Ny"></span>
+<span class="region">
+<span class="value-title" title="NY"></span>
+</span>
+</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.720406"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.993355"></span>
+</span>
+</span>
+</div>
+<span class="event-time dtstart">
+<span class="value-title" title="2018-12-12T21:00:00-05:00"></span>
+</span>
+</div>
+</div>
+</div>
+<div class="event vevent clearfix ">
+<span class="cal-day">
+<p class="day muted">
+Thu </p>
+<p class="date">
+12/13 </p>
+</span>
+<div class="event_info_wrapper">
+<div class="fn org">
+<a class="url summary" href="/events/darlingside-at-bowery-ballroom-dec-13th-2018-9-00pm" title="Darlingside">Darlingside</a>
+</div>
+<div class="event_info">
+<div class="venue vcard location">
+<a class="venue-name fn org muted" href="/places/bowery-ballroom">Bowery Ballroom</a>
+<span class="adr">
+<span class="street-address">
+<span class="value-title" title="6 Delancey St"></span>
+</span>
+<span class="locality">
+<span class="value-title" title="Ny"></span>
+<span class="region">
+<span class="value-title" title="NY"></span>
+</span>
+</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.720406"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.993355"></span>
+</span>
+</span>
+</div>
+<span class="event-time dtstart">
+<span class="value-title" title="2018-12-13T21:00:00-05:00"></span>
+</span>
+</div>
+</div>
+</div>
+<div class="event vevent clearfix ">
+<span class="cal-day">
+<p class="day muted">
+Sat </p>
+<p class="date">
+12/15 </p>
+</span>
+<div class="event_info_wrapper">
+<div class="fn org">
+<a class="url summary" href="/events/cavetown-at-bowery-ballroom-dec-15th-2018-8-00pm" title="Cavetown">Cavetown</a>
+</div>
+<div class="event_info">
+<div class="venue vcard location">
+<a class="venue-name fn org muted" href="/places/bowery-ballroom">Bowery Ballroom</a>
+<span class="adr">
+<span class="street-address">
+<span class="value-title" title="6 Delancey St"></span>
+</span>
+<span class="locality">
+<span class="value-title" title="Ny"></span>
+<span class="region">
+<span class="value-title" title="NY"></span>
+</span>
+</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.720406"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.993355"></span>
+</span>
+</span>
+</div>
+<span class="event-time dtstart">
+<span class="value-title" title="2018-12-15T20:00:00-05:00"></span>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="ft">
+</div>
+</div>
+<div data-event="businesses_nearby" class="module businesses_nearby clearfix">
+<div class="hd">Explore Nearby</div>
+<div class="bd card-container no-padding">
+<div class="map"></div>
+<ul class="list_filter clearfix" id="nearby_businesses_tab">
+<li class="active"><a href="#popular">Popular</a></li><li><a href="#attractions">Attractions</a></li><li><a href="#restaurants">Restaurants</a></li><li><a href="#hotels">Hotels</a></li> </ul>
+<div class="businesses_side_rail tab-content">
+<div class="tab-pane active" id="popular">
+<ol class="popular unstyled map-list">
+<li class="business vcard attractions">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">1</div>
+<h3 class="fn org"><a href="/places/museum-at-eldridge-street">Museum at Eldridge Street</a></h3>
+<span class="category">Attractions</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.714787"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.993515"></span>
+</span>
+</span>
+</li>
+<li class="business vcard attractions">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">2</div>
+<h3 class="fn org"><a href="/places/terroir-tribeca">Terroir Tribeca</a></h3>
+<span class="category">Attractions</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.718781"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.010139"></span>
+</span>
+</span>
+</li>
+<li class="business vcard restaurants">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">3</div>
+<h3 class="fn org"><a href="/places/osteria-morini">Osteria Morini</a></h3>
+<span class="category">Restaurants</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.721790"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.997398"></span>
+</span>
+</span>
+</li>
+<li class="business vcard restaurants">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">4</div>
+<h3 class="fn org"><a href="/places/nobu">Nobu</a></h3>
+<span class="category">Restaurants</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.719402"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.008698"></span>
+</span>
+</span>
+</li>
+<li class="business vcard hotels">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">5</div>
+<h3 class="fn org"><a href="/places/club-quarters-world-trade-center">Club Quarters World Trade Center</a></h3>
+<span class="category">Hotels</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.709469"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.013939"></span>
+</span>
+</span>
+</li>
+</ol>
+</div>
+<div class="tab-pane" id="attractions">
+<ol class="popular unstyled map-list">
+<li class="business vcard attractions">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">1</div>
+<h3 class="fn org"><a href="/places/museum-at-eldridge-street">Museum at Eldridge Street</a></h3>
+<span class="address">12 Eldridge St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.714787"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.993515"></span>
+</span>
+</span>
+</li>
+<li class="business vcard attractions">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">2</div>
+<h3 class="fn org"><a href="/places/terroir-tribeca">Terroir Tribeca</a></h3>
+<span class="address">24 Harrison St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.718781"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.010139"></span>
+</span>
+</span>
+</li>
+<li class="business vcard attractions">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">3</div>
+<h3 class="fn org"><a href="/places/nolita-wine-merchants">Nolita Wine Merchants</a></h3>
+<span class="address">227 Mulberry St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.722572"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.996201"></span>
+</span>
+</span>
+</li>
+<li class="business vcard attractions">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">4</div>
+<h3 class="fn org"><a href="/places/911-tribute-center">9/11 Tribute Center</a></h3>
+<span class="address">120 Liberty St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.709785"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.012428"></span>
+</span>
+</span>
+</li>
+<li class="business vcard attractions">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">5</div>
+<h3 class="fn org"><a href="/places/new-museum">New Museum</a></h3>
+<span class="address">235 Bowery</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.722412"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.993164"></span>
+</span>
+</span>
+</li>
+</ol>
+</div>
+<div class="tab-pane" id="restaurants">
+<ol class="popular unstyled map-list">
+<li class="business vcard restaurants">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">1</div>
+<h3 class="fn org"><a href="/places/osteria-morini">Osteria Morini</a></h3>
+<span class="address">218 Lafayette St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.721790"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.997398"></span>
+</span>
+</span>
+</li>
+<li class="business vcard restaurants">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">2</div>
+<h3 class="fn org"><a href="/places/nobu">Nobu</a></h3>
+<span class="address">105 Hudson St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.719402"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.008698"></span>
+</span>
+</span>
+</li>
+<li class="business vcard restaurants">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">3</div>
+<h3 class="fn org"><a href="/places/dbgb-kitchen-and-bar">DBGB Kitchen and Bar</a></h3>
+<span class="address">299 Bowery</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.724419"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.992447"></span>
+</span>
+</span>
+</li>
+<li class="business vcard restaurants">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">4</div>
+<h3 class="fn org"><a href="/places/locanda-verde">Locanda Verde</a></h3>
+<span class="address">377 Greenwich St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.720039"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.010117"></span>
+</span>
+</span>
+</li>
+<li class="business vcard restaurants">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">5</div>
+<h3 class="fn org"><a href="/places/la-esquina">La Esquina</a></h3>
+<span class="address">114 Kenmare St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.721451"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-73.997612"></span>
+</span>
+</span>
+</li>
+</ol>
+</div>
+<div class="tab-pane" id="hotels">
+<ol class="popular unstyled map-list">
+<li class="business vcard hotels">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">1</div>
+<h3 class="fn org"><a href="/places/club-quarters-world-trade-center">Club Quarters World Trade Center</a></h3>
+<span class="address">140 Washington St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.709469"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.013939"></span>
+</span>
+</span>
+</li>
+<li class="business vcard hotels">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">2</div>
+<h3 class="fn org"><a href="/places/duane-street-hotel-tribeca">Duane Street Hotel Tribeca</a></h3>
+<span class="address">130 Duane St</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.716042"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.007309"></span>
+</span>
+</span>
+</li>
+<li class="business vcard hotels">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">3</div>
+<h3 class="fn org"><a href="/places/the-james-new-york">The James New York</a></h3>
+<span class="address">27 Grand St</span>
+<span class="geo">
+<span class="latitude">
+ <span class="value-title" title="40.722839"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.004707"></span>
+</span>
+</span>
+</li>
+<li class="business vcard hotels">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">4</div>
+<h3 class="fn org"><a href="/places/soho-grand-hotel">Soho Grand Hotel</a></h3>
+<span class="address">310 W Broadway</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.721889"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.004204"></span>
+</span>
+</span>
+</li>
+<li class="business vcard hotels">
+
+<div class="counter" style="width: 22px; height: 22px; float:left">5</div>
+<h3 class="fn org"><a href="/places/smyth-a-thompson-hotel">Smyth, A Thompson Hotel</a></h3>
+<span class="address">85 West Broadway</span>
+<span class="geo">
+<span class="latitude">
+<span class="value-title" title="40.715248"></span>
+</span>
+<span class="longitude">
+<span class="value-title" title="-74.009430"></span>
+</span>
+</span>
+</li>
+</ol>
+</div>
+</div>
+<ul class="view_more clearfix">
+<li class="popular active"><a href="/neighborhoods/tribeca"> Explore TriBeCa <i class="icon-circle-arrow-right"></i></a></li><li class="attractions"><a href="/attractions-in-tribeca">More Attractions <i class="icon-circle-arrow-right"></i></a></li><li class="restaurants"><a href="/restaurants-in-tribeca">More Restaurants <i class="icon-circle-arrow-right"></i></a></li><li class="hotels"><a href="/hotels-in-tribeca">More Hotels <i class="icon-circle-arrow-right"></i></a></li> </ul>
+</div>
+</div>
+<script type="text/javascript">
+		$(function(){
+			$.getScript("http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false&callback=initialize&key=AIzaSyCW_ooBrP30jnsGae5bEvNt6RFEihWgyWk");
+		});
+		function initialize()
+		{
+			$.when(
+				$.getScript("https://cdn.boulevards.com/js/wicket.js"),
+				$.getScript("http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox/src/infobox.js")
+			).then(function() {
+			$('#nearby_businesses_tab a').click(function (e) {
+				e.preventDefault();
+				id = $(this).attr('href').replace('#', '');
+				//console.log(id);
+				$('.businesses_nearby .view_more li').removeClass('active');
+				$('.businesses_nearby .view_more li.'+id).addClass('active');
+				update_map_markers(points[id]);
+				$(this).tab('show');
+			});
+			$('body').bind('update_map', function(e, type){
+				update_map_markers(points[type]);
+			});
+			var mapEl = $('.businesses_nearby .map')[0];
+			var latitude = 40.717869;
+			var longitude = -74.007980;
+			var wkt = null;
+			try {
+				wkt = new Wkt.Wkt('POLYGON((-73.991974 40.709412,-73.991974 40.726326,-74.023987 40.726326,-74.023987 40.709412,-73.991974 40.709412))');
+			} catch (e) {
+				if (typeof console == 'object' && console.error) {
+					console.error(e, 'POLYGON((-73.991974 40.709412,-73.991974 40.726326,-74.023987 40.726326,-74.023987 40.709412,-73.991974 40.709412))');
+				}
+			}
+			var points = {"popular":[{"id":"2500034","name":"Museum at Eldridge Street","slug":"museum-at-eldridge-street","latitude":"40.714787","longitude":"-73.993515","address":"12 Eldridge St","locality":"New York","region":"NY","postcode":"10002","thm_img":"http:\/\/s3-media3.fl.yelpassets.com\/bphoto\/l4BdW3QUtM6HbfpbPD61wA\/ls.jpg","rank":"0.33017","category":{"id":"790","name":"Attractions","slug":"attractions","rank":null}},{"id":"2499314","name":"Terroir Tribeca","slug":"terroir-tribeca","latitude":"40.718781","longitude":"-74.010139","address":"24 Harrison St","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/y\/20150613092708-mgJ-SrlzPhUMLCyQ3PO-NAmgJ-SrlzPhUMLCyQ3PO-NA_ls_180x120r.jpg","rank":"0.33112","category":{"id":"790","name":"Attractions","slug":"attractions","rank":null}},{"id":"2497407","name":"Osteria Morini","slug":"osteria-morini","latitude":"40.721790","longitude":"-73.997398","address":"218 Lafayette St","locality":"New York","region":"NY","postcode":"10012","thm_img":"http:\/\/s3-media2.fl.yelpassets.com\/bphoto\/RxUpXMOpYWmJQ1OjTBK4pg\/ls.jpg","rank":"0.56964","category":{"id":"684","name":"Restaurants","slug":"restaurants","rank":null}},{"id":"2498385","name":"Nobu","slug":"nobu","latitude":"40.719402","longitude":"-74.008698","address":"105 Hudson St","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/s3-media3.fl.yelpassets.com\/bphoto\/q6nY-96valTGevXdtLO3zw\/ls.jpg","rank":"0.57418","category":{"id":"684","name":"Restaurants","slug":"restaurants","rank":null}},{"id":"2433417","name":"Club Quarters World Trade Center","slug":"club-quarters-world-trade-center","latitude":"40.709469","longitude":"-74.013939","address":"140 Washington St","locality":"New York","region":"NY","postcode":"10006","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/h\/20150218191517-3016212_54_s.jpg","rank":"0.62","category":{"id":"439","name":"Hotels","slug":"hotels","rank":null}}],"attractions":[{"id":"2500034","name":"Museum at Eldridge Street","slug":"museum-at-eldridge-street","latitude":"40.714787","longitude":"-73.993515","address":"12 Eldridge St","locality":"New York","region":"NY","postcode":"10002","thm_img":"http:\/\/s3-media3.fl.yelpassets.com\/bphoto\/l4BdW3QUtM6HbfpbPD61wA\/ls.jpg","rank":"0.33017","category":{"id":"790","name":"Attractions","slug":"attractions","rank":null}},{"id":"2499314","name":"Terroir Tribeca","slug":"terroir-tribeca","latitude":"40.718781","longitude":"-74.010139","address":"24 Harrison St","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/y\/20150613092708-mgJ-SrlzPhUMLCyQ3PO-NAmgJ-SrlzPhUMLCyQ3PO-NA_ls_180x120r.jpg","rank":"0.33112","category":{"id":"790","name":"Attractions","slug":"attractions","rank":null}},{"id":"2500056","name":"Nolita Wine Merchants","slug":"nolita-wine-merchants","latitude":"40.722572","longitude":"-73.996201","address":"227 Mulberry St","locality":"NY","region":"NY","postcode":"10012","thm_img":"http:\/\/s3-media2.fl.yelpassets.com\/bphoto\/s9B_iJYg4kgsSgG_L2-p4Q\/ls.jpg","rank":"0.33778","category":{"id":"790","name":"Attractions","slug":"attractions","rank":null}},{"id":"2499846","name":"9\/11 Tribute Center","slug":"911-tribute-center","latitude":"40.709785","longitude":"-74.012428","address":"120 Liberty St","locality":"NY","region":"NY","postcode":"10006","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/y\/20150612074748-Aty3R4OGJZ--XVUr3xQySgAty3R4OGJZ--XVUr3xQySg_ls_180x120r.jpg","rank":"0.36102","category":{"id":"790","name":"Attractions","slug":"attractions","rank":null}},{"id":"2500005","name":"New Museum","slug":"new-museum","latitude":"40.722412","longitude":"-73.993164","address":"235 Bowery","locality":"New York","region":"NY","postcode":"10002","thm_img":"http:\/\/s3-media1.fl.yelpassets.com\/bphoto\/ECXrp907Ul6C2BAhex0IhA\/ls.jpg","rank":"0.37762","category":{"id":"790","name":"Attractions","slug":"attractions","rank":null}}],"restaurants":[{"id":"2497407","name":"Osteria Morini","slug":"osteria-morini","latitude":"40.721790","longitude":"-73.997398","address":"218 Lafayette St","locality":"New York","region":"NY","postcode":"10012","thm_img":"http:\/\/s3-media2.fl.yelpassets.com\/bphoto\/RxUpXMOpYWmJQ1OjTBK4pg\/ls.jpg","rank":"0.56964","category":{"id":"684","name":"Restaurants","slug":"restaurants","rank":null}},{"id":"2498385","name":"Nobu","slug":"nobu","latitude":"40.719402","longitude":"-74.008698","address":"105 Hudson St","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/s3-media3.fl.yelpassets.com\/bphoto\/q6nY-96valTGevXdtLO3zw\/ls.jpg","rank":"0.57418","category":{"id":"684","name":"Restaurants","slug":"restaurants","rank":null}},{"id":"2499316","name":"DBGB Kitchen and Bar","slug":"dbgb-kitchen-and-bar","latitude":"40.724419","longitude":"-73.992447","address":"299 Bowery","locality":"New York","region":"NY","postcode":"10003","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/y\/20150613083155-mlsSObR81F_Moa2rg8vy8gmlsSObR81F_Moa2rg8vy8g_ls_180x120r.jpg","rank":"0.59324","category":{"id":"684","name":"Restaurants","slug":"restaurants","rank":null}},{"id":"2497364","name":"Locanda Verde","slug":"locanda-verde","latitude":"40.720039","longitude":"-74.010117","address":"377 Greenwich St","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/s3-media1.fl.yelpassets.com\/bphoto\/KHVCFNh86MiW4VnVheqqwQ\/ls.jpg","rank":"0.6318","category":{"id":"684","name":"Restaurants","slug":"restaurants","rank":null}},{"id":"2498752","name":"La Esquina","slug":"la-esquina","latitude":"40.721451","longitude":"-73.997612","address":"114 Kenmare St","locality":"New York","region":"NY","postcode":"10012","thm_img":"http:\/\/s3-media3.fl.yelpassets.com\/bphoto\/xAed_D24t1RWJyOlwUJjRA\/ls.jpg","rank":"0.64462","category":{"id":"684","name":"Restaurants","slug":"restaurants","rank":null}}],"hotels":[{"id":"2433417","name":"Club Quarters World Trade Center","slug":"club-quarters-world-trade-center","latitude":"40.709469","longitude":"-74.013939","address":"140 Washington St","locality":"New York","region":"NY","postcode":"10006","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/h\/20150218191517-3016212_54_s.jpg","rank":"0.62","category":{"id":"439","name":"Hotels","slug":"hotels","rank":null}},{"id":"2433391","name":"Duane Street Hotel Tribeca","slug":"duane-street-hotel-tribeca","latitude":"40.716042","longitude":"-74.007309","address":"130 Duane St","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/h\/20150218191514-1793639_26_s.jpg","rank":"0.62","category":{"id":"439","name":"Hotels","slug":"hotels","rank":null}},{"id":"2433462","name":"The James New York","slug":"the-james-new-york","latitude":"40.722839","longitude":"-74.004707","address":"27 Grand St","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/h\/20150218191526-3681052_160_s.jpg","rank":"0.66","category":{"id":"439","name":"Hotels","slug":"hotels","rank":null}},{"id":"2434965","name":"Soho Grand Hotel","slug":"soho-grand-hotel","latitude":"40.721889","longitude":"-74.004204","address":"310 W Broadway","locality":"New York","region":"NY","postcode":"10013","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/h\/20150218191823-41198_125_s.jpg","rank":"0.685","category":{"id":"439","name":"Hotels","slug":"hotels","rank":null}},{"id":"2433502","name":"Smyth, A Thompson Hotel","slug":"smyth-a-thompson-hotel","latitude":"40.715248","longitude":"-74.009430","address":"85 West Broadway","locality":"New York","region":"NY","postcode":"10007","thm_img":"http:\/\/cdn.boulevards.com\/imgs\/h\/20150218191537-2292873_34_s.jpg","rank":"0.7","category":{"id":"439","name":"Hotels","slug":"hotels","rank":null}}]};
+			var center = new google.maps.LatLng(latitude, longitude);
+		    var i, cityCircle, marker_point, infobox;
+			var mapOptions = {
+			    center: center,
+			    mapTypeControl:false,
+			    mapTypeId: google.maps.MapTypeId.ROADMAP,
+			    scrollwheel:false,
+			    zoomControlOptions: {
+			      style: google.maps.ZoomControlStyle.SMALL
+			    },
+			    styles: [ { "featureType": "road", "elementType": "geometry.fill", "stylers": [ { "color": "#ffffff" } ] },{ "featureType": "road", "elementType": "labels.text.stroke", "stylers": [ { "visibility": "off" } ] },{ "featureType": "road", "elementType": "labels.icon", "stylers": [ { "visibility": "off" } ] },{ "featureType": "road", "elementType": "geometry.stroke", "stylers": [ { "visibility": "off" } ] },{ "featureType": "poi", "stylers": [ { "visibility": "off" } ] },{ "featureType": "water", "elementType": "geometry", "stylers": [ { "color": "#70cde3" } ] } ],
+			    streetViewControl: false
+			};
+			var map = new google.maps.Map(mapEl, mapOptions);
+			var boundary = new google.maps.LatLngBounds();
+			var icon = new google.maps.MarkerImage("https://cdn.boulevards.com/imgs/map-pins-3.png", new google.maps.Size(30, 41), new google.maps.Point(0, 0));
+			if (wkt && ! wkt.isRectangled()) {
+				wkt.setMap(map, {
+					fillColor: 'blue',
+					fillOpacity: .15,
+					strokeColor: 'blue',
+					strokeOpacity: .5
+				});
+			} else {
+				var marker = new google.maps.Marker({
+					position: center,
+					map: map,
+					icon: icon,
+					zIndex: 1000,
+					title: "TriBeCa" 
+				});
+			}
+			var markers = [];
+			var update_map_markers = function(points)
+			{
+				n = 0;
+				for (var i = 0; i < markers.length; i++) {
+					markers[i].setMap(null);
+  				}
+				for (i = 0; i < points.length; i++) {
+					marker_point = new google.maps.LatLng(points[i].latitude, points[i].longitude);
+					boundary.extend(marker_point);
+					marker = new google.maps.Marker({
+						position: marker_point,
+						icon: new google.maps.MarkerImage(
+							"https://cdn.boulevards.com/imgs/map-pins-3.png", 
+							new google.maps.Size(22, 22), 
+							new google.maps.Point(22 * i, 42)
+						),
+						map: map,
+						title: points[i].name,
+						slug: '/places/' + points[i].slug,
+						addy: points[i].address + ', ' +  points[i].locality + ', ' + points[i].region + ' ' + points[i].postcode,
+						img: (points[i].thm_img[0] == '/' ? 'https://cdn.boulevards.com' : '') + points[i].thm_img
+					});
+					markers.push(marker);
+					offset = (points[i].thm_img != '')? -134:-110;
+					infobox = new InfoBox({
+						content: '',
+						disableAutoPan: false,
+						alignBottom: true,
+						pixelOffset: new google.maps.Size(offset, -20),
+						closeBoxURL: "",
+						infoBoxClearance: new google.maps.Size(5, 5)
+					});
+					// override the default draw function in infobox.js so we can fade in
+					var oldDraw = infobox.draw;
+					infobox.draw = function(){
+						oldDraw.apply(this);
+						$(infobox.div_).hide();
+						$(infobox.div_).fadeIn();
+					};
+					google.maps.event.addListener(marker, 'click', function() {
+						window.location.href = this.slug;
+					});
+					google.maps.event.addListener(marker, 'mouseover', function(){
+						var element = this;
+						mouseoverTimeoutId = setTimeout(
+							function(){
+								//infobox.close();
+								infoBox = '<div class="map_pin_tooltip clearfix" id="infobox">';
+								if(element.img != ''){
+									infobox.boxStyle_.width = '276px';
+									infobox.pixelOffset_.width = -134;
+									infoBox += '<div class="thumb"><img src="'+element.img+'"></div>';
+								}else{
+									infobox.boxStyle_.width = '220px';
+									infobox.pixelOffset_.width = -110;
+								}
+								infoBox += '<div class="details">';
+								infoBox += '<h5 class="fn org">'+element.title+'</h5>';
+								infoBox += '<div class="address">'+element.addy+'</div>';
+								infoBox += '</div><span class="caret"></span></div>';
+								infobox.content_ = infoBox;
+								infobox.open(map, element);
+							},
+							300 //This is your timeout to open the infowindow 
+						);
+					});
+					google.maps.event.addListener(marker, 'mouseout', function(){
+						if(mouseoverTimeoutId){
+							clearTimeout(mouseoverTimeoutId);
+							mouseoverTimeoutId = null;
+							$(infobox.div_).fadeOut(200, function(){
+								infobox.close();
+							});
+						}
+					});
+			    }
+			};
+			update_map_markers(points['popular']);
+
+			map.fitBounds(boundary);
+			});
+		}
+		</script>
+</div>
+</div>
+<div id="ft">
+<div class="ads ad_728x90 " id="btf-728x90">
+<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('btf-728x90'); });
+	</script>
+</div>
+<div class="ftNav clearfix">
+<div class="row">
+<div class="span6">
+<div class="row">
+<div class="span4 ftMenu">
+<p><a id="logo" href="http://www.nyny.com/"><img src="http://cdn.boulevards.com/imgs/logo-nyny.com.png" alt="NYNY.com" /></a></p>
+<p id="footer-primary-menu">
+<a href="http://www.nyny.com/restaurants">Restaurants</a> /
+<a href="http://www.nyny.com/nightlife">Nightlife</a> /
+<a href="http://www.nyny.com/events">Events</a> /
+<a href="http://www.nyny.com/attractions">Attractions</a> /
+<a href="http://www.nyny.com/hotels">Hotels</a> /
+<a href="http://www.nyny.com/real-estate">Real Estate</a> /
+<a href="http://www.nyny.com/jobs">Jobs</a> /
+<a href="http://www.nyny.com/places">Directory</a> /
+<a href="http://www.nyny.com/neighborhoods">Neighborhoods</a> /
+<a href="/boulevards-city-guides">Other&nbsp;City&nbsp;Guides</a>
+/ <a href="https://nyny.com/deals" target="_blank">Deals</a>
+</p>
+</div>
+</div>
+</div>
+<div class="row last visible-desktop">
+<div class="span2">
+<a class="footer-cta-btn" href="http://www.nyny.com/add-places" title="Add your business">
+<div class="circle-btn"><i class="sprite icon-vcard"></i></div>
+<p>Add Your Business</p>
+</a>
+</div>
+<div class="span2">
+<a class="footer-cta-btn" href="http://www.nyny.com/add-events" title="List your event">
+<div class="circle-btn"><i class="sprite icon-cal"></i></div>
+<p>List Your Event</p>
+</a>
+</div>
+<div class="span2 last">
+<a class="footer-cta-btn" href="http://www.nyny.com/hotels" title="Book a room">
+<div class="circle-btn"><i class="sprite icon-suitcase"></i></div>
+<p>Places to Stay</p>
+</a>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span12">
+<p class="text-center">&copy; 2018 NYNY.com: A City Guide by <a href="http://www.boulevards.com" title="Boulevards New Media">Boulevards</a>. All Rights Reserved. <a href="http://www.nyny.com/advertise">Advertise with us</a> <span class="sep">|</span> <a href="http://www.nyny.com/contact.html">Contact us</a> <span class="sep">|</span> <a href="http://www.nyny.com/privacy.html" rel="nofollow">Privacy Policy</a> <span class="sep">|</span> <a href="http://www.nyny.com/tos.html" rel="nofollow">Terms of Use</a> <span class="sep">|</span> <a href="http://www.nyny.com/sitemap">Site Map</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-mobile visible-phone clearfix">
+<div class="nav-mobile-menu-wrapper">
+<ul class="channels-menu unstyled">
+<li id="nav-home"><a href="http://www.nyny.com/">Home</a></li>
+</ul>
+<div id="nav-search-mobile"></div>
+</div>
+<div id="add-content-links" class="link-group">
+<a href="http://www.nyny.com/add-places" title="Add your business"><i class="icon-map-marker"></i> Add Business</a>
+<a href="http://www.nyny.com/add-events" title="List your event"><i class="icon-calendar"></i> Add Event</a>
+</div>
+</div>
+<div class="userNav-mobile visible-phone clearfix"></div>
+<script type="text/javascript">
+$(function() {
+	var visitortime = new Date();
+	var visitortimezone = -visitortime.getTimezoneOffset();
+	var removeImgs = true;
+	var reportedImgs = [];
+	if(removeImgs && !$.browser.msie)
+	{
+		$('.business_photos img[data-id], .thumbs img[data-id]').error(function(e) {
+			var id = $(this).attr('data-id');
+			var src = $(this).attr('src');
+			if(!id || !src){
+				return;
+			}
+			if (reportedImgs.indexOf(src) != -1) {
+				return;
+			}
+			var req_url = '/check-image.php?id='+ id+'&src='+ src;
+			$.ajax({
+				type: "GET",
+				url: req_url,
+				success: function(data){ }
+			});
+			reportedImgs.push(src);
+		});
+	}
+	if(document.cookie.indexOf("local") >= 0)
+	{
+		var userLoggedIn = function(data)
+		{
+			var weather = '<a class="weather_link primary-color" title="NY NY Weather" href="http://www.nyny.com/weather"><i id="cloudy" class="wCondition"></i><span>81°</span></a>';
+			var html = (data && data.url)? weather + ' <a class="profile" href="'+data.url+'">'+data.username+'</a> | <a class="logout" href="http://www.nyny.com/logout.html">Sign out</a>' : weather + ' <a class="profile" href="http://www.nyny.com/register.html">Register</a> | <a class="login" href="http://www.nyny.com/login.html">Sign in</a>';
+			$('.userNav').html(html);
+			$('.nav-mobile').prepend('<div class="userNav"><i class="icon-user"></i> ' + html + '</div>');
+			$('.nav-weather').html(weather);
+		};
+		$.ajax({
+		    type: "GET",
+		    dataType: "json",
+		    url: '/logged-in?timezone=' + visitortimezone,
+		    success: function(data){
+		    	userLoggedIn(data);
+		    },
+			error: function(){
+				userLoggedIn();
+			}
+		});
+	}
+	else
+	{
+		var weather = '<a class="weather_link primary-color" title="NY NY Weather" href="http://www.nyny.com/weather"><i id="cloudy" class="wCondition"></i><span>81°</span></a>';
+		var html = weather + ' <a class="profile" href="http://www.nyny.com/register.html">Register</a> | <a class="login" href="http://www.nyny.com/login.html">Sign in</a>';
+		$('.userNav').html(html);
+		$('.nav-mobile').prepend('<div class="userNav"><i class="icon-user"></i> ' + html + '</div>');
+		$('.nav-weather').html(weather);
+	}
+	if($('.shareButtons').length > 0 ){
+		var url = window.location.protocol + "//" + window.location.hostname + window.location.pathname;
+		$('.shareButtons').append('<div class="twitter socialBtn"><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a></div>');
+		$.getScript("http://platform.twitter.com/widgets.js", function(){ });
+		var iframe = document.createElement('iframe');
+		faceUrl = '//www.facebook.com/plugins/like.php?href='+url;
+		faceUrl += '&width&layout=box_count&action=like&show_faces=false&share=false&height=65px';
+		$('.shareButtons').append('<div class="facebookLike socialBtn"></div>');
+		$('<iframe/>', {
+		    src: faceUrl,
+		    scrolling: 'no',
+		    frameborder: '0',
+		    allowTransparency: 'true',
+		    style: 'border:none; overflow:hidden; height:65px;',
+		    className:'facebook-like-button'
+		}).appendTo('.facebookLike');
+		$('.shareButtons').append('<div class="googleplus socialBtn"><g:plusone count="true" size="tall"></g:plusone></div></div>');
+		(function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		    po.src = '//apis.google.com/js/plusone.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();		
+	}
+	
+	// mobile nav flyout
+	$('.nav-mobile-trigger').live('click', function(){
+		if ( $('#main_container').hasClass('open') ){
+			$('#main_container').removeClass('open');
+			$('.nav-mobile').removeClass('open');
+			$(this).html('<i class="icon-align-justify"></i>');
+		} 
+		else 
+		{
+			$('#main_container').addClass('open');
+			$('.nav-mobile').addClass('open');
+			$(this).html('<i class="icon-remove"></i>');
+		}
+	});
+	
+	$('#main_container #bd').live('click', function(){
+		$('#main_container').removeClass('open');
+		$('.nav-mobile').removeClass('open');
+		$('.nav-mobile-trigger').html('<i class="icon-align-justify"></i>');
+	});
+	
+	// get nav menu from header and copy to mobile nav
+	var navItems = $('#main_container #hd .nav').html();
+	$('.nav-mobile .channels-menu').append(navItems);
+	
+	// get search input and display in mobile nav
+	var searchForm = $('#nav-search').html();
+	$('#nav-search-mobile').append(searchForm);
+	
+	// user account dropdown for mobile
+	$('.account-mobile-trigger').live('click', function(){
+		if ( $('.userNav-mobile').hasClass('open') ){
+			$('.userNav-mobile').removeClass('open');
+		} 
+		else 
+		{
+			$('.userNav-mobile').addClass('open');
+		}
+	});
+	
+	function setMobileNavHeight(){
+		var mobileNavPaddingTop = $('.nav-mobile').css('padding-top');
+		mobileNavPaddingTop = mobileNavPaddingTop.replace('px', '');
+		
+		var mobileNavPaddingBottom = $('.nav-mobile').css('padding-bottom');
+		mobileNavPaddingBottom = mobileNavPaddingBottom.replace('px', '');
+		
+		mobileNavHeight = $(window).height() - ( parseInt(mobileNavPaddingTop) + parseInt(mobileNavPaddingBottom) );
+		
+		$('.nav-mobile').css('height', mobileNavHeight);
+	}
+	$('img[data-original]').show().lazyload({effect : "fadeIn", failure_limit : $('img[data-original]').length + 100});
+
+});
+</script>
+<script type="text/javascript">
+	var BLVDS = BLVDS || {};
+	if(BLVDS.customAd){
+		//display either one or two ad blocks depending how many are set
+		if(BLVDS.customAd.adblock.length > 1){
+			_googCsa('ads', BLVDS.customAd.pageOptions, BLVDS.customAd.adblock[0], BLVDS.customAd.adblock[1]);
+		}else{
+			_googCsa('ads', BLVDS.customAd.pageOptions, BLVDS.customAd.adblock[0]);
+		}
+	}
+</script>
+<script type="text/javascript">
+			(function(){
+				var s=document.createElement('script'); s.type='text/javascript'; s.async=true; s.src='//www.liqwid.net/?key=F247-A55C-0AC8-EE34';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
+			})();
+		</script>
+<script type="text/javascript">
+			_qevents.push( { qacct: "p-MjGSecLyCQVHN" } );
+		</script>
+<noscript>
+			<div style="display: none;">
+				<img src="http://pixel.quantserve.com/pixel/p-MjGSecLyCQVHN.gif" height="1" width="1" alt="Quantcast"/>
+			</div>
+		</noscript>
+<script async="true" type="text/javascript" src="https://cdn.boulevards.com/js/blvds-20150529190304.min.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8f93934eeb","applicationID":"16007339","transactionName":"NFQGYRYDXUEAAhVRXQ0eJVYQC1xcTi0OW1MXWAtbSwxWWwYJA1dAC14LUQ==","queueTime":0,"applicationTime":499,"atts":"GBMFF14ZTk8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

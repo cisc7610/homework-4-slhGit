@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/trainiq0/public_html/flickrCC/flickrCC/index.php:18) in <b>/home4/trainiq0/public_html/flickrCC/flickrCC/index.php</b> on line <b>19</b><br />
+<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/trainiq0/public_html/flickrCC/flickrCC/index.php:18) in <b>/home4/trainiq0/public_html/flickrCC/flickrCC/index.php</b> on line <b>19</b><br />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Creative commons licensed  pictures on flickr" />
+    <meta name="keywords" content=", flickr, cc, creative commons, images, photos, pictures" />
+    <meta name="Author" content="Kelli Shaver - http://www.kellishaver.com and Peter Shanks - http://bluemountains.net" />
+    <meta name="copyright" content="creative commons, attribution share-alike" />
+    <meta name="google-site-verification" content="895dMFP7g7440hz9_vbXv_9uQYd6-4knjHwrcX23OK0" />
+    <meta name="inmobi-site-verification" content="26379fa7307cba83bc21acdf829a55c7" />
+    <meta name="p:domain_verify" content="820a1493d396b4b6c84878e7fd138e4f" >
+    <title>flickrCC - losangeles</title>
+    <meta name="msvalidate.01" content="8A34A3AFC75FB9771C4A5C562076C3B1" />
+
+    <style type="text/css">      @import "style.css";
+    </style>
+	<!-- <script type="text/javascript" src="js/prototype.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="js/lightbox.js"></script> -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-114086-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </head>
+  <body>
+    <div id="header">
+      <h1>flickrCC - losangeles</h1>
+      <div id="nav" >
+        <a href="http://certivweb.blogspot.com.au/2012/08/finding-images-youre-allowed-to-use-on.html" title="help using flickrCC" target="_blank">help</a>
+        <a href="mobile.php?terms=losangeles&edit=yes&com=no">mobile</a>        <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5574650362&toolid=10001&campid=5336692167&customid=&icep_uq=&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">shop</a><img style="text-decoration:none;border:0;padding:0;margin:0;" src="http://rover.ebay.com/roverimp/1/711-53200-19255-0/1?ff3=9&pub=5574650362&toolid=10001&campid=5336692167&customid=&uq=&mpt=[CACHEBUSTER]">
+        <a href="about.html" title="">about</a>
+        <a href="http://creativecommons.org/image/" title="">CC</a>
+        <a href="http://www.flickr.com/" title="">flickr</a>
+      </div>
+    </div>
+    <div id="container">
+      <div id="left">                
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function showLoading() {
+document.images.flkrimg.src="./images/loadingAnimation.gif";
+document.getElementById("attribution").innerHTML = "";
+}
+
+function makeImageLink(imagesrc,title,link,size,letter,photoid,secret) {
+  var imageLink;
+
+  imagesrc = imagesrc.replace(/_[stmbo].jpg/,'.jpg');
+  imageLink = "<a href='#' onClick='showLoading();updateImage(\"";
+  imageLink += imagesrc.replace('.jpg',letter+'.jpg') ;
+  imageLink +=  "\",\"" ;
+  imageLink += title ;
+  imageLink += "\",\"";
+  imageLink +=  link ;
+  imageLink += "\",\"";
+  imageLink += size + "\",\"";
+  imageLink += photoid + "\",\"";
+  imageLink += secret + "\");'>";
+  imageLink += size + "</a>";
+  return imageLink;
+}
+
+function updateImage(imagesrc,title,link,size,photoid,secret) {
+var sizehtml;
+var imageLink;
+imageLink = imagesrc.replace(/_[stmbo].jpg/,'.jpg');
+sizehtml = '';
+oldtitle = unescape(title);
+oldtitle = oldtitle.replace("+"," ");
+oldtitle = oldtitle.replace("+"," ");
+oldtitle = oldtitle.replace("+"," ");
+oldtitle = oldtitle.replace("+"," ");
+oldtitle = oldtitle.replace("+"," ");
+oldtitle = oldtitle.replace("+"," ");
+title = oldtitle.replace("'","").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;");
+// document.getElementById("pinit").innerHTML = '<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fflickrcc.net%2FflickrCC%2Findex.php%3Fterms%3D'+terms+'%26edit%3Dyes%26page%3D1&media='+imagesrc+'&description=Image%3A%20\''+encodeURIComponent(title)+'\'%20%0Ahttp%3A%2F%2F'+encodeURI(link)+'" class="pin-it-button" count-layout="none"><img border="0" src="http://assets.pinterest.com/images/PinExt.png" title="Pin It" target="_blank" /></a>';
+document.getElementById("pinit").innerHTML = '<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fflickrcc.net%2FflickrCC%2Findex.php%3Fterms%3D'+encodeURIComponent(terms)+'%26page%3D1&media='+encodeURIComponent(imagesrc)+'&description=Image%3A%20\''+encodeURIComponent(title)+'\'%2C%20found%20on%20flickrcc.net" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>';
+switch (size) {
+ case 'Square': 
+  sizehtml = "Square";
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Thumbnail","_t",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Small","_m",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Medium","",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Large","_b",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Original","_o",photoid,secret);
+  document.getElementById("editurl").innerHTML = '<a href="#" onclick="return launchEditor(\'editableimage1\', \''+imageLink.replace(".jpg","_s.jpg")+'\');">Edit</a>';
+  //document.getElementById("editurl").innerHTML = 'Edit image: <a href="http://www.picnik.com/service/?_apikey=1902c03b5f308b2c1b3622d4574c1192&_import='+imageLink.replace(".jpg","_s.jpg")+'">using Picnik</a>';
+  break;
+ case 'Thumbnail': 
+  sizehtml = makeImageLink(imagesrc,title,link,"Square","_s",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += "Thumbnail";
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Small","_m",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Medium","",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Large","_b",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Original","_o",photoid,secret);
+  document.getElementById("editurl").innerHTML = '<a href="#" onclick="return launchEditor(\'editableimage1\', \''+imageLink.replace(".jpg","_t.jpg")+'\');">Edit</a>';
+  //document.getElementById("editurl").innerHTML = 'Edit image: <a href="http://www.picnik.com/service/?_apikey=1902c03b5f308b2c1b3622d4574c1192&_import='+imageLink.replace(".jpg","_t.jpg")+'">using Picnik</a>';
+  break;
+ case 'Small': 
+  sizehtml = makeImageLink(imagesrc,title,link,"Square","_s",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Thumbnail","_t",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += "Small";
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Medium","",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Large","_b",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Original","_o",photoid,secret);
+  document.getElementById("editurl").innerHTML = '<a href="#" onclick="return launchEditor(\'editableimage1\', \''+imageLink.replace(".jpg","_m.jpg")+'\');">Edit</a>';
+  //document.getElementById("editurl").innerHTML = 'Edit image: <a href="http://www.picnik.com/service/?_apikey=1902c03b5f308b2c1b3622d4574c1192&_import='+imageLink.replace(".jpg","_m.jpg")+'">using Picnik</a>';
+  break;
+ case 'Medium': 
+  sizehtml = makeImageLink(imagesrc,title,link,"Square","_s",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Thumbnail","_t",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Small","_m",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += "Medium";
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Large","_b",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Original","_o",photoid,secret);
+  document.getElementById("editurl").innerHTML = '<a href="#" onclick="return launchEditor(\'editableimage1\', \''+imageLink+'\');">Edit</a>';
+  //document.getElementById("editurl").innerHTML = 'Edit image: <a href="http://www.picnik.com/service/?_apikey=1902c03b5f308b2c1b3622d4574c1192&_import='+imageLink+'">using Picnik</a>';
+  break;
+ case 'Large': 
+  sizehtml = makeImageLink(imagesrc,title,link,"Square","_s",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Thumbnail","_t",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Small","_m",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Medium","",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += "Large";
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Original","_o",photoid,secret);
+  document.getElementById("editurl").innerHTML = '<a href="#" onclick="return launchEditor(\'editableimage1\', \''+imageLink.replace(".jpg","_b.jpg")+'\');">Edit</a>';
+  //document.getElementById("editurl").innerHTML = 'Edit image: <a href="http://www.picnik.com/service/?_apikey=1902c03b5f308b2c1b3622d4574c1192&_import='+imageLink.replace(".jpg","_b.jpg")+'">using Picnik</a>';
+  break;
+ case 'Original':
+  sizehtml = makeImageLink(imagesrc,title,link,"Square","_s",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Thumbnail","_t",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Small","_m",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Medium","",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Large","_b",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += "Original";
+  document.getElementById("editurl").innerHTML = '<a href="#" onclick="return launchEditor(\'editableimage1\', \''+imageLink.replace(".jpg","_o.jpg")+'\');">Edit</a>';
+  //document.getElementById("editurl").innerHTML = 'Edit image: <a href="http://www.picnik.com/service/?_apikey=1902c03b5f308b2c1b3622d4574c1192&_import='+imageLink.replace(".jpg","_o.jpg")+'">using Picnik</a>';
+  break;
+ case 'default': 
+  sizehtml = makeImageLink(imagesrc,title,link,"Square","_s",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Thumbnail","_t",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Small","_m",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Medium","",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Large","_b",photoid,secret);
+  sizehtml += " - ";
+  sizehtml += makeImageLink(imagesrc,title,link,"Original","_o",photoid,secret);
+  break;
+}
+
+document.getElementById("attribution").innerHTML = "Image: '<a href=http://" + link + ">" + oldtitle + "</a>' <br />http://" + link + "<br>Found on <a href='http://flickrcc.net'>flickrcc.net</a>";
+document.getElementById("sizes").innerHTML = sizehtml;
+document.images.flkrimg.src=imagesrc;
+}
+
+// -->      </SCRIPT>
+<img border='0'  height='75' width='75' alt='LBB' src=https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_s.jpg onClick='showLoading();updateImage("https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_m.jpg","LBB","www.flickr.com/photos/36512168@N00/30999543097","Small","30999543097","29e04b74d4")'><img border='0'  height='75' width='75' alt='Los+Angeles+-+Belcampo+Meat+Co' src=https://farm5.static.flickr.com/4899/45172235564_b4ef4161fd_s.jpg onClick='showLoading();updateImage("https://farm5.static.flickr.com/4899/45172235564_b4ef4161fd_m.jpg","Los+Angeles+-+Belcampo+Meat+Co","www.flickr.com/photos/61943224@N04/45172235564","Small","45172235564","b4ef4161fd")'><img border='0'  height='75' width='75' alt='Christmasy' src=https://farm5.static.flickr.com/4882/45891275711_53899ae891_s.jpg onClick='showLoading();updateImage("https://farm5.static.flickr.com/4882/45891275711_53899ae891_m.jpg","Christmasy","www.flickr.com/photos/51035555243@N01/45891275711","Small","45891275711","53899ae891")'><img border='0'  height='75' width='75' alt='%7C+Los+Angeles%2C+CA+%7C+2017_0003.jpg' src=https://farm5.static.flickr.com/4806/44053131100_e2760ff480_s.jpg onClick='showLoading();updateImage("https://farm5.static.flickr.com/4806/44053131100_e2760ff480_m.jpg","%7C+Los+Angeles%2C+CA+%7C+2017_0003.jpg","www.flickr.com/photos/69058994@N04/44053131100","Small","44053131100","e2760ff480")'><img border='0'  height='75' width='75' alt='You+Promised+Me+a+Painting+for+Our+Aniversary+She+Reminded+Him' src=https://farm5.static.flickr.com/4874/31887460578_1d0c6bb6cd_s.jpg onClick='showLoading();updateImage("https://farm5.static.flickr.com/4874/31887460578_1d0c6bb6cd_m.jpg","You+Promised+Me+a+Painting+for+Our+Aniversary+She+Reminded+Him","www.flickr.com/photos/51035555243@N01/31887460578","Small","31887460578","1d0c6bb6cd")'><img border='0'  height='75' width='75' alt='Family+scene' src=https://farm5.static.flickr.com/4831/44833235485_138e093f43_s.jpg onClick='showLoading();updateImage("https://farm5.static.flickr.com/4831/44833235485_138e093f43_m.jpg","Family+scene","www.flickr.com/photos/35946983@N00/44833235485","Small","44833235485","138e093f43")'><br /><img border='0'  height='75' width='75' alt='Stay+Warm' src=https://farm2.static.flickr.com/1927/30791129807_171dc99625_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1927/30791129807_171dc99625_m.jpg","Stay+Warm","www.flickr.com/photos/51035555243@N01/30791129807","Small","30791129807","171dc99625")'><img border='0'  height='75' width='75' alt='Venice+Beach' src=https://farm2.static.flickr.com/1903/45649532521_db4dd9f2ba_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1903/45649532521_db4dd9f2ba_m.jpg","Venice+Beach","www.flickr.com/photos/54081800@N07/45649532521","Small","45649532521","db4dd9f2ba")'><img border='0'  height='75' width='75' alt='Don%27s+Bowl' src=https://farm2.static.flickr.com/1958/44567770965_484832088f_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1958/44567770965_484832088f_m.jpg","Don%27s+Bowl","www.flickr.com/photos/51035555243@N01/44567770965","Small","44567770965","484832088f")'><img border='0'  height='75' width='75' alt='Night+Swimming' src=https://farm2.static.flickr.com/1919/45288528231_ddaa55789b_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1919/45288528231_ddaa55789b_m.jpg","Night+Swimming","www.flickr.com/photos/51035555243@N01/45288528231","Small","45288528231","ddaa55789b")'><img border='0'  height='75' width='75' alt='%7C+Venice+Beach%2C+CA+%7C+2018' src=https://farm2.static.flickr.com/1961/45148019451_c86ba652c8_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1961/45148019451_c86ba652c8_m.jpg","%7C+Venice+Beach%2C+CA+%7C+2018","www.flickr.com/photos/69058994@N04/45148019451","Small","45148019451","c86ba652c8")'><img border='0'  height='75' width='75' alt='Eighteen-Light+Lily+Lamp' src=https://farm2.static.flickr.com/1917/44257186504_fbf6dd529c_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1917/44257186504_fbf6dd529c_m.jpg","Eighteen-Light+Lily+Lamp","www.flickr.com/photos/51035555243@N01/44257186504","Small","44257186504","fbf6dd529c")'><br /><img border='0'  height='75' width='75' alt='Shakey%27s' src=https://farm2.static.flickr.com/1870/43849492055_ec7ce64153_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1870/43849492055_ec7ce64153_m.jpg","Shakey%27s","www.flickr.com/photos/51035555243@N01/43849492055","Small","43849492055","ec7ce64153")'><img border='0'  height='75' width='75' alt='9%3A14+Infrared+Standard+Time' src=https://farm2.static.flickr.com/1874/42917843400_2bda89de96_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1874/42917843400_2bda89de96_m.jpg","9%3A14+Infrared+Standard+Time","www.flickr.com/photos/36512168@N00/42917843400","Small","42917843400","2bda89de96")'><img border='0'  height='75' width='75' alt='9%3A12+on+a+Sunday+Morning' src=https://farm2.static.flickr.com/1860/44003508324_9c9b380087_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1860/44003508324_9c9b380087_m.jpg","9%3A12+on+a+Sunday+Morning","www.flickr.com/photos/36512168@N00/44003508324","Small","44003508324","9c9b380087")'><img border='0'  height='75' width='75' alt='%7C+Venice+Beach%2C+CA+%7C+2018' src=https://farm2.static.flickr.com/1842/43771462175_340f2e9fc2_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1842/43771462175_340f2e9fc2_m.jpg","%7C+Venice+Beach%2C+CA+%7C+2018","www.flickr.com/photos/69058994@N04/43771462175","Small","43771462175","340f2e9fc2")'><img border='0'  height='75' width='75' alt='Bellflower+Bagels' src=https://farm2.static.flickr.com/1899/43896057314_1e34ebb82c_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1899/43896057314_1e34ebb82c_m.jpg","Bellflower+Bagels","www.flickr.com/photos/51035555243@N01/43896057314","Small","43896057314","1e34ebb82c")'><img border='0'  height='75' width='75' alt='I+Asked+Him+Time+Again' src=https://farm2.static.flickr.com/1875/30737635138_5faaf9504c_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1875/30737635138_5faaf9504c_m.jpg","I+Asked+Him+Time+Again","www.flickr.com/photos/51035555243@N01/30737635138","Small","30737635138","5faaf9504c")'><br /><img border='0'  height='75' width='75' alt='Air+Force+1' src=https://farm2.static.flickr.com/1856/42751587110_748e3cf459_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1856/42751587110_748e3cf459_m.jpg","Air+Force+1","www.flickr.com/photos/51035555243@N01/42751587110","Small","42751587110","748e3cf459")'><img border='0'  height='75' width='75' alt='Bird+%7C+Los+Angeles%2C+CA+%7C+2018' src=https://farm2.static.flickr.com/1811/42398113870_49da57bb76_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1811/42398113870_49da57bb76_m.jpg","Bird+%7C+Los+Angeles%2C+CA+%7C+2018","www.flickr.com/photos/69058994@N04/42398113870","Small","42398113870","49da57bb76")'><img border='0'  height='75' width='75' alt='Pink+Cloud' src=https://farm2.static.flickr.com/1881/43412264204_76bed8e5fd_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1881/43412264204_76bed8e5fd_m.jpg","Pink+Cloud","www.flickr.com/photos/51035555243@N01/43412264204","Small","43412264204","76bed8e5fd")'><img border='0'  height='75' width='75' alt='Curvy' src=https://farm1.static.flickr.com/933/43834672942_b9f3cb0cd2_s.jpg onClick='showLoading();updateImage("https://farm1.static.flickr.com/933/43834672942_b9f3cb0cd2_m.jpg","Curvy","www.flickr.com/photos/51035555243@N01/43834672942","Small","43834672942","b9f3cb0cd2")'><img border='0'  height='75' width='75' alt='Stewart%27s+Liquor' src=https://farm1.static.flickr.com/861/42831144425_383224f0aa_s.jpg onClick='showLoading();updateImage("https://farm1.static.flickr.com/861/42831144425_383224f0aa_m.jpg","Stewart%27s+Liquor","www.flickr.com/photos/51035555243@N01/42831144425","Small","42831144425","383224f0aa")'><img border='0'  height='75' width='75' alt='And+She+Takes+Your+Voice+and+Leaves+You+Howlling+at+the+Moon' src=https://farm1.static.flickr.com/855/43451282102_e3120800ef_s.jpg onClick='showLoading();updateImage("https://farm1.static.flickr.com/855/43451282102_e3120800ef_m.jpg","And+She+Takes+Your+Voice+and+Leaves+You+Howlling+at+the+Moon","www.flickr.com/photos/51035555243@N01/43451282102","Small","43451282102","e3120800ef")'><br /><img border='0'  height='75' width='75' alt='I%27ve+Got+to+Get+Some+Advice' src=https://farm2.static.flickr.com/1761/42497608145_e52028b522_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1761/42497608145_e52028b522_m.jpg","I%27ve+Got+to+Get+Some+Advice","www.flickr.com/photos/51035555243@N01/42497608145","Small","42497608145","e52028b522")'><img border='0'  height='75' width='75' alt='Sharon+and+Russell+1991.+Spaulding+and+Whitworth+Streets.+Los+Angeles%2C+CA' src=https://farm2.static.flickr.com/1806/41406893270_9345f10fcb_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1806/41406893270_9345f10fcb_m.jpg","Sharon+and+Russell+1991.+Spaulding+and+Whitworth+Streets.+Los+Angeles%2C+CA","www.flickr.com/photos/74135127@N00/41406893270","Small","41406893270","9345f10fcb")'><img border='0'  height='75' width='75' alt='Cross+My+Heart' src=https://farm2.static.flickr.com/1786/41277355450_6ba2d7a0a1_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1786/41277355450_6ba2d7a0a1_m.jpg","Cross+My+Heart","www.flickr.com/photos/51035555243@N01/41277355450","Small","41277355450","6ba2d7a0a1")'><img border='0'  height='75' width='75' alt='Follow+the+Neon+Arrow' src=https://farm1.static.flickr.com/846/29160421198_09ed68316e_s.jpg onClick='showLoading();updateImage("https://farm1.static.flickr.com/846/29160421198_09ed68316e_m.jpg","Follow+the+Neon+Arrow","www.flickr.com/photos/51035555243@N01/29160421198","Small","29160421198","09ed68316e")'><img border='0'  height='75' width='75' alt='Urban+Lights' src=https://farm2.static.flickr.com/1861/44096507082_a41ed2beec_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1861/44096507082_a41ed2beec_m.jpg","Urban+Lights","www.flickr.com/photos/24337668@N07/44096507082","Small","44096507082","a41ed2beec")'><img border='0'  height='75' width='75' alt='Venice+Beach%2C+LA%2C+CA.' src=https://farm2.static.flickr.com/1797/42957829701_165459cb29_s.jpg onClick='showLoading();updateImage("https://farm2.static.flickr.com/1797/42957829701_165459cb29_m.jpg","Venice+Beach%2C+LA%2C+CA.","www.flickr.com/photos/129893691@N07/42957829701","Small","42957829701","165459cb29")'><br /><div id="instructions">click on a thumbnail for details (be patient, it may take a few seconds to load)</div><div id='container_buttons'><a href="index.php?terms=losangeles&page=2&edit=yes&com=no" class="navbutton navbutton1">next 30</a><br></div><br>
+       </div>
+      <div id="right">
+        <br />
+        <div class="info">          Search for
+          <a href="http://creativecommons.org/">CC</a>          images on flickr &nbsp;
+        </div>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function resetPage() {
+//alert("prior to call: "+document.getElementById("page").value);
+document.getElementById("page").value = '1';
+//alert("after call: "+document.getElementById("page").value);
+}
+// -->
+</SCRIPT>
+        <h1>
+          <form method='get'>            &nbsp;
+            <input type="text" name="terms" size="10" value="losangeles" onChange="resetPage()">
+            <input type='submit' value='Find'>
+            <span class="info">              for editing
+              <input type='checkbox' name='edit' value='yes'  checked >
+              commercial
+              <input type='checkbox' name='com' value='yes' >
+            </span>
+            <input type='hidden' name='page' id='page' value='1'>
+          </form></h1>
+<div id='fimg'><div id="pinit" style="float:right; margin-right:15px; margin-top: 5px;"><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fflickrcc.net%2FflickrCC%2Findex.php%3Fterms%3Dlosangeles%26edit%3Dyes%26page%3D1&media=https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_m.jpg&description=Image%3A%20'LBB'%20found%20on%20flickrcc.net" class="pin-it-button" count-layout="none" target="_blank"  rel="nofollow"><img border="0" src="http://assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></div><div id='editblock'><h3>Attribution:</h3><div id='attribution'>Image: '<a href='http://www.flickr.com/photos/36512168@N00/30999543097'   itemprop="url" target='_blank' rel='nofollow'>LBB</a>' <br />http://www.flickr.com/photos/36512168@N00/30999543097<br>Found on <a href='http://flickrcc.net/flickrCC/index.php?terms='>flickrcc.net</a></div><p><div id="editurl">
+        <a href="#" onclick="return launchEditor('editableimage1', 'https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_m.jpg');" rel="nofollow">Edit</a></div> Right click and select "save image" for a copy</p><p /><img id="editableimage1" itemprop="image" border="0" align="center" name="flkrimg" src="https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_m.jpg" alt="LBB" /><p><div id='sizes'><a href='#' onClick='showLoading();updateImage("https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_s.jpg","LBB","www.flickr.com/photos/36512168@N00/30999543097","Square","30999543097","29e04b74d4");' rel='nofollow'>Square</a> - <a href='#' onClick='showLoading();updateImage("https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_t.jpg","LBB","www.flickr.com/photos/36512168@N00/30999543097","Thumbnail","30999543097","29e04b74d4");' rel='nofollow'>Thumbnail</a> - Small - <a href='#' onClick='showLoading();updateImage("https://farm5.static.flickr.com/4820/30999543097_29e04b74d4.jpg","LBB","www.flickr.com/photos/36512168@N00/30999543097","Medium","30999543097","29e04b74d4");' rel='nofollow'>Medium</a> - <a href='#' onClick='showLoading();updateImage("https://farm5.static.flickr.com/4820/30999543097_29e04b74d4_b.jpg","LBB","www.flickr.com/photos/36512168@N00/30999543097","Large","30999543097","29e04b74d4");' rel='nofollow'>Large</a> - <a href='#' onClick='showLoading();updateImage("https://farm5.static.flickr.com/4820/30999543097__o.","LBB","www.flickr.com/photos/36512168@N00/30999543097","Original","30999543097","29e04b74d4");' rel='nofollow'>Original</a></div></p></div></div>
+      </div>
+      <div id="copyright">
+        <!--Creative Commons License-->        This site is created and run under a
+        <a rel="license" href="http://creativecommons.org/licenses/by/2.5/">Creative Commons Attribution 2.5  License</a>
+        <!--/Creative Commons License-->
+        <!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <Work rdf:about="">
+        <license rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+        </Work>
+        <License rdf:about="http://creativecommons.org/licenses/by/2.5/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/></License></rdf:RDF> -->        by
+        <a href="http://bluemountains.net/botheredbybees/index.html">Peter Shanks</a>
+         <script charset="utf-8" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type='text/javascript'>
+document.write('<scr' + 'ipt charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336891280&toolId=10026&keyword=&width=923&height=90&font=1&textColor=000000&linkColor=FF6600&arrowColor=FF6600&color1=000000&color2=dddddd&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=n&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=&disWithin=200&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '"></scr' + 'ipt>' );
+</script>
+            <p>
+    
+    </p>
+      </div>
+    </div>
+      <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-114086-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!-- Load Feather code -->
+<script type="text/javascript" src="http://feather.aviary.com/js/feather.js"></script>
+
+<!-- Instantiate Feather -->
+<script type="text/javascript">
+        var featherEditor = new Aviary.Feather({
+            apiKey: '88f2a6178',
+            apiVersion: 3,
+            tools: 'all',
+            appendTo: '',
+            onSave: function(imageID, newURL) {
+                var img = document.getElementById(imageID);
+                img.src = newURL;
+            }
+        });
+
+        function launchEditor(id, src) {
+            featherEditor.launch({
+                image: id,
+                url: src
+            });
+            return false;
+        }
+        var terms = "losangeles";</script>
+  </body>
+</html>

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://api.mapbox.com" />
+<link rel="dns-prefetch" href="https://a.tiles.mapbox.com" />
+<link rel="dns-prefetch" href="https://b.tiles.mapbox.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="description" content="Chatham Square est un parc et est à proximité de Governor Alfred E Smith Houses et Two Bridges. Chatham Square sur le site Mapcarta, la carte libre." />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="application-name" content="Mapcarta" />
+<meta name="apple-mobile-web-app-title" content="Mapcarta" />
+<meta property="og:url" content="https://mapcarta.com/fr/22570354" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1802/28326116517_30a698ebef_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1737/42008489254_c8044de7b5_b.jpg" />
+<meta property="og:image" content="https://farm7.staticflickr.com/6067/6049367284_cfc2fedf58_b.jpg" />
+<meta property="og:image" content="https://farm8.staticflickr.com/7391/9484466405_b35cb5a42d_b.jpg" />
+<meta property="og:image" content="https://farm1.staticflickr.com/891/42900582012_6ffc745b78_b.jpg" />
+<meta property="og:title" content="Chatham Square" />
+<meta property="og:description" content="Chatham Square est un parc et est à proximité de Governor Alfred E Smith Houses et Two Bridges. Chatham Square sur le site Mapcarta, la carte libre." />
+<meta property="og:site_name" content="Mapcarta" />
+<meta name="ICBM" content="40.71333, -73.99861" />
+<meta name="geo.position" content="40.71333;-73.99861" />
+<meta name="geo.placename" content="Chatham Square" />
+<link rel="canonical" href="https://mapcarta.com/fr/22570354" />
+<link rel="alternate" hreflang="de" href="https://mapcarta.com/de/22570354" />
+<link rel="alternate" hreflang="en" href="https://mapcarta.com/22570354" />
+<link rel="alternate" hreflang="es" href="https://mapcarta.com/es/22570354" />
+<link rel="alternate" hreflang="it" href="https://mapcarta.com/it/22570354" />
+<link rel="alternate" hreflang="pt" href="https://mapcarta.com/pt/22570354" />
+<title>Chatham Square : Carte - New York - Mapcarta</title>
+<script>
+var rosetta = {"months":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"weekdays":["di","lu","ma","me","je","ve","sa"],"units":["m\u00e8tre","m\u00e8tres","mille","milles","pied","pieds","seconde","secondes","minute","minutes","heure","heures"],"interface":["Rechercher","Chargement","Recherche","sur","Am\u00e9liorer cette carte","et","Les emplacements et les itin\u00e9raires sont fournis par *, et sont prot\u00e9g\u00e9s par copyright.","Voir sur la carte"],"titles":["* : Carte","* : Itin\u00e9raires","* : H\u00f4tels","H\u00f4tels pr\u00e8s de *","* : Photos","Photos pr\u00e8s de *"],"atlas":["Standard","Satellite","Traffic","Voiture","V\u00e9lo","\u00c0 pied"],"label":["Localit\u00e9s","Attractions","Naturel","Transport","Eau","H\u00f4tels","Autre"],"itinerary":["Entrez les d\u00e9tails de votre voyage","pour trouver des offres d'h\u00f4tels et les disponibilit\u00e9s","pour trouver un itin\u00e9raire","Utilisez la carte pour d\u00e9finir votre destination","Modifier les d\u00e9tails du voyage"],"searching":["Recherche *","S\u00e9lectionnez cette site recommand\u00e9","S\u00e9lectionnez ces deux sites recommand\u00e9s","S\u00e9lectionnez vos 2 sites pr\u00e9f\u00e9r\u00e9s","pour voir *","les h\u00f4tels \u00e0 *","Nous recommandons *","pour les h\u00f4tels \u00e0 *.","Vous avez choisi * sites d'h\u00f4tels."],"hotels":["Ma destination","Dates de voyage","Personne","Personnes","Recherche d'h\u00f4tels","Trouvez l'h\u00f4tel id\u00e9al","\u00e0 *"],"photography":["Photos fournies par * sous le copyright de leurs propri\u00e9taires.","Copyright","* utilise la Flickr API mais n'est ni soutenu, ni certifi\u00e9 par Flickr.","Veuillez nous contacter si vous pr\u00e9f\u00e9rez supprimer vos photos Flickr de *."],"fail":["Une erreur est survenue.","Les d\u00e9tails de votre voyage sont incomplets.","Essayez de nouveau.","Nous ne pouvons pas trouver votre point de d\u00e9part ou d'arriv\u00e9e.","Aucun itin\u00e9raire n'est disponible entre ces deux endroits.","Vos points de d\u00e9part et d'arriv\u00e9e sont trop \u00e9loign\u00e9s.","Aucune photos n'est disponible pour cet endroit."],"aboutsite":"\u00c0 propos de Mapcarta"};
+var phase = 0, queue = null, language = "fr", sitename = "Mapcarta", siteurl = "mapcarta.com", abouturi = "%C3%80_propos_de_Mapcarta", mapstyle = 0, testing = false, hasads = [true,true,true,true,true,true], gplace = false, monday = false, country = "us", separators = [","," "], mbtoken = "pk.eyJ1IjoiY3licml3c2t5IiwiYSI6ImNqZ3k3c2UxajEwMmsyd280dzk4azM0NTcifQ.78YbjrPjSONzuqWG4-CIGA", viewnames = {"photo":"Photos","stay":"H\u00f4tels","results":"Rechercher","map":"Carte","plot":"Itin\u00e9raires","driving":"Voiture","cycling":"V\u00e9lo","walking":"\u00c0 pied","main":"Panorama","album":"Galerie"}, routes = ["driving","cycling","walking"], pageid = "22570354", searchvalue = "Rechercher", viewtype = "main", albumid = null, plotmode = 0, present = [19,11,2018], checkin = [30,11,2018], checkout = [2,12,2018], guests = 2, pages = {};
+/* start import */pages[pageid] = {
+	"pagename":"Chatham Square",
+	"pageuri":"22570354",
+	"tongue":"/22570354",
+	"lat":40.71333,
+	"lng":-73.99861,
+	"zoom":13,
+	"islocation":true,
+	"mappable":true,
+	"hyperlocal":true,
+	"markerclass":13,
+	"imperial":false,
+	"country":"United States",
+	"locality":false,
+	"landmark":true,
+	"feature":"park",
+	"featureclass":"n",
+	"hotelplace":false,
+	"maintitle":"Chatham Square : Carte - New York - Mapcarta",
+	"mapsummary":"<a onclick=\"act('main'); return false;\" href=\"/fr/22570354\" title=\"Chatham Square\" rel=\"noopener\">Chatham Square</a> est un parc et est à proximité de <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/fr/22583568\" title=\"Governor Alfred E Smith Houses\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Governor Alfred E Smith Houses</span></a></span> et <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/fr/29218626\" title=\"Two Bridges\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Two Bridges</span></a></span>.",
+	"spot":"New_York_City",
+	"spots":{"New_York_City":"New York, New York","Weehawken":"Weehawken, New Jersey (6 km au nord)","Jersey_City":"Jersey City, New Jersey (7 km \u00e0 l'ouest)","Hoboken":"Hoboken, New Jersey (4\u00bd km au nord-ouest)","Secaucus":"Secaucus, New Jersey (10 km au nord-ouest)"},
+	"ph0t0s":["22570354"],
+	"photodata":{"22570354":["22570354","22570354","40.71333,-73.99861,13"]},
+	"pics":{"22570354":[{"id":28326116517,"secret":"30a698ebef","server":1802,"farm":2,"title":"New York City - Brooklyn Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"133876835@N08","ownername":"Michael.Kemper"},{"id":42008489254,"secret":"c8044de7b5","server":1737,"farm":2,"title":"Jane's Carousel","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"40712515@N08","ownername":"Z!SL"},{"id":6049367284,"secret":"cfc2fedf58","server":6067,"farm":7,"title":"Light trails by the Brooklyn Bridge HDR","ratio":1.5060000000000000053290705182007513940334320068359375,"owner":"30989531@N06","ownername":"Dave DiCello"},{"id":9484466405,"secret":"b35cb5a42d","server":7391,"farm":8,"title":"Brooklyn Bridge in Rain","ratio":1.3280000000000000692779167366097681224346160888671875,"owner":"8024836@N04","ownername":"Roy Cheung Photography"},{"id":42900582012,"secret":"6ffc745b78","server":891,"farm":1,"title":"Broome Street","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"142995416@N07","ownername":"erichudson78"},{"id":28671320968,"secret":"6640c37ddc","server":1743,"farm":2,"title":"Brooklyn Bridge details","ratio":1.504000000000000003552713678800500929355621337890625,"owner":"47939277@N05","ownername":"kareszzz"},{"id":42188573851,"secret":"5b2906ed8b","server":972,"farm":1,"title":"Tribeca Tavern","ratio":0.79500000000000003996802888650563545525074005126953125,"owner":"149819905@N03","ownername":"MassiveKontent"},{"id":42892279012,"secret":"73a74c5bf2","server":1840,"farm":2,"title":"The Oculus","ratio":1.778000000000000024868995751603506505489349365234375,"owner":"32008328@N08","ownername":"Ian D. Keating"},{"id":29340729138,"secret":"677a7c33ed","server":1764,"farm":2,"title":"East River fish","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"142995416@N07","ownername":"erichudson78"},{"id":28883360978,"secret":"d96ab690da","server":1755,"farm":2,"title":"Gateway to the City","ratio":1.29000000000000003552713678800500929355621337890625,"owner":"143838215@N06","ownername":"ADFitz1967"}]}
+};/* end import */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create','UA-4656078-5');
+ga('set','anonymizeIp',true);
+function fields(a) { var i = pages[pageid]; if (i.islocation) { if (i.country) { a.dimension1 = i.country; } a.dimension2 = i.locality ? 'Locality' : (i.landmark ? 'Landmark' : 'Place'); a.dimension3 = i.feature; a.dimension4 = i.featureclass; } return a; }
+ga('send','pageview',fields({}));
+function domload() { if (phase < 2) { phase += 2; if (phase === 3) { initiate(); } } }
+if (document.addEventListener) { document.addEventListener('DOMContentLoaded',domload,false); }
+function act(i) { if (phase === 5) { launch(i); } else { queue = i; } }
+function noads() { if (hasads.length) { hasads = []; if (phase === 5) { setads(); } } }
+</script>
+<link rel="stylesheet" type="text/css" href="/static/874.css" />
+<link rel="shortcut icon" href="https://mapcarta.com/favicon.ico" />
+<link rel="apple-touch-icon" href="https://mapcarta.com/icons/appicon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://mapcarta.com/icons/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mapcarta.com/icons/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://mapcarta.com/icons/icon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://mapcarta.com/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://mapcarta.com/icons/icon-512.png">
+<script async src="/static/874.js"></script>
+</head>
+<body onload="domload();" class="pagemode mappage mainview" onclick="if (phase === 5) { checkclose(event); } return true;">
+<script id="adsscript" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noads();"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client:'ca-pub-3417291128493297',
+enable_page_level_ads:true
+});
+window.google_analytics_uacct = "UA-4656078-5";
+</script>
+<div id="pagebox">
+<div id="backbox">
+<div id="headbox" class="withtongue">
+<a href="/fr/" title="Mapcarta" class="pagelogo" rel="noopener"></a>
+<div class="searchbar"><form action="https://google.com/cse" onsubmit="if (phase === 5) { submitsearch(this); } return false;"><input type="hidden" name="cx" value="004731645928269741811:fyuxcdbjhee" /><input type="hidden" name="ie" value="UTF-8" /><div class="searchsubmit"><input type="image" class="searcharea" src="/images/clear.gif" alt="Rechercher" name="sa" /><span class="ikon searchicon"></span></div><input class="searchfield" name="q" maxlength="47" value="Rechercher" onfocus="this.value = '';" onblur="if (!this.value) { this.value = searchvalue; }" autocomplete="off" /></form></div>
+<div class="stayleader">Hôtels</div>
+<a href="/22570354" title="in English" id="tongue" rel="noopener"><span class="ikon enicon"></span></a>
+</div>
+<div class="helmbox">
+<div class="helmdouble firstblock"><div class="mainbutton helmblock"><a onclick="act('main'); return false;" href="/fr/22570354" title="Panorama" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Panorama</span></a></div><div class="mapbutton helmblock helmright"><a onclick="act('map'); return false;" title="Carte" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Carte</span></a></div></div>
+<div class="helmdouble lastblock"><div class="staybutton helmblock"><a onclick="act('Button'); return false;" title="Hôtels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hôtels</span></a></div><div class="photobutton helmblock helmright"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Itinéraires" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Itinéraires</span></a></div></div>
+<div class="helmsingle"><span class="mainbutton"><a onclick="act('main'); return false;" href="/fr/22570354" title="Panorama" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Panorama</span></a></span><span class="mapbutton"><a onclick="act('map'); return false;" title="Carte" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Carte</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hôtels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hôtels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Itinéraires" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Itinéraires</span></a></span></div>
+</div>
+<div id="breadcrumbs">
+<!-- start breadcrumbs -->
+<div class="pillbox" itemscope itemtype="https://schema.org/BreadcrumbList">
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/fr/Am%C3%A9rique_du_Nord" title="Amérique du Nord" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Amérique du Nord</span><meta itemprop="position" content="1" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/fr/%C3%89tats-Unis" title="États-Unis" class="pill" itemprop="item" rel="noopener"><span itemprop="name">États-Unis</span><meta itemprop="position" content="2" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/fr/Mid-Atlantique" title="Mid-Atlantique" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Mid-Atlantique</span><meta itemprop="position" content="3" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/fr/New_York_%28%C3%89tat%29" title="New York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">New York</span><meta itemprop="position" content="4" /></a></span>
+<div class="clearboth"></div>
+</div>
+<!-- end breadcrumbs -->
+</div>
+<div id="mainbox" itemscope itemtype="https://schema.org/Place">
+<!-- start mainbox -->
+<h1><span itemprop="name">Chatham Square</span></h1>
+<div class="pod backdrop podback"><div class="headpouch icyshade"><span itemprop="description">Chatham Square est un parc et est à proximité de <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/22583568" title="Governor Alfred E Smith Houses" itemprop="url" rel="noopener"><span itemprop="name">Governor Alfred E Smith Houses</span></a></span>, <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/29218626" title="Two Bridges" itemprop="url" rel="noopener"><span itemprop="name">Two Bridges</span></a></span> et <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/29218628" title="Civic Center" itemprop="url" rel="noopener"><span itemprop="name">Civic Center</span></a></span>. Chatham Square est aussi proche de <span itemscope itemtype="https://schema.org/Place"><a href="/fr/26799868" title="Kimlau Square" itemprop="url" rel="noopener"><span itemprop="name">Kimlau Square</span></a></span>, <span itemscope itemtype="https://schema.org/Place"><a href="/fr/27414168" title="Saint James Square" itemprop="url" rel="noopener"><span itemprop="name">Saint James Square</span></a></span> et <span itemscope itemtype="https://schema.org/Place"><a href="/fr/26799870" title="Alfred E Smith Playground" itemprop="url" rel="noopener"><span itemprop="name">Alfred E Smith Playground</span></a></span>. Chatham Square a une altitude de 9 mètres.</span></div><div class="tailpouch"><div class="helmdouble firstblock"><div class="mapbutton helmblock"><a onclick="act('map'); return false;" title="Carte" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Carte</span></a></div><div class="staybutton helmblock helmright"><a onclick="act('Button'); return false;" title="Hôtels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hôtels</span></a></div></div>
+<div class="helmdouble lastblock"><div class="photobutton helmblock"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Itinéraires" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Itinéraires</span></a></div></div>
+<div class="helmsingle"><span class="mapbutton"><a onclick="act('map'); return false;" title="Carte" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Carte</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hôtels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hôtels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Itinéraires" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Itinéraires</span></a></span></div>
+</div></div>
+<div id="blurb0" class="plug"></div>
+<h2 id="photoheading">Photos près de Chatham Square</h2>
+<div id="corebox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Chargement…</td></tr></table></div>
+<h2>Chatham Square</h2>
+<div class="pod pouch shaded"><ul>
+<li>Type : un parc</li>
+<li>Lieu : <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/New_York_%28%C3%89tat%29" title="New York" itemprop="url" rel="noopener"><span itemprop="name">New York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Mid-Atlantique" title="Mid-Atlantique" itemprop="url" rel="noopener"><span itemprop="name">Mid-Atlantique</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/%C3%89tats-Unis" title="États-Unis" itemprop="url" rel="noopener"><span itemprop="name">États-Unis</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Am%C3%A9rique_du_Nord" title="Amérique du Nord" itemprop="url" rel="noopener"><span itemprop="name">Amérique du Nord</span></a></span></li>
+<li>Latitude : <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="latitude">40°&nbsp;42'&nbsp;48" (40,7133°) nord</span></span></li>
+<li>Longitude : <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="longitude">73°&nbsp;59'&nbsp;55" (73,9986°) ouest</span></span></li>
+<li>Altitude : <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="elevation">9 mètres (30 pieds)</span></span></li>
+</ul></div>
+<h2>New York : Hôtels</h2>
+<div class="subline texthue"><b class="hue">✓</b> Trouvez l'hôtel idéal à New York</div>
+<div class="pod stayform backdrop stayback"><div class="pouch frostyshade"><form onsubmit="act('Preset Search'); return false;"><div class="formarea"><div class="formdetails"><div class="formdate formspaced"><div class="forminfo">Dates de voyage</div><div class="formbase"><input value="11/30 – 12/2" id="spreadcal" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" readonly="readonly" /></div></div><div class="formguests formspaced"><div class="forminfo">Personnes</div><div class="formbase"><input value="2" id="spreadguests" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" size="1" maxlength="1" /></div></div></div><div class="formbutton"><a onclick="act('Preset Search'); return false;" title="Recherche d'hôtels" class="button" rel="noopener"><span class="formcut"><span class="withicon"><span class="ikon whitesearchicon"></span>Recherche<wbr /> d'hôtels</span></span></a></div></div></form></div></div>
+<h2>Chatham Square : Cartes</h2>
+<div class="pod pouch shaded"><ul>
+<li><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.openstreetmap.org/#map=13/40.71333/-73.99861" title="OpenStreetMap" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon osmicon"></span>OpenStreetMap</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.google.com/maps/@40.71333,-73.99861,13z" title="Google Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon gmapsicon"></span>Google Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://wego.here.com/?map=40.71333,-73.99861,13" title="Here WeGo" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon hereicon"></span>Here WeGo</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.bing.com/maps/?cp=40.71333~-73.99861&amp;lvl=13&amp;where1=Chatham+Square" title="Bing Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon bingicon"></span>Bing Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.mapquest.com/?center=40.71333,-73.99861&amp;zoom=13" title="MapQuest" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon mapquesticon"></span>MapQuest</span></a></span></li>
+</ul></div>
+<h2>Localités dans la zone</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/22583568" title="Governor Alfred E Smith Houses" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Governor Alfred E Smith Houses</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/29218626" title="Two Bridges" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Two Bridges</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/29218628" title="Civic Center" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Civic Center</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/22592866" title="Knickerbocker Village" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Knickerbocker Village</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Chinatown_de_Manhattan" title="Chinatown de Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Chinatown de Manhattan</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/25010682" title="Hester - Allen Turnkey Housing" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Hester - Allen Turnkey Housing</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/22595084" title="Little Italy" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Little Italy</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Points de repère dans la zone</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/26799868" title="Kimlau Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Kimlau Square</span>&nbsp; <span class="addendum texthue">un parc</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/27414168" title="Saint James Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Saint James Square</span>&nbsp; <span class="addendum texthue">un parc</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/26799870" title="Alfred E Smith Playground" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Alfred E Smith Playground</span>&nbsp; <span class="addendum texthue">un parc, 150 mètres au sud-est</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/26799872" title="James Madison Plaza" class="pill" itemprop="url" rel="noopener"><span itemprop="name">James Madison Plaza</span>&nbsp; <span class="addendum texthue">un parc, 260 mètres au sud-ouest</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/35985996" title="Colombus Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Colombus Park</span>&nbsp; <span class="addendum texthue">un parc, 280 mètres au nord-ouest</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/26799874" title="Alfred E Smith Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Alfred E Smith Park</span>&nbsp; <span class="addendum texthue">un parc, 300 mètres au sud-est</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/26800022" title="Thomas Paine Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Thomas Paine Park</span>&nbsp; <span class="addendum texthue">un parc, 380 mètres au nord-ouest</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Aussi dans la zone</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/22616766" title="Saint Margaret's House" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Saint Margaret's House</span>&nbsp; <span class="addendum texthue">un bâtiment</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/22597706" title="Mariners Temple" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Mariners Temple</span>&nbsp; <span class="addendum texthue">une église</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/25023934" title="Oliver Street Baptist Church" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Oliver Street Baptist Church</span>&nbsp; <span class="addendum texthue">une église</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/22605324" title="One Police Plaza Heliport" class="pill" itemprop="url" rel="noopener"><span itemprop="name">One Police Plaza Heliport</span>&nbsp; <span class="addendum texthue">un héliport</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/22570356" title="Chatham Towers" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Chatham Towers</span>&nbsp; <span class="addendum texthue">un bâtiment, 110 mètres à l'ouest</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/22599062" title="Metro Communications Center" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Metro Communications Center</span>&nbsp; <span class="addendum texthue">un bâtiment, 130 mètres au nord</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/fr/26849896" title="Saint James School" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Saint James School</span>&nbsp; <span class="addendum texthue">une école, 130 mètres au sud</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Destinations populaires à <span itemprop="name">New York</span></h2>
+<div class="pod pouch shaded"><div itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><div class="pillbox">
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/New_York" title="New York" class="pill" itemprop="url" rel="noopener"><span itemprop="name">New York</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Buffalo_%28New_York%29" title="Buffalo" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Buffalo</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Manhattan" title="Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Manhattan</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Rochester" title="Rochester" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rochester</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Binghamton" title="Binghamton" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Binghamton</span></a></span>
+<div class="clearboth"></div>
+</div>
+<meta itemprop="url" content="https://mapcarta.com/fr/New_York_%28%C3%89tat%29" /></div></div>
+<h2>S'échapper dans un endroit au hasard</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Ueno" title="Ueno" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Ueno</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Fribourg-en-Brisgau" title="Fribourg-en-Brisgau" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Fribourg-en-Brisgau</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Bath" title="Bath" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Bath</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Verbier" title="Verbier" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Verbier</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/fr/Singapour" title="Singapour" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Singapour</span><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="blurb1" class="plug"></div>
+<h2>Votre monde est sans frontières</h2>
+<div class="pod pouch shaded"><div class="languagelist"><a href="/de/22570354" title="Deutsch" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon deicon"></span>Deutsch</span></a><a href="/22570354" title="English" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon enicon"></span>English</span></a><a href="/es/22570354" title="Español" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon esicon"></span>Español</span></a><a href="/it/22570354" title="Italiano" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon iticon"></span>Italiano</span></a><a href="/pt/22570354" title="Português" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon pticon"></span>Português</span></a></div></div>
+<div class="spacer3"></div>
+<div class="pod pouch footerpod"><a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" title="licence Creative Commons Attribution - Partage dans les mêmes conditions" class="cclink" rel="noopener"><span class="cclogo"></span></a>Les textes est disponibles sous <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" title="licence Creative Commons Attribution - Partage dans les mêmes conditions" rel="noopener">licence Creative Commons Attribution - Partage dans les mêmes conditions</a>, excluant des photos, des itinéraires et la carte.<div class="spacer1"></div><a href="/fr/%C3%80_propos_de_Mapcarta" title="À propos de Mapcarta" rel="noopener">À propos de Mapcarta</a>. Merci à <a target="_blank" href="https://www.mapbox.com" title="Mapbox" rel="noopener">Mapbox</a> pour fourni des cartes incroyables. Photos fournies par <a target="_blank" href="https://www.flickr.com" title="Flickr" rel="noopener">Flickr</a> sous le copyright de leurs propriétaires. Mapcarta utilise la Flickr API mais n'est ni soutenu, ni certifié par Flickr. Veuillez nous contacter si vous préférez supprimer vos photos Flickr de Mapcarta.<meta itemprop="image" content="https://farm2.staticflickr.com/1802/28326116517_30a698ebef_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1737/42008489254_c8044de7b5_b.jpg" /><meta itemprop="image" content="https://farm7.staticflickr.com/6067/6049367284_cfc2fedf58_b.jpg" /><meta itemprop="image" content="https://farm8.staticflickr.com/7391/9484466405_b35cb5a42d_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/891/42900582012_6ffc745b78_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1743/28671320968_6640c37ddc_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/972/42188573851_5b2906ed8b_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1840/42892279012_73a74c5bf2_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1764/29340729138_677a7c33ed_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1755/28883360978_d96ab690da_b.jpg" /></div>
+<!-- end mainbox -->
+</div>
+<div id="hotelbox"></div>
+<div id="resultsbox"></div>
+<div id="noticebox"></div>
+<div id="photobox"></div>
+<div id="plotbox"></div>
+</div>
+</div>
+<div id="mapbox" class="pick0"></div>
+<div id="albumbox"></div>
+<div id="checksplit" class="checkunit"></div>
+<div id="checkmini" class="checkunit"></div>
+<div id="checksingle" class="checkunit"></div>
+<div id="checkad" class="checkunit"></div>
+<div id="checkphoto" class="checkunit"></div>
+<!-- Complete -->
+</body>
+</html>

@@ -1,0 +1,914 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta charset="utf-8">
+
+<title>iOS8 could have an impact on FinTech, Gareth Jones</title>
+<meta name="description" content="	With iOS 8 installed on thousands of developer devices, details about the operating system continue to leak out. Some features could..."/>
+
+
+
+    
+
+
+    <link rel="canonical" href="http://news.fintech.io/post/102byoo/ios8-could-have-an-impact-on-fintech" />
+
+    
+            <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://s3.amazonaws.com/passle-net/53304eb43d9474057cbfc02a/52f296573d94740e7409af5d/2014-06-19-2-55-39-538-logo_5000x500.png" />
+        <meta prefix="og: http://ogp.me/ns#" property="og:image:width" content="500" />
+        <meta prefix="og: http://ogp.me/ns#" property="og:image:height" content="142" />
+
+
+
+<meta prefix="og: http://ogp.me/ns#" property="og:title" content="iOS8 could have an impact on FinTech (via Passle)" />
+
+<meta prefix="og: http://ogp.me/ns#" property="og:site_name" content="Passle" />
+
+<meta prefix="og: http://ogp.me/ns#" property="og:url" content="http://news.fintech.io/post/102byoo/ios8-could-have-an-impact-on-fintech" />
+
+<meta prefix="og: http://ogp.me/ns#" property="og:description" content="	With iOS 8 installed on thousands of developer devices, details about the operating system continue to leak out. Some features could have an impact on..." />
+
+<meta prefix="og: http://ogp.me/ns#" property="og:type" content="article" />
+
+<meta prefix="og: http://ogp.me/ns#" property="og:locale" content="en_GB" />
+
+
+<meta property="fb:app_id" content="467000850008038" />
+<meta property="fb:admins" content="736991176" />
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="&#64;passle">
+<meta name="twitter:url" content="http://news.fintech.io/post/102byoo/ios8-could-have-an-impact-on-fintech">
+<meta name="twitter:title" content="iOS8 could have an impact on FinTech">
+<meta name="twitter:description" content="	With iOS 8 installed on thousands of developer devices, details about the operating system continue to leak out. Some features could have an impact on...">
+    <meta property="twitter:image" content="https://s3.amazonaws.com/passle-net/53304eb43d9474057cbfc02a/52f296573d94740e7409af5d/2014-06-19-2-55-39-538-logo_5000x500.png" />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no">
+
+    
+
+    
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Open+Sans:300,400,600,700|Sansita+One:400,600,700">
+    
+<link rel="stylesheet" href="https://dukb55syzud3u.cloudfront.net/Content/fontawesome/all.min.css?v=5.3.1">
+
+
+
+    <link id="favicon" rel="shortcut icon" type="image/x-icon" href="https://passle-net.s3.amazonaws.com/CustomDesign/53304eb43d9474057cbfc02a/favicon.ico" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Content/bootstrap/ico/apple-touch-icon-114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content/bootstrap/ico/apple-touch-icon-72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" href="/Content/bootstrap/ico/apple-touch-icon-72-precomposed.png" />
+
+    <link href="https://dukb55syzud3u.cloudfront.net/SiteBundle?v=TxhlgkOhqOyuv7FJ5vp9rKCMoGbeupp2PVhWizO8pg01" rel="stylesheet">
+    
+    <link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+    <link href="https://dukb55syzud3u.cloudfront.net/PostBundle?v=cLWbErG8uF4hm_mc2ulpxZ-hJAe-v9MSoWi0ml8mqP81" rel="stylesheet">
+
+
+<link href="https://dukb55syzud3u.cloudfront.net/CustomCSS/CustomPassleCSS?passleShortcode=2d6q&version=1" rel="stylesheet" type="text/css" media="screen"/>
+<link href="https://dukb55syzud3u.cloudfront.net/CustomCSS/CustomDesignCSS?passleShortcode=2d6q&version=1" rel="stylesheet" type="text/css" media="screen"/>        <script>
+var _prum = [['id', '55196273abe53d497731abbc'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-35515402-1', 'auto', { 'name': 'passleTracker' });
+    ga('passleTracker.send', 'pageview');
+
+    ga('create', 'UA-48563221-5', 'auto', { 'name': 'clientTracker' });
+    ga('clientTracker.send', 'pageview');
+</script>
+
+
+        <!--[if lte IE 8]>
+            <script>for(var e,l='article aside footer header main nav section time'.split(' ');e=l.pop();document.createElement(e))</script>
+            <script src="/Scripts/Plugins/html5shiv.js"></script>
+        <![endif]-->
+        
+    </head>
+
+    <body class="passle-body">
+        <input type="hidden" name="InMobileApp" id="InMobileApp" value="false" />
+
+        <!-- b/_Layout -->
+        
+        <div id="passleweb-iframe-container" class="hide"></div>
+
+            <div id="passle-page-wrapper">
+                <div class="client-content">
+                    <section id='section-1'>
+  <div class='logo-row'>
+    <div class='header-logo'>
+      <a href="http://www.fintech.io">
+        <img alt="Fintech logo" src="http://passle-net.s3.amazonaws.com/CustomDesign/53304eb43d9474057cbfc02a/fintech_logo-ac7db375acfaa280fec3e7d8cd76c1e0.png" />
+      </a>
+    </div>
+  </div>
+</section>
+                </div>
+                <div class="passle-content" >
+                    
+
+<div class="passle-2d6q">
+
+        <div class="responsive-container clearfix">
+            
+
+    <div class="public-header">
+
+                <h3 class="passle-title text-title">News by FinTech Collective</h3>
+
+        <div class="clearfix">
+            <div class="header-nav-container">
+                <ul class="header-nav-mobile-button">
+                    <li><a href="#"><i class="fas fa-bars fa-2x"></i></a></li>
+                </ul>
+                <ul class="header-nav">
+                                            <li>
+                            <a href="#" class="passle-follow" data-shortcode="2d6q" data-hasvalidnewsletter="False">
+                                <svg viewBox="0 0 1013.5 853.40004">
+    <g id="g3" transform="translate(-293.2,-348.8)">
+        <path d="m 1304.5,1116.1 c -19.4,2.9 -38.7,6.3 -58.2,8.6 -28.5,3.4 -57.1,3.1 -85.7,1 -27.1,-2 -52.1,-10 -75.7,-23.2 -32.8,-18.3 -61.2,-42.2 -87.3,-69 -4.4,-4.5 -8.6,-9.2 -13.3,-14.3 2.1,-0.4 3.3,-0.7 4.6,-0.8 17.2,-1.9 34.3,-3.5 51.5,-5.7 31.1,-4.1 61.8,-10.2 92,-18.9 25.3,-7.3 49.9,-16.2 72.2,-30.4 39.3,-25.2 55.3,-61.6 50.2,-107.5 -2.7,-23.7 -11.7,-45.3 -23.8,-65.7 -22,-37.1 -51.9,-67.1 -85.8,-93.2 -0.3,-0.3 -0.8,-0.3 -1.9,-0.7 1.1,1.8 1.7,2.7 2.4,3.8 12.3,19 23.2,38.9 32,59.8 11.1,26.4 20.1,53.3 19.1,82.5 -0.7,20.5 -7.9,38 -23,52.1 -31.4,29.3 -68.5,41.6 -111.1,36.3 -32.5,-4.1 -59.6,-18.6 -81.3,-43.1 -2.5,-2.9 -4.8,-3.2 -8.2,-2.5 -31.8,6.3 -62.5,3.1 -91.7,-11.5 C 851,858.5 828.6,834.1 814,801 c -3.3,-7.6 -5.3,-15.6 -6.6,-23.8 -0.6,-3.7 -1.9,-5.4 -5.7,-4.9 -0.5,0.1 -1.1,0.1 -1.6,0.1 -0.5,0 -1.1,0 -1.6,-0.1 -3.8,-0.5 -5.1,1.2 -5.7,4.9 -1.4,8.2 -3.3,16.2 -6.6,23.8 -14.5,33.1 -36.9,57.4 -67.5,72.7 -29.2,14.6 -59.9,17.8 -91.7,11.5 -3.4,-0.7 -5.7,-0.3 -8.2,2.5 -21.7,24.5 -48.8,39.1 -81.3,43.1 -42.6,5.3 -79.7,-7 -111.1,-36.3 -15.1,-14.1 -22.3,-31.6 -23,-52.1 -1,-29.1 8,-56.1 19.1,-82.5 8.8,-20.9 19.6,-40.8 32,-59.8 0.7,-1 1.2,-1.9 2.4,-3.8 -1.1,0.4 -1.6,0.5 -1.9,0.7 -33.9,26.2 -63.8,56.1 -85.8,93.2 -12.1,20.4 -21.1,42 -23.8,65.7 -5.2,45.9 10.8,82.3 50.2,107.5 22.3,14.3 47,23.1 72.2,30.4 30.1,8.7 60.9,14.9 92,18.9 17.1,2.2 34.3,3.8 51.5,5.7 1.3,0.1 2.5,0.4 4.6,0.8 -4.8,5.1 -8.9,9.8 -13.3,14.3 -26.1,26.8 -54.5,50.7 -87.3,69 -23.6,13.1 -48.6,21.2 -75.7,23.2 -28.6,2.1 -57.2,2.4 -85.7,-1 -19.5,-2.3 -38.8,-5.7 -58.2,-8.6 -0.6,-0.1 -1.3,-0.1 -2.5,-0.1 0.7,0.8 1.1,1.3 1.5,1.6 42.6,29.2 87.2,54.4 136.3,71.2 18.7,6.4 37.9,11.2 57.7,12.6 1.3,0.1 2.6,0.5 3.8,0.8 l 15.5,0 c 8.3,-1.5 16.7,-2.4 24.8,-4.6 23.9,-6.5 45.5,-18 66.6,-30.5 46.6,-27.6 89.5,-60.3 131.1,-94.8 20.2,-16.8 32.6,-34.3 52.5,-51.5 1.3,-1.1 3,-1.8 4.8,-1.8 5.6,-0.1 9.1,-0.1 12,-0.1 3,0 6.4,0.1 12,0.1 1.8,0 3.5,0.7 4.8,1.8 20,17.1 32.3,34.7 52.5,51.5 41.6,34.5 84.5,67.2 131.1,94.8 21.1,12.5 42.8,24 66.6,30.5 8.1,2.2 16.5,3.1 24.8,4.6 l 15.8,0 c 1.3,-0.3 2.6,-0.7 3.8,-0.8 19.9,-1.4 39,-6.2 57.7,-12.6 49,-16.8 93.7,-42 136.3,-71.2 0.5,-0.3 0.8,-0.8 1.5,-1.6 -0.9,0 -1.6,0 -2.2,0.1 z" id="path5" />
+        <path d="m 520.3,706.2 c 2.3,-5.7 4.5,-11.3 6.9,-16.7 5.5,-12.2 12.9,-23.2 21.7,-33.2 21.2,-24 47.4,-39.3 78.8,-44.8 41.3,-7.3 79.3,1.4 112.5,27.4 26.9,21.1 43.7,48.9 50.4,82.5 0.5,2.8 1.5,3.8 4.3,3.6 1.2,-0.1 2.5,-0.1 3.7,-0.1 1.3,0 2.5,0 3.8,0.1 2.9,0.2 3.8,-0.9 4.3,-3.6 6.7,-33.7 23.5,-61.4 50.4,-82.5 33.2,-26 71.2,-34.7 112.5,-27.4 31.4,5.5 57.7,20.8 78.8,44.8 8.9,10.1 16.2,21 21.7,33.2 2.4,5.4 4.6,11 6.9,16.7 0.3,-0.7 0.6,-1.1 0.7,-1.6 9.4,-38.3 12.7,-76.9 6.8,-116.1 -7.7,-50.7 -29,-94.9 -62.4,-133.5 C 1008.6,439.4 993,426.1 976.7,413.3 959,399.4 940.4,387 920.1,377.2 c -28,-13.5 -57.4,-22.3 -88.2,-26 -8,-0.9 -16,-1.6 -24,-2.4 -1.3,0 -2.6,0 -3.9,0 0,0 0,0 0,0 -4.9,0 -9.8,0 -14.7,0 -8,0.8 -16,1.5 -24,2.4 -30.9,3.7 -60.2,12.5 -88.2,26 -20.3,9.8 -38.8,22.1 -56.6,36.1 -16.3,12.8 -31.9,26 -45.4,41.7 -33.4,38.6 -54.7,82.9 -62.4,133.5 -5.9,39.2 -2.6,77.8 6.8,116.1 0.3,0.4 0.5,0.9 0.8,1.6 z" id="path7" />
+        <path d="m 944.9,629.6 c -67,-0.6 -118.3,53.1 -120,115.5 -1.8,67.4 52.5,122.4 118.8,122.3 66.4,-0.1 118.7,-53.9 118.8,-118.7 0.1,-65.1 -52.2,-118.5 -117.6,-119.1 z m -6.2,189.2 c -24.3,0 -43.6,-19.1 -43.6,-43.3 0,-24.7 18.8,-43.5 43.6,-43.5 22.5,-1.1 43.7,17.9 43.6,43.5 -0.3,24.4 -19.2,43.3 -43.6,43.3 z" id="path9" />
+        <path d="m 650.4,629.6 c -64.9,0.8 -117,53.2 -117.5,119 0.5,65.4 52.6,118.7 118.8,118.8 66.5,0.1 119.2,-54.2 119,-119.8 -0.2,-65 -54.2,-118.8 -120.3,-118 z m 7.9,189.2 c -24.4,0 -43.2,-19 -43.5,-43.3 -0.2,-24.4 20.2,-44.5 44.8,-43.6 23.6,0.8 42.4,19.5 42.3,43.7 0,24.2 -19.2,43.3 -43.6,43.2 z" id="path11" />
+    </g>
+</svg>
+                                <span>Follow</span>
+                            </a>
+                        </li>
+                    <li class="edit-button-container hidden">
+                            <a href="https://www.passle.net/editpost/102byoo" class="passle-edit edit-post">
+                                <i class="fas fa-pencil-alt"></i><span>Edit this post</span>
+                            </a>
+                            <a href="https://www.passle.net/passle/2d6q/news-by-fintech-collective" class="passle-edit manage-posts">
+                                <i class="fas fa-pencil-alt"></i><span>Manage Posts</span>
+                            </a>
+                    </li>
+                    <li><a href="/"><i class="fas fa-th"></i>All&nbsp;Posts</a></li>
+                        <li>
+                                <a href="#" class="about"><i class="fas fa-users"></i>Contributors</a>
+                        </li>
+                    <li><a href="#" class="archive"><i class="fas fa-calendar-alt"></i>Archive</a></li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="clearfix">
+            <ul class="header-nav-mobile">
+                <li><a href="/"><i class="fas fa-th"></i>All&nbsp;Posts</a></li>
+                    <li>
+                            <a href="#" class="about"><i class="fas fa-users"></i>Contributors</a>
+                    </li>
+                <li><a href="#" class="archive"><i class="fas fa-calendar-alt"></i>Archive</a></li>
+                    <li class="passle-follow" data-shortcode="2d6q" data-hasvalidnewsletter="False">
+                        <svg viewBox="0 0 1013.5 853.40004">
+    <g id="g3" transform="translate(-293.2,-348.8)">
+        <path d="m 1304.5,1116.1 c -19.4,2.9 -38.7,6.3 -58.2,8.6 -28.5,3.4 -57.1,3.1 -85.7,1 -27.1,-2 -52.1,-10 -75.7,-23.2 -32.8,-18.3 -61.2,-42.2 -87.3,-69 -4.4,-4.5 -8.6,-9.2 -13.3,-14.3 2.1,-0.4 3.3,-0.7 4.6,-0.8 17.2,-1.9 34.3,-3.5 51.5,-5.7 31.1,-4.1 61.8,-10.2 92,-18.9 25.3,-7.3 49.9,-16.2 72.2,-30.4 39.3,-25.2 55.3,-61.6 50.2,-107.5 -2.7,-23.7 -11.7,-45.3 -23.8,-65.7 -22,-37.1 -51.9,-67.1 -85.8,-93.2 -0.3,-0.3 -0.8,-0.3 -1.9,-0.7 1.1,1.8 1.7,2.7 2.4,3.8 12.3,19 23.2,38.9 32,59.8 11.1,26.4 20.1,53.3 19.1,82.5 -0.7,20.5 -7.9,38 -23,52.1 -31.4,29.3 -68.5,41.6 -111.1,36.3 -32.5,-4.1 -59.6,-18.6 -81.3,-43.1 -2.5,-2.9 -4.8,-3.2 -8.2,-2.5 -31.8,6.3 -62.5,3.1 -91.7,-11.5 C 851,858.5 828.6,834.1 814,801 c -3.3,-7.6 -5.3,-15.6 -6.6,-23.8 -0.6,-3.7 -1.9,-5.4 -5.7,-4.9 -0.5,0.1 -1.1,0.1 -1.6,0.1 -0.5,0 -1.1,0 -1.6,-0.1 -3.8,-0.5 -5.1,1.2 -5.7,4.9 -1.4,8.2 -3.3,16.2 -6.6,23.8 -14.5,33.1 -36.9,57.4 -67.5,72.7 -29.2,14.6 -59.9,17.8 -91.7,11.5 -3.4,-0.7 -5.7,-0.3 -8.2,2.5 -21.7,24.5 -48.8,39.1 -81.3,43.1 -42.6,5.3 -79.7,-7 -111.1,-36.3 -15.1,-14.1 -22.3,-31.6 -23,-52.1 -1,-29.1 8,-56.1 19.1,-82.5 8.8,-20.9 19.6,-40.8 32,-59.8 0.7,-1 1.2,-1.9 2.4,-3.8 -1.1,0.4 -1.6,0.5 -1.9,0.7 -33.9,26.2 -63.8,56.1 -85.8,93.2 -12.1,20.4 -21.1,42 -23.8,65.7 -5.2,45.9 10.8,82.3 50.2,107.5 22.3,14.3 47,23.1 72.2,30.4 30.1,8.7 60.9,14.9 92,18.9 17.1,2.2 34.3,3.8 51.5,5.7 1.3,0.1 2.5,0.4 4.6,0.8 -4.8,5.1 -8.9,9.8 -13.3,14.3 -26.1,26.8 -54.5,50.7 -87.3,69 -23.6,13.1 -48.6,21.2 -75.7,23.2 -28.6,2.1 -57.2,2.4 -85.7,-1 -19.5,-2.3 -38.8,-5.7 -58.2,-8.6 -0.6,-0.1 -1.3,-0.1 -2.5,-0.1 0.7,0.8 1.1,1.3 1.5,1.6 42.6,29.2 87.2,54.4 136.3,71.2 18.7,6.4 37.9,11.2 57.7,12.6 1.3,0.1 2.6,0.5 3.8,0.8 l 15.5,0 c 8.3,-1.5 16.7,-2.4 24.8,-4.6 23.9,-6.5 45.5,-18 66.6,-30.5 46.6,-27.6 89.5,-60.3 131.1,-94.8 20.2,-16.8 32.6,-34.3 52.5,-51.5 1.3,-1.1 3,-1.8 4.8,-1.8 5.6,-0.1 9.1,-0.1 12,-0.1 3,0 6.4,0.1 12,0.1 1.8,0 3.5,0.7 4.8,1.8 20,17.1 32.3,34.7 52.5,51.5 41.6,34.5 84.5,67.2 131.1,94.8 21.1,12.5 42.8,24 66.6,30.5 8.1,2.2 16.5,3.1 24.8,4.6 l 15.8,0 c 1.3,-0.3 2.6,-0.7 3.8,-0.8 19.9,-1.4 39,-6.2 57.7,-12.6 49,-16.8 93.7,-42 136.3,-71.2 0.5,-0.3 0.8,-0.8 1.5,-1.6 -0.9,0 -1.6,0 -2.2,0.1 z" id="path5" />
+        <path d="m 520.3,706.2 c 2.3,-5.7 4.5,-11.3 6.9,-16.7 5.5,-12.2 12.9,-23.2 21.7,-33.2 21.2,-24 47.4,-39.3 78.8,-44.8 41.3,-7.3 79.3,1.4 112.5,27.4 26.9,21.1 43.7,48.9 50.4,82.5 0.5,2.8 1.5,3.8 4.3,3.6 1.2,-0.1 2.5,-0.1 3.7,-0.1 1.3,0 2.5,0 3.8,0.1 2.9,0.2 3.8,-0.9 4.3,-3.6 6.7,-33.7 23.5,-61.4 50.4,-82.5 33.2,-26 71.2,-34.7 112.5,-27.4 31.4,5.5 57.7,20.8 78.8,44.8 8.9,10.1 16.2,21 21.7,33.2 2.4,5.4 4.6,11 6.9,16.7 0.3,-0.7 0.6,-1.1 0.7,-1.6 9.4,-38.3 12.7,-76.9 6.8,-116.1 -7.7,-50.7 -29,-94.9 -62.4,-133.5 C 1008.6,439.4 993,426.1 976.7,413.3 959,399.4 940.4,387 920.1,377.2 c -28,-13.5 -57.4,-22.3 -88.2,-26 -8,-0.9 -16,-1.6 -24,-2.4 -1.3,0 -2.6,0 -3.9,0 0,0 0,0 0,0 -4.9,0 -9.8,0 -14.7,0 -8,0.8 -16,1.5 -24,2.4 -30.9,3.7 -60.2,12.5 -88.2,26 -20.3,9.8 -38.8,22.1 -56.6,36.1 -16.3,12.8 -31.9,26 -45.4,41.7 -33.4,38.6 -54.7,82.9 -62.4,133.5 -5.9,39.2 -2.6,77.8 6.8,116.1 0.3,0.4 0.5,0.9 0.8,1.6 z" id="path7" />
+        <path d="m 944.9,629.6 c -67,-0.6 -118.3,53.1 -120,115.5 -1.8,67.4 52.5,122.4 118.8,122.3 66.4,-0.1 118.7,-53.9 118.8,-118.7 0.1,-65.1 -52.2,-118.5 -117.6,-119.1 z m -6.2,189.2 c -24.3,0 -43.6,-19.1 -43.6,-43.3 0,-24.7 18.8,-43.5 43.6,-43.5 22.5,-1.1 43.7,17.9 43.6,43.5 -0.3,24.4 -19.2,43.3 -43.6,43.3 z" id="path9" />
+        <path d="m 650.4,629.6 c -64.9,0.8 -117,53.2 -117.5,119 0.5,65.4 52.6,118.7 118.8,118.8 66.5,0.1 119.2,-54.2 119,-119.8 -0.2,-65 -54.2,-118.8 -120.3,-118 z m 7.9,189.2 c -24.4,0 -43.2,-19 -43.5,-43.3 -0.2,-24.4 20.2,-44.5 44.8,-43.6 23.6,0.8 42.4,19.5 42.3,43.7 0,24.2 -19.2,43.3 -43.6,43.2 z" id="path11" />
+    </g>
+</svg>
+                        <span>Follow</span>
+                    </li>
+                <li class="edit-button-container hidden">
+                        <a href="https://www.passle.net/editpost/102byoo" class="passle-edit edit-post">
+                            <i class="fas fa-pencil-alt"></i><span>Edit this post</span>
+                        </a>
+                        <a href="https://www.passle.net/passle/2d6q/news-by-fintech-collective" class="passle-edit manage-posts">
+                            <i class="fas fa-pencil-alt"></i><span>Manage Posts</span>
+                        </a>
+                </li>
+            </ul>
+        </div>
+        <div class="info-container">
+            
+<!--<div class='responsive-container clearfix'>-->
+<div class="about-container clearfix" itemscope itemtype="http://schema.org/Organization">
+    <div class="about-inner">
+        <div class="contributors-container no-about">
+            <div class="about-item">
+                <h4>Contributors</h4>
+                
+<ul class="contributors-list">
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/51f09dfd3d94740a24c813a3/Avatar/2014-03-24-5-01-42-951-Brooks_35x35.Gibbins_35x35.2 copy-sm_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/vp38dw/brooks-gibbins" target="_blank">Brooks Gibbins</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/52f296573d94740e7409af5d/Avatar/2016-04-03-11-38-34-504-guid-1459726821407-SF2A2236+(1)_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/vp385c/gareth-jones" target="_blank">Gareth Jones</a></div>
+                <div class="contributor-title" itemprop="jobTitle">Co-Founder, FinTech Collective</div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/52f4ed1ab00e7e09b435ee91/Avatar/2014-03-24-6-42-20-289-Black and white profile pic_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/vp384y/travis-skelly" target="_blank">Travis Skelly</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/53fe65acb00e7e154c91e438/Avatar/2014-09-15-6-31-41-480-good4_35x35.png" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/vp3850/doug-binder" target="_blank">Doug Binder</a></div>
+                <div class="contributor-title" itemprop="jobTitle">Software Engineer at Fintech Collective</div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/54c253afb00e7e082497541b/Avatar/2015-02-03-4-48-29-458-guid-1422982138042-rsz_daniel_img_0186_edit_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102cash/daniel-mcauley" target="_blank">Daniel McAuley</a></div>
+                <div class="contributor-title" itemprop="jobTitle">MBA Candidate, The Wharton School</div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://passle-net.s3.amazonaws.com/Person/557705cdb00e7e06388170b0/Avatar/2018-11-12-08-41-31-120-5be93cbb98fcca1148a71494_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102ctg6/sean-lippel" target="_blank">Sean Lippel</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/55bb2ad93d94740344774eab/Avatar/2015-08-11-3-14-02-755-guid-1439306079394-FB_IMG_1431102297557-3_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102cvuc/adi-levanon" target="_blank">Adi Levanon</a></div>
+                <div class="contributor-title" itemprop="jobTitle">Director of Investments @ FinTech Collective</div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/56bca8e5b00e7e04341b4407/Avatar/2016-02-18-10-25-01-618-guid-1455834316587-Gustaf+Picture+(Lowest+Res+Small)_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102d60w/gustaf-ericson" target="_blank">Gustaf Ericson</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/5343e1333d94740124c79f49/Avatar/2016-06-06-3-01-06-913-guid-1465225298741-ml_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102dfn2/matthew-levinson" target="_blank">Matthew Levinson</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://s3.amazonaws.com/passle-net/Person/57ac9ab03d9474092835be1f/Avatar/2016-08-12-7-05-41-373-guid-1471028838614-AAEAAQAAAAAAAAdpAAAAJDYxYTNhOGM0LTc1MTQtNDNmYy04Njk5LWM2ZTQ0MzAzY2NkNA_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102dlc2/keenan-burgess" target="_blank">Keenan Burgess</a></div>
+                <div class="contributor-title" itemprop="jobTitle">Operations Associate</div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://passle-net.s3.amazonaws.com/Person/59d656d33d947611283da989/Avatar/2018-02-16-3-40-26-911-5a86fb6a2a1ea211bcc3ba93_35x35.png" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102eh8r/paul-barskiy" target="_blank">Paul Barskiy</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="//www.passle.net/Content/images/avatars/no_avatar_35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102ewkq/faisal-kawar" target="_blank">Faisal Kawar</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+        <li class="contributor clearfix" itemprop="member" itemscope itemtype="http://schema.org/Person">
+            <img src="https://passle-net.s3.amazonaws.com/Person/5b719e642a1ea211d051f8b1/Avatar/2018-08-28-19-10-38-352-5b859e2ef86dd60cd408c15b_35x35.jpg" class="avatar avatar-small " itemprop="image" />
+            <div class="contributor-details">
+                <div class="contributor-name" itemprop="name"><a href="http://news.fintech.io/u/102f0io/anna-kirk" target="_blank">Anna Kirk</a></div>
+                <div class="contributor-title" itemprop="jobTitle"></div>
+            </div>
+        </li>
+</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="archive-container clearfix">
+    <h4>News by FinTech Collective Archive</h4>
+    <ul class="archive-list">
+            <li>
+                <a href="/archive/2018/11">November 2018 (47)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/10">October 2018 (81)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/9">September 2018 (105)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/8">August 2018 (86)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/7">July 2018 (104)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/6">June 2018 (97)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/5">May 2018 (88)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/4">April 2018 (93)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/3">March 2018 (100)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/2">February 2018 (118)</a>
+            </li>
+            <li>
+                <a href="/archive/2018/1">January 2018 (121)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/12">December 2017 (86)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/11">November 2017 (94)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/10">October 2017 (120)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/9">September 2017 (113)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/8">August 2017 (113)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/7">July 2017 (113)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/6">June 2017 (131)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/5">May 2017 (129)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/4">April 2017 (124)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/3">March 2017 (136)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/2">February 2017 (119)</a>
+            </li>
+            <li>
+                <a href="/archive/2017/1">January 2017 (120)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/12">December 2016 (60)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/11">November 2016 (65)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/10">October 2016 (104)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/9">September 2016 (110)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/8">August 2016 (103)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/7">July 2016 (111)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/6">June 2016 (132)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/5">May 2016 (118)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/4">April 2016 (112)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/3">March 2016 (101)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/2">February 2016 (104)</a>
+            </li>
+            <li>
+                <a href="/archive/2016/1">January 2016 (113)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/12">December 2015 (69)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/11">November 2015 (78)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/10">October 2015 (116)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/9">September 2015 (117)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/8">August 2015 (69)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/7">July 2015 (107)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/6">June 2015 (115)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/5">May 2015 (98)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/4">April 2015 (96)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/3">March 2015 (94)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/2">February 2015 (101)</a>
+            </li>
+            <li>
+                <a href="/archive/2015/1">January 2015 (89)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/12">December 2014 (42)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/11">November 2014 (63)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/10">October 2014 (71)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/9">September 2014 (58)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/8">August 2014 (68)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/7">July 2014 (66)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/6">June 2014 (50)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/5">May 2014 (73)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/4">April 2014 (70)</a>
+            </li>
+            <li>
+                <a href="/archive/2014/3">March 2014 (13)</a>
+            </li>
+    </ul>
+</div>
+<!--</div>-->
+
+        </div>
+    </div>
+
+        </div>
+
+    <div class="post-container" data-post-shortcode="102byoo">
+        <main class="responsive-container">
+            
+
+        
+<article class="passle-article" itemscope itemtype="http://schema.org/Article" itemprop="mainEntity">
+    <link href="http://news.fintech.io/post/102byoo/ios8-could-have-an-impact-on-fintech" itemprop="mainEntityOfPage" />
+    <header class="passle-article-header clearfix">
+        <div class="action-container clearfix">
+            
+<p class="action-buttons">
+    <a href="#" class="action-button action-like " data-postshortcode="102byoo" title="Like">
+        <i class="far fa-star like-102byoo"></i>
+        <span id="like-counter-102byoo" class="action-button-number">0</span>
+    </a>
+    <a href="#" class="action-button action-repost " data-postshortcode="102byoo" data-passleshortcode="2d6q" title="Repost">
+        <i class="fas fa-retweet-alt"></i>
+        <span id="repost-counter-102byoo" class="action-button-number">0</span>
+    </a>
+</p>&nbsp;
+            <div class="repost-form-container"></div>
+        </div>
+
+        <h1 class="passle-headline" itemprop="headline">iOS8 could have an impact on FinTech</h1>
+    </header>
+
+    <div class="post-dateline clearfix">
+        <div class="publish-date" itemprop="datePublished"><time class="localised-date" datetime="2014-06-19 02:56:21Z" data-localtime-format="d MMM yyyy">19 Jun 2014</time></div>
+        <div class="modified-date" itemprop="dateModified"><time class="localised-date" datetime="2014-06-19 02:56:21Z" data-localtime-format="d MMM yyyy">19 Jun 2014</time></div>
+        <div class="post-byline-mobile">
+            <div class="post-author" itemprop="author">
+                <a href="http://news.fintech.io/u/vp385c/gareth-jones" target="_blank">Gareth Jones</a>
+            </div>
+        </div>
+        <span class="article-publisher" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+        <span itemprop="url">https://www.passle.net/Content/Images/passle_logo-186px.png</span>
+    </span>
+    <span itemprop="name">Passle</span>
+    <span itemprop="url">https://passle.net</span>
+</span>
+
+            <div class="share-container">
+                <div class="share-buttons-container clearfix">
+                    
+<div class="data-container"
+     data-authorfullname="Gareth Jones"
+     data-postshortcode="102byoo"
+     data-title="iOS8 could have an impact on FinTech (via Passle)"
+     data-twitterscreenname="GarethFintech"
+     data-tags="data,payments"
+     data-url="http://news.fintech.io/post/102byoo/ios8-could-have-an-impact-on-fintech">
+
+    <div class="social-sharing-buttons">
+
+        <span class="istatoy-button-placeholder" data-postshortcode="102byoo">
+
+        </span>
+
+            <a href="#" class="social-sharing-button linkedin" data-network="linkedin"><i class="fab fa-linkedin-in" title="LinkedIn"></i></a>
+                    <a href="#" class="social-sharing-button twitter" data-network="twitter"><i class="fab fa-twitter" title="Twitter"></i></a>
+                    <a href="#" class="social-sharing-button facebook" data-network="facebook"><i class="fab fa-facebook-f" title="Facebook"></i></a>
+                    <a href="#" class="social-sharing-button googleplus" data-network="googleplus"><i class="fab fa-google-plus-g" title="Google Plus"></i></a>
+            </div>
+    <input id="FacebookAppId" name="FacebookAppId" type="hidden" value="467000850008038" />
+    <input id="EnvironmentSiteRoot" name="EnvironmentSiteRoot" type="hidden" value="https://www.passle.net%2F" />
+</div>
+                </div>
+            </div>
+    </div>
+    <div class="post-text">
+        <div class="clearfix">
+            <div class="post-byline">
+                <div class="post-author clearfix" itemprop="author" itemscope itemtype="http://schema.org/Person" data-author-shortcode="vp385c">
+                        <img src="https://s3.amazonaws.com/passle-net/Person/52f296573d94740e7409af5d/Avatar/2016-04-03-11-38-34-504-guid-1459726821407-SF2A2236+(1)_200x200.jpg" class="avatar avatar-medium " itemprop="image" alt="Post contributor:Gareth Jones, Fintech Collective" />
+                    <div class="author-name" itemprop="name">
+                        <a href="http://news.fintech.io/u/vp385c/gareth-jones" target="_blank">Gareth Jones</a>
+                    </div>
+                </div>
+
+                    <meta itemprop="keywords" content="data, payments" />
+                    <ul class="tags">
+                            <li>
+                                <i class="fas fa-tag"></i>&ensp;<a href="http://news.fintech.io/tag/data">data</a>
+                            </li>
+                            <li>
+                                <i class="fas fa-tag"></i>&ensp;<a href="http://news.fintech.io/tag/payments">payments</a>
+                            </li>
+                    </ul>
+            </div>
+            <section class="post-body" itemprop="articleBody">
+                <div class="post-content clearfix" itemprop="text">
+                    <p></p><p>
+</p><p>	<span style="background-color: initial">With iOS 8 installed on thousands of developer devices, details about the operating system continue to leak out. Some features could have an impact on FinTech.. </span><span style="background-color: initial">The big ones we noticed were: </span><span style="background-color: initial">Randomized MAC addresses and </span><span style="background-color: initial">Safari credit card scanning.</span>
+</p><p></p><p></p>
+                </div>
+                    <div class="quote-container clearfix">
+                        <div class="curly-brace" role="presentation">
+                            &#123;
+                        </div>
+                        <div class="quote" itemprop="citation" itemscope itemtype="http://schema.org/CreativeWork">
+                            <p class="quote-text" itemprop="text">Randomized MAC addresses - iOS randomizes the MAC addresses of iOS devices when scanning for WiFi networks, which makes it more difficult for companies to track and gather location data on a customer.
+
+Safari credit card scanning - In iOS 8, Safari can utilize the camera to scan in credit card numbers when making online purchases, a faster alternative than manually entering a credit card number. Currently, this scanning function is available in the App Store to scan in iTunes Cards, and the credit card scan functions in the same way. 
+</p>
+                                <p class="quote-url">
+                                    <img class="url-favicon" alt="" src="https://www.google.com/s2/favicons?domain=www.macrumors.com" />
+                                    <a href="http://www.macrumors.com/2014/06/09/even-more-ios-8-tidbits/" itemprop="url" class="quote-url-link">http://www.macrumors.com/2014/06/09/even-more-ios-8-tidbits/</a>
+                                </p>
+                        </div>
+                    </div>
+
+                <div class="featured-image">
+                        <span class="image-container" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+                            <img src="https://s3.amazonaws.com/passle-net/53304eb43d9474057cbfc02a/52f296573d94740e7409af5d/2014-06-19-2-55-39-538-logo_5000x500.png" alt="" itemprop="url" />
+                            <span class="image-dimensions"><span itemprop="height">unknown</span>x<span itemprop="width">500</span></span>
+                        </span>
+                                    </div>
+
+            </section>
+
+            <aside class="sidebar">
+<blockquote class="twitter-tweet" data-cards="hidden" data-width="315"><p lang="en" dir="ltr">Mac Rumors: iOS 8 Tidbits: Randomized MAC Addresses, Safari Credit Card Scanning, Indoor Mapping, and More <a href="http://t.co/6urzQDwpfk">http://t.co/6urzQDwpfk</a></p>&mdash; Joseph Tame (@tamegoeswild) <a href="https://twitter.com/tamegoeswild/status/478412658740170754?ref_src=twsrc%5Etfw">June 16, 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" data-width="315"><p lang="en" dir="ltr">iOS 8 Tidbits: Randomized MAC Addresses, Safari Credit Card Scanning, Indoor Mapping, and More <a href="http://t.co/sZPcS4hbcb">http://t.co/sZPcS4hbcb</a></p>&mdash; Andreas (@decider148) <a href="https://twitter.com/decider148/status/476989045176676352?ref_src=twsrc%5Etfw">June 12, 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" data-width="315"><p lang="en" dir="ltr">On ios8 you can pay by taking a photo of your credit card... <a href="http://t.co/eBCHetnbJS">http://t.co/eBCHetnbJS</a></p>&mdash; Nick Sherrard (@NickSherrard) <a href="https://twitter.com/NickSherrard/status/478400103812968448?ref_src=twsrc%5Etfw">June 16, 2014</a></blockquote>
+            </aside>
+        </div>
+
+        
+
+    <div class="recent-posts-container recent-posts-none">
+        <div class="recent-posts-title">
+            More posts by Gareth Jones
+        </div>
+        <div class="recent-posts-list">
+                <div class="recent-post" data-postshortcode="102f5lb">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5lb/chinese-headmaster-fired-over-secret-coin-mining-at-school">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/52f296573d94740e7409af5d/2018-11-09-18-07-53-919-5be5ccf944de8913a44ea35e_100x178.jpg" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5lb/chinese-headmaster-fired-over-secret-coin-mining-at-school">Chinese headmaster fired over secret coin mining at school</a>
+                        <div class="recent-post-author">
+                            Gareth Jones
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5jg">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5jg/neighborly-to-announce-the-communities-chosen-for-their-broadband-accelerator-on">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/52f296573d94740e7409af5d/2018-11-09-05-24-45-147-5be51a1d98fcca090059b7bd_100x178.jpg" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5jg/neighborly-to-announce-the-communities-chosen-for-their-broadband-accelerator-on">Neighborly to announce the communities chosen for their broadband accelerator on Nov. 15th</a>
+                        <div class="recent-post-author">
+                            Gareth Jones
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5jf">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5jf/moneylion-team-penske-roar-into-2019-partnership">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/534edc18b00e7e0668f23903/ProcessedImages/52f296573d94740e7409af5d/2018-11-09-05-10-40-439-5be516d098fcca090059b3dc_100x178.jpg" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5jf/moneylion-team-penske-roar-into-2019-partnership">MoneyLion, Team Penske Roar into 2019 Partnership</a>
+                        <div class="recent-post-author">
+                            Gareth Jones
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5je">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5je/quants-are-facing-a-crisis-of-confidence">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/52f296573d94740e7409af5d/2018-11-09-04-36-06-202-5be50eb644de8911041da705_100x178.jpg" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5je/quants-are-facing-a-crisis-of-confidence">Quants Are Facing a Crisis of Confidence</a>
+                        <div class="recent-post-author">
+                            Gareth Jones
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5jd">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5jd/charge-card-startup-brex-aims-for-decacorn-success">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/52f296573d94740e7409af5d/2018-11-09-04-29-04-631-5be50d1098fcca090059aa92_100x178.jpg" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5jd/charge-card-startup-brex-aims-for-decacorn-success">Charge card startup Brex aims for decacorn success</a>
+                        <div class="recent-post-author">
+                            Gareth Jones
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="recent-posts-container recent-posts-none">
+        <div class="recent-posts-title">
+            Recent posts from News by FinTech Collective
+        </div>
+        <div class="recent-posts-list">
+                <div class="recent-post" data-postshortcode="102f5t1">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5t1/coindesk-launches-the-crypto-economics-explorer-a-new-way-to-visualize-crypto">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/557705cdb00e7e06388170b0/2018-11-14-23-36-20-575-5becb17444de890a60881d96_100x178.png" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5t1/coindesk-launches-the-crypto-economics-explorer-a-new-way-to-visualize-crypto">CoinDesk launches the crypto-economics explorer, a new way to visualize crypto</a>
+                        <div class="recent-post-author">
+                            Sean Lippel
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5sz">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5sz/meet-the-robot-who-knows-how-to-trade-bonds-better-than-you-do">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/575581e0b00e7e054007ff35/2018-11-14-22-19-20-094-5bec9f6898fcca0a9c07bf7b_100x178.jpg" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5sz/meet-the-robot-who-knows-how-to-trade-bonds-better-than-you-do">Meet the Robot Who Knows How to Trade Bonds Better Than You Do</a>
+                        <div class="recent-post-author">
+                            Matthew Levinson
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5sw">
+                    <div class="recent-post-image no-img">
+                        <a href="http://news.fintech.io/post/102f5sw/weve-expanded-to-the-uk-and-enrolled-in-the-open-banking-directory">
+                                <div class="avatar-container">
+                                    <img class="avatar-large " src="https://s3.amazonaws.com/passle-net/Person/5343e1333d94740124c79f49/Avatar/2016-06-06-3-01-06-913-guid-1465225298741-ml_200x200.jpg" />
+                                </div>
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5sw/weve-expanded-to-the-uk-and-enrolled-in-the-open-banking-directory">We’ve Expanded to the UK and Enrolled in the Open Banking Directory</a>
+                        <div class="recent-post-author">
+                            Matthew Levinson
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5st">
+                    <div class="recent-post-image ">
+                        <a href="http://news.fintech.io/post/102f5st/poynt-raises-100m">
+                                <img src="https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/575581e0b00e7e054007ff35/2018-11-14-19-13-45-536-5bec73e944de8911e4bee344_100x178.jpg" />
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5st/poynt-raises-100m">Poynt raises $100m</a>
+                        <div class="recent-post-author">
+                            Matthew Levinson
+                        </div>
+                    </div>
+                </div>
+                <div class="recent-post" data-postshortcode="102f5pt">
+                    <div class="recent-post-image no-img">
+                        <a href="http://news.fintech.io/post/102f5pt/hsbc-joins-axonis-36-million-series-b-financing-round">
+                                <div class="avatar-container">
+                                    <img class="avatar-large " src="https://s3.amazonaws.com/passle-net/Person/5343e1333d94740124c79f49/Avatar/2016-06-06-3-01-06-913-guid-1465225298741-ml_200x200.jpg" />
+                                </div>
+                        </a>
+                    </div>
+                    <div class="recent-post-title">
+                        <a href="http://news.fintech.io/post/102f5pt/hsbc-joins-axonis-36-million-series-b-financing-round">HSBC JOINS AXONI’S $36 MILLION SERIES B FINANCING ROUND</a>
+                        <div class="recent-post-author">
+                            Matthew Levinson
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+
+    </div>
+
+</article>
+
+
+
+
+
+
+    <div class="repost-container passle-2d6q">
+        <div class="repost-form" id="repost-form">
+            <div class="repost-dropdown">
+                <select id="repost-passleids" name="repost-passleids"></select>
+            </div>
+            <div class="repost-buttons">
+                <a href="#" class="repost-button confirm"><i class="fas fa-retweet-alt"></i>&ensp;repost</a>
+                <a href="#" class="repost-button cancel"><i class="far fa-times-circle"></i>&ensp;cancel</a>
+            </div>
+        </div>
+        <div class="repost-form" id="upgrade-form">
+            <p>As a free user, you can follow Passle and like posts.</p>
+            <p>To repost this post to your own Passle blog, you will need to upgrade your account.</p>
+            <p>For plans and pricing, please contact our sales team at <a href="mailto:sales@passle.net">sales@passle.net</a></p>
+        </div>
+        <div class="repost-form" id="not-allowed-message">
+
+            <p class="repost-warning-message">Sorry, you don't have permission to repost or create posts.</p>
+            
+            <div class="repost-buttons buttons-right">
+                <a href="#" class="repost-button cancel"><i class="far fa-times-circle"></i>&ensp;cancel</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="repost-success-message-modal" class="repost-modal">
+        <div class="repost-success-message">
+            <p><strong>Repost successful!</strong></p>
+            <p><a class="view-repost-link" href="#" target="_blank">View the repost</a></p>
+        </div>
+    </div>
+    <div id="repost-success-approval-message-modal" class="repost-modal">
+        <div class="repost-success-message">
+            <p><strong>Repost successful!</strong></p>
+            <p>Your repost is currently a draft. <a class="view-approval-link" href="#" target="_blank">Review your repost and request approval</a>.</p>
+        </div>
+    </div>
+    <div id="repost-failed-message-modal" class="repost-modal">
+        <div class="repost-success-message">
+            <p><strong>Something went wrong whilst reposting - please try again.</strong></p>
+        </div>
+    </div>
+    <div id="repost-failed-self-message-modal" class="repost-modal">
+        <div class="repost-success-message">
+            <p><strong>Sorry - this is not an option. This post already exists in the Passle you have selected.</strong></p>
+            <p><strong>Try reposting to another Passle.</strong></p>
+        </div>
+    </div>
+
+        </main>
+    </div>
+</div>
+<input Length="31" data-val="true" data-val-date="The field LastPublishedDate must be a date." data-val-required="The LastPublishedDate field is required." id="Post_LastPublishedDate" name="Post.LastPublishedDate" type="hidden" value="6/19/2014 2:56:21 AM" />
+
+<input type="hidden" id="email-share-count" value="0" />
+
+
+                </div>
+                <div class="client-content">
+                    <div class="client-content">
+  <section id="section-19">
+    <div class="copyright-row row">
+      <div class="small-3 medium-2 end columns" id="about">
+        <a href="http://www.fintech.io/about_us">
+          <h6>ABOUT US</h6>
+        </a>
+      </div>
+      <div class="small-4 medium-4 columns" id="news">
+        <a href="http://fintechcollective.passle.net" target="_blank">
+          <h6>NEWS BY FINTECH COLLECTIVE</h6>
+        </a>
+      </div>
+      <div class="small-1 medium-1 columns">
+        <a href="http://www.fintech.io/legal">
+          <h6>LEGAL</h6>
+        </a>
+      </div>
+      <div class="small-4 medium-5 columns end">
+        <h6>©FINTECH COLLECTIVE, INC. 2012 - <script>document.write(new Date().getFullYear())</script></h6>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </section>
+</div>
+                </div>
+            </div>
+<input id="PreviewVersion" name="PreviewVersion" type="hidden" value="1" />
+        <div id="authentication-container"></div>
+        
+
+
+        
+        <input id="PASSLEWEB_ROOT" name="PASSLEWEB_ROOT" type="hidden" value="https://www.passle.net" />
+<input id="passle-shortcode" name="passle-shortcode" type="hidden" value="2d6q" />        <input id="EnvironmentSiteRoot" type="hidden" value="https://www.passle.net%2F" />
+        <input id="page-request-id" name="page-request-id" type="hidden" value="" />
+        
+
+
+        
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script src="/CustomCSS/CustomDesignJavascript?version=1&amp;passleShortcode=2d6q" type="text/javascript"></script>
+        
+    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+    <script type="text/javascript" src="https://dukb55syzud3u.cloudfront.net/PostView?v=r-dpcBlmKgrCza7kJsrLLj0zrnOqRR_MuwPXVaDl8cA1"></script>
+        <!--[if lte IE 8]>
+            <script src="/Scripts/Plugins/passle-mediaqueries.js"></script>
+        <![endif]-->
+        
+
+
+        
+        <div id="stats-logging">
+            
+    <iframe src="https://www.passle.net/ClientWebAPIStatistics/LogPageRequestAndPostViews?c=Passle&amp;a=PostView&amp;passleId=2d6q&amp;userId=&amp;wallPostIds=102byoo&amp;userAgent=Wget%2f1.19.4+(linux-gnu)&amp;referrer=&amp;ipAddress=146.245.225.153&amp;parameterString=passleShortcode%3d2d6q%2cuserShortcode%3d%2cpostShortcodes%3dSystem.String%5b%5d%2cpostViewType%3dSinglePost%2caction%3d_LogPageRequestAndPostViews%2ccontroller%3dStatistics%2cparameterString%3d%2cipAddress%3d%2creferrer%3d%2cuserAgent%3d%2curl%3d%2cpageRequestId%3d&amp;url=http%3a%2f%2fnews.fintech.io%2fpost%2f102byoo%2fios8-could-have-an-impact-on-fintech&amp;type=SinglePost&amp;pageRequestId=" name="passle-web-iframe" class="hide">
+
+</iframe>
+
+        </div>
+
+<input type="hidden" id="GoogleAnalyticsId" value="UA-35515402-1" />                        <input type="hidden" id="passle-cookie-control-status" value="2" />
+<script type="text/javascript" src="https://sdk.passle.net/CookieControl/v1/jquery.passlecookiecontrol.js">
+
+</script>    </body>
+
+
+</html>

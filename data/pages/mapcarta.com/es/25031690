@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://api.mapbox.com" />
+<link rel="dns-prefetch" href="https://a.tiles.mapbox.com" />
+<link rel="dns-prefetch" href="https://b.tiles.mapbox.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="description" content="Twin Peaks es un edificio y está circa de The Meatpacking District y West Village. Twin Peaks desde Mapcarta, el mapa libre." />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="application-name" content="Mapcarta" />
+<meta name="apple-mobile-web-app-title" content="Mapcarta" />
+<meta property="og:url" content="https://mapcarta.com/es/25031690" />
+<meta property="og:image" content="https://mapcarta.com/icons/appicon.png" />
+<meta property="og:title" content="Twin Peaks" />
+<meta property="og:description" content="Twin Peaks es un edificio y está circa de The Meatpacking District y West Village. Twin Peaks desde Mapcarta, el mapa libre." />
+<meta property="og:site_name" content="Mapcarta" />
+<meta name="ICBM" content="40.73278, -74.00583" />
+<meta name="geo.position" content="40.73278;-74.00583" />
+<meta name="geo.placename" content="Twin Peaks" />
+<link rel="canonical" href="https://mapcarta.com/es/25031690" />
+<link rel="alternate" hreflang="de" href="https://mapcarta.com/de/25031690" />
+<link rel="alternate" hreflang="en" href="https://mapcarta.com/25031690" />
+<link rel="alternate" hreflang="fr" href="https://mapcarta.com/fr/25031690" />
+<link rel="alternate" hreflang="it" href="https://mapcarta.com/it/25031690" />
+<link rel="alternate" hreflang="pt" href="https://mapcarta.com/pt/25031690" />
+<title>Twin Peaks: Mapa - Estado de Nueva York - Mapcarta</title>
+<script>
+var rosetta = {"months":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","october","noviembre","diciembre"],"weekdays":["do","lu","ma","mi","ju","vi","s\u00e1"],"units":["metro","metros","milla","millas","pie","pies","segundo","segundos","minuto","minutos","hora","horas"],"interface":["Buscar","Cargando","Buscando","de","Mejorar este mapa","y","Localizaciones y direcciones son proporcionados por *, y tienen derechos de autor.","Ver en el mapa"],"titles":["*: Mapa","*: C\u00f3mo llegar","*: Hoteles","Hoteles cerca de *","*: Fotos","Fotos cerca de *"],"atlas":["Est\u00e1ndar","Sat\u00e9lite","Tr\u00e1fico","Conducir","Bicicleta","A pie"],"label":["Localidades","Atracciones","Natural","Transporte","Agua","Hoteles","Otro"],"itinerary":["Introduzca sus datos de viaje","para encontrar ofertas de hoteles y disponibilidad","para direcciones","Usa el mapa para seleccionar su destino","Cambiar los detalles del viaje"],"searching":["Buscando *","Seleccione este sitio recomendado","Seleccione estos dos sitios recomendados","Seleccione sus 2 sitios preferidos","para ver *","hoteles en *","Recomendamos *","para hoteles en *.","Has elegido * sitios de hoteles."],"hotels":["Mi destino","Fechas de viaje","Persona","Personas","Buscar hoteles","Encuentra tu hotel ideal","en *"],"photography":["Las fotos de * est\u00e1n con los derechos de sus autores.","Derecho de autor","* usa la Flickr API pero Flickr no lo aprueba ni certifica.","P\u00f3ngase en contacto con nosotros si prefiere ocultar sus fotos de Flickr de *."],"fail":["Ocurrio un error.","Detalles de su viaje son incompletos.","Por favor int\u00e9ntalo de nuevo.","No hemos podido localizar el punto de partida o de llegada.","No hemos podido encontrar una ruta entre esos lugares.","Sus puntos de partida y de llegada est\u00e1n demasiado separados.","No hay fotos disponibles para este lugar."],"aboutsite":"Acerca de Mapcarta"};
+var phase = 0, queue = null, language = "es", sitename = "Mapcarta", siteurl = "mapcarta.com", abouturi = "Acerca_de_Mapcarta", mapstyle = 0, testing = false, hasads = [true,true,true,true,true,true], gplace = false, monday = false, country = "us", separators = [".",","], mbtoken = "pk.eyJ1IjoiY3licml3c2t5IiwiYSI6ImNqZ3k3c2UxajEwMmsyd280dzk4azM0NTcifQ.78YbjrPjSONzuqWG4-CIGA", viewnames = {"photo":"Fotos","stay":"Hoteles","results":"Buscar","map":"Mapa","plot":"C\u00f3mo llegar","driving":"Conducir","cycling":"Bicicleta","walking":"A pie","main":"Panorama","album":"Galer\u00eda"}, routes = ["driving","cycling","walking"], pageid = "25031690", searchvalue = "Buscar", viewtype = "main", albumid = null, plotmode = 0, present = [19,11,2018], checkin = [30,11,2018], checkout = [2,12,2018], guests = 2, pages = {};
+/* start import */pages[pageid] = {
+	"pagename":"Twin Peaks",
+	"pageuri":"25031690",
+	"tongue":"/25031690",
+	"lat":40.73278,
+	"lng":-74.00583,
+	"zoom":13,
+	"islocation":true,
+	"mappable":true,
+	"hyperlocal":true,
+	"markerclass":12,
+	"imperial":false,
+	"country":"United States",
+	"locality":false,
+	"landmark":false,
+	"feature":"building",
+	"featureclass":"x",
+	"hotelplace":false,
+	"maintitle":"Twin Peaks: Mapa - Estado de Nueva York - Mapcarta",
+	"mapsummary":"<a onclick=\"act('main'); return false;\" href=\"/es/25031690\" title=\"Twin Peaks\" rel=\"noopener\">Twin Peaks</a> es un edificio y está circa de <span itemscope itemtype=\"https://schema.org/Place\"><a href=\"/es/26253836\" title=\"The Meatpacking District\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">The Meatpacking District</span></a></span> y <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/es/25010636\" title=\"West Village\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">West Village</span></a></span>.",
+	"spot":"New_York_City",
+	"spots":{"New_York_City":"New York, New York","Weehawken":"Weehawken, New Jersey (4 km al norte)","Hoboken":"Hoboken, New Jersey (2\u00bd km al noroeste)","Jersey_City":"Jersey City, New Jersey (6 km al oeste)","Secaucus":"Secaucus, New Jersey (8 km al noroeste)"},
+	"ph0t0s":["25031690"],
+	"photodata":{"25031690":["25031690","25031690","40.73278,-74.00583,13"]},
+	"pics":{"25031690":false}
+};/* end import */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create','UA-4656078-5');
+ga('set','anonymizeIp',true);
+function fields(a) { var i = pages[pageid]; if (i.islocation) { if (i.country) { a.dimension1 = i.country; } a.dimension2 = i.locality ? 'Locality' : (i.landmark ? 'Landmark' : 'Place'); a.dimension3 = i.feature; a.dimension4 = i.featureclass; } return a; }
+ga('send','pageview',fields({}));
+function domload() { if (phase < 2) { phase += 2; if (phase === 3) { initiate(); } } }
+if (document.addEventListener) { document.addEventListener('DOMContentLoaded',domload,false); }
+function act(i) { if (phase === 5) { launch(i); } else { queue = i; } }
+function noads() { if (hasads.length) { hasads = []; if (phase === 5) { setads(); } } }
+</script>
+<link rel="stylesheet" type="text/css" href="/static/874.css" />
+<link rel="shortcut icon" href="https://mapcarta.com/favicon.ico" />
+<link rel="apple-touch-icon" href="https://mapcarta.com/icons/appicon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://mapcarta.com/icons/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mapcarta.com/icons/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://mapcarta.com/icons/icon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://mapcarta.com/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://mapcarta.com/icons/icon-512.png">
+<script async src="/static/874.js"></script>
+</head>
+<body onload="domload();" class="pagemode mappage mainview" onclick="if (phase === 5) { checkclose(event); } return true;">
+<script id="adsscript" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noads();"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client:'ca-pub-3417291128493297',
+enable_page_level_ads:true
+});
+window.google_analytics_uacct = "UA-4656078-5";
+</script>
+<div id="pagebox">
+<div id="backbox">
+<div id="headbox" class="withtongue">
+<a href="/es/" title="Mapcarta" class="pagelogo" rel="noopener"></a>
+<div class="searchbar"><form action="https://google.com/cse" onsubmit="if (phase === 5) { submitsearch(this); } return false;"><input type="hidden" name="cx" value="004731645928269741811:qczkrwpkze8" /><input type="hidden" name="ie" value="UTF-8" /><div class="searchsubmit"><input type="image" class="searcharea" src="/images/clear.gif" alt="Buscar" name="sa" /><span class="ikon searchicon"></span></div><input class="searchfield" name="q" maxlength="47" value="Buscar" onfocus="this.value = '';" onblur="if (!this.value) { this.value = searchvalue; }" autocomplete="off" /></form></div>
+<div class="stayleader">Hoteles</div>
+<a href="/25031690" title="in English" id="tongue" rel="noopener"><span class="ikon enicon"></span></a>
+</div>
+<div class="helmbox">
+<div class="helmdouble firstblock"><div class="mainbutton helmblock"><a onclick="act('main'); return false;" href="/es/25031690" title="Panorama" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Panorama</span></a></div><div class="mapbutton helmblock helmright"><a onclick="act('map'); return false;" title="Mapa" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Mapa</span></a></div></div>
+<div class="helmdouble lastblock"><div class="staybutton helmblock"><a onclick="act('Button'); return false;" title="Hoteles" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hoteles</span></a></div><div class="photobutton helmblock helmright"><a onclick="act('photo'); return false;" title="Fotos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Fotos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Cómo llegar" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Cómo llegar</span></a></div></div>
+<div class="helmsingle"><span class="mainbutton"><a onclick="act('main'); return false;" href="/es/25031690" title="Panorama" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Panorama</span></a></span><span class="mapbutton"><a onclick="act('map'); return false;" title="Mapa" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Mapa</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hoteles" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hoteles</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Fotos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Fotos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Cómo llegar" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Cómo llegar</span></a></span></div>
+</div>
+<div id="breadcrumbs">
+<!-- start breadcrumbs -->
+<div class="pillbox" itemscope itemtype="https://schema.org/BreadcrumbList">
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/es/Am%C3%A9rica_del_Norte" title="América del Norte" class="pill" itemprop="item" rel="noopener"><span itemprop="name">América del Norte</span><meta itemprop="position" content="1" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/es/Estados_Unidos" title="Estados Unidos" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Estados Unidos</span><meta itemprop="position" content="2" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/es/Costa_Este" title="Costa Este" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Costa Este</span><meta itemprop="position" content="3" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/es/Estado_de_Nueva_York" title="Estado de Nueva York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Estado de Nueva York</span><meta itemprop="position" content="4" /></a></span>
+<div class="clearboth"></div>
+</div>
+<!-- end breadcrumbs -->
+</div>
+<div id="mainbox" itemscope itemtype="https://schema.org/Place">
+<!-- start mainbox -->
+<h1><span itemprop="name">Twin Peaks</span></h1>
+<div class="pod backdrop podback"><div class="headpouch icyshade"><span itemprop="description">Twin Peaks es un edificio y está circa de <span itemscope itemtype="https://schema.org/Place"><a href="/es/26253836" title="The Meatpacking District" itemprop="url" rel="noopener"><span itemprop="name">The Meatpacking District</span></a></span>, <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/25010636" title="West Village" itemprop="url" rel="noopener"><span itemprop="name">West Village</span></a></span> y <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Manhattan/Greenwich_Village" title="Greenwich Village" itemprop="url" rel="noopener"><span itemprop="name">Greenwich Village</span></a></span>. Twin Peaks está también circa de <span itemscope itemtype="https://schema.org/Place"><a href="/es/25051874" title="Sheridan Square Triangle Association Viewing Garden" itemprop="url" rel="noopener"><span itemprop="name">Sheridan Square Triangle Association Viewing Garden</span></a></span>, <span itemscope itemtype="https://schema.org/Place"><a href="/es/25042370" title="Sheridan Square" itemprop="url" rel="noopener"><span itemprop="name">Sheridan Square</span></a></span> y <span itemscope itemtype="https://schema.org/Place"><a href="/es/26799988" title="Christopher Park" itemprop="url" rel="noopener"><span itemprop="name">Christopher Park</span></a></span>.</span></div><div class="tailpouch"><div class="helmdouble firstblock"><div class="mapbutton helmblock"><a onclick="act('map'); return false;" title="Mapa" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Mapa</span></a></div><div class="staybutton helmblock helmright"><a onclick="act('Button'); return false;" title="Hoteles" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hoteles</span></a></div></div>
+<div class="helmdouble lastblock"><div class="photobutton helmblock"><a onclick="act('photo'); return false;" title="Fotos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Fotos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Cómo llegar" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Cómo llegar</span></a></div></div>
+<div class="helmsingle"><span class="mapbutton"><a onclick="act('map'); return false;" title="Mapa" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Mapa</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hoteles" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hoteles</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Fotos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Fotos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Cómo llegar" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Cómo llegar</span></a></span></div>
+</div></div>
+<div id="blurb0" class="plug"></div>
+<h2 id="photoheading">Fotos cerca de Twin Peaks</h2>
+<div id="corebox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Cargando…</td></tr></table></div>
+<h2>Twin Peaks</h2>
+<div class="pod pouch shaded"><ul>
+<li>Tipo:&nbsp; un edificio</li>
+<li>Localización:&nbsp; <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Estado_de_Nueva_York" title="Estado de Nueva York" itemprop="url" rel="noopener"><span itemprop="name">Estado de Nueva York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Costa_Este" title="Costa Este" itemprop="url" rel="noopener"><span itemprop="name">Costa Este</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Estados_Unidos" title="Estados Unidos" itemprop="url" rel="noopener"><span itemprop="name">Estados Unidos</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Am%C3%A9rica_del_Norte" title="América del Norte" itemprop="url" rel="noopener"><span itemprop="name">América del Norte</span></a></span></li>
+<li>Latitud:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="latitude">40°&nbsp;43'&nbsp;58" (40.7328°) norte</span></span></li>
+<li>Longitud:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="longitude">74°&nbsp;0'&nbsp;21" (74.0058°) oeste</span></span></li>
+<li>Altitud:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="elevation">6 metros (20 pies)</span></span></li>
+</ul></div>
+<h2>New York: Hoteles</h2>
+<div class="subline texthue"><b class="hue">✓</b> Encuentra tu hotel ideal en New York</div>
+<div class="pod stayform backdrop stayback"><div class="pouch frostyshade"><form onsubmit="act('Preset Search'); return false;"><div class="formarea"><div class="formdetails"><div class="formdate formspaced"><div class="forminfo">Fechas de viaje</div><div class="formbase"><input value="11/30 – 12/2" id="spreadcal" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" readonly="readonly" /></div></div><div class="formguests formspaced"><div class="forminfo">Personas</div><div class="formbase"><input value="2" id="spreadguests" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" size="1" maxlength="1" /></div></div></div><div class="formbutton"><a onclick="act('Preset Search'); return false;" title="Buscar hoteles" class="button" rel="noopener"><span class="formcut"><span class="withicon"><span class="ikon whitesearchicon"></span>Buscar<wbr /> hoteles</span></span></a></div></div></form></div></div>
+<h2>Twin Peaks: Mapas</h2>
+<div class="pod pouch shaded"><ul>
+<li><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.openstreetmap.org/#map=13/40.73278/-74.00583" title="OpenStreetMap" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon osmicon"></span>OpenStreetMap</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.google.com/maps/@40.73278,-74.00583,13z" title="Google Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon gmapsicon"></span>Google Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://wego.here.com/?map=40.73278,-74.00583,13" title="Here WeGo" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon hereicon"></span>Here WeGo</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.bing.com/maps/?cp=40.73278~-74.00583&amp;lvl=13&amp;where1=Twin+Peaks" title="Bing Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon bingicon"></span>Bing Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.mapquest.com/?center=40.73278,-74.00583&amp;zoom=13" title="MapQuest" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon mapquesticon"></span>MapQuest</span></a></span></li>
+</ul></div>
+<h2>Localidades en el área</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/26253836" title="The Meatpacking District" class="pill" itemprop="url" rel="noopener"><span itemprop="name">The Meatpacking District</span>&nbsp; <span class="addendum texthue">una plaza</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/25010636" title="West Village" class="pill" itemprop="url" rel="noopener"><span itemprop="name">West Village</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Manhattan/Greenwich_Village" title="Greenwich Village" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Greenwich Village</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/29388960" title="Hudson Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Hudson Square</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/25584102" title="Meat Packing District" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Meat Packing District</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/25010630" title="Washington Square Village" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Washington Square Village</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/25010632" title="University Village" class="pill" itemprop="url" rel="noopener"><span itemprop="name">University Village</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Lugares prominentes en el área</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/25051874" title="Sheridan Square Triangle Association Viewing Garden" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Sheridan Square Triangle Association Viewing Garden</span>&nbsp; <span class="addendum texthue">un parque, 280 metros al este</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/25042370" title="Sheridan Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Sheridan Square</span>&nbsp; <span class="addendum texthue">un parque, 280 metros al este</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/26799988" title="Christopher Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Christopher Park</span>&nbsp; <span class="addendum texthue">un parque, 320 metros al este</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/22588716" title="Hudson Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Hudson Park</span>&nbsp; <span class="addendum texthue">un parque, 330 metros al sur</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/26799994" title="Father Demo Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Father Demo Square</span>&nbsp; <span class="addendum texthue">un parque, 410 metros al sureste</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/26799984" title="Bleecker Playground" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Bleecker Playground</span>&nbsp; <span class="addendum texthue">un parque, 430 metros al norte</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/26800002" title="Downing Street Playground" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Downing Street Playground</span>&nbsp; <span class="addendum texthue">un parque, 440 metros al sureste</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>También en el área</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/22591724" title="Public School 3" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Public School 3</span>&nbsp; <span class="addendum texthue">una escuela</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/26852020" title="Saint Luke's School" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Saint Luke's School</span>&nbsp; <span class="addendum texthue">una escuela</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/25020328" title="Church of Saint Luke-in-the-Fields" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Church of Saint Luke-in-the-Fields</span>&nbsp; <span class="addendum texthue">una iglesia, 130 metros al suroeste</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/26856248" title="Greenwich House Music School" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Greenwich House Music School</span>&nbsp; <span class="addendum texthue">una escuela, 130 metros al sureste</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/35114174" title="New York Police Department 6th Precinct Station" class="pill" itemprop="url" rel="noopener"><span itemprop="name">New York Police Department 6th Precinct Station</span>&nbsp; <span class="addendum texthue">un edificio, 150 metros al norte</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/25020332" title="Saint John's Evangelical Lutheran Church" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Saint John's Evangelical Lutheran Church</span>&nbsp; <span class="addendum texthue">una iglesia, 170 metros al noreste</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/es/25023800" title="Saint Matthew's Church" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Saint Matthew's Church</span>&nbsp; <span class="addendum texthue">una iglesia, 170 metros al noreste</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Destinos populares en <span itemprop="name">Estado de Nueva York</span></h2>
+<div class="pod pouch shaded"><div itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><div class="pillbox">
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Nueva_York" title="Nueva York" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Nueva York</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/B%C3%BAfalo_%28Nueva_York%29" title="Búfalo" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Búfalo</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Manhattan" title="Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Manhattan</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Rochester_%28Nueva_York%29" title="Rochester" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rochester</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Binghamton_%28Nueva_York%29" title="Binghamton" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Binghamton</span></a></span>
+<div class="clearboth"></div>
+</div>
+<meta itemprop="url" content="https://mapcarta.com/es/Estado_de_Nueva_York" /></div></div>
+<h2>Escápese a un lugar al azar</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Parque_Nacional_Yellowstone" title="Parque Nacional Yellowstone" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Parque Nacional Yellowstone</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Islandia" title="Islandia" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Islandia</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Portugal" title="Portugal" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Portugal</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Chicago" title="Chicago" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Chicago</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/es/Dresde" title="Dresde" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Dresde</span><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="blurb1" class="plug"></div>
+<h2>Su mundo es sin fronteras</h2>
+<div class="pod pouch shaded"><div class="languagelist"><a href="/de/25031690" title="Deutsch" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon deicon"></span>Deutsch</span></a><a href="/25031690" title="English" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon enicon"></span>English</span></a><a href="/fr/25031690" title="Français" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon fricon"></span>Français</span></a><a href="/it/25031690" title="Italiano" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon iticon"></span>Italiano</span></a><a href="/pt/25031690" title="Português" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon pticon"></span>Português</span></a></div></div>
+<div class="spacer3"></div>
+<div class="pod pouch footerpod"><a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" title="Licencia Creative Commons Atribución-CompartirIgual" class="cclink" rel="noopener"><span class="cclogo"></span></a>El texto está disponible bajo la <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" title="Licencia Creative Commons Atribución-CompartirIgual" rel="noopener">Licencia Creative Commons Atribución-CompartirIgual</a>, excluyendo fotos, cómo llegar y el mapa.<div class="spacer1"></div><a href="/es/Acerca_de_Mapcarta" title="Acerca de Mapcarta" rel="noopener">Acerca de Mapcarta</a>. Gracias a <a target="_blank" href="https://www.mapbox.com" title="Mapbox" rel="noopener">Mapbox</a> por proporcionar mapas increíbles. Las fotos de <a target="_blank" href="https://www.flickr.com" title="Flickr" rel="noopener">Flickr</a> están con los derechos de sus autores. Mapcarta usa la Flickr API pero Flickr no lo aprueba ni certifica. Póngase en contacto con nosotros si prefiere ocultar sus fotos de Flickr de Mapcarta.</div>
+<!-- end mainbox -->
+</div>
+<div id="hotelbox"></div>
+<div id="resultsbox"></div>
+<div id="noticebox"></div>
+<div id="photobox"></div>
+<div id="plotbox"></div>
+</div>
+</div>
+<div id="mapbox" class="pick0"></div>
+<div id="albumbox"></div>
+<div id="checksplit" class="checkunit"></div>
+<div id="checkmini" class="checkunit"></div>
+<div id="checksingle" class="checkunit"></div>
+<div id="checkad" class="checkunit"></div>
+<div id="checkphoto" class="checkunit"></div>
+<!-- Complete -->
+</body>
+</html>

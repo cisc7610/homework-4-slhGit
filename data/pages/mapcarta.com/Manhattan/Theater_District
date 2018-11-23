@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://api.mapbox.com" />
+<link rel="dns-prefetch" href="https://a.tiles.mapbox.com" />
+<link rel="dns-prefetch" href="https://b.tiles.mapbox.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="description" content="Broadway. Times Square. Madison Square Garden. The name says it all: the Theater District is the entertainment hub of the city, and possibly the entire nation." />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="application-name" content="Mapcarta" />
+<meta name="apple-mobile-web-app-title" content="Mapcarta" />
+<meta property="og:url" content="https://mapcarta.com/Manhattan/Theater_District" />
+<meta property="og:image" content="https://farm1.staticflickr.com/901/42468959371_1f25e939eb_b.jpg" />
+<meta property="og:image" content="https://farm4.staticflickr.com/3273/2475367621_35fb6367f6_b.jpg" />
+<meta property="og:image" content="https://farm1.staticflickr.com/825/42210309161_ac62bf58e7_b.jpg" />
+<meta property="og:image" content="https://farm1.staticflickr.com/979/40051587660_e9b4116551_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1846/44290401202_932f873f1c_b.jpg" />
+<meta property="og:title" content="Theater District" />
+<meta property="og:description" content="Broadway. Times Square. Madison Square Garden. The name says it all: the Theater District is the entertainment hub of the city, and possibly the entire nation." />
+<meta property="og:site_name" content="Mapcarta" />
+<meta name="ICBM" content="40.7628, -73.9836" />
+<meta name="geo.position" content="40.7628;-73.9836" />
+<meta name="geo.placename" content="Theater District" />
+<link rel="canonical" href="https://mapcarta.com/Manhattan/Theater_District" />
+<link rel="alternate" hreflang="de" href="https://mapcarta.com/de/Manhattan/Times_Square" />
+<link rel="alternate" hreflang="es" href="https://mapcarta.com/es/Theater_District" />
+<link rel="alternate" hreflang="fr" href="https://mapcarta.com/fr/Theater_District_de_Manhattan" />
+<link rel="alternate" hreflang="it" href="https://mapcarta.com/it/Theater_District" />
+<link rel="alternate" hreflang="pt" href="https://mapcarta.com/pt/Theatre_District_%28Nova_Iorque%29" />
+<title>Theater District Map - Manhattan, New York - Mapcarta</title>
+<script>
+var rosetta = {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"weekdays":["Su","Mo","Tu","We","Th","Fr","Sa"],"units":["meter","meters","mile","miles","foot","feet","second","seconds","minute","minutes","hour","hours"],"interface":["Search","Loading","Searching","of","Improve this map","and","Locations and directions are provided by *, and are copyrighted.","View on the map"],"titles":["* Map","* Directions","* Hotels","Hotels Near *","* Photos","Photos Near *"],"atlas":["Standard","Satellite","Traffic","Driving","Bicycling","Walking"],"label":["Localities","Attractions","Natural","Transport","Water","Hotels","Other"],"itinerary":["Enter your trip details","to find hotel deals and availability","for directions","Use the map to set your destination","Change trip details"],"searching":["Searching *","Select this recommended site","Select these two recommended sites","Select your 2 preferred sites","to show *","* hotels","We recommend *","for hotels in *.","You've chosen * recommended hotel sites."],"hotels":["My Destination","Travel Dates","Guest","Guests","Search Hotels","Find your ideal hotel","in *"],"photography":["Photos provided by * under the copyright of their owners.","Copyright","* uses the Flickr API but is not endorsed or certified by Flickr.","Please contact us if you'd prefer to remove your Flickr photos from *."],"fail":["An error occurred.","Your trip details are incomplete.","Please try again.","We couldn't locate your start or end point.","We couldn't find a route between those places.","Your start and end points are too far apart.","No photos are available for this place."],"aboutsite":"About Mapcarta"};
+var phase = 0, queue = null, language = "en", sitename = "Mapcarta", siteurl = "mapcarta.com", abouturi = "About_Mapcarta", mapstyle = 0, testing = false, hasads = [true,true,true,true,true,true], gplace = false, monday = false, country = "us", separators = [".",","], mbtoken = "pk.eyJ1IjoiY3licml3c2t5IiwiYSI6ImNqZ3k3c2UxajEwMmsyd280dzk4azM0NTcifQ.78YbjrPjSONzuqWG4-CIGA", viewnames = {"photo":"Photos","stay":"Hotels","results":"Search","map":"Map","plot":"Directions","driving":"Driving","cycling":"Bicycling","walking":"Walking","main":"Overview","album":"Gallery"}, routes = ["driving","cycling","walking"], pageid = "Manhattan/Theater_District", searchvalue = "Search", viewtype = "main", albumid = null, plotmode = 0, present = [19,11,2018], checkin = [30,11,2018], checkout = [2,12,2018], guests = 2, pages = {};
+/* start import */pages[pageid] = {
+	"pagename":"Theater District",
+	"pageuri":"Manhattan/Theater_District",
+	"tongue":null,
+	"lat":40.7628,
+	"lng":-73.9836,
+	"zoom":12,
+	"islocation":true,
+	"mappable":true,
+	"hyperlocal":true,
+	"markerclass":19,
+	"imperial":true,
+	"country":"United States",
+	"locality":true,
+	"landmark":false,
+	"feature":"populated place",
+	"featureclass":"p",
+	"hotelplace":false,
+	"maintitle":"Theater District Map - Manhattan, New York - Mapcarta",
+	"mapsummary":"Broadway. Times Square. Madison Square Garden. The name says it all: the <a onclick=\"act('main'); return false;\" href=\"/Manhattan/Theater_District\" title=\"Theater District\" rel=\"noopener\">Theater District</a> is the entertainment hub of the city, and possibly the entire nation.",
+	"spot":"New_York_City",
+	"spots":{"New_York_City":"New York, New York","Weehawken":"Weehawken, New Jersey (2 miles west)","Jersey_City":"Jersey City, New Jersey (5 miles southwest)","Secaucus":"Secaucus, New Jersey (4 miles northwest)","Hoboken":"Hoboken, New Jersey (3 miles southwest)"},
+	"ph0t0s":["Manhattan\/Theater_District"],
+	"photodata":{"Manhattan/Theater_District":["Manhattan/Theater_District","Theater District","40.7628,-73.9836,12"]},
+	"pics":{"Manhattan/Theater_District":[{"id":42468959371,"secret":"1f25e939eb","server":901,"farm":1,"title":"New York","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"161400164@N05","ownername":"alvarolsalmeida"},{"id":2475367621,"secret":"35fb6367f6","server":3273,"farm":4,"title":"New York cityscape - HDR","ratio":1.43599999999999994315658113919198513031005859375,"owner":"8024992@N06","ownername":"M.Bob"},{"id":42210309161,"secret":"ac62bf58e7","server":825,"farm":1,"title":"Big city","ratio":1.778000000000000024868995751603506505489349365234375,"owner":"70075489@N03","ownername":"karinavera"},{"id":40051587660,"secret":"e9b4116551","server":979,"farm":1,"title":"Half the Time Has Passed Away","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"51035555243@N01","ownername":"Thomas Hawk"},{"id":44290401202,"secret":"932f873f1c","server":1846,"farm":2,"title":"St. Patrick's Cathedral","ratio":0.596999999999999975131004248396493494510650634765625,"owner":"32983633@N00","ownername":"Mohamed Haykal"},{"id":41517889694,"secret":"be284778f1","server":961,"farm":1,"title":"Central Park in a cloudy night","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"70075489@N03","ownername":"karinavera"},{"id":29546860407,"secret":"d5e119e46b","server":1871,"farm":2,"title":"The sky is not the limit","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"8849909@N05","ownername":"rudy_nyc"},{"id":41816905944,"secret":"49b3312766","server":1728,"farm":2,"title":"New  York City - Manhattan - 45 East 66th Street Building - Gothic Architecture","ratio":1.516999999999999904076730672386474907398223876953125,"owner":"7156765@N05","ownername":"Onasill ~ Bill Badzo - 56 Million Views - Thank Yo"},{"id":41960271705,"secret":"ccba8ed015","server":1759,"farm":2,"title":"New York by night","ratio":1.5100000000000000088817841970012523233890533447265625,"owner":"47939277@N05","ownername":"kareszzz"},{"id":27435182827,"secret":"961760fc88","server":894,"farm":1,"title":"Good night New York City","ratio":0.75,"owner":"78113112@N06","ownername":"Oliver Weihrauch"},{"id":28337562728,"secret":"c9fbc57647","server":828,"farm":1,"title":"Public Library - New York","ratio":1.778000000000000024868995751603506505489349365234375,"owner":"73850513@N02","ownername":"Patrik S."},{"id":28031859348,"secret":"3d823a0886","server":823,"farm":1,"title":"New York","ratio":0.66000000000000003108624468950438313186168670654296875,"owner":"32476380@N05","ownername":"http:\/\/arnaudballay.wix.com\/photographie"},{"id":43413464242,"secret":"ef107a2744","server":1828,"farm":2,"title":"A window on Manhattan","ratio":0.6670000000000000373034936274052597582340240478515625,"owner":"142995416@N07","ownername":"erichudson78"},{"id":41098032594,"secret":"27ff4bee45","server":912,"farm":1,"title":"The Portal","ratio":1.487999999999999989341858963598497211933135986328125,"owner":"26522673@N07","ownername":"Gary Burke."},{"id":28781512178,"secret":"e07d390007","server":1753,"farm":2,"title":"NYC long ago, Park Ave. PanAm","ratio":0.6630000000000000337507799486047588288784027099609375,"owner":"142382111@N07","ownername":"gerard eder"},{"id":41942642831,"secret":"0ebab751df","server":982,"farm":1,"title":"Minimalist MOMA","ratio":1.3329999999999999626965063725947402417659759521484375,"owner":"37945735@N00","ownername":"JamesAnok || ThetaState"},{"id":41162380010,"secret":"6cea64e2f2","server":1834,"farm":2,"title":"NYC, Black Cadillac antenna mania","ratio":1.5629999999999999449329379785922355949878692626953125,"owner":"142382111@N07","ownername":"gerard eder"},{"id":41059047345,"secret":"8c204b5fe5","server":907,"farm":1,"title":"Destacando","ratio":0.6670000000000000373034936274052597582340240478515625,"owner":"59187261@N07","ownername":"Perurena"}]}
+};/* end import */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create','UA-4656078-5');
+ga('set','anonymizeIp',true);
+function fields(a) { var i = pages[pageid]; if (i.islocation) { if (i.country) { a.dimension1 = i.country; } a.dimension2 = i.locality ? 'Locality' : (i.landmark ? 'Landmark' : 'Place'); a.dimension3 = i.feature; a.dimension4 = i.featureclass; } return a; }
+ga('send','pageview',fields({}));
+function domload() { if (phase < 2) { phase += 2; if (phase === 3) { initiate(); } } }
+if (document.addEventListener) { document.addEventListener('DOMContentLoaded',domload,false); }
+function act(i) { if (phase === 5) { launch(i); } else { queue = i; } }
+function noads() { if (hasads.length) { hasads = []; if (phase === 5) { setads(); } } }
+</script>
+<link rel="stylesheet" type="text/css" href="/static/874.css" />
+<link rel="shortcut icon" href="https://mapcarta.com/favicon.ico" />
+<link rel="apple-touch-icon" href="https://mapcarta.com/icons/appicon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://mapcarta.com/icons/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mapcarta.com/icons/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://mapcarta.com/icons/icon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://mapcarta.com/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://mapcarta.com/icons/icon-512.png">
+<script async src="/static/874.js"></script>
+</head>
+<body onload="domload();" class="pagemode mappage mainview" onclick="if (phase === 5) { checkclose(event); } return true;">
+<script id="adsscript" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noads();"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client:'ca-pub-3417291128493297',
+enable_page_level_ads:true
+});
+window.google_analytics_uacct = "UA-4656078-5";
+</script>
+<div id="pagebox">
+<div id="backbox">
+<div id="headbox">
+<a href="/" title="Mapcarta" class="pagelogo" rel="noopener"></a>
+<div class="searchbar"><form action="https://google.com/cse" onsubmit="if (phase === 5) { submitsearch(this); } return false;"><input type="hidden" name="cx" value="004731645928269741811:1t7of2uek1o" /><input type="hidden" name="ie" value="UTF-8" /><div class="searchsubmit"><input type="image" class="searcharea" src="/images/clear.gif" alt="Search" name="sa" /><span class="ikon searchicon"></span></div><input class="searchfield" name="q" maxlength="47" value="Search" onfocus="this.value = '';" onblur="if (!this.value) { this.value = searchvalue; }" autocomplete="off" /></form></div>
+<div class="stayleader">Hotels</div>
+</div>
+<div class="helmbox">
+<div class="helmdouble firstblock"><div class="mainbutton helmblock"><a onclick="act('main'); return false;" href="/Manhattan/Theater_District" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></div><div class="mapbutton helmblock helmright"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div></div>
+<div class="helmdouble lastblock"><div class="staybutton helmblock"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div><div class="photobutton helmblock helmright"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mainbutton"><a onclick="act('main'); return false;" href="/Manhattan/Theater_District" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></span><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div>
+<div id="breadcrumbs">
+<!-- start breadcrumbs -->
+<div class="pillbox" itemscope itemtype="https://schema.org/BreadcrumbList">
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/North_America" title="North America" class="pill" itemprop="item" rel="noopener"><span itemprop="name">North America</span><meta itemprop="position" content="1" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/United_States_of_America" title="United States" class="pill" itemprop="item" rel="noopener"><span itemprop="name">USA</span><meta itemprop="position" content="2" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/Mid-Atlantic" title="Mid-Atlantic" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Mid-Atlantic</span><meta itemprop="position" content="3" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/New_York_%28state%29" title="New York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">New York</span><meta itemprop="position" content="4" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/Metro_New_York" title="Metro New York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Metro New York</span><meta itemprop="position" content="5" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/New_York_City" title="New York City" class="pill" itemprop="item" rel="noopener"><span itemprop="name">New York City</span><meta itemprop="position" content="6" /><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/Manhattan" title="Manhattan" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Manhattan</span><meta itemprop="position" content="7" /><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+<!-- end breadcrumbs -->
+</div>
+<div id="mainbox" itemscope itemtype="https://schema.org/AdministrativeArea">
+<!-- start mainbox -->
+<h1><span itemprop="name">Theater District</span></h1>
+<div id="topbox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<div class="pod backdrop podback"><div class="headpouch icyshade"><span itemprop="description">Broadway. Times Square. Madison Square Garden. The name says it all: the Theater District is the entertainment hub of the city, and possibly the entire nation.</span></div><div class="tailpouch"><div class="helmdouble firstblock"><div class="mapbutton helmblock"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div><div class="staybutton helmblock helmright"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div></div>
+<div class="helmdouble lastblock"><div class="photobutton helmblock"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div></div>
+<div id="blurb0" class="plug"></div>
+<h2 id="photoheading">Theater District Photos</h2>
+<div id="corebox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<h2>Theater District</h2>
+<div class="pod pouch shaded"><ul>
+<li>Location:&nbsp; <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan" title="Manhattan" itemprop="url" rel="noopener"><span itemprop="name">Manhattan</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_City" title="New York City" itemprop="url" rel="noopener"><span itemprop="name">New York City</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Metro_New_York" title="Metro New York" itemprop="url" rel="noopener"><span itemprop="name">Metro New York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_%28state%29" title="New York" itemprop="url" rel="noopener"><span itemprop="name">New York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Mid-Atlantic" title="Mid-Atlantic" itemprop="url" rel="noopener"><span itemprop="name">Mid-Atlantic</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/United_States_of_America" title="United States" itemprop="url" rel="noopener"><span itemprop="name">United States</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/North_America" title="North America" itemprop="url" rel="noopener"><span itemprop="name">North America</span></a></span></li>
+<li>Latitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="latitude">40°&nbsp;45'&nbsp;46.1" (40.7628°) north</span></span></li>
+<li>Longitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="longitude">73°&nbsp;59'&nbsp;1" (73.9836°) west</span></span></li>
+<li>Elevation:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="elevation">115 feet (35 meters)</span></span></li>
+<li>Wikidata:&nbsp; <a target="_blank" href="https://www.wikidata.org/wiki/Q2662015" title="Theater District" itemprop="sameAs" rel="noopener">Theater District</a></li>
+<li>Wikimedia Commons:&nbsp; <a target="_blank" href="https://commons.wikimedia.org/wiki/Category:Theatre_District%2C_Manhattan" title="Theatre District, Manhattan" itemprop="sameAs" rel="noopener">Theatre District, Manhattan</a></li>
+</ul></div>
+<h2>New York Hotels</h2>
+<div class="subline texthue"><b class="hue">✓</b> Find your ideal hotel in New York</div>
+<div class="pod stayform backdrop stayback"><div class="pouch frostyshade"><form onsubmit="act('Preset Search'); return false;"><div class="formarea"><div class="formdetails"><div class="formdate formspaced"><div class="forminfo">Travel Dates</div><div class="formbase"><input value="11/30 – 12/2" id="spreadcal" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" readonly="readonly" /></div></div><div class="formguests formspaced"><div class="forminfo">Guests</div><div class="formbase"><input value="2" id="spreadguests" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" size="1" maxlength="1" /></div></div></div><div class="formbutton"><a onclick="act('Preset Search'); return false;" title="Search Hotels" class="button" rel="noopener"><span class="formcut"><span class="withicon"><span class="ikon whitesearchicon"></span>Search<wbr /> Hotels</span></span></a></div></div></form></div></div>
+<h2>For More Information</h2>
+<div class="pod pouch shaded"><ul>
+<li><a target="_blank" href="https://en.wikipedia.org/wiki/Theater_District%2C_Manhattan" title="Theater District, Manhattan – Wikipedia" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon wpicon"></span>Theater District, Manhattan – Wikipedia</span></a></li>
+<li class="iconspacing"><a target="_blank" href="https://en.wikivoyage.org/wiki/Manhattan/Theater_District" title="Theater District – Wikivoyage" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon wvicon"></span>Theater District – Wikivoyage</span></a></li>
+</ul></div>
+<h2>Maps of Theater District</h2>
+<div class="pod pouch shaded"><ul>
+<li><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.openstreetmap.org/#map=12/40.7628/-73.9836" title="OpenStreetMap" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon osmicon"></span>OpenStreetMap</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.google.com/maps/@40.7628,-73.9836,12z" title="Google Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon gmapsicon"></span>Google Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://wego.here.com/?map=40.7628,-73.9836,12" title="Here WeGo" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon hereicon"></span>Here WeGo</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.bing.com/maps/?cp=40.7628~-73.9836&amp;lvl=12&amp;where1=Theater+District" title="Bing Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon bingicon"></span>Bing Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.mapquest.com/?center=40.7628,-73.9836&amp;zoom=12" title="MapQuest" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon mapquesticon"></span>MapQuest</span></a></span></li>
+</ul></div>
+<h2>Localities in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22618026" title="San Juan Hill" class="pill" itemprop="url" rel="noopener"><span itemprop="name">San Juan Hill</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22586562" title="Hell's Kitchen" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Hell's Kitchen</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22627724" title="Times Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Times Square</span>&nbsp; <span class="addendum texthue">Square</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/26206638" title="Midtown Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Midtown Manhattan</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_City" title="New York City" class="pill" itemprop="url" rel="noopener"><span itemprop="name">New York City</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/26206434" title="Times Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Times Square</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/26234434" title="Diamond District" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Diamond District</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Landmarks in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/27497738" title="Neil Simon Theatre" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Neil Simon Theatre</span>&nbsp; <span class="addendum texthue">Theater</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26234436" title="Ed Sullivan Theatre" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Ed Sullivan Theatre</span>&nbsp; <span class="addendum texthue">Theater</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/33023040" title="Studio 54" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Studio 54</span>&nbsp; <span class="addendum texthue">Theater</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/27389246" title="Eugene O'Neill Theatre" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Eugene O'Neill Theatre</span>&nbsp; <span class="addendum texthue">Theater</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/27414780" title="Walter Kerr Theatre" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Walter Kerr Theatre</span>&nbsp; <span class="addendum texthue">Theater</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/27809726" title="Longacre Theatre" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Longacre Theatre</span>&nbsp; <span class="addendum texthue">Theater</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22568824" title="Carnegie Hall" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Carnegie Hall</span>&nbsp; <span class="addendum texthue">Theater</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Popular Destinations in <span itemprop="name">New York City</span></h2>
+<div class="pod pouch shaded"><div itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><div class="pillbox">
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Brooklyn" title="Brooklyn" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Brooklyn</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Queens" title="Queens" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Queens</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Staten_Island" title="Staten Island" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Staten Island</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Bronx" title="Bronx" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Bronx</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/John_F._Kennedy_International_Airport" title="John F. Kennedy International Airport" class="pill" itemprop="url" rel="noopener"><span itemprop="name">John F. Kennedy International Airport</span></a></span>
+<div class="clearboth"></div>
+</div>
+<meta itemprop="url" content="https://mapcarta.com/New_York_City" /></div></div>
+<h2>Escape to a Random Place</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Warsaw" title="Warsaw" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Warsaw</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Morocco" title="Morocco" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Morocco</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Paraty" title="Paraty" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Paraty</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Canggu" title="Canggu" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Canggu</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Big_Sur" title="Big Sur" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Big Sur</span><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="blurb1" class="plug"></div>
+<h2>Your World is Without Borders</h2>
+<div class="pod pouch shaded"><div class="languagelist"><a href="/de/Manhattan/Times_Square" title="Deutsch" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon deicon"></span>Deutsch</span></a><a href="/es/Theater_District" title="Español" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon esicon"></span>Español</span></a><a href="/fr/Theater_District_de_Manhattan" title="Français" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon fricon"></span>Français</span></a><a href="/it/Theater_District" title="Italiano" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon iticon"></span>Italiano</span></a><a href="/pt/Theatre_District_%28Nova_Iorque%29" title="Português" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon pticon"></span>Português</span></a></div></div>
+<div class="spacer3"></div>
+<div class="pod pouch footerpod"><a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" class="cclink" rel="noopener"><span class="cclogo"></span></a>Text is available under the <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" rel="noopener">Creative Commons Attribution-ShareAlike License</a>, excluding photos, directions and the map.<div class="spacer1"></div><a href="/About_Mapcarta" title="About Mapcarta" rel="noopener">About Mapcarta</a>. Thanks to <a target="_blank" href="https://www.mapbox.com" title="Mapbox" rel="noopener">Mapbox</a> for providing amazing maps. Based on the page <a target="_blank" href="https://en.wikivoyage.org/wiki/Manhattan/Theater_District" title="Theater District" itemprop="sameAs" rel="noopener">Theater District</a>. See this page's <a target="_blank" href="https://en.wikivoyage.org/w/index.php?title=Manhattan/Theater_District&amp;action=history" title="contributions" rel="noopener">contributions</a>. Photos provided by <a target="_blank" href="https://www.flickr.com" title="Flickr" rel="noopener">Flickr</a> under the copyright of their owners. Mapcarta uses the Flickr API but is not endorsed or certified by Flickr. Please contact us if you'd prefer to remove your Flickr photos from Mapcarta.<meta itemprop="image" content="https://farm1.staticflickr.com/901/42468959371_1f25e939eb_b.jpg" /><meta itemprop="image" content="https://farm4.staticflickr.com/3273/2475367621_35fb6367f6_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/825/42210309161_ac62bf58e7_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/979/40051587660_e9b4116551_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1846/44290401202_932f873f1c_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/961/41517889694_be284778f1_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1871/29546860407_d5e119e46b_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1728/41816905944_49b3312766_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1759/41960271705_ccba8ed015_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/894/27435182827_961760fc88_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/828/28337562728_c9fbc57647_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/823/28031859348_3d823a0886_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1828/43413464242_ef107a2744_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/912/41098032594_27ff4bee45_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1753/28781512178_e07d390007_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/982/41942642831_0ebab751df_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1834/41162380010_6cea64e2f2_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/907/41059047345_8c204b5fe5_b.jpg" /></div>
+<!-- end mainbox -->
+</div>
+<div id="hotelbox"></div>
+<div id="resultsbox"></div>
+<div id="noticebox"></div>
+<div id="photobox"></div>
+<div id="plotbox"></div>
+</div>
+</div>
+<div id="mapbox" class="pick0"></div>
+<div id="albumbox"></div>
+<div id="checksplit" class="checkunit"></div>
+<div id="checkmini" class="checkunit"></div>
+<div id="checksingle" class="checkunit"></div>
+<div id="checkad" class="checkunit"></div>
+<div id="checkphoto" class="checkunit"></div>
+<!-- Complete -->
+</body>
+</html>

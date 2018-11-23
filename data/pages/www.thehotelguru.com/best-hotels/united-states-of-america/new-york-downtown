@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400&amp;subset=latin" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="HandheldFriendly" content="true">
+<title>The Best Manhattan Hotels, USA | The Hotel Guru</title>
+<meta name="description" content="The Best Manhattan Hotels from the Hotel Guru.  Our experts give their hand-picked recommendations for the Best Manhattan Hotels." />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-language" content="en" />
+<meta property="og:title" content="The Best Manhattan Hotels, USA" />
+<meta property="og:site_name" content="The Hotel Guru" />
+<meta property="fb:app_id" content="143121159073444" />
+<link rel="stylesheet" href="/v2/lib/blueprint/src/reset.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/blueprint/src/grid.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/blueprint/modified/typography.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/blueprint/src/forms.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/slimpicker/slimpicker.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/layout.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/global.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/buttons.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/blog.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/availability.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/listings.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/pages/destinations.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/assets/style.css?v=1" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/mobile.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-gb/best-hotels/united-states-of-america/new-york-downtown" hreflang="en-gb" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-us/best-hotels/united-states-of-america/new-york-downtown" hreflang="en-us" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-ca/best-hotels/united-states-of-america/new-york-downtown" hreflang="en-ca" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-au/best-hotels/united-states-of-america/new-york-downtown" hreflang="en-au" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-eu/best-hotels/united-states-of-america/new-york-downtown" hreflang="en" />
+<link rel="alternate" href="https://www.thehotelguru.com/best-hotels/united-states-of-america/new-york-downtown" hreflang="x-default" />
+<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.5&amp;key=AIzaSyD6hRQI8nFE3hGMI6Tl4PVCSRXAb2lIPhA" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/lib/mootools-more-1.4.0.1.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/behaviors.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/global.js?" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-tabs.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-popup.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-slideshow.js?2" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-autosuggest.js?1" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/newsletter-popup.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/tracking.js?1" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/map-tooltip.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/mapping.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/availability.js?7" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/popups.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/pages/hotel-list-page.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/pages/hotel-page.js" type="text/javascript" charset="utf-8"></script>
+<script src="/assets/script.js" type="text/javascript" charset="utf-8"></script>
+<script src="/autocomplete.js" type="text/javascript" charset="utf-8"></script>
+<script src="/leaflet-src.js" type="text/javascript" charset="utf-8"></script>
+<style>
+		#page-content a[href*=\/search] {
+			text-decoration: underline !important;
+		}
+	</style>
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-5T93Z8B':true});</script>
+<script>
+	//Universal Analytics Setup
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-431682-1', 'auto');
+	ga('require', 'GTM-5T93Z8B');
+	ga('send', 'pageview');
+	</script>
+
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1237108869710431'); 
+	fbq('track', 'PageView');
+	</script>
+<noscript>
+	<img height="1" width="1" 
+	src="https://www.facebook.com/tr?id=1237108869710431&ev=PageView
+	&noscript=1"/>
+	</noscript>
+
+<meta name="p:domain_verify" content="45f39a30696910cc1b4c2aeb8561813e" />
+</head>
+<body>
+<div class="siteWrapper headerFixed">
+<div id="header">
+<div class="wrapper">
+<a class="searchButton">
+<i class="fa fa-search"></i>
+<span>Search</span>
+</a>
+<a href="/" class="logo">
+<img src="/v2/images/logo-sub.png" alt=" " width="165" />
+</a>
+<div class="strapline">The Expert View</div>
+<a href="/" class="mobileLogo">
+<img src="/assets/mobile_logo.png" alt="" />
+</a>
+<a class="flyoutButton">
+<span></span>
+</a>
+<div class="flyoutWrap">
+<ul class="mainMenu">
+<li class="mobileItem"><a href="/">Home</a></li>
+<li><a href="/themes">Collections</a></li>
+<li><a href="/best-hotels-in">Destinations</a></li>
+<li><a href="/car-hire">Car Hire</a></li>
+<li><a href="/blog">Blog</a></li>
+<li class="mobileItem"><a href="/the-gurus">About</a></li>
+<li><a target="_blank" href="https://twitter.com/The_Hotel_Guru" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
+<li><a target="_blank" href="https://www.facebook.com/pages/The-Hotel-Guru/112527392107595" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+<li><a target="_blank" href="https://www.instagram.com/the_hotel_guru/" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
+</ul>
+</div> 
+<form class="searchBox" action="/search" method="get">
+<input type="hidden" name="searchbox" value="topbar">
+<button class="submit" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input type="hidden" name="loc">
+<input data-behavior="AutoSuggest" data-autosuggest-options="{popupClass:'AutoComplete_Suggestions AutoComplete_Suggestions_Big',submitOnClick:false}" name="locname" class="text autoSuggest" placeholder="Search for destination or hotel..." autocomplete="off" value="" />
+</form>
+<p style="    
+  float:left;
+    margin-top: -20px;
+clear:both;
+"><a href="/en-gb/best-hotels/united-states-of-america/new-york-downtown"><img src="/files/flags/24/uk.png" alt="GB" /></a> <a href="/en-us/best-hotels/united-states-of-america/new-york-downtown"><img src="/files/flags/24/usa.png" alt="USA" /></a> <a href="/en-eu/best-hotels/united-states-of-america/new-york-downtown"><img src="/files/flags/24/eu.png" alt="EU" /></a> <a href="/en-au/best-hotels/united-states-of-america/new-york-downtown"><img src="/files/flags/24/aus.png" alt="Australia" /></a> <a href="/en-ca/best-hotels/united-states-of-america/new-york-downtown"><img src="/files/flags/24/ca.png" alt="Canada" /></a></p>
+</div> 
+</div> 
+<div id="content" role="main">
+<div class="mobileSearch">
+<div id="AvailSearchBox" class="searchBox" data-behavior="AvailSearchBox">
+<form action="/search" method="get">
+<input type="hidden" name="loc" value="1067" />
+<div class="row">
+<label for="locname">Find me the best hotels in:</label>
+<div class="inputWrap mapIcon">
+<input data-behavior="AutoSuggest" data-autosuggest-options="{popupClass:'AutoComplete_Suggestions AutoComplete_Suggestions_Big',submitOnClick:false}" name="locname" class="text autoSuggest" placeholder="Search for destination or hotel..." autocomplete="off" value="" />
+</div>
+</div>
+<div class="row">
+<div class="row rowHalf">
+<label for="checkin">Check in</label>
+<div class="inputWrap date">
+ <input type="text" class="text datepicker" name="checkin" autocomplete="off" alt="{format:'dd/mm/yyyy'}" placeholder="Check in date" readonly />
+</div>
+</div>
+<div class="row rowHalf">
+<label for="checkout">Check out</label>
+<div class="inputWrap date">
+<input type="text" class="text datepicker" name="checkout" autocomplete="off" alt="{format:'dd/mm/yyyy'}" placeholder="Check out date" readonly />
+</div>
+</div>
+</div>
+<div class="row">
+<input type="checkbox" name="flexible" id="flexible" onclick="update_no_dates(this);" />
+<label for="flexible">I'm flexible with dates</label>
+</div>
+<div class="row">
+<button type="submit" class="button">Search & Book</button>
+</div>
+</form>
+</div>
+</div>
+<div class="headerTagline">
+<div class="wrapper">
+<ul><li>✓ FREE cancellation on most rooms</li><li>✓ Save time, save money</li></ul>
+</div>
+</div>
+<div class="breadcrumbWrap">
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a href="/" rel="v:url" property="v:title">The Hotel Guru</a></li> <li typeof="v:Breadcrumb"><a href="/themes" rel="v:url" property="v:title">Top choices</a></li> <li>The Best Manhattan Hotels</li></ul>
+</div>
+<div class="contentPageWrap">
+<div class="contentWrap colWrap">
+<div class="destinationHead">
+<div class="headLeft headFull">
+<h1>The Best Manhattan Hotels</h1>
+</div>
+</div>
+<div class="colLeft">
+<div class="addthis_inline_share_toolbox" style="    text-align: right;"></div>
+<p>An exhilarating, energetic, eclectic melting pot, New York is a truly cosmopolitan city, where every language is spoken, every race represented and every cuisine is on the menu. And the best Manhattan hotels reflect that variety.</p>
+<p><span class="image-box"><img src="https://www.thehotelguru.com/_images/4a/4d/4a4df75bcaaea9c7de492d41ac998e91/500x332.jpg" alt="Manhattan" /></span><span class="caption-overlay" style="float: right;
+    position: relative;
+    clear: both;
+    display: inline;
+    margin: -26px 107px 0 0;
+    background-color: white;
+    padding: 1px 5px;
+    background: rgba(255,255,255,0.8);
+    font-size: 10px;"><a href="https://www.flickr.com/photos/thomashawk/" target="_blank">Flickr user Thomas Hawk</a></span></p>
+<p>As you'd expect in such a vibrant place, the best Manhattan hotels come with a vastly varied price list. But there&rsquo;s really nowhere like Downtown Manhattan to experience, and the only way to experience New York is in one of our Guru&rsquo;s recommendations for the best Manhattan hotels.</p>
+<h1>The Best Manhattan Hotels</h1>
+<h2>For the classic New York experience</h2>
+<p><span class="image-box"><img src="https://www.thehotelguru.com/_images/74/cb/74cb9d7e4dab85503870afe623835091/500x332.jpg" alt="Gramercy Park Hotel" /></span></p>
+<ul>
+<li>The <a href="/hotel/gramercy-park-hotel-new-york">Gramercy Park Hotel</a> is a luxurious boutique hotel right by Gramercy Park, with an award winning roof terrace restaurant overlooking the park and an impressive art collection which includes Warhol and Damien Hirst.</li>
+<li><a href="/hotel/the-mercer-new-york">The Mercer</a> is another New York classic, offering the ultimate in SoHo design chic and a world-class restaurant.</li>
+</ul>
+<h2>For a city break</h2>
+<p><span class="image-box"><img src="https://www.thehotelguru.com/_images/c8/73/c87384e096a280acb021fc8b55de9081/500x332.jpg" alt="Soho Grand Hotel" /></span></p>
+<ul>
+<li>The <a href="/hotel/washington-square-hotel-new-york">Washington Square Hotel</a> is a historic hotel in Greenwich village, with Art Deco details, subtly lit rooms and a great restaurant.</li>
+<li>But the <a href="/hotel/soho-grand-hotel-new-york">SoHo Grand Hotel</a> is a more sumptuous option with stunning views, renowned decor and acclaimed cuisine.</li>
+</ul>
+<h2>For hip style</h2>
+<p><span class="image-box"><img src="https://www.thehotelguru.com/_images/b5/8c/b58cb4b0d57119e75b23bc677263b8f1/500x332.jpg" alt="Sixty Soho" /></span></p>
+<ul>
+<li><a href="/hotel/sixty-soho-new-york">Sixty Soho</a> is a hip SoHo hotel with a phenomenal rooftop bar and restaurant,</li>
+<li>or try <a href="/hotel/soho-house-new-york">Soho House</a>, for exclusive luxury in the Meatpacking district with an even more fantastic rooftop terrace and pool, a deluxe spa and a 44-seat cinema.</li>
+</ul>
+<h2>For the city buzz</h2>
+<p><span class="image-box"><img src="https://www.thehotelguru.com/_images/36/8a/368aa2321b542f7e4e2ae4489a91c061/500x332.jpg" alt="The Bowery" /></span></p>
+<ul>
+<li><a href="/hotel/the-bowery-hotel-new-york">The Bowery Hotel</a> is a fun and lively destination in an up-an-coming district,</li>
+<li>or you could go for the <a href="/hotel/the-standard-new-york">The Standard</a> in the uber cool Meatpacking District, with it&rsquo;s ceiling to floor windows offering views across the whole buzzing scene.</li>
+<li>The <a href="/hotel/tribeca-grand-new-york">Tribeca Grand</a> is another of our buzziest and best Manhattan hotels with an in-house cinema, funky roof-top terrace, regular live music and plenty of luxury.</li>
+</ul>
+<h2>Best Manhattan hotels on Wall Street</h2>
+<p><span class="image-box"><img src="https://www.thehotelguru.com/_images/db/71/db71fab423cf56de447eeea623e0a821/500x332.jpg" alt="Andaz Wall Street" /></span></p>
+<ul>
+<li>The <a href="/hotel/andaz-wall-street-new-york">Andaz Wall Street</a> is worth a mention as the only hotel with a Wall Street address. It&rsquo;s hip and happening and has a fantastic spa and bar.</li>
+</ul>
+<h3>If you haven&rsquo;t found the best Manhattan hotel for you on our Guru&rsquo;s list then try:</h3>
+<ul>
+<li>expanding your search to include our list of the <a href="/search?searchbox=topbar&amp;loc=&amp;locname=manhattan">best places to stay in New York</a>,</li>
+<li>refining your list to the <a href="/best-hotels/united-states-of-america/new-york-midtown-and-uptown">best Midtown and Uptown Manhattan Hotels</a>,</li>
+<li>or <a href="/advice-and-booking/enquire">contact</a> one of our friendly Gurus for advice.</li>
+</ul>
+<h1>The Best Manhattan Hotels</h1>
+<p><div id="hotelResults" class="hotelResults"><ul class="hotels" id="hotels">
+<li class="hotel" id="hotel-476" data-hotel-id="476">
+<div class="imgWrap">
+<a href="/hotel/gramercy-park-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/74/cb/74cb9d7e4dab85503870afe623835091/s440x294.jpg" alt="Gramercy Park Hotel">
+<br /><a href="/hotel/gramercy-park-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/gramercy-park-hotel-new-york" class="hotel-link">Gramercy Park Hotel</a>
+<span class="roomsInfo">
+185 rooms
+from <b>£268</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Newly decorated luxury boutique. Great pieces of furniture and diverse artworks, from Warhol to Damien Hirst, provide a unique impression of 21st century Bohemia. A lively and hip destination.</p>
+<div><b>Luxury</b></div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Just a short stroll away you will find New Yorks most famous site, The Empire State Building.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Take a turn around the lovely Gramercy Park literally on the hotels doorstep.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Gorgeous views of Gramercy Park</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=476" data-hotel-id="476" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-477" data-hotel-id="477">
+<div class="imgWrap">
+<a href="/hotel/the-bowery-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/6c/b0/6cb0ee49e3065c81f97971e554686131/s440x294.jpg" alt="The Bowery Hotel">
+<br /><a href="/hotel/the-bowery-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-bowery-hotel-new-york" class="hotel-link">The Bowery Hotel</a>
+<span class="roomsInfo">
+135 rooms
+from <b>£288</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>A young, hip and delightfully atmospheric hotel in the trendy East Village. Chic and comfortable rooms with large windows providing plenty of light and splendid views. The vintage bars and restaurants are full of old world charm. A fun and lively destination in an up and coming district.</p>
+<div><b>Close to nightlife</b>&nbsp;&nbsp;-&nbsp;&nbsp;Bowery Ballroom and Mercury Lounge are just 800m away, as well as a whole range of hip bars and clubs.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;More for revelry than for pampering.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;The hip and trendy East Village is best explored on foot, wander the streets or ask at reception for a good route!</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Just a few short blocks away check out Union Square Greenmarket.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet, Fodors, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=477" data-hotel-id="477" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-484" data-hotel-id="484">
+<div class="imgWrap">
+<a href="/hotel/the-mercer-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/2f/c5/2fc52e0efd388b3586fc027f93dda871/s440x294.jpg" alt="The Mercer">
+<br /><a href="/hotel/the-mercer-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-mercer-new-york" class="hotel-link">The Mercer</a>
+<span class="roomsInfo">
+75 rooms
+from <b>£534</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Ultimate SoHo chic. An iconic hotel, The Mercer provides the comforts of a home away from home, but in the surroundings of a trendy loft space. Artistic cool and modernist designs. Its world-class restaurant is a must.</p>
+<div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;The automatic table reservation at chef Jean-Georges Vongerichten’s Mercer Kitchen is worth its weight in gold.</div><div><b>Families</b>&nbsp;&nbsp;-&nbsp;&nbsp;Interconnecting family suites and babysitting services.</div><div><b>Outstanding location</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in bustling downtown Soho.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Walk to the south-east of the hotel and you'll stumble across Little Italy and Chinatown, both well worth a visit.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, I Escape, Tablet, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=484" data-hotel-id="484" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-485" data-hotel-id="485">
+<div class="imgWrap">
+<a href="/hotel/sixty-soho-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/a6/8d/a68d6fc7277b2ce4e1ceb97ca77cce11/s440x294.jpg" alt="Sixty Soho">
+<br /><a href="/hotel/sixty-soho-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/sixty-soho-new-york" class="hotel-link">Sixty Soho</a>
+<span class="roomsInfo">
+97 rooms
+from <b>£241</b>
+</span>
+</h3>
+<span class="location">New York (Soho)</span>
+<div class="desc">
+<p>A hip and stylish SoHo hotel. The chic rooms are full of individual details such artworks by Harland Miller and selected literature. Phenomenal bar and restaurant are incentive enough to stay here. A lively spot to see and be seen.</p>
+<div><b>Restaurant</b>&nbsp;&nbsp;-&nbsp;&nbsp;Acclaimed restaurant - a paean to Thai cuisine.</div><div><b>Roof terrace</b>&nbsp;&nbsp;-&nbsp;&nbsp;Rooftop bar</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Learn about the Lower East Side’s rich immigrant history on foot during a guided tour at the Tenement Museum on Orchard Street.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Wander down to Chinatown, under two Km away, and check out all this dynamic area has to offer.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=485" data-hotel-id="485" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-486" data-hotel-id="486">
+<div class="imgWrap">
+<a href="/hotel/washington-square-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/65/ab/65ab97aaec9df0e64b382e0eee617581/s440x294.jpg" alt="Washington Square Hotel">
+<br /><a href="/hotel/washington-square-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/washington-square-hotel-new-york" class="hotel-link">Washington Square Hotel</a>
+<span class="roomsInfo">
+150 rooms
+from <b>£194</b>
+</span>
+</h3>
+<span class="location">New York Downtown</span>
+<div class="desc">
+<p>An historic 1902 residence turned hotel in Greenwich Village. Art-deco style furnishings and dark mahoganies make up the subtly lit rooms. Here it's all about the prime location right on the corner of Washington Square Park. </p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Right in Greenwich Village, this is an ideal spot for exploring Manhattan by foot.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Check out the streets of China Town, packed with stalls and shops of every description.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;All within a few minutes walk are Madison Square Gardens and Little Italy.</div><div><b>Outstanding location</b>&nbsp;&nbsp;-&nbsp;&nbsp;On the edge of Washington Square Park.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Frommers</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=486" data-hotel-id="486" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-570" data-hotel-id="570">
+<div class="imgWrap">
+<a href="/hotel/soho-house-new-york-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/31/1a/311ae91c86f2ee0a7427200f111f6a41/s440x294.jpg" alt="Soho House New York">
+<br /><a href="/hotel/soho-house-new-york-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/soho-house-new-york-new-york" class="hotel-link">Soho House New York</a>
+<span class="roomsInfo">
+24 rooms
+from <b>£389</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Exclusive luxury in lower Manhattan's hip Meatpacking district. Fantastic rooftop terrace with pool, 44-seater cinema, and delux spa. Soho House is the epitome of cool. What more could you want from a trendy trip to NYC. Enjoy the Soho House restaurant, bar and Cowshed spa.</p>
+<div><b>Bar</b>&nbsp;&nbsp;-&nbsp;&nbsp;Rooftop bar situated near rooftop pool.</div><div><b>Swimming Pool</b>&nbsp;&nbsp;-&nbsp;&nbsp;Heated rooftop pool with bar</div><div><b>Roof terrace</b></div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views from hotel</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, I Escape, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=570" data-hotel-id="570" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-1283" data-hotel-id="1283">
+<div class="imgWrap">
+<a href="/hotel/andaz-wall-street-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/e2/98/e298b338767dfc57992a0a10e4dc8551/s440x294.jpg" alt="Andaz Wall Street">
+<br /><a href="/hotel/andaz-wall-street-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/andaz-wall-street-new-york" class="hotel-link">Andaz Wall Street</a>
+<span class="roomsInfo">
+253 rooms
+from <b>£388</b>
+</span>
+ </h3>
+<span class="location">New York City</span>
+<div class="desc">
+<p>The only hotel with an address on Wall Street, placing it at the epicenter of the Financial District. Large loft style rooms with seriously luxurious bathrooms. A hip restaurant using farm fresh produce, trendy bar and a glorious spa. A boutique hotel with a chains knowledge. </p>
+<div><b>Romantic Break</b>&nbsp;&nbsp;-&nbsp;&nbsp;A stylish choice- loft-style rooms featuring pillow menus and king sized beds and downstairs a hip bar and yummy restaurant.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A slick hotel set in an historic NYC neighborhood- trendy rough brick walls mixed with glossy finishes and lavish fittings.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Close to New Yorks famous Central Park, a breath of fresh air in the city centre.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Walking distance from ferries to the Statue of Liberty and Governor's Island.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=1283" data-hotel-id="1283" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-1289" data-hotel-id="1289">
+<div class="imgWrap">
+<a href="/hotel/the-standard-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/e0/90/e090a3935783667e15a21ab0871f4381/s440x294.jpg" alt="The Standard">
+<br /><a href="/hotel/the-standard-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-standard-new-york" class="hotel-link">The Standard</a>
+<span class="roomsInfo">
+338 rooms
+from <b>£359</b>
+</span>
+</h3>
+<span class="location">New York (Meatpacking District)</span>
+<div class="desc">
+<p>Oh-so chic rooms in the edgy ambient neighbourhood of Lower West Side. Ceiling to floor windows offer stunning views across New York, even from your bath tub. Hip all American food at the hotel restaurant and a 'to be seen in' bar. A hyper-modern way to experience New York. </p>
+<div><b>Romantic Break</b>&nbsp;&nbsp;-&nbsp;&nbsp;Wonderfully indulgent suites feature romantic stand alone baths with stunning views and downstairs expect wonderful cuisine.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A super trendy creation by Andre Balazs- achingly hip and housing one of New York's most sought after nightlife spots.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views of the skyline and Hudson Bay</div><div><b>Romantic</b>&nbsp;&nbsp;-&nbsp;&nbsp;Good for couples.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet, Fodors, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=1289" data-hotel-id="1289" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-3013" data-hotel-id="3013">
+<div class="imgWrap">
+<a href="/hotel/soho-grand-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/56/59/5659086880ad037c647a38c24aeaef31/s440x294.jpg" alt="SoHo Grand Hotel">
+<br /><a href="/hotel/soho-grand-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/soho-grand-hotel-new-york" class="hotel-link">SoHo Grand Hotel</a>
+<span class="roomsInfo">
+355 rooms
+from <b>£300</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+ <p>Sumptuous and elegantly designed - the 1870’s Gilded Age meets 1970's luxury - catering to the ultra-chic New Yorker. Rooms have stunning views and are decorated with original artworks. Acclaimed cuisine, stylish bar and sophisticated club room. A chic urban paradise.</p>
+<div><b>Rooms with balcony/terrace</b>&nbsp;&nbsp;-&nbsp;&nbsp;Two sprawling penthouse lofts</div><div><b>Pet friendly</b>&nbsp;&nbsp;-&nbsp;&nbsp;No fee for pets</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Central location means sights of New York are on your doorstep</div><div><b>Designer</b>&nbsp;&nbsp;-&nbsp;&nbsp;Interior designs by celebrated interior designer Bill Sofield</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=3013" data-hotel-id="3013" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-3023" data-hotel-id="3023">
+<div class="imgWrap">
+<a href="/hotel/the-roxy-hotel-tribeca-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/ec/ef/ecefd819668f7d5cf3a49c9ce1eb8841/s440x294.jpg" alt="The Roxy Hotel Tribeca">
+<br /><a href="/hotel/the-roxy-hotel-tribeca-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-roxy-hotel-tribeca-new-york" class="hotel-link">The Roxy Hotel Tribeca</a>
+<span class="roomsInfo">
+203 rooms
+from <b>£238</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>The SoHo Grand’s cooler little sister - the ultimate in downtown chic. The in-house cinema, live music and suave roof top terrace all attract a fashionista crowd. Sleek, mid-century modern rooms, fitted with the latest technology. The relaxing Aire Ancient Baths are located just one block away.</p>
+<div><b>Pet friendly</b>&nbsp;&nbsp;-&nbsp;&nbsp;Pets can stay with no additional charge</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Luxurious downtown chic</div><div><b>Spa</b>&nbsp;&nbsp;-&nbsp;&nbsp;Aire Ancient Baths, located just one block from the hotel</div><div><b>House party feel</b>&nbsp;&nbsp;-&nbsp;&nbsp;Noise from the lively bar downstairs</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=3023" data-hotel-id="3023" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+</ul>
+</div></p>
+<div class="blogAuthor">
+<div class="author">
+<div class="imgWrap"><img src="https://www.thehotelguru.com/_images/e2/8b/e28b806a62fef0eff4dff6b67d3a3031/s44x44.jpg" />&nbsp;</div>
+<p>Written by <a href="/the-gurus/darren-taffinder">Darren Taffinder</a></p>
+</div>
+posted Friday, 12th February 2010
+</div>
+<div class="addthis_inline_share_toolbox"></div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+	            var disqus_shortname = 'thehotelguru';
+	            /* * * DON'T EDIT BELOW THIS LINE * * */
+	            (function() {
+	                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	                dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+	                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	            })();
+	        </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+<div class="colRight">
+<div id="mapOutside">
+<div id="mapInside">
+<div id="map"></div>
+</div>
+</div>
+<div id="AvailSearchBox" class="searchBox" data-behavior="AvailSearchBox">
+<h2>
+Search the best hotels in New York
+</h2>
+<form action="/search" method="get">
+<input type="hidden" name="loc" value="1067">
+<input type="hidden" data-behavior="AutoSuggest" data-autosuggest-options="{popupClass:'AutoComplete_Suggestions AutoComplete_Suggestions_Big',submitOnClick:false}" name="locname" class="text autoSuggest" placeholder="Start typing destination..." autocomplete="off" value="New York" />
+<div class="row">
+<div class="row rowHalf">
+<label for="checkin">Check in</label>
+<div class="inputWrap">
+<input type="text" class="datepicker text" autocomplete="off" alt="{format:'dd/mm/yyyy'}" name="checkin" placeholder="Date" value="" />
+</div>
+</div>
+<div class="row rowHalf">
+<label for="checkout">Check out</label>
+<div class="inputWrap">
+<input type="text" class="datepicker text" autocomplete="off" alt="{format:'dd/mm/yyyy'}" name="checkout" placeholder="Date" value="" />
+</div>
+</div>
+</div>
+<div class="inputWrap">
+<input type="checkbox" name="flexible" id="flexible" onclick="update_no_dates(this);" />
+<label for="flexible">I'm flexible with dates</label>
+</div>
+<div class="row">
+<button type="submit" class="button">Search &amp; Book</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ShortlistBtn" data-count="0">
+Your shortlist (0)
+</div>
+<div class="footerWrap">
+<div class="footer" role="contentinfo">
+<div id="credits">
+<div class="footerNav">
+<ul>
+<li><a href="/themes">Collections</a></li>
+<li><a href="/best-hotels-in">Destinations</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/the-gurus">About Us</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li><a href="/advice-and-booking/enquire">Ask the Guru</a></li>
+</ul>
+</div> 
+<span class="copyright">
+Copyright &copy; Hotel Guru 2018
+<div class="socialBar">
+<a target="_blank" href="https://twitter.com/The_Hotel_Guru" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a target="_blank" href="https://www.facebook.com/pages/The-Hotel-Guru/112527392107595" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="https://www.instagram.com/the_hotel_guru/" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a target="_blank" href="https://www.pinterest.co.uk/bestplacestostay/" rel="nofollow"><i class="fa fa-pinterest"></i></a>
+<a target="_blank" href="https://plus.google.com/+Thehotelguru" rel="nofollow"><i class="fa fa-google-plus"></i></a>
+</div>
+</span> 
+<span class="credits">
+<a href="http://www.mtcmedia.co.uk" target="_blank" rel="external" title="Opens in a new window">Responsive website design</a> by
+<a href="http://www.mtcmedia.co.uk" target="_blank" rel="external" title="Opens in a new window">
+<strong>mtc.</strong>
+</a>
+</span>
+</div> 
+</div> 
+</div> 
+<div class="scrollTop"><i class="fa fa-chevron-up"></i></div>
+</div>
+<script type="text/javascript">
+var markers={"hotels":[{"id":476,"title":"Gramercy Park Hotel","latlng":[40.738519617811,-73.985744746033]},{"id":477,"title":"The Bowery Hotel","latlng":[40.725943254883,-73.991498169312]},{"id":484,"title":"The Mercer","latlng":[40.724924916007,-73.998659220901]},{"id":485,"title":"Sixty Soho","latlng":[40.723941380701,-74.003120796295]},{"id":486,"title":"Washington Square Hotel","latlng":[40.73252688403,-73.998688889549]},{"id":570,"title":"Soho House New York","latlng":[40.740418,-74.005899]},{"id":1283,"title":"Andaz Wall Street","latlng":[40.705151330491,-74.008118391102]},{"id":1289,"title":"The Standard","latlng":[40.740917613303,-74.008116001327]},{"id":3013,"title":"SoHo Grand Hotel","latlng":[40.722092674029,-74.004518866604]},{"id":3023,"title":"The Roxy Hotel Tribeca","latlng":[40.719336139911,-74.004787087506]}]};
+var map_max_zoom=10;
+var locationlatlng=[40.734770989672,-73.998413085938];
+</script>
+<script type="text/javascript">
+window.addEvent("domready", function(){
+Behavior.init();
+HotelGuruPage.init();
+HotelListPage.init();
+});
+</script>
+<script type="text/javascript">
+		//var WHY_BOOK_HTML=;
+		track_links();
+	</script>
+<script>
+		$$('a[href="#newsletter_popup"]').forEach(function(e){
+			e.addEventListener('click', Subscribe.open);
+		});
+	</script>
+
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nuq1v', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+	<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nuq1v&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+	<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nuq1v&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+	</noscript>
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59d5eef504424b09" async="async"></script>
+<script type="application/ld+json">
+
+	{
+	    "@context" : "http://schema.org",
+	    "@type" : "Organization",
+	    "name" : "The Hotel Guru",
+	    "description": "Our mission is to find good hotels. Pure and simple. We are a small group of well-known hotel critics, founded by Sunday Telegraph columnist Fiona Duncan and Former Charming Small Hotel Guides series editor Leonie Glass.",
+	    "url" : "https://www.thehotelguru.com",
+	    "sameAs": [
+				"https://www.facebook.com/pages/The-Hotel-Guru/112527392107595",
+				"https://twitter.com/The_Hotel_Guru",
+				"https://www.instagram.com/the_hotel_guru/",
+				"https://plus.google.com/+Thehotelguru"
+				],
+	    "logo": "https://www.thehotelguru.com/v2/images/logo-sub.png",
+	    "contactPoint" : {
+	        "@type" : "ContactPoint",
+	        "telephone" : "+44(0)203 1370694",
+	        "contactType" : "Customer Service",
+	        "areaServed" : "World Wide"
+	    }
+
+	}
+	</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Blog",
+        "url": "https://www.thehotelguru.com/blog"
+    }
+    </script>
+<script type="text/javascript">
+jQuery( document ).ready(function() {
+
+//check for cookie
+	//60000 miliseconds for 60 seconds
+	//setTimeout(emailPopup, 6000);
+	var match = document.cookie.match(new RegExp('(^| )emailPopup=([^;]+)'));
+	if (!match) {
+		setTimeout(emailPopup, 8000);
+	}
+});
+
+function emailPopup() {
+
+	
+    var popupTxt = '<p>Be the first to know about newly opened hideaways and incredible hidden gems, unearthed and reviewed for you by our top team of professional Hotel Gurus.</p>';
+
+     popupTxt += '<form action="/email-signup" method="post"><p>Email address*:<br><input type="email" name="email" style="width:260px;margin-right:50px"/><img src="https://gallery.mailchimp.com/1d3e67d4ac74c01fd3f3eb947/images/dea92360-e7d3-47d9-9464-7e83d0121368.png"></p><p><input type="submit" class="button" value="Yes, send them to me!" name="newsletterSignup" style="    color: #fff;    background-color: #6a972e;    display: inline-block;    padding: 6px 18px;    margin-bottom: 0;    margin-top: 15px;    font-size: 18px;    font-weight: 700;    line-height: 1.428571429;    text-shadow: 0 1px 2px rgba(0,0,0,.3);    text-align: center;    white-space: nowrap;    vertical-align: middle;    cursor: pointer;      border: 1px solid transparent;    border-radius: 4px;      outline: 0;" /></p></form>';
+
+popupTxt += '<p style="">We value your privacy, and promise never to share your data with anyone else. And remember, you can unsubscribe any time.</p>';
+    jamesmedia.ui.Popup.display('SIGN UP TO OUR LATEST FINDS', popupTxt, 500, 200);
+
+	//set cookie so that it doesn't show again
+	var d = new Date();
+	var days = 10;
+    d.setTime(d.getTime() + (days*24*60*60*1000));
+    var expires = "expires="+ d.toUTCString();
+    document.cookie = "emailPopup=1;" + expires + ";path=/";
+
+} 
+
+
+   	</script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+        template: 'webapp_body_end',
+        name: 'finish_body_render',

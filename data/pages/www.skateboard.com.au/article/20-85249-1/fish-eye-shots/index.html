@@ -1,0 +1,1293 @@
+ <!DOCTYPE html>
+
+
+
+<html dir="ltr" lang="en-US">
+<head>
+    
+  	 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="SemiColonWeb" />
+
+    <!-- Stylesheets
+    ============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.2/css/bootstrap-slider.css" type="text/css" />
+    
+    
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   
+    
+    
+  <link rel="stylesheet" href="https://d2fbetjhl4y26q.cloudfront.net/assets/font-iconsz.css" type="text/css" />
+    
+    
+   
+    
+    <link rel="stylesheet" href="/v2/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="/v2/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="/v2/css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="/v2/css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="/v2/css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="/v2/css/magnific-popup.css" type="text/css" />
+    <link rel="stylesheet" href="/v2/css/responsive.css" type="text/css" />
+    
+    
+   
+    
+    
+    
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    
+    <meta name="description" content="" />
+	<meta name="keywords" content="skateboards, skateboarding, skateboard decks, skateboard shop, skateboard wheels, skateboarding videos,nike janoski, nike sb, vans, skateparks, skateboarding parks" />
+	<meta name="robots" content="index, follow" />
+	<meta property="og:title" content="FISH EYE SHOTS"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="https://www.skateboard.com.au/"/>
+	<meta property="og:image" content="http://www.skateboard.com.au/images/rambo.jpg"/>
+	<meta property="og:site_name" content="skateboard.com.au"/>
+	<meta property="fb:admins" content="596696566"/>
+	<meta property="og:description" content=""/>
+    
+    
+    
+    <!--[if lt IE 9]>
+    	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+    <!-- External JavaScripts
+    ============================================= -->
+	<script type="text/javascript" src="https://d2fbetjhl4y26q.cloudfront.net/assets/jquery.js"></script>
+	<script type="text/javascript" src="https://d2fbetjhl4y26q.cloudfront.net/assets/plugins.js"></script>
+	
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.2/bootstrap-slider.js"></script>
+	
+	
+ 
+
+	    	<script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+          ga('create', 'UA-16710633-1', 'auto');
+          ga('send', 'pageview');
+        
+        </script>
+	
+	
+	
+    
+<script>
+
+		tries = 1;
+
+            function getLocation2() {
+				tries = tries + 1;
+				
+			
+				// Get location no more than 10 minutes old. 600000 ms = 10 minutes.
+				navigator.geolocation.getCurrentPosition(showLocation, showError, {enableHighAccuracy:true,maximumAge:0});
+
+			}
+			
+			
+			 function getLocation3() {
+				tries = tries + 1;
+				
+			
+				// Get location no more than 10 minutes old. 600000 ms = 10 minutes.
+				navigator.geolocation.getCurrentPosition(showLocation2, showError, {enableHighAccuracy:true,maximumAge:0});
+
+			}
+			
+ 
+			function showError(error) {
+				alert('Problem getting GPS Location - ' + error.code + ' ' + error.message);
+			}
+ 
+			function showLocation(position) {
+
+			if(tries < 6){
+			
+			//alert(tries + " " + position.coords.longitude + " " + position.coords.latitude);
+			
+			setTimeout("getLocation2()", 200);
+
+			}else{
+			
+            document.location.href = "/v2/index.cfm?action=distcheck&lat=" + position.coords.latitude + "&long=" + position.coords.longitude
+			//alert("parksearch.cfm?&close=1&lat=" + position.coords.latitude + "&long=" + position.coords.longitude)
+			}				
+				
+				
+			}
+			
+			function showLocation2(position) {
+
+			if(tries < 6){
+			
+			//alert(tries + " " + position.coords.longitude + " " + position.coords.latitude);
+			
+			setTimeout("getLocation3()", 200);
+
+			}else{
+			
+            document.location.href = "/v2/index.cfm?action=distcheck&type=spot&lat=" + position.coords.latitude + "&long=" + position.coords.longitude
+			//alert("parksearch.cfm?&close=1&lat=" + position.coords.latitude + "&long=" + position.coords.longitude)
+			}				
+				
+				
+			}
+	</script>
+
+
+
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+			 
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+		googletag.defineSlot('/127335711/Background', [1, 1], 'div-gpt-ad-1364620228969-0').addService(googletag.pubads());
+		
+	
+		googletag.defineSlot('/127335711/RightBanner', [300, 250], 'div-gpt-ad-1364620228969-3').addService(googletag.pubads());
+		
+		
+		var width = window.innerWidth || document.documentElement.clientWidth;
+
+		if (width >= 800) {
+		    googletag.defineSlot('/127335711/bigbottom', [620, 400], 'div-gpt-ad-1405572439167-0').addService(googletag.pubads());
+        	googletag.defineSlot('/127335711/TopBanner', [728, 90], 'div-gpt-ad-1364620228969-4').addService(googletag.pubads());
+        	$("#div-gpt-ad-1410222678208-0").hide();
+        }
+        else if ((width >= 300) && (width < 768)) {
+        	googletag.defineSlot('/127335711/MobileLeader', [320, 50], 'div-gpt-ad-1410222678208-0').addService(googletag.pubads());
+        	$("#div-gpt-ad-1405572439167-0").hide();
+        	$("#div-gpt-ad-1364620228969-4").hide();
+        	$("#logo").hide();
+        	$("#maincontent").css("padding-left","0px");
+        	$("#maincontent").css("padding-right","0px");
+        	$("#maincontainer").css("padding-left","0px");
+        	$("#maincontainer").css("padding-right","0px");
+        	
+
+        	
+        }
+
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+		});
+	</script>
+	
+	
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDK9YdeY6PwY6T4R7ei_-iZhKQ2_0XGiwg"></script>
+    
+    
+	
+
+    <!-- Document Title
+    ============================================= -->
+	
+    
+<!-- ACTION-BASED PROMPT -->
+
+<!-- First you have to disable the auto-prompt - somewhere after the base roost javascript -->
+
+
+
+
+
+
+<title>FISH EYE SHOTS</title><link rel="canonical" href="https://www.skateboard.com.au/article/20-85249-1/fish-eye-shots/" /> </head>
+
+<body class="no-transition">  <!-- Document Wrapper    ============================================= -->
+
+
+    
+    	<div id='div-gpt-ad-1364620228969-0' style='width: 0px; height: 0px;'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364620228969-0'); });
+		</script>
+
+	</div>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=264543010226622";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+    <div id="wrapper" class="clearfix">
+
+        <!-- Top Bar
+        ============================================= -->
+               
+        <div id="top-bar">
+
+            <div class="container clearfix">
+
+                <div class="col_half nobottommargin">
+
+                    <!-- Top Links
+                    ============================================= -->
+                    <div class="top-links">
+                        <ul>
+                           
+                            
+                            
+                             <li><a href="/v2/index.cfm?action=register">Register</a></li>
+                            <li><a href="/bandits/login.cfm">Login</a>
+                               
+                            </li>
+                            
+                         
+                              
+                               
+                            
+                          
+                            
+                        </ul>
+                    </div><!-- .top-links end -->
+
+                </div>
+
+
+
+                <div class="col_half fright col_last nobottommargin">
+
+                    <!-- Top Social
+                    ============================================= -->
+                    <div id="top-social">
+                        <ul>
+                            <li><a href="https://www.facebook.com/skateboard.com.au" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
+                            
+                            <li><a href="https://instagram.com/skateboard.com.au" class="si-instagram"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
+                            
+                            <li><a href="mailto:shop@skateboard.com.au" class="si-email3"><span class="ts-icon"><i class="icon-email3"></i></span><span class="ts-text">shop@skateboard.com.au</span></a></li>
+                        </ul>
+                    </div><!-- #top-social end -->
+
+                </div>
+
+            </div>
+
+        </div>
+        
+        
+        <!-- #top-bar end -->
+                <!-- Header
+        ============================================= -->
+        <header id="header" class="sticky-style-2">
+          
+            
+            
+              
+            
+            
+            <div id='div-gpt-ad-1410222678208-0' style='width:320px; height:50px;margin-left: auto; margin-right: auto'>
+					<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410222678208-0'); });
+					</script>
+			</div>
+            
+
+            <div class="container clearfix">
+                
+              
+
+                <!-- Logo
+                ============================================= -->
+                
+                
+                <div id="logo">
+                    <a href="/" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="https://www.skateboard.com.au/v2/img/top.jpg" alt="FISH EYE SHOTS"></a>
+                    <a href="/" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="https://www.skateboard.com.au/v2/img/top.jpg" alt="FISH EYE SHOTS"></a>
+                </div><!-- #logo end -->
+                
+    
+                <div class="top-advert">
+                    
+                   
+                    
+                  <div id='div-gpt-ad-1364620228969-4' style='width:728px; height:90px;'>
+                  <script type='text/javascript'>
+                  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364620228969-4'); });
+                  </script>
+                  </div>
+                  
+                  
+                 
+                  
+                    <!-- <img src="images/magazine/ad.jpg" alt="Ad"> -->
+                </div>
+
+            </div>
+            
+            
+
+            <div id="header-wrap">
+
+                <!-- Primary Navigation
+                ============================================= -->
+                <nav id="primary-menu" class="style-2">
+
+                    <div class="container clearfix">
+
+                        <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+                         
+                        <ul>
+                            
+                           
+                            
+                            
+                            
+                            
+                            <li class="current"><a href="/"><div>Home</div></a></li>
+                            
+                            
+                           
+                                
+                            
+                                
+                                
+                                
+                            
+                            
+                            
+                         
+                            <li><a href="https://shop.skateboard.com.au"><div>Shop</div></a>
+                            
+                            
+                            
+                            
+                            
+                            </li>
+                             
+                            <li><a href="/skateparks/"><div>Skateparks</div></a>
+                           <div class="mega-menu-content col-1 clearfix">
+                                    <ul>
+                                        
+                                        <li><a href="/skateparks/"><div><i class="icon-info-sign"></i>All Skateparks</div></a></li>
+                                       
+                                        <li><a id="geolink" href="https://www.skateboard.com.au/skateparks-near-me/"><div><i class="icon-road"></i>Near Me</div></a></li>
+                                         <li><a href="/v2/index.cfm?action=map"><div><i class="icon-globe"></i>Map</div></a></li>
+                                         <li><a href="/v2/index.cfm?action=builders"><div><i class="icon-wrench"></i>Builders</div></a></li>
+                                          <li><a href="/v2/index.cfm?action=designers"><div><i class="icon-pencil"></i>Designers</div></a></li>
+                                     
+                                         
+                                    </ul>
+                                </div>
+                            
+                            
+                            </li>
+                           
+                           
+                            
+                            
+                            
+                            
+                            <li><a href="/v2/index.cfm?smithgrind=eventlist"><div>Events</div></a></li>
+                            
+                            
+                            
+                            
+                              
+                            <li><a href="/bandits/list.cfm?forum=x"><div>Forum</div></a>
+                            <div class="mega-menu-content col-1 clearfix">
+                                    <ul>
+                                        <li><a href="/bandits/list.cfm?forum=10"><div>skate</div></a></li>
+                                        <li><a href="/bandits/list.cfm?forum=11"><div>parks</div></a></li>
+                                        <li><a href="/bandits/list.cfm?forum=13"><div>clips</div></a></li>
+                                        <li><a href="/bandits/list.cfm?forum=20"><div>film</div></a></li>
+                                        
+                                        
+                                        <li><a href="/bandits/list.cfm?forum=12"><div>for&nbsp;sale</div></a></li>
+                                         <li><a href="/bandits/list.cfm?forum=15"><div>other</div></a></li>
+                                    </ul>
+                                </div>
+                            
+                            
+                            
+                            </li>
+                            
+                            
+                            
+                           
+                            
+                            
+                            
+                            
+                            
+                         
+                           
+                           
+                           
+                        </ul>
+                        
+                        <!-- Top Search
+                        ============================================= -->
+                        <div id="top-search">
+                            <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+                            <form action="/bandits/search.cfm?new=1" method="post">
+                                <input type="text" name="search" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
+                            </form>
+                        </div><!-- #top-search end -->
+
+                    </div>
+
+                </nav><!-- #primary-menu end -->
+
+            </div>
+
+        </header>
+        
+        <div class="clear"></div>
+        <!-- #header end -->
+         <!-- Content
+
+        ============================================= -->
+        
+        
+        
+        <section id="content">
+
+            <div class="content-wrap" id="contentwrapper" style="padding-top:10px;padding-bottom:0px;">
+                
+                
+              
+                
+                
+                
+
+                <div class="container clearfix" id="maincontainer" >
+
+                    <div class="row">
+ 
+                        <div id="maincontent" class="col-md-8"  >
+                            
+                           
+
+
+<!-- Begin of MESSAGE.CFM -->
+ 
+
+
+
+
+
+<a href="/bandits/list.cfm?forum=x">FORUM</a> > 
+	<a href="/bandits/list.cfm?forum=20"> FILM </a> > FISH EYE SHOTS
+
+
+
+<h1>FISH EYE SHOTS </h1>
+
+
+
+<div class='readcontent'>
+	<div>
+
+
+
+<!--googleoff: all-->
+
+<div class="spost clearfix">
+                                        
+                                        <div class="entry-c">
+                                             <a class="namelink" href="/bandits/profile.cfm?id=44597">BURNER1011</a> 10:26&nbsp;24/May/12 
+                                        
+                                            <ul class="entry-meta">
+                                  
+
+                                            </ul>
+                                        </div>
+                                    </div>
+
+<!--googleon: index-->	
+	
+
+</div>
+	<div style='clear:both'></div>
+
+
+    
+	
+	<br><br>Looking for somewhere to post you FISH EYE shots?? POST HERE!! 
+			
+		<center>
+		
+
+</div> 
+<div style='clear:both'></div>
+<hr>
+
+
+<div class='readcontent'>
+	<div>
+
+
+
+<!--googleoff: all-->
+
+<div class="spost clearfix">
+                                        
+                                        <div class="entry-c">
+                                             <a class="namelink" href="/bandits/profile.cfm?id=30552">MAX</a> 10:52&nbsp;24/May/12 
+                                        
+                                            <ul class="entry-meta">
+                                  
+
+                                            </ul>
+                                        </div>
+                                    </div>
+
+<!--googleon: index-->	
+	
+
+</div>
+	<div style='clear:both'></div>
+
+
+    
+	
+	<br>lol 
+			
+		<center>
+		
+
+</div> 
+<div style='clear:both'></div>
+<hr>
+
+
+<div class='readcontent'>
+	<div>
+
+
+
+<!--googleoff: all-->
+
+<div class="spost clearfix">
+                                        <div class="entry-image">
+                                         <a href="/bandits/profile.cfm?id=35111"><img src="http://media.skateboard.com.au/forum/avatars/5041292.jpg" alt="SDG" class="avatar"></a>
+                                        </div>
+                                        
+                                        <div class="entry-c">
+                                             <a class="namelink" href="/bandits/profile.cfm?id=35111">SDG</a> 11:50&nbsp;24/May/12 
+                                        
+                                            <ul class="entry-meta">
+                                  
+<a href="http://www.flickr.com/photos/77519621@N02" target="_blank"><img src="/forum/smi/flikr.png" alt="http://www.flickr.com/photos/77519621@N02" border="0"></a> <a href="http://cabinxfever.tumblr.com/" target="_blank"><img src="/forum/smi/www.png" alt="http://cabinxfever.tumblr.com/" border="0"></a>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+<!--googleon: index-->	
+	
+
+</div>
+	<div style='clear:both'></div>
+
+
+    
+	
+	<br> 
+			
+		<center>
+			
+	
+		
+		<br>
+		
+	
+		   
+		       
+		    <img src="http://media.skateboard.com.au/forum/images/tumblr_l8dcqcc5WF1qc5z4wo1_500.jpg" class="forumpic" alt="RE: FISH EYE SHOTS">
+		 
+
+</div> 
+<div style='clear:both'></div>
+<hr>
+
+
+<div class='readcontent'>
+	<div>
+
+
+
+<!--googleoff: all-->
+
+<div class="spost clearfix">
+                                        <div class="entry-image">
+                                         <a href="/bandits/profile.cfm?id=15603"><img src="http://media.skateboard.com.au/forum/avatars/mean beans.jpg" alt="flycat" class="avatar"></a>
+                                        </div>
+                                        
+                                        <div class="entry-c">
+                                             <a class="namelink" href="/bandits/profile.cfm?id=15603">flycat</a> 16:50&nbsp;24/May/12 
+                                        
+                                            <ul class="entry-meta">
+                                  
+
+                                            </ul>
+                                        </div>
+                                    </div>
+
+<!--googleon: index-->	
+	
+
+</div>
+	<div style='clear:both'></div>
+
+
+    
+	
+	<br> 
+			
+		<center>
+			
+	
+		
+		<br>
+		
+	
+		   
+		       
+		    <img src="http://media.skateboard.com.au/forum/images/squirrel1.jpg" class="forumpic" alt="RE: FISH EYE SHOTS">
+		 
+
+</div> 
+<div style='clear:both'></div>
+<hr>
+
+
+<div class='readcontent'>
+	<div>
+
+
+
+<!--googleoff: all-->
+
+<div class="spost clearfix">
+                                        <div class="entry-image">
+                                         <a href="/bandits/profile.cfm?id=30079"><img src="http://media.skateboard.com.au/forum/avatars/IMG_1232.JPG" alt="Chris123" class="avatar"></a>
+                                        </div>
+                                        
+                                        <div class="entry-c">
+                                             <a class="namelink" href="/bandits/profile.cfm?id=30079">Chris123</a> 18:39&nbsp;24/May/12 
+                                        
+                                            <ul class="entry-meta">
+                                  
+
+                                            </ul>
+                                        </div>
+                                    </div>
+
+<!--googleon: index-->	
+	
+
+</div>
+	<div style='clear:both'></div>
+
+
+    
+	
+	<br> 
+			
+		<center>
+			
+	
+		
+		<br>
+		
+	
+		   
+		       
+		    <img src="http://media.skateboard.com.au/forum/images/fisheye24.jpg" class="forumpic" alt="RE: FISH EYE SHOTS">
+		 
+
+</div> 
+<div style='clear:both'></div>
+<hr>
+
+
+<div class='readcontent'>
+	<div>
+
+
+
+<!--googleoff: all-->
+
+<div class="spost clearfix">
+                                        
+                                        <div class="entry-c">
+                                             <a class="namelink" href="/bandits/profile.cfm?id=17396">REDLIGHT</a> 20:53&nbsp;24/May/12 
+                                        
+                                            <ul class="entry-meta">
+                                  
+<a href="http://web.stagram.com/n/Redlight1" target="_blank"><img src="/forum/smi/instagram.png" alt="http://web.stagram.com/n/Redlight1" border="0"></a> <a href="http://www.flickr.com/photos/www.flickr.com/55712292" target="_blank"><img src="/forum/smi/flikr.png" alt="http://www.flickr.com/photos/www.flickr.com/55712292" border="0"></a> 
+                                            </ul>
+                                        </div>
+                                    </div>
+
+<!--googleon: index-->	
+	
+
+</div>
+	<div style='clear:both'></div>
+
+
+    
+	
+	<br> 
+			
+		<center>
+			
+	
+		
+		<br>
+		
+	
+		   
+		       
+		    <img src="http://media.skateboard.com.au/forum/images/fish11.jpg" class="forumpic" alt="RE: FISH EYE SHOTS">
+		 
+
+</div> 
+<div style='clear:both'></div>
+<hr>
+
+<br/>
+
+
+
+
+
+
+
+
+
+	
+
+
+	<a href="https://www.skateboard.com.au/bandits/login.cfm"  class="button button-3d nomargin" >Log in to comment</a>	
+	        		<br/><br/>
+
+
+
+
+<div id='div-gpt-ad-1405572439167-0' style='width:620px; height:400px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1405572439167-0'); });
+</script>
+</div>
+
+
+
+	
+
+		
+
+
+ 
+                         
+
+</div>
+
+
+
+       
+       
+       
+
+    
+    
+<div class="col-md-4">
+
+                            <div class="line hidden-lg hidden-md"></div>
+
+                            <div class="sidebar-widgets-wrap clearfix">
+
+                      
+
+                                <div class="widget clearfix">
+                                    
+                                      
+                                     <div id='div-gpt-ad-1364620228969-3' style='width:300px; height:250px;'>
+                                  <script type='text/javascript'>
+                                  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364620228969-3'); });
+                                  </script>
+                                    <!--<img class="aligncenter" src="images/magazine/ad.png" alt="">-->
+                                    </div>
+                                    
+                                    
+                                    
+                           <!-- Begin MailChimp Signup Form -->
+
+
+
+
+<!--End mc_embed_signup-->
+                                    
+                                    	
+                                 </div>
+                                
+                                
+                                
+                                
+                             
+                                    <div class="widget clearfix" style="padding-top:5px;margin-top:20px;border-top:none">
+                                         
+
+
+
+
+
+ <h4>Skateboard Shop</h4>
+                                <div id="post-list-footer">
+                                    
+                                    
+                                        
+                                        
+                                        
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            
+                                           
+                                        
+                                            
+                                           
+                                             <a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-peach-white"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Cycle_Stripe_T-Shirt_Peach_1.jpg?v=1538631850" alt="ButterGoods Cycle Stripe Tee P"></a>
+                                      
+                                            
+                                            </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-peach-white">ButterGoods Cycle Stripe Tee P</a></h4>
+                                                
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$  79.95 </li>
+                                                 
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                               
+                                    
+                                        
+                                        
+                                        
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            
+                                           
+                                        
+                                            
+                                           
+                                             <a href="https://shop.skateboard.com.au/products/dickies-lafayette-tee-navy"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/lafayette.jpg?v=1538707463" alt="Dickies Lafayette Tee Navy"></a>
+                                      
+                                            
+                                            </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="https://shop.skateboard.com.au/products/dickies-lafayette-tee-navy">Dickies Lafayette Tee Navy</a></h4>
+                                                
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$  44.95 </li>
+                                                 
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                               
+                                    
+                                        
+                                        
+                                        
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            
+                                           
+                                        
+                                            
+                                           
+                                             <a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Cycle_Stripe_T-Shirt_Navy_1.jpg?v=1538631733" alt="ButterGoods Cycle Stripe Tee N"></a>
+                                      
+                                            
+                                            </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white">ButterGoods Cycle Stripe Tee N</a></h4>
+                                                
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$  79.95 </li>
+                                                 
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                               
+                                    
+                                        
+                                        
+                                        
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            
+                                           
+                                        
+                                            
+                                           
+                                             <a href="https://shop.skateboard.com.au/collections/decks"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Palace_BF.jpg?v=1539576602" alt="Palace Fairfax S13 8.06 Multic"></a>
+                                      
+                                            
+                                            </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="https://shop.skateboard.com.au/collections/decks">Palace Fairfax S13 8.06 Multic</a></h4>
+                                                
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$  109.95 </li>
+                                                 
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                               
+                                    
+                                        
+                                        
+                                        
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            
+                                           
+                                        
+                                            
+                                           
+                                             <a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Cycle_Stripe_T-Shirt_Navy_1.jpg?v=1538631733" alt="ButterGoods Cycle Stripe Tee N"></a>
+                                      
+                                            
+                                            </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white">ButterGoods Cycle Stripe Tee N</a></h4>
+                                                
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$  79.95 </li>
+                                                 
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                               
+                                    
+                                        
+                                        
+                                        
+
+                                    <div class="spost clearfix">
+                                        <div class="entry-image">
+                                            
+                                           
+                                        
+                                            
+                                           
+                                             <a href="https://shop.skateboard.com.au/collections/decks"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/FA_Bike.jpg?v=1539582193" alt="FA KB Bike Deck 8.25"></a>
+                                      
+                                            
+                                            </div>
+                                        <div class="entry-c">
+                                            <div class="entry-title">
+                                                <h4><a href="https://shop.skateboard.com.au/collections/decks">FA KB Bike Deck 8.25</a></h4>
+                                                
+                                            </div>
+                                            <ul class="entry-meta">
+                                                <li class="color">$  109.95 </li>
+                                                 
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                               
+                                    
+                                    
+                                    
+                                    
+                                   
+                                    
+
+                             
+
+                            </div>
+                      
+                                    </div>
+                                    
+                                
+                                
+                                    
+                                 <!--googleon: all-->
+                                <div class="widget widget_links clearfix" style="padding-top:5px;background-color:whitesmoke">
+                                
+                                
+    
+    
+    
+    <style type="text/css" media="screen">	 .dsq-widget ul.dsq-widget-list {	 padding: 0;	 margin: 0;	 text-align: left;	 }	 img.dsq-widget-avatar {	 width: 32px;	 height: 32px;	 border: 0px;	 margin: 0px;	 padding: 0px 3px 3px 0px;	 float: left;	 }	 a.dsq-widget-user {	 font-weight: bold;	 }	 a.dsq-widget-thread {	 font-weight: bold;	 }	 p.dsq-widget-meta {	 clear: both;	 font-size: 80%;	 padding: 0;	 margin: 0;	 }	 li.dsq-widget-item {	 margin: 15px 0;	 list-style-type: none;	 clear: both;	 }	 span.dsq-widget-clout {	 padding: 0 2px;	 background-color: #ff7300;	 color: #fff;	 }	 table.dsq-widget-horiz td {	 padding-right: 15px;	 }	 .dsq-widget-comment p {	 display: inline;	 }	 </style>
+    
+    
+    <ul class="dsq-widget-list">	 
+      
+    <li class="dsq-widget-item">	 
+    <a href="https://disqus.com/by/stoked2sk8/">
+      <img class="dsq-widget-avatar" src="//a.disquscdn.com/1541535443/images/noavatar92.png">
+    </a>
+      <a class="dsq-widget-user" href="https://disqus.com/by/stoked2sk8/">Stoked2Sk8</a>
+    <span class="dsq-widget-comment"><p>The new build is now open and it sucks badly :( It looks so good in the pictures but it has no flow whatsover, is cramped as hell, and overflooded with scooters and their parents. Not even any flatland! Never going back again. Why did they have to get rid of the old one? It was so good...alas, now history.</p></span>
+    <p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/">Bentleigh East</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/#comment-4187522163">2 days ago</a></p>	 </li>
+     
+    <li class="dsq-widget-item">	 
+    <a href="https://disqus.com/by/stevoschmez/">
+      <img class="dsq-widget-avatar" src="//a.disquscdn.com/1541535443/images/noavatar92.png">
+    </a>
+      <a class="dsq-widget-user" href="https://disqus.com/by/stevoschmez/">Stevo Schmez</a>
+    <span class="dsq-widget-comment"><p>rebuilt and reopened</p></span>
+    <p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/">Bentleigh East</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/#comment-4186299798">2 days ago</a></p>	 </li>
+     
+    <li class="dsq-widget-item">	 
+    <a href="https://disqus.com/by/kaydecoonerty/">
+      <img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/27673/7782/avatar92.jpg?1541418986">
+    </a>
+      <a class="dsq-widget-user" href="https://disqus.com/by/kaydecoonerty/">Kayde Coonerty</a>
+    <span class="dsq-widget-comment"><p>Needs new ramps and pretty boring compared to other parks, needs to be a bit like shepparton skatepark or kyabram, it's nice n quiet but boring wen u cant go to any other skateparks only this one, new ramps that are not metal n a skatepark that you can enjoy, I always go here n I cant learn nothing mew because the ramps r to small to land tricks on, the box is good n rails, they should make the skatepark either wider or longer, or either make another skatepark somewhere else in tatura, kids cant have fun if the skatepark isnt enjoyable, kinda dangerous...hopefully one day they improve the skatepark to make bigger hips and ramps and to get more air on, anyone want to talk to me about it I'll possibly at the tatura skatepark almost every day, just give me a notice, someone really needs to progress a better skatepark here in my own town....TATURA😕☹😔</p></span>
+    <p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/tatura-skate-park/">Tatura Skate Park</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/tatura-skate-park/#comment-4179218096">2 days ago</a></p>	 </li>
+     
+    <li class="dsq-widget-item">	 
+    <a href="https://disqus.com/by/samversace/">
+      <img class="dsq-widget-avatar" src="//a.disquscdn.com/1541535443/images/noavatar92.png">
+    </a>
+      <a class="dsq-widget-user" href="https://disqus.com/by/samversace/">sick cunt</a>
+    <span class="dsq-widget-comment"><p>Pretty fucken small and slippery as shit but not too bad for a quick sesh</p></span>
+    <p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/ashgrove-new-park/">Ashgrove New Park</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/ashgrove-new-park/#comment-4153781160">2 days ago</a></p>	 </li>
+     
+    <li class="dsq-widget-item">	 
+    <a href="https://disqus.com/by/darrinyates/">
+      <img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/32293/3753/avatar92.jpg?1538345669">
+    </a>
+      <a class="dsq-widget-user" href="https://disqus.com/by/darrinyates/">Darrin Yates</a>
+    <span class="dsq-widget-comment"><p><a href="https://uploads.disquscdn.com/images/b171add346d1def961f6aac3db32d58fe6047643e98ef8d125bf36c1e03d529b.png" rel="nofollow noopener" title="https://uploads.disquscdn.com/images/b171add346d1def961f6aac3db32d58fe6047643e98ef8d125bf36c1e03d529b.png">https://uploads.disquscdn.c...</a>  <a href="https://uploads.disquscdn.com/images/50d555c2af3c6f8bf970ef1c23d20a57de4233552e81ec6e7b4796850ab4468f.jpg" rel="nofollow noopener" title="https://uploads.disquscdn.com/images/50d555c2af3c6f8bf970ef1c23d20a57de4233552e81ec6e7b4796850ab4468f.jpg">https://uploads.disquscdn.c...</a></p><p>There are two great events coming up at the Millthorpe Skate Park during the School Holidays. On Sunday Oct 7th there is a free skate coaching session for skateboarders, scooter riders and bmx riders. <br>On Sat 13th October come and join the Millthorpe community in painting the entire skate surface, in preparation for some niche street artworks being put on by professional street artist Kris Lear of 8aesthetix, and some Millthorpe locals. Free BBQ provided.</p></span>
+    <p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/milthorpe-skatepark/">Milthorpe Skatepark</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/milthorpe-skatepark/#comment-4122624834">2 days ago</a></p>	 </li>
+     
+    <li class="dsq-widget-item">	 
+    <a href="https://disqus.com/by/disqus_YTsFIzv0WI/">
+      <img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/27553/5143/avatar92.jpg?1536483727">
+    </a>
+      <a class="dsq-widget-user" href="https://disqus.com/by/disqus_YTsFIzv0WI/">Craig MCconnell</a>
+    <span class="dsq-widget-comment"><p><a href="https://disq.us/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoFLG88R0CMc%26feature%3Dyoutu.be%3AVT0tnJI1xAebbgExabL-ekHqYI0&amp;cuid=5114117" rel="nofollow noopener" title="https://www.youtube.com/watch?v=oFLG88R0CMc&amp;feature=youtu.be">https://www.youtube.com/wat...</a></p></span>
+    <p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/busselton--latest-park/">Busselton Latest Park Busselton</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/busselton--latest-park/#comment-4085567461">2 days ago</a></p>	 </li>
+     
+    </ul>
+                     
+                                
+                                
+                                
+                              
+                                      </div>
+                                      
+                                       <div class="widget widget_links clearfix" style="margin-top:10px;padding-top:10px;border-top:none">
+                                    
+
+                                    <h4>Skateparks</h4>
+                                    
+                                    
+                                    
+                                    
+                                    <div class="col_half nobottommargin">
+                                        <ul>
+                                            
+                                            
+                                            
+                                            <li> <a href="http://www.skateboard.com.au/area/sydney-skateparks">Sydney Skateparks</a>	</li>
+	
+                                            <li><a href="http://www.skateboard.com.au/area/melbourne-skateparks">Melbourne Skateparks</a></li>
+                                            
+                                            <li><a href="http://www.skateboard.com.au/area/brisbane-skateparks">Brisbane Skateparks</a> </li>
+                                            
+                                            <li><a href="http://www.skateboard.com.au/area/adelaide-skateparks">Adelaide Skateparks</a></li>
+                                            
+                                            <li><a href="http://www.skateboard.com.au/v2/index.cfm?smithgrind=distcheck&id=3184&label=Canberra">Canberra Skateparks</a>  </li>
+                                            
+                                            <li><a href="http://www.skateboard.com.au/area/perth-skateparks">Perth Skateparks</a></li>
+                                            
+                                            <li><a href="http://www.skateboard.com.au/area/hobart-skateparks">Hobart Skateparks</a> </li>
+                                            
+                                            
+                                             <li><a href="http://www.skateboard.com.au/area/gold-coast-skateparks">Gold Coast Skateparks</a> </li>
+                                             
+                                  
+                                        </ul>
+                            
+                                    
+
+                                </div>
+                                </div>
+                                
+                                
+                                
+                               
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                      
+                                      
+
+                            </div>
+                            
+                            
+                           
+                            
+
+                        </div>
+
+                      
+
+                    </div>
+
+                </div>
+                
+                
+                
+                
+                
+                
+
+        <!-- Footer
+        ============================================= -->
+        <footer id="footer" class="dark">
+            
+     
+
+            <!-- Copyrights
+            ============================================= -->
+            <div id="copyrights">
+
+                <div class="container clearfix">
+
+                    <div class="col_half">
+                        
+                        <div class="copyright-links"><a href="http://shop.skateboard.com.au/pages/contact-us">Contact</a> / <a href="http://shop.skateboard.com.au/pages/faq">FAQ</a></div>
+                    </div>
+
+                    <div class="col_half col_last tright">
+                        <div class="fright clearfix">
+                           
+                        </div>
+
+                        <div class="clear"></div>
+
+                        <i class="icon-envelope2"></i> shop@skateboard.com.au <span class="middot">&middot;</span> <i class="icon-headphones"></i> 1800 034 588<span class="middot">&middot;</span> 
+                    </div>
+
+                </div>
+
+            </div><!-- #copyrights end -->
+
+        </footer><!-- #footer end -->
+
+    </div><!-- #wrapper end -->
+
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- Footer Scripts
+    ============================================= -->
+    <script type="text/javascript" src="https://d2fbetjhl4y26q.cloudfront.net/assets/functions.js"></script>
+    
+    <script type="text/javascript" >
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if ((width >= 300) && (width < 768)) {
+            $("#eventscroll").remove();
+            $("#div-gpt-ad-1405572439167-0").hide()
+        	$("#logo").hide();
+        	$("#maincontent").css("padding-left","0px");
+        	$("#maincontent").css("padding-right","0px");
+        	$("#maincontainer").css("padding-left","0px");
+        	$("#maincontainer").css("padding-right","0px");
+        	$("#contentwrapper").css("padding-top","3px");
+        	
+
+        	
+        }
+        
+      $("#geolink").attr("href", "https://www.skateboard.com.au/skateparks-near-me.html");
+       $("#geolink2").attr("href", "https://www.skateboard.com.au/skateparks-near-me.html");
+         
+         
+         
+        
+    </script>
+    
+
+</body>
+</html>
+<!DOCTYPE html><html dir="ltr" lang="en-US">
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="author" content="SemiColonWeb" /><!-- Stylesheets============================================= --><link href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.2/css/bootstrap-slider.css" type="text/css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="stylesheet" href="https://d2fbetjhl4y26q.cloudfront.net/assets/font-iconsz.css" type="text/css" /><link rel="stylesheet" href="/v2/css/bootstrap.css" type="text/css" /><link rel="stylesheet" href="/v2/css/style.css" type="text/css" /><link rel="stylesheet" href="/v2/css/dark.css" type="text/css" /><link rel="stylesheet" href="/v2/css/font-icons.css" type="text/css" /><link rel="stylesheet" href="/v2/css/animate.css" type="text/css" /><link rel="stylesheet" href="/v2/css/magnific-popup.css" type="text/css" /><link rel="stylesheet" href="/v2/css/responsive.css" type="text/css" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" content="" /><meta name="keywords" content="skateboards, skateboarding, skateboard decks, skateboard shop, skateboard wheels, skateboarding videos,nike janoski, nike sb, vans, skateparks, skateboarding parks" /><meta name="robots" content="index, follow" /><meta property="og:title" content="FISH EYE SHOTS"/><meta property="og:type" content="website"/><meta property="og:url" content="https://www.skateboard.com.au/"/><meta property="og:image" content="http://www.skateboard.com.au/images/rambo.jpg"/><meta property="og:site_name" content="skateboard.com.au"/><meta property="fb:admins" content="596696566"/><meta property="og:description" content=""/><!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]--><!-- External JavaScripts============================================= --><script type="text/javascript" src="https://d2fbetjhl4y26q.cloudfront.net/assets/jquery.js"></script><script type="text/javascript" src="https://d2fbetjhl4y26q.cloudfront.net/assets/plugins.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.7.2/bootstrap-slider.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-16710633-1', 'auto');ga('send', 'pageview');</script><script>tries = 1;function getLocation2() {tries = tries + 1;// Get location no more than 10 minutes old. 600000 ms = 10 minutes.navigator.geolocation.getCurrentPosition(showLocation, showError, {enableHighAccuracy:true,maximumAge:0});}function getLocation3() {tries = tries + 1;// Get location no more than 10 minutes old. 600000 ms = 10 minutes.navigator.geolocation.getCurrentPosition(showLocation2, showError, {enableHighAccuracy:true,maximumAge:0});}function showError(error) {alert('Problem getting GPS Location - ' + error.code + ' ' + error.message);}function showLocation(position) {if(tries < 6){//alert(tries + " " + position.coords.longitude + " " + position.coords.latitude);setTimeout("getLocation2()", 200);}else{document.location.href = "/v2/index.cfm?action=distcheck&lat=" + position.coords.latitude + "&long=" + position.coords.longitude//alert("parksearch.cfm?&close=1&lat=" + position.coords.latitude + "&long=" + position.coords.longitude)}}function showLocation2(position) {if(tries < 6){//alert(tries + " " + position.coords.longitude + " " + position.coords.latitude);setTimeout("getLocation3()", 200);}else{document.location.href = "/v2/index.cfm?action=distcheck&type=spot&lat=" + position.coords.latitude + "&long=" + position.coords.longitude//alert("parksearch.cfm?&close=1&lat=" + position.coords.latitude + "&long=" + position.coords.longitude)}}</script><script type='text/javascript'>var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement('script');gads.async = true;gads.type = 'text/javascript';var useSSL = 'https:' == document.location.protocol;gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';var node = document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads, node);})();</script><script type='text/javascript'>googletag.cmd.push(function() {googletag.defineSlot('/127335711/Background', [1, 1], 'div-gpt-ad-1364620228969-0').addService(googletag.pubads());googletag.defineSlot('/127335711/RightBanner', [300, 250], 'div-gpt-ad-1364620228969-3').addService(googletag.pubads());var width = window.innerWidth || document.documentElement.clientWidth;if (width >= 800) {googletag.defineSlot('/127335711/bigbottom', [620, 400], 'div-gpt-ad-1405572439167-0').addService(googletag.pubads());googletag.defineSlot('/127335711/TopBanner', [728, 90], 'div-gpt-ad-1364620228969-4').addService(googletag.pubads());$("#div-gpt-ad-1410222678208-0").hide();}else if ((width >= 300) && (width < 768)) {googletag.defineSlot('/127335711/MobileLeader', [320, 50], 'div-gpt-ad-1410222678208-0').addService(googletag.pubads());$("#div-gpt-ad-1405572439167-0").hide();$("#div-gpt-ad-1364620228969-4").hide();$("#logo").hide();$("#maincontent").css("padding-left","0px");$("#maincontent").css("padding-right","0px");$("#maincontainer").css("padding-left","0px");$("#maincontainer").css("padding-right","0px");}googletag.pubads().enableSingleRequest();googletag.enableServices();});</script><script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDK9YdeY6PwY6T4R7ei_-iZhKQ2_0XGiwg"></script><!-- Document Title============================================= --><!-- ACTION-BASED PROMPT --><!-- First you have to disable the auto-prompt - somewhere after the base roost javascript --><title>FISH EYE SHOTS</title><link rel="canonical" href="https://www.skateboard.com.au/article/20-85249-1/fish-eye-shots/" /> </head><body class="no-transition"><!-- Document Wrapper============================================= --><div id='div-gpt-ad-1364620228969-0' style='width: 0px; height: 0px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364620228969-0'); });</script></div><div id="fb-root"></div>
+<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=264543010226622";fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div id="wrapper" class="clearfix"><!-- Top Bar============================================= --><div id="top-bar"><div class="container clearfix"><div class="col_half nobottommargin"><!-- Top Links============================================= --><div class="top-links"><ul><li><a href="/v2/index.cfm?action=register">Register</a></li><li><a href="/bandits/login.cfm">Login</a></li></ul></div><!-- .top-links end --></div><div class="col_half fright col_last nobottommargin"><!-- Top Social============================================= --><div id="top-social"><ul><li><a href="https://www.facebook.com/skateboard.com.au" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li><li><a href="https://instagram.com/skateboard.com.au" class="si-instagram"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li><li><a href="mailto:shop@skateboard.com.au" class="si-email3"><span class="ts-icon"><i class="icon-email3"></i></span><span class="ts-text">shop@skateboard.com.au</span></a></li></ul></div><!-- #top-social end --></div></div></div><!-- #top-bar end --><!-- Header============================================= --><header id="header" class="sticky-style-2"><div id='div-gpt-ad-1410222678208-0' style='width:320px; height:50px;margin-left: auto; margin-right: auto'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410222678208-0'); });</script></div><div class="container clearfix"><!-- Logo============================================= --><div id="logo"><a href="/" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="https://www.skateboard.com.au/v2/img/top.jpg" alt="FISH EYE SHOTS"></a><a href="/" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="https://www.skateboard.com.au/v2/img/top.jpg" alt="FISH EYE SHOTS"></a></div><!-- #logo end --><div class="top-advert"><div id='div-gpt-ad-1364620228969-4' style='width:728px; height:90px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364620228969-4'); });</script></div><!-- <img src="images/magazine/ad.jpg" alt="Ad"> --></div></div><div id="header-wrap"><!-- Primary Navigation============================================= --><nav id="primary-menu" class="style-2"><div class="container clearfix"><div id="primary-menu-trigger"><i class="icon-reorder"></i></div><ul><li class="current"><a href="/"><div>Home</div></a></li><li><a href="https://shop.skateboard.com.au"><div>Shop</div></a></li><li><a href="/skateparks/"><div>Skateparks</div></a><div class="mega-menu-content col-1 clearfix"><ul><li><a href="/skateparks/"><div><i class="icon-info-sign"></i>All Skateparks</div></a></li><li><a id="geolink" href="https://www.skateboard.com.au/skateparks-near-me/"><div><i class="icon-road"></i>Near Me</div></a></li><li><a href="/v2/index.cfm?action=map"><div><i class="icon-globe"></i>Map</div></a></li><li><a href="/v2/index.cfm?action=builders"><div><i class="icon-wrench"></i>Builders</div></a></li><li><a href="/v2/index.cfm?action=designers"><div><i class="icon-pencil"></i>Designers</div></a></li></ul></div></li><li><a href="/v2/index.cfm?smithgrind=eventlist"><div>Events</div></a></li><li><a href="/bandits/list.cfm?forum=x"><div>Forum</div></a><div class="mega-menu-content col-1 clearfix"><ul><li><a href="/bandits/list.cfm?forum=10"><div>skate</div></a></li><li><a href="/bandits/list.cfm?forum=11"><div>parks</div></a></li><li><a href="/bandits/list.cfm?forum=13"><div>clips</div></a></li><li><a href="/bandits/list.cfm?forum=20"><div>film</div></a></li><li><a href="/bandits/list.cfm?forum=12"><div>for&nbsp;sale</div></a></li><li><a href="/bandits/list.cfm?forum=15"><div>other</div></a></li></ul></div></li></ul><!-- Top Search============================================= --><div id="top-search"><a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a><form action="/bandits/search.cfm?new=1" method="post"><input type="text" name="search" class="form-control" value="" placeholder="Type &amp; Hit Enter.."></form></div><!-- #top-search end --></div></nav><!-- #primary-menu end --></div></header><div class="clear"></div><!-- #header end --><!-- Content============================================= --><section id="content"><div class="content-wrap" id="contentwrapper" style="padding-top:10px;padding-bottom:0px;"><div class="container clearfix" id="maincontainer" ><div class="row"><div id="maincontent" class="col-md-8"><!-- Begin of MESSAGE.CFM --><a href="/bandits/list.cfm?forum=x">FORUM</a> ><a href="/bandits/list.cfm?forum=20"> FILM </a> > FISH EYE SHOTS<h1>FISH EYE SHOTS </h1><div class='readcontent'><div><!--googleoff: all--><div class="spost clearfix"><div class="entry-c"><a class="namelink" href="/bandits/profile.cfm?id=44597">BURNER1011</a> 10:26&nbsp;24/May/12<ul class="entry-meta"></ul></div></div><!--googleon: index--></div><div style='clear:both'></div><br><br>Looking for somewhere to post you FISH EYE shots?? POST HERE!!<center></div><div style='clear:both'></div>
+<hr><div class='readcontent'><div><!--googleoff: all--><div class="spost clearfix"><div class="entry-c"><a class="namelink" href="/bandits/profile.cfm?id=30552">MAX</a> 10:52&nbsp;24/May/12<ul class="entry-meta"></ul></div></div><!--googleon: index--></div><div style='clear:both'></div><br>lol<center></div><div style='clear:both'></div>
+<hr><div class='readcontent'><div><!--googleoff: all--><div class="spost clearfix"><div class="entry-image"><a href="/bandits/profile.cfm?id=35111"><img src="http://media.skateboard.com.au/forum/avatars/5041292.jpg" alt="SDG" class="avatar"></a></div><div class="entry-c"><a class="namelink" href="/bandits/profile.cfm?id=35111">SDG</a> 11:50&nbsp;24/May/12<ul class="entry-meta"><a href="http://www.flickr.com/photos/77519621@N02" target="_blank"><img src="/forum/smi/flikr.png" alt="http://www.flickr.com/photos/77519621@N02" border="0"></a> <a href="http://cabinxfever.tumblr.com/" target="_blank"><img src="/forum/smi/www.png" alt="http://cabinxfever.tumblr.com/" border="0"></a></ul></div></div><!--googleon: index--></div><div style='clear:both'></div><br><center><br><img src="http://media.skateboard.com.au/forum/images/tumblr_l8dcqcc5WF1qc5z4wo1_500.jpg" class="forumpic" alt="RE: FISH EYE SHOTS"></div><div style='clear:both'></div>
+<hr><div class='readcontent'><div><!--googleoff: all--><div class="spost clearfix"><div class="entry-image"><a href="/bandits/profile.cfm?id=15603"><img src="http://media.skateboard.com.au/forum/avatars/mean beans.jpg" alt="flycat" class="avatar"></a></div><div class="entry-c"><a class="namelink" href="/bandits/profile.cfm?id=15603">flycat</a> 16:50&nbsp;24/May/12<ul class="entry-meta"></ul></div></div><!--googleon: index--></div><div style='clear:both'></div><br><center><br><img src="http://media.skateboard.com.au/forum/images/squirrel1.jpg" class="forumpic" alt="RE: FISH EYE SHOTS"></div><div style='clear:both'></div>
+<hr><div class='readcontent'><div><!--googleoff: all--><div class="spost clearfix"><div class="entry-image"><a href="/bandits/profile.cfm?id=30079"><img src="http://media.skateboard.com.au/forum/avatars/IMG_1232.JPG" alt="Chris123" class="avatar"></a></div><div class="entry-c"><a class="namelink" href="/bandits/profile.cfm?id=30079">Chris123</a> 18:39&nbsp;24/May/12<ul class="entry-meta"></ul></div></div><!--googleon: index--></div><div style='clear:both'></div><br><center><br><img src="http://media.skateboard.com.au/forum/images/fisheye24.jpg" class="forumpic" alt="RE: FISH EYE SHOTS"></div><div style='clear:both'></div>
+<hr><div class='readcontent'><div><!--googleoff: all--><div class="spost clearfix"><div class="entry-c"><a class="namelink" href="/bandits/profile.cfm?id=17396">REDLIGHT</a> 20:53&nbsp;24/May/12<ul class="entry-meta"><a href="http://web.stagram.com/n/Redlight1" target="_blank"><img src="/forum/smi/instagram.png" alt="http://web.stagram.com/n/Redlight1" border="0"></a> <a href="http://www.flickr.com/photos/www.flickr.com/55712292" target="_blank"><img src="/forum/smi/flikr.png" alt="http://www.flickr.com/photos/www.flickr.com/55712292" border="0"></a></ul></div></div><!--googleon: index--></div><div style='clear:both'></div><br><center><br><img src="http://media.skateboard.com.au/forum/images/fish11.jpg" class="forumpic" alt="RE: FISH EYE SHOTS"></div><div style='clear:both'></div>
+<hr><br/><a href="https://www.skateboard.com.au/bandits/login.cfm"class="button button-3d nomargin" >Log in to comment</a><br/><br/><div id='div-gpt-ad-1405572439167-0' style='width:620px; height:400px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1405572439167-0'); });
+</script>
+</div></div><div class="col-md-4"><div class="line hidden-lg hidden-md"></div><div class="sidebar-widgets-wrap clearfix"><div class="widget clearfix"><div id='div-gpt-ad-1364620228969-3' style='width:300px; height:250px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364620228969-3'); });</script><!--<img class="aligncenter" src="images/magazine/ad.png" alt="">--></div><!-- Begin MailChimp Signup Form --><!--End mc_embed_signup--></div><div class="widget clearfix" style="padding-top:5px;margin-top:20px;border-top:none"><h4>Skateboard Shop</h4><div id="post-list-footer"><div class="spost clearfix"><div class="entry-image"><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-peach-white"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Cycle_Stripe_T-Shirt_Peach_1.jpg?v=1538631850" alt="ButterGoods Cycle Stripe Tee P"></a></div><div class="entry-c"><div class="entry-title"><h4><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-peach-white">ButterGoods Cycle Stripe Tee P</a></h4></div><ul class="entry-meta"><li class="color">$79.95 </li></ul></div></div><div class="spost clearfix"><div class="entry-image"><a href="https://shop.skateboard.com.au/products/dickies-lafayette-tee-navy"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/lafayette.jpg?v=1538707463" alt="Dickies Lafayette Tee Navy"></a></div><div class="entry-c"><div class="entry-title"><h4><a href="https://shop.skateboard.com.au/products/dickies-lafayette-tee-navy">Dickies Lafayette Tee Navy</a></h4></div><ul class="entry-meta"><li class="color">$44.95 </li></ul></div></div><div class="spost clearfix"><div class="entry-image"><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Cycle_Stripe_T-Shirt_Navy_1.jpg?v=1538631733" alt="ButterGoods Cycle Stripe Tee N"></a></div><div class="entry-c"><div class="entry-title"><h4><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white">ButterGoods Cycle Stripe Tee N</a></h4></div><ul class="entry-meta"><li class="color">$79.95 </li></ul></div></div><div class="spost clearfix"><div class="entry-image"><a href="https://shop.skateboard.com.au/collections/decks"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Palace_BF.jpg?v=1539576602" alt="Palace Fairfax S13 8.06 Multic"></a></div><div class="entry-c"><div class="entry-title"><h4><a href="https://shop.skateboard.com.au/collections/decks">Palace Fairfax S13 8.06 Multic</a></h4></div><ul class="entry-meta"><li class="color">$109.95 </li></ul></div></div><div class="spost clearfix"><div class="entry-image"><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/Cycle_Stripe_T-Shirt_Navy_1.jpg?v=1538631733" alt="ButterGoods Cycle Stripe Tee N"></a></div><div class="entry-c"><div class="entry-title"><h4><a href="https://shop.skateboard.com.au/products/buttergoods-cycle-stripe-tee-navy-white">ButterGoods Cycle Stripe Tee N</a></h4></div><ul class="entry-meta"><li class="color">$79.95 </li></ul></div></div><div class="spost clearfix"><div class="entry-image"><a href="https://shop.skateboard.com.au/collections/decks"><img src="https://cdn.shopify.com/s/files/1/0577/8505/products/FA_Bike.jpg?v=1539582193" alt="FA KB Bike Deck 8.25"></a></div><div class="entry-c"><div class="entry-title"><h4><a href="https://shop.skateboard.com.au/collections/decks">FA KB Bike Deck 8.25</a></h4></div><ul class="entry-meta"><li class="color">$109.95 </li></ul></div></div></div></div><!--googleon: all--><div class="widget widget_links clearfix" style="padding-top:5px;background-color:whitesmoke"><style type="text/css" media="screen">.dsq-widget ul.dsq-widget-list {padding: 0;margin: 0;text-align: left;}img.dsq-widget-avatar {width: 32px;height: 32px;border: 0px;margin: 0px;padding: 0px 3px 3px 0px;float: left;}a.dsq-widget-user {font-weight: bold;}a.dsq-widget-thread {font-weight: bold;}p.dsq-widget-meta {clear: both;font-size: 80%;padding: 0;margin: 0;}li.dsq-widget-item {margin: 15px 0;list-style-type: none;clear: both;}span.dsq-widget-clout {padding: 0 2px;background-color: #ff7300;color: #fff;}table.dsq-widget-horiz td {padding-right: 15px;}.dsq-widget-comment p {display: inline;}</style><ul class="dsq-widget-list"><li class="dsq-widget-item"><a href="https://disqus.com/by/stoked2sk8/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1541535443/images/noavatar92.png"></a><a class="dsq-widget-user" href="https://disqus.com/by/stoked2sk8/">Stoked2Sk8</a><span class="dsq-widget-comment"><p>The new build is now open and it sucks badly :( It looks so good in the pictures but it has no flow whatsover, is cramped as hell, and overflooded with scooters and their parents. Not even any flatland! Never going back again. Why did they have to get rid of the old one? It was so good...alas, now history.</p></span><p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/">Bentleigh East</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/#comment-4187522163">2 days ago</a></p></li><li class="dsq-widget-item"><a href="https://disqus.com/by/stevoschmez/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1541535443/images/noavatar92.png"></a><a class="dsq-widget-user" href="https://disqus.com/by/stevoschmez/">Stevo Schmez</a><span class="dsq-widget-comment"><p>rebuilt and reopened</p></span><p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/">Bentleigh East</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/bentleigh-east/#comment-4186299798">2 days ago</a></p></li><li class="dsq-widget-item"><a href="https://disqus.com/by/kaydecoonerty/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/27673/7782/avatar92.jpg?1541418986"></a><a class="dsq-widget-user" href="https://disqus.com/by/kaydecoonerty/">Kayde Coonerty</a><span class="dsq-widget-comment"><p>Needs new ramps and pretty boring compared to other parks, needs to be a bit like shepparton skatepark or kyabram, it's nice n quiet but boring wen u cant go to any other skateparks only this one, new ramps that are not metal n a skatepark that you can enjoy, I always go here n I cant learn nothing mew because the ramps r to small to land tricks on, the box is good n rails, they should make the skatepark either wider or longer, or either make another skatepark somewhere else in tatura, kids cant have fun if the skatepark isnt enjoyable, kinda dangerous...hopefully one day they improve the skatepark to make bigger hips and ramps and to get more air on, anyone want to talk to me about it I'll possibly at the tatura skatepark almost every day, just give me a notice, someone really needs to progress a better skatepark here in my own town....TATURA😕☹😔</p></span><p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/tatura-skate-park/">Tatura Skate Park</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/tatura-skate-park/#comment-4179218096">2 days ago</a></p></li><li class="dsq-widget-item"><a href="https://disqus.com/by/samversace/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1541535443/images/noavatar92.png"></a><a class="dsq-widget-user" href="https://disqus.com/by/samversace/">sick cunt</a><span class="dsq-widget-comment"><p>Pretty fucken small and slippery as shit but not too bad for a quick sesh</p></span><p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/ashgrove-new-park/">Ashgrove New Park</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/ashgrove-new-park/#comment-4153781160">2 days ago</a></p></li><li class="dsq-widget-item"><a href="https://disqus.com/by/darrinyates/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/32293/3753/avatar92.jpg?1538345669"></a><a class="dsq-widget-user" href="https://disqus.com/by/darrinyates/">Darrin Yates</a><span class="dsq-widget-comment"><p><a href="https://uploads.disquscdn.com/images/b171add346d1def961f6aac3db32d58fe6047643e98ef8d125bf36c1e03d529b.png" rel="nofollow noopener" title="https://uploads.disquscdn.com/images/b171add346d1def961f6aac3db32d58fe6047643e98ef8d125bf36c1e03d529b.png">https://uploads.disquscdn.c...</a><a href="https://uploads.disquscdn.com/images/50d555c2af3c6f8bf970ef1c23d20a57de4233552e81ec6e7b4796850ab4468f.jpg" rel="nofollow noopener" title="https://uploads.disquscdn.com/images/50d555c2af3c6f8bf970ef1c23d20a57de4233552e81ec6e7b4796850ab4468f.jpg">https://uploads.disquscdn.c...</a></p><p>There are two great events coming up at the Millthorpe Skate Park during the School Holidays. On Sunday Oct 7th there is a free skate coaching session for skateboarders, scooter riders and bmx riders. <br>On Sat 13th October come and join the Millthorpe community in painting the entire skate surface, in preparation for some niche street artworks being put on by professional street artist Kris Lear of 8aesthetix, and some Millthorpe locals. Free BBQ provided.</p></span><p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/milthorpe-skatepark/">Milthorpe Skatepark</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/milthorpe-skatepark/#comment-4122624834">2 days ago</a></p></li><li class="dsq-widget-item"><a href="https://disqus.com/by/disqus_YTsFIzv0WI/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/27553/5143/avatar92.jpg?1536483727"></a><a class="dsq-widget-user" href="https://disqus.com/by/disqus_YTsFIzv0WI/">Craig MCconnell</a><span class="dsq-widget-comment"><p><a href="https://disq.us/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoFLG88R0CMc%26feature%3Dyoutu.be%3AVT0tnJI1xAebbgExabL-ekHqYI0&amp;cuid=5114117" rel="nofollow noopener" title="https://www.youtube.com/watch?v=oFLG88R0CMc&amp;feature=youtu.be">https://www.youtube.com/wat...</a></p></span><p class="dsq-widget-meta"><a href="https://www.skateboard.com.au/skateparks/australia/busselton--latest-park/">Busselton Latest Park Busselton</a>&nbsp;&nbsp;<a href="https://www.skateboard.com.au/skateparks/australia/busselton--latest-park/#comment-4085567461">2 days ago</a></p></li></ul></div><div class="widget widget_links clearfix" style="margin-top:10px;padding-top:10px;border-top:none"><h4>Skateparks</h4><div class="col_half nobottommargin"><ul><li> <a href="http://www.skateboard.com.au/area/sydney-skateparks">Sydney Skateparks</a>	</li><li><a href="http://www.skateboard.com.au/area/melbourne-skateparks">Melbourne Skateparks</a></li><li><a href="http://www.skateboard.com.au/area/brisbane-skateparks">Brisbane Skateparks</a> </li><li><a href="http://www.skateboard.com.au/area/adelaide-skateparks">Adelaide Skateparks</a></li><li><a href="http://www.skateboard.com.au/v2/index.cfm?smithgrind=distcheck&id=3184&label=Canberra">Canberra Skateparks</a></li><li><a href="http://www.skateboard.com.au/area/perth-skateparks">Perth Skateparks</a></li><li><a href="http://www.skateboard.com.au/area/hobart-skateparks">Hobart Skateparks</a> </li><li><a href="http://www.skateboard.com.au/area/gold-coast-skateparks">Gold Coast Skateparks</a> </li></ul></div></div></div></div></div></div><!-- Footer============================================= --><footer id="footer" class="dark"><!-- Copyrights============================================= --><div id="copyrights"><div class="container clearfix"><div class="col_half"><div class="copyright-links"><a href="http://shop.skateboard.com.au/pages/contact-us">Contact</a> / <a href="http://shop.skateboard.com.au/pages/faq">FAQ</a></div></div><div class="col_half col_last tright"><div class="fright clearfix"></div><div class="clear"></div><i class="icon-envelope2"></i> shop@skateboard.com.au <span class="middot">&middot;</span> <i class="icon-headphones"></i> 1800 034 588<span class="middot">&middot;</span></div></div></div><!-- #copyrights end --></footer><!-- #footer end --></div><!-- #wrapper end --><!-- Go To Top============================================= --><div id="gotoTop" class="icon-angle-up"></div><!-- Footer Scripts============================================= --><script type="text/javascript" src="https://d2fbetjhl4y26q.cloudfront.net/assets/functions.js"></script><script type="text/javascript" >var width = window.innerWidth || document.documentElement.clientWidth;if ((width >= 300) && (width < 768)) {$("#eventscroll").remove();$("#div-gpt-ad-1405572439167-0").hide()$("#logo").hide();$("#maincontent").css("padding-left","0px");$("#maincontent").css("padding-right","0px");$("#maincontainer").css("padding-left","0px");$("#maincontainer").css("padding-right","0px");$("#contentwrapper").css("padding-top","3px");}$("#geolink").attr("href", "https://www.skateboard.com.au/skateparks-near-me.html");$("#geolink2").attr("href", "https://www.skateboard.com.au/skateparks-near-me.html");</script></body>
+</html> 

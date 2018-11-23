@@ -1,0 +1,4 @@
+        name: 'finish_body_render',
+    if (document.readyState === 'complete'){
+      installFacebookPixel();
+    window.addEventListener('load', installFacebookPixel);

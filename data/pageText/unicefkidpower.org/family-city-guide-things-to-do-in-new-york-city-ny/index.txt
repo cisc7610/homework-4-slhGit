@@ -1,0 +1,31 @@
+    [term_taxonomy_id] => 21
+    [taxonomy] => category
+    [name] => Family Fitness Tips
+    [slug] => family-fitness-tips
+    [term_taxonomy_id] => 6
+    [taxonomy] => category
+    [term_taxonomy_id] => 20
+    [taxonomy] => category
+    [term_taxonomy_id] => 5
+    [taxonomy] => category
+    [name] => Product Tips
+    [slug] => product-tips
+    [term_taxonomy_id] => 7
+    [taxonomy] => category
+    [name] => Your Stories
+    [term_taxonomy_id] => 9
+    [taxonomy] => category
+Family City Guide: Things To Do in New York City, NY
+Did you know that, with a 
+UNICEF Kid Power Band
+, any steps your kids take – around the zoo, ancient tracks, through a huge park, or over a famous bridge — saves lives?! Here’s our guide to a jam-packed day of fun and cultural family attractions in New York City:
+Walk it, run it, jog it, bike it – this is a must do. The approximately 1.3 mile-long stretch high above the East River affords incredible panoramic views of Manhattan and Brooklyn. It could take you thirty minutes to wander across but build in some extra time to stand and take it all in. If you’re walking from the Manhattan side over to Brooklyn, stick to the right hand side for a great shot of the skyline and Statue of Liberty.
+How many different playgrounds are there in Central Park? Twenty one. There’s a wonderful array of spaces and fun activities for kids of all ages. Among our favorites are the Ancient Playground, the Diana Ross Playground and the Tarr Family Playground. There’s more family fun to be had at the Zoo, the Marionette Theater and the Wollman Ice Rink during the holidays. In the sunny months renting a bike is well worth it, especially since cars are banned from the Park during weekends.
+If watching acrobatic lemurs and feeding lions is your thing, then America’s largest zoo is the place to be for a whole day! Home to some 4,000 animals, the Bronx Zoo is a great place to rack up UNICEF Kid Power points wandering the many paths in your quest to see as many animals as possible. Be sure to visit Tiger Mountain and the Congo Gorilla Forest. For weary legs, there’s a tram and monorail!
+ In 1934 the Highline opened to trains and in 1980 the last train ran its course on the overhead freight tracks (carrying three carloads of frozen turkeys)! Fast-forward thirty years, the entire structure of the tracks has been retrofitted to create a  beautiful walkway offering incredible views of the Hudson and Chelsea stands. Open all year round, the Highline has  multiple tours on offer, lots of art and culture and long open stretches for must-not-miss views of the beautiful Hudson, busy river traffic and New Jersey!
+Kid Power Bands for Half the Cost with DonorsChoose.org
+Pokémon GO is Putting Kid Power on the Map
+Best Unique & Cool Holiday Gifts for Kids Guide: 2018
+                            UNICEF Kid Power is a program of UNICEF USA that gives kids the power to save lives by connecting their everyday activity to real-world impact.
+                            Learn more about UNICEF USA’s work to help save and protect the world’s most vulnerable children.
+Terms and Privacy Policy

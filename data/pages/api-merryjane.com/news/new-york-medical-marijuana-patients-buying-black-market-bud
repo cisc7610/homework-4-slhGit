@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d4e8711470","applicationID":"7223373","transactionName":"ewpeREsKW14HFxtZEUwMU1xcFhhBCgpD","queueTime":4,"applicationTime":496,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta content='True' name='HandheldFriendly'>
+<meta content='320' name='MobileOptimized'>
+<meta content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0' name='viewport'>
+<meta content='on' http-equiv='cleartype'>
+<meta content='telephone=no' name='format-detection'>
+<meta content='907844355953071' property='fb:app_id'>
+<meta content='MERRY JANE' property='og:site_name'>
+<meta content='https://api-merryjane.com/news/new-york-medical-marijuana-patients-buying-black-market-bud' property='og:url'>
+<meta content='en_US' property='og:locale'>
+<title>High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market - MERRY JANE</title>
+<meta content='High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market - MERRY JANE' name='title'>
+<meta content='With the state’s few dispensaries offering only a limited selection exorbitantly priced products, New Yorkers in need are looking for weed the old fashioned way.' name='description'>
+<meta content='article' property='og:type'>
+<meta content='High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market - MERRY JANE' property='og:title'>
+<meta content='With the state’s few dispensaries offering only a limited selection exorbitantly priced products, New Yorkers in need are looking for weed the old fashioned way.' property='og:description'>
+<meta content='2017-10-01 16:00:00 UTC' property='article:published_time'>
+<meta content='907844355953071' property='article:publisher'>
+<meta content='News' property='article:section'>
+<meta content='https://files.merryjane.com/uploads/article/hero_image/5564/main_content_NewYorkMMJ__WIDE.jpg' property='og:image'>
+<meta content='image/jpeg' property='og:image:type'>
+<meta content='https://files.merryjane.com/uploads/article/hero_image/5564/main_content_NewYorkMMJ__WIDE.jpg' property='og:image:secure_url'>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://files.merryjane.com/assets/favicon-649a955d4c5cc4411272355c83deda42.ico" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon60x60-0de6c731614e188ce31116f6c5863aed.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-b8be68364e8684b8552e7ad343cd66d8.png" sizes="29x29" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall@2x-f7d4cd0b0b7ccd76bc50da5b161929ff.png" sizes="58x58" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall@3x-45c64f7f468112c98650c8447a6cdfd2.png" sizes="87x87" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-40-4d9a01281334c3a873857dd5654c4847.png" sizes="40x40" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-40@2x-2f51f9fb17abe2f3d401c06c535351a9.png" sizes="80x80" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-40@3x-67a50d403de70fbbc610368ec9e86092.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-50-67e2fe45dd8ed5609bcefb838261aae6.png" sizes="50x50" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIconSmall-50@2x-c332795d90c7857217732dff769250fc.png" sizes="100x100" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon72x72-683ce0bec5a4d9743ff4fdf951d01a1f.png" sizes="72x72" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon76x76-b4929036554b129a914895511b48e052.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon60x60@2x-a8b0cff0b0987d6e7d4bd3ac4c3d87b0.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon72x72@2x-ef191dab26dd946b1918992e034b19e9.png" sizes="144x144" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon76x76@2x-b34dd72c0ab3e34107e88131547451a2.png" sizes="152x152" />
+<link rel="apple-touch-icon" type="image/x-icon" href="https://files.merryjane.com/assets/AppIcon60x60@3x-84e82418e2f54974402fe862141131bd.png" sizes="180x180" />
+
+<script src="https://files.merryjane.com/assets/vendor/modernizr-d908d948ec09029ffaeb3e082a0adca3.js"></script>
+<!--[if lt IE 10]>
+<link rel="stylesheet" media="screen" href="https://files.merryjane.com/assets/ie-styles-3080261a8b2f28e2cadcfc58a1fe12d9.css" />
+<![endif]-->
+<link rel="stylesheet" media="screen" href="https://files.merryjane.com/assets/application-183890946f1ded437fb9e81b9ddfa2ad.css" />
+<script src="//use.typekit.net/wpj5agq.js"></script>
+<script>
+  try{Typekit.load();}catch(e){}
+</script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NKG1UdpSGSjxHA3h0NnUQmSsScVDlr35tx2klwQseydl8+2RplI0T7IbpG+bEeGdeBkGdIWK+gkVDrdhunWF9Q==" />
+<script src="https://files.merryjane.com/assets/application-e21fce4646d767f1fb34d46ff2b341e1.js"></script>
+
+
+
+</head>
+<body analytics-key='UA-65189308-1' analytics-on='true' class='small-menu-template'>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MKX8NW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MKX8NW');</script>
+<!-- End Google Tag Manager -->
+
+<div id='flash-messages'></div>
+
+<div class='fixed nav-wrapper' data-has-brands='false'>
+<div class='show-for-small-only'>
+<a class="link button" href="/users/sign_up?back=%2Fnews%2Fnew-york-medical-marijuana-patients-buying-black-market-bud">Sign Up</a>
+<a class="link button" href="/users/sign_in">Login</a>
+</div>
+<nav class='main-nav top-bar' data-options='scrolltop: false' data-topbar='true' role='navigation'>
+<ul class='title-area show-for-small-only'>
+<li class='name'>
+<a href="/"><img class="logo" src="https://files.merryjane.com/assets/imago-b05125f45178df26534a48d56656f79a.svg" alt="Imago" />
+</a></li>
+<li class='toggle-topbar menu-icon'>
+<a href='#'>
+<span></span>
+</a>
+</li>
+</ul>
+<section class='top-bar-section categories'>
+<ul class='left'>
+<li class='category-link'>
+<a class=" link" href="/news"><span class='news' style='border-bottom-color: #ac262f'>
+News
+</span>
+</a><ul class='featured-articles'>
+<div class='section-header right-link'>
+<h5>
+Top 5
+News
+articles
+</h5>
+<a class="link" href="/news">View more articles
+</a></div>
+<div class='top-5-wrapper'>
+<a class="category show-for-medium-only" href="/news"><div class='cat-image'>
+<span class='article-link'>View more articles</span>
+</div>
+</a></div>
+</ul>
+</li>
+<li class='category-link'>
+<a class=" link" href="/culture"><span class='culture' style='border-bottom-color: #33916b'>
+Culture
+</span>
+</a><ul class='featured-articles'>
+<div class='section-header right-link'>
+<h5>
+Top 5
+Culture
+articles
+</h5>
+<a class="link" href="/culture">View more articles
+</a></div>
+<div class='top-5-wrapper'>
+<a class="category show-for-medium-only" href="/culture"><div class='cat-image'>
+<span class='article-link'>View more articles</span>
+</div>
+</a></div>
+</ul>
+</li>
+<li class='category-link'>
+<a class=" link" href="/music"><span class='music' style='border-bottom-color: #6a6eb7'>
+Music
+</span>
+</a><ul class='featured-articles'>
+<div class='section-header right-link'>
+<h5>
+Top 5
+Music
+articles
+</h5>
+<a class="link" href="/music">View more articles
+</a></div>
+<div class='top-5-wrapper'>
+<a class="category show-for-medium-only" href="/music"><div class='cat-image'>
+<span class='article-link'>View more articles</span>
+</div>
+</a></div>
+</ul>
+</li>
+<li class='category-link'>
+<a class=" link" href="/health"><span class='health' style='border-bottom-color: #d46d31'>
+Health
+</span>
+</a><ul class='featured-articles'>
+<div class='section-header right-link'>
+<h5>
+Top 5
+Health
+articles
+</h5>
+<a class="link" href="/health">View more articles
+</a></div>
+<div class='top-5-wrapper'>
+<a class="category show-for-medium-only" href="/health"><div class='cat-image'>
+<span class='article-link'>View more articles</span>
+</div>
+</a></div>
+</ul>
+</li>
+<li class='category-link'>
+<a class=" link" href="/videos"><span class='videos' style='border-bottom-color: #bc9c4c'>
+Videos
+</span>
+</a><ul class='featured-articles'>
+<div class='section-header right-link'>
+<h5>
+Top 5
+Video
+articles
+</h5>
+<a class="link" href="/videos">View more articles
+</a></div>
+<div class='top-5-wrapper'>
+<a class="category show-for-medium-only" href="/videos"><div class='cat-image'>
+<span class='article-link'>View more articles</span>
+</div>
+</a></div>
+</ul>
+</li>
+</ul>
+<ul class='center'>
+<a href="/"><svg id='Layer_1' style='enable-background:new 0 0 306.4 247.1;' version='1.1' viewbox='0 0 306.4 247.1' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
+<style>
+  .st0{fill:url(#SVGID_1_);}
+  .st1{fill:url(#SVGID_2_);}
+  .st2{fill:url(#SVGID_3_);}
+  .st3{fill:url(#SVGID_4_);}
+  .st4{fill:url(#SVGID_5_);}
+  .st5{fill:url(#SVGID_6_);}
+  .st6{fill:url(#SVGID_7_);}
+  .st7{fill:url(#SVGID_8_);}
+  .st8{fill:url(#SVGID_9_);}
+  .st9{fill:url(#SVGID_10_);}
+</style>
+<g>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_1_' x1='-25.748' x2='290.252' y1='228.3029' y2='-8.6971'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st0' d='M60,0v187.5h187.5V0H60z M128.8,145.4c2.4,0.8,15.5,2.8,20.5,3c-4,0.1-10.6,0.5-12.6,1.2&#x000A;		c-1.4,0.5-52.7,17-67.7,21.9V126C86.4,131.6,127.2,144.9,128.8,145.4z M69,116.5V44.4c15.8,20.8,65.8,86.8,66.9,88.2&#x000A;		c1.4,1.9,9,8.8,12.8,11.9c-3.8-2.3-14.4-6.9-16.5-7.5C130.9,136.6,87.4,122.5,69,116.5z M149.3,154.7c0,0.6,0,1.3,0,2.1&#x000A;		c0,5.5,0,15.3-0.1,21.6H76.5C95.8,172.2,138.2,158.4,149.3,154.7z M158.3,154.7c10.8,3.6,53.5,17.4,72.9,23.8h-72.9&#x000A;		C158.2,172.8,158.3,159.3,158.3,154.7z M171,149.6c-2.6-0.9-8.9-1.2-13.3-1.3c0,0,0,0,0,0c5.3-0.2,17.3-2,20.2-2.9&#x000A;		c1.6-0.5,43-13.8,60.6-19.5v45.5C223,166.4,172.4,150.1,171,149.6z M174.5,137c-2.3,0.7-11.4,5-15.6,7.5c4-3.2,11.2-10.6,12.7-12.6&#x000A;		c1.1-1.5,51.5-67.7,66.8-88v72.5C219.8,122.4,175.8,136.6,174.5,137z M238.4,28.9c-12.8,16.9-73.5,96.9-74.4,98.1&#x000A;		c-1.5,1.9-6.4,11.2-8.4,15.9c0.9-5.5,2.6-13.8,2.6-17.2c0-1.9-0.1-97,0-116.7h80.2V28.9z M149.2,9c0,26,0.1,114.8,0.1,116.3&#x000A;		c0,2.2,1.3,12.3,2.5,17.5c-2-4.6-6.9-13.1-8.3-15c-0.9-1.2-60.8-80.4-74.5-98.4V9H149.2z'></path>
+</g>
+<g class='brand-name'>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_2_' x1='-9.0408' x2='306.9592' y1='250.5793' y2='13.5793'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st1' d='M0,217.1h6.7l9.1,13.1l9.1-13.1h6.9v29.6h-6.7v-18.2h-0.3l-9,12.6l-9-12.5H6.7v18.1H0V217.1z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_3_' x1='4.0965' x2='320.0965' y1='268.0956' y2='31.0956'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st2' d='M44.4,234.8v5.9h22.9v6.1H37.5v-29.6h29.3v6.1H44.4v5.6H66v6.1H44.4z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_4_' x1='16.4867' x2='332.4867' y1='284.6159' y2='47.6159'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st3' d='M71.9,217.1H91c5.9,0,10.5,3.9,10.5,10.1c0,4.7-2.8,8.1-6.9,9.4l7.2,10.1H94l-6.7-9.7h-8.6v9.7h-6.9V217.1z&#x000A;		 M78.8,223v8.7h11c2.9,0,4.6-1.7,4.6-4.4c0-2.2-1.8-4.3-4.7-4.3H78.8z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_5_' x1='28.8577' x2='344.8577' y1='301.1106' y2='64.1106'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st4' d='M106.2,217.1h19.1c5.9,0,10.5,3.9,10.5,10.1c0,4.7-2.8,8.1-6.9,9.4l7.2,10.1h-7.7l-6.7-9.7h-8.6v9.7h-6.9&#x000A;		V217.1z M113.2,223v8.7h11c2.9,0,4.6-1.7,4.6-4.4c0-2.2-1.8-4.3-4.7-4.3H113.2z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_6_' x1='38.1138' x2='354.1138' y1='313.4521' y2='76.4521'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st5' d='M167.5,217.1l-11.4,17.5v12.1h-6.9v-11.9l-11.5-17.7h7.7l7.4,10.8l7.2-10.8H167.5z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_7_' x1='57.0914' x2='373.0914' y1='338.7556' y2='101.7555'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st6' d='M177.4,238.6l5.8-3.3c0.5,1.8,3.8,5.3,9.1,5.3c6.2,0,8-5,8-9.4v-14.2h6.9v13c0,11.5-4.8,17.1-14.9,17.1&#x000A;		C185.3,247.1,178.7,242.2,177.4,238.6z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_8_' x1='67.6785' x2='383.6785' y1='352.8717' y2='115.8717'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st7' d='M219.9,217.1h6.5l11.7,29.6h-7.2l-1.4-3.8h-12.6l-1.3,3.8h-7.2L219.9,217.1z M219,237h8.3l-4.2-10.6L219,237z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_9_' x1='77.7047' x2='393.7047' y1='366.2399' y2='129.2399'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st8' d='M241.9,217.1h5.1l17.8,18v-18h6.9v29.6H267l-18.1-17.5v17.5h-6.9V217.1z'></path>
+<lineargradient gradientunits='userSpaceOnUse' id='SVGID_10_' x1='90.1657' x2='406.1656' y1='382.8546' y2='145.8546'>
+<stop offset='0' style='stop-color:#C48729'></stop>
+<stop offset='0.4921' style='stop-color:#EAD488'></stop>
+<stop offset='1' style='stop-color:#C48729'></stop>
+</lineargradient>
+<path class='st9' d='M283.5,234.8v5.9h22.9v6.1h-29.8v-29.6h29.3v6.1h-22.4v5.6h21.6v6.1H283.5z'></path>
+</g>
+</svg>
+
+</a></ul>
+<ul class='right'>
+<li>
+<a class=" link" href="https://sesh.merryjane.com/?utm_source=merryjane&amp;utm_medium=seshtab&amp;utm_campaign=seshtab"><span class='sesh'>
+Sesh
+<div class='underline'></div>
+</span>
+</a></li>
+<li>
+<a class=" link" href="/goods"><span class='goods'>
+Goods
+<div class='underline'></div>
+</span>
+</a></li>
+<li>
+<a class=" link" href="/dispensaries"><span class='dispensaries'>
+Dispensaries
+<div class='underline'></div>
+</span>
+</a></li>
+<li>
+<a class=" link" href="/store"><span class='store'>
+Store
+<div class='underline'></div>
+</span>
+</a></li>
+<li class='registration-buttons show-for-medium-up'>
+<a class="link button" href="/users/sign_up?back=%2Fnews%2Fnew-york-medical-marijuana-patients-buying-black-market-bud">Sign Up</a>
+<a class="link button" href="/users/sign_in">Login</a>
+</li>
+</ul>
+</section>
+</nav>
+<section class='secondary-nav'>
+<div class='row'>
+<div class='columns small-12'>
+<div class='flex-wrapper'>
+<a class="icn-arrow-l" href="/news/native-american-tribal-leaders-california-washington-meeting"></a>
+<div class='tag'>
+<div class='article-tags'>
+<a class="category-link" href="/news"><span class='article-category news'>
+News
+<span class='separation'></span>
+</span>
+</a></div>
+</div>
+<div class='title-container'>
+<p class='item-title'>
+High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market
+</p>
+<div class='home-article-search search-container'>
+<div class='search-field'>
+<span class='icn-cross'></span>
+<input class='search-input' id='article-search-input' placeholder='Search for Articles and Videos...' type='text'>
+<span class='icn-search'></span>
+</div>
+<span class='icn-search'></span>
+<div class='dropdown-preview'>
+<ul></ul>
+<a class="show-results" href="/searches">show all results</a>
+</div>
+</div>
+<script id='article-search-preview-template' type='x-tmpl-mustache'>
+  {{#articles}}
+    <li>
+      <a href='{{url}}'>
+        <h6>{{title}}</h6>
+      </a>
+    </li>
+  {{/articles}}
+</script>
+
+
+</div>
+<div class='share-bar hide'></div>
+<a class="icn-arrow-r" href="/news/reverend-al-sharpton-decode-cannabis"></a>
+</div>
+</div>
+</div>
+</section>
+
+
+</div>
+
+<section class='default-article'>
+<div article-category='News' class='article-wrapper row' data-url='https://api-merryjane.com/news/new-york-medical-marijuana-patients-buying-black-market-bud'>
+<section class='main-content small-12 medium-8 columns'>
+<header class='default-header'>
+<div class='header-content'>
+<hgroup class='header-info'>
+<a class="toggle-follow hide heart-icons" onclick="toggleFollow(this, event, &#39;articlesIndexPage&#39;)" data-id="5564" data-type="articles" data-slug="new-york-medical-marijuana-patients-buying-black-market-bud" data-show-follow-identifier="follow_identifier" href=""><span></span>
+</a>
+
+<h1>High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market</h1>
+<p class='subtitle'>With the state’s few dispensaries offering only a limited selection exorbitantly priced products, New Yorkers in need are looking for weed the old fashioned way.</p>
+</hgroup>
+<div class='header-image' data-interchange='[https://files.merryjane.com/uploads/article/hero_image/5564/main_content_NewYorkMMJ__WIDE.jpg, (default)], [https://files.merryjane.com/uploads/article/mobile_image/5564/NewYorkMMJ__TALL.jpg, (small-only)]' title='High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market'>
+<img alt="High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market" class="hide" src="https://files.merryjane.com/uploads/article/hero_image/5564/main_content_NewYorkMMJ__WIDE.jpg" />
+</div>
+</div>
+</header>
+
+<div class='article-content'>
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">New York State passed medical marijuana legislation in 2014, with patients able to purchase their medicine at licensed dispensaries since 2016. This year, the program expanded further, with broadly defined ailments like chronic pain added to the state&rsquo;s list of qualifying conditions. </span><a href="https://merryjane.com/news/new-york-health-department-expands-medical-marijuana-program" target="_blank">But even with the expanded qualifiers opening the system to millions of New Yorkers</a>, high priced product and a lack of smokeable marijuana for sale has resulted in state-approved patients seeking their weed from black market dealers instead of dispensaries.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7"><a href="http://www.silive.com/news/2017/09/costly_medical_marijuana_pushe.html" target="_blank">According to Staten Island Live</a></span>, patients in the Empire State can purchase CBD-rich oils, capsules and vaporizers from <a href="https://merryjane.com/news/new-york-medical-marijuana-program-experience" target="_blank">five licensed producers and eight approved dispensaries</a>. Without additional competition, prices are double and triple what they might be in a recreational-legal state.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">&quot;There are vape pens you can get for $30 or $40 in a state like Colorado that you can get for $100 here for an inferior product.&quot; Empire State NORML representative Doug Greene said. &quot;Most people seem to think they&#39;re better off staying in the unlicensed market and getting a cheaper product that way than getting it in the program, and that&#39;s unfortunate.&quot;</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">And in New York City, at least, they might be right. A number of the city&rsquo;s health food stores and bodegas already offer products infused with industrial hemp-derived CBD and the city&rsquo;s vast network of underground, but not hard to find cannabis delivery services offer products you might see in California or Colorado like vape cartridges and edibles, at a price lower than the New York MMJ providers. </span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">&quot;Most people that go to a dispensary go once or twice and never go back,&quot; Landon Dais, political director of the Marijuana Policy Project of New York, said. &quot;It&#39;s just too expensive. They like that the products are screened and safe ... but it&#39;s about the bottom line for people&#39;s pockets.&quot;</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">Not only are patients avoiding high prices, some qualified New Yorkers can&rsquo;t even find a doctor to certify them. And if it&rsquo;s easier to text what essentially amounts to a full, unlicensed dispensary disguised as a bike messenger than it is to look up a medical marijuana friendly doctor, the regulated road becomes far less appealing. </span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">&quot;People definitely are still having problems finding doctors,&quot; Greene said. &quot;There&#39;s a lot of doctors who don&#39;t want to talk about it.&quot;</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">The New York Health Department, the people behind the state&rsquo;s medical marijuana program, have urged patients not to seek out their pot from black market sources, with one Health Department spokesperson calling unsanctioned cannabis product an &ldquo;extremely dangerous choice, as the ingredients are completely unknown and untested.&quot;</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">The state has plans to double the number of MMJ producers in coming years, and Health Department officials are hopeful that the expansion will increase access and ease patient&rsquo;s financial burden. </span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">&quot;The New York State Department of Health is committed to growing the state&#39;s medical marijuana program responsibly and is continually working to enhance the program for patients and practitioners,&quot; a spokesperson said. &quot;The addition of five new registered organizations will help to increase patient access, improve geographic distribution across the state, make medical marijuana products more affordable for patients through the introduction of new competition, and increase the variety of medical marijuana products available to patients.&quot;</span></p>
+
+<p><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">New York already has over 31,000 registered medical marijuana patients, but if the state is serious about providing alternatives to dangerous pain killers and helping residents find relief, state regulators and legislators need to find some concrete solutions to bring more New Yorkers into the program and give affordable, comprehensive support to the patients already signed up. </span></p>
+
+<p><span id="docs-internal-guid-008d92df-d86a-8235-7953-089d660386e7">The Big Apple is constantly evolving, and if the state can&rsquo;t provide patients with what they need, there are plenty of black market business owners ready to step in.</span></p>
+
+</div>
+
+
+<div class='writer-block'>
+<div class='writer-image' style="background-image: url('https://files.merryjane.com/uploads/author/avatar/214/ZachHarris.jpg');">
+<a class="hide toggle-follow follow" title="Follow" data-update-url="/api/users/zachharris/follow_data" data-type="json" data-object-id="70197" data-object-name="ZachHarris" data-remote="true" rel="nofollow" data-method="post" href="/api/users/zachharris/toggle_follow?back=%2Fnews%2Fnew-york-medical-marijuana-patients-buying-black-market-bud"><span></span>
+</a>
+</div>
+<div class='writer-data'>
+<p class='date'>Written on October 01, 2017 by</p>
+<h3 class='name'>
+<a href="/users/zachharris">Zach Harris </a>
+</h3>
+<p class='desc'>Zach Harris is a writer based in Philadelphia whose work has appeared on Noisey, First We Feast, and Jenkem Magazine. You can find him on Twitter @10000youtubes complaining about NBA referees.</p>
+</div>
+</div>
+
+<div data-react-class="CommentShow" data-react-props="{&quot;comments&quot;:[],&quot;create_comment_path&quot;:&quot;&quot;,&quot;comments_api_path&quot;:&quot;/api/comments?object%5Bid%5D=5564\u0026object%5Btype%5D=Article&quot;,&quot;login_url&quot;:&quot;/users/sign_up?back=%2Fnews%2Fnew-york-medical-marijuana-patients-buying-black-market-bud&quot;,&quot;flag_comment_path&quot;:&quot;/api/comments/flag&quot;,&quot;edit_comment_path&quot;:&quot;/api/comments/update&quot;,&quot;delete_comment_path&quot;:&quot;/api/comments&quot;,&quot;update_following&quot;:&quot;https://api-merryjane.com/api/follows&quot;,&quot;current_user_id&quot;:null}"></div>
+
+</section>
+<aside class='sidebar small-12 medium-4 columns'>
+<div class='sidebar-wrapper'>
+<div class='sidebar-ad top-add'>
+<!-- News Article One 300x250 -->
+<iframe frameborder='0' height='250' hspace='0' marginheight='0' marginwidth='0' scrolling='no' src='https://merry.basisworldwide.com/placements/serve/22' vspace='0' width='300'></iframe>
+
+</div>
+
+<section class='top-articles sidebar-block'>
+<div class='section-header'>
+<h5>Most Related</h5>
+</div>
+<div class='top-articles-sidebar'>
+<div class='popular-articles'>
+<a class="top-article" href="/news/utah-legalizes-restrictive-mmj-program-for-terminally-ill"><div class='top-article-bg-image' style='background-image: url(https://files.merryjane.com/uploads/article/small_image/6334/utah_legalizes_restrictive_MMJ_program__SQUARE.jpg)' title=''>
+<img alt="" class="hide" src="https://files.merryjane.com/uploads/article/small_image/6334/utah_legalizes_restrictive_MMJ_program__SQUARE.jpg" />
+</div>
+<div class='article-link'>Utah Legalizes Restrictive Medical Marijuana Program for Terminally Ill Residents</div>
+</a><a class="top-article" href="/culture/where-to-get-free-weed-on-420"><div class='top-article-bg-image' style='background-image: url(https://files.merryjane.com/uploads/article/small_image/4059/WHERE_TO_GET_FREE_WEED.jpg)' title='Where to Get Free Weed on 4/20?'>
+<img alt="Where to Get Free Weed on 4/20?" class="hide" src="https://files.merryjane.com/uploads/article/small_image/4059/WHERE_TO_GET_FREE_WEED.jpg" />
+</div>
+<div class='article-link'>Where to Get Free Weed on 4/20?</div>
+</a><a class="top-article" href="/news/oakland-proposes-ballot-measure-so-voters-can-decrease-legal-weed-taxes"><div class='top-article-bg-image' style='background-image: url(https://files.merryjane.com/uploads/article/small_image/6825/oakland_could_lower_pot_taxes__SQUARE.jpg)' title=''>
+<img alt="" class="hide" src="https://files.merryjane.com/uploads/article/small_image/6825/oakland_could_lower_pot_taxes__SQUARE.jpg" />
+</div>
+<div class='article-link'>Voters in Oakland Could Lower Legal Weed Taxes This November</div>
+</a><a class="top-article" href="/news/gwyneth-paltrow-s-goop-brand-announces-new-line-of-cannabis-products"><div class='top-article-bg-image' style='background-image: url(https://files.merryjane.com/uploads/article/small_image/6768/Paltrow_Goop_Cannabis_Line_WIDE2.jpg)' title='Gwyneth Paltrow’s Goop Brand Announces New Line of Cannabis Products'>
+<img alt="Gwyneth Paltrow’s Goop Brand Announces New Line of Cannabis Products" class="hide" src="https://files.merryjane.com/uploads/article/small_image/6768/Paltrow_Goop_Cannabis_Line_WIDE2.jpg" />
+</div>
+<div class='article-link'>Gwyneth Paltrow’s Goop Brand Announces New Cannabis Products Collaboration</div>
+</a><a class="top-article" href="/news/new-york-state-assembly-moves-to-seal-cannabis-convictions-expand-medical-marijuana-access"><div class='top-article-bg-image' style='background-image: url(https://files.merryjane.com/uploads/article/small_image/6677/NY_Assembly_Passes_Canna_Reform_Bills_WIDE.jpg)' title='New York State Assembly Moves to Seal Cannabis Convictions, Expand Medical Marijuana Access'>
+<img alt="New York State Assembly Moves to Seal Cannabis Convictions, Expand Medical Marijuana Access" class="hide" src="https://files.merryjane.com/uploads/article/small_image/6677/NY_Assembly_Passes_Canna_Reform_Bills_WIDE.jpg" />
+</div>
+<div class='article-link'>New York State Assembly Moves to Seal Cannabis Convictions, Expand Medical Marijuana Access</div>
+</a>
+</div>
+</div>
+</section>
+<div class='sidebar-ad'>
+<!-- News Article Two 300x250 -->
+<iframe frameborder='0' height='250' hspace='0' marginheight='0' marginwidth='0' scrolling='no' src='https://merry.basisworldwide.com/placements/serve/23' vspace='0' width='300'></iframe>
+
+</div>
+
+<div class='sidebar-ad last-ad'>
+<!-- News Article Three 300x600 -->
+<iframe frameborder='0' height='600' hspace='0' marginheight='0' marginwidth='0' scrolling='no' src='https://merry.basisworldwide.com/placements/serve/24' vspace='0' width='300'></iframe>
+
+</div>
+
+</div>
+
+</aside>
+</div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"https://www.merryjane.com"
+  },
+  "headline": "High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://files.merryjane.com/uploads/article/hero_image/5564/NewYorkMMJ__WIDE.jpg",
+    "height": "380",
+    "width": "730"
+  },
+  "datePublished": "2017-10-01T16:00:00Z",
+  "dateModified": "2017-10-01T16:06:01Z",
+  "author": {
+    "@type": "Person",
+    "name": "Zach Harris "
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MerryJane",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://files.merryjane.com/assets/imago-b05125f45178df26534a48d56656f79a.svg",
+      "width": 74.5,
+      "height": 60
+    }
+  },
+  "description": "With the state’s few dispensaries offering only a limited selection exorbitantly priced products, New Yorkers in need are looking for weed the old fashioned way."
+}
+</script>
+
+
+<footer class='new-footer' id='page-footer'>
+<div class='video-wrapper'>
+<video autoplay='' id='bgvid' loop='' muted='' poster='https://files.merryjane.com/uploads/homepage_poster.png' preload=''>
+<source src='https://files.merryjane.com/uploads/registration_video.webm' type='video/webm'>
+<source src='https://files.merryjane.com/uploads/registration_video.mp4' type='video/mp4'>
+</video>
+</div>
+<div class='footer-content row'>
+<div class='small-12 large-2 columns copyrights'>
+<a href="/"><img class="logo" onerror="this.src=&#39;https://files.merryjane.com/assets/logo-0f1b929041d20126ef279e7a6da82dcb.png&#39;" src="https://files.merryjane.com/assets/logo-fc08daac09426a77ec8470c256ae17db.svg" alt="Logo" />
+</a><p>
+©
+2018
+MERRY JANE
+<br>
+All Rights Reserved
+</p>
+</div>
+<div class='small-12 medium-6 large-5 columns company'>
+<ul class='small-12 medium-5 columns'>
+<p>company</p>
+<li>
+<a href="/about">about us
+</a></li>
+<li>
+<a href="/terms_of_use">terms of service
+</a></li>
+<li>
+<a href="/privacy_policy">Privacy Policy
+</a></li>
+</ul>
+<ul class='small-12 medium-7 columns'>
+<p>resources</p>
+<li>
+<a id="claim-dispensary-link" data-reveal-id="claim-modal" href="#">claim dispensary</a>
+</li>
+<li>
+<a id="add-dispensary-link" data-reveal-id="contact-modal" href="#">Add a dispensary
+</a></li>
+<li>
+<a id="add-delivery-link" data-reveal-id="contact-modal" href="#">Add a delivery
+</a></li>
+<li>
+<a id="advertise-link" data-reveal-id="contact-modal" href="#">advertise on MERRY JANE
+</a></li>
+<li>
+<a id="newsletter-link" data-reveal-id="newsletter-modal" href="#">Newsletter
+</a></li>
+</ul>
+</div>
+<div class='small-12 medium-6 large-5 columns social'>
+<div class='social-links small-12 medium-6 columns'>
+<p>socialize</p>
+<a class="icn-facebook" target="blank" href="https://facebook.com/merryjane"></a>
+<a class="icn-twitter" target="blank" href="https://twitter.com/merryjane"></a>
+<a class="icn-instagram" target="blank" href="https://instagram.com/merryjane"></a>
+<a class="icn-pinterest" target="blank" href="https://www.pinterest.com/MERRYJANEMEDIA/"></a>
+<a class="icn-google" target="blank" href="http://google.com/+Merryjane"></a>
+<a class="icn-youtube" target="blank" href="http://www.youtube.com/c/merryjane"></a>
+<a title="Download from the apple store" id="app_store_lnk" target="_blank" class="small-12 medium-9 columns available-apps" href="https://itunes.apple.com/us/app/merry-jane/id1031763320?mt=8"><img src="https://files.merryjane.com/assets/download_app_store-88b8c1a3d881219b1ca4e265c5362fe3.png" alt="Download app store" />
+</a></div>
+<div class='connect small-12 medium-6 columns'>
+<p>connect</p>
+<a id="contact-us-link" data-reveal-id="contact-modal" href="#">Contact Us</a>
+<a title="Download from Google Play" id="play_store_lnk" target="_blank" class="small-12 medium-9 columns available-apps" href="https://play.google.com/store/apps/details?id=com.merryjane"><img src="https://files.merryjane.com/assets/download_google_play-280b0f2df568fb6206aa674d9e29e848.png" alt="Download google play" />
+</a></div>
+<div class='newsletter-singup small-12 columns'>
+<p>newsletter sign up</p>
+<form action="/newsletter/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zK8Ns3/Hlgz6nBz9ZSy17gvj5mTF04Rg5HwJkgsa/VWd/VVzA8e7a7mbtXMu5IAxF1ap1QPPw5BGbxpktUMDhw==" />
+<input type="email" name="email" id="email" class="email" placeholder="Enter Email" />
+<div class='actions'>
+<input type="submit" name="commit" value="go" class="button small" />
+</div>
+</form>
+
+</div>
+</div>
+</div>
+</footer>
+<div aria-hidden='true' aria-labelledby='Contact' class='reveal-modal' data-reveal='' id='contact-modal' role='dialog'>
+<div class='contact-wrapper'>
+<header>
+<h2 id='modal-title'>Contact Us</h2>
+</header>
+<a class="close-reveal-modal" aria-label="Close" href="#">×</a>
+<form action="/news/new-york-medical-marijuana-patients-buying-black-market-bud?url%5Baction%5D=update" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+9TaemafpwIf1ZMtJz8iYT0QjkblROuJlvMuDpb7LjmqhoK6Gp+KZVzSOqNs9xe+IaXB9yNYrHk04D34KKLQ6w==" />
+<div class='contact-errors error'></div>
+<div class='contact-success-message'></div>
+<select name="contact[category]" id="contact_category"><option selected="selected" value="select_reason">- Select Reason for Contact</option>
+<option value="account">Account</option>
+<option value="advertise">Advertise</option>
+<option value="app">App</option>
+<option value="articles">Articles</option>
+<option value="cannabassador">Cannabassador</option>
+<option value="deliveries">Deliveries</option>
+<option value="dispensaries">Dispensaries</option>
+<option value="good">Goods</option>
+<option value="investor_relations">Investor Relations</option>
+<option value="legal">Legal</option>
+<option value="copyright">Copyright</option>
+<option value="other">Other</option></select>
+<input type="email" name="contact[email]" id="contact_email" value="" placeholder="Your email here" />
+<textarea name="contact[body]" id="contact_body" placeholder="Choose from the above selection to send us comments, issues, or questions about any topic.">
+</textarea>
+<div class='actions'>
+<input type="submit" name="commit" value="Submit" class="button small round" id="contact_submit" />
+</div>
+</form>
+
+
+</div>
+
+</div>
+<div aria-hidden='true' aria-labelledby='modalTitle' class='reveal-modal' data-reveal='' id='claim-modal' role='dialog'>
+<div class='claim-wrapper'>
+<h1>To Claim a Dispensary</h1>
+<a class="close-reveal-modal" aria-label="Close" href="#">×</a>
+<ul class='claim-steps'>
+<li>Click on the Dispensaries menu and search for your dispensary</li>
+<li>If listed, click on the dispensary and there will be a link to claim your dispensary on the right side of the dispensary’s page</li>
+<li>
+If not listed,
+<a id="add-dispensary-link" data-reveal-id="contact-modal" href="#">Contact Us</a>
+to provide your dispensary information, so we can get you set up
+</li>
+</ul>
+<img src="https://files.merryjane.com/assets/claim_dispensary-debdb8048e6b3b135056baae615c875c.png" alt="Claim dispensary" />
+</div>
+
+</div>
+<div aria-hidden='true' aria-labelledby='modalTitle' class='reveal-modal' data-reveal='' id='newsletter-modal' role='dialog'>
+<div class='newsletter-wrapper'>
+<img class="logo" src="https://files.merryjane.com/assets/logo-0f1b929041d20126ef279e7a6da82dcb.png" alt="Logo" />
+<div class='newsletter-form-page' data-newsletter-url='/api/subscriptions'>
+<h2>Don't Miss Out!</h2>
+<a class="close-reveal-modal" aria-label="Close" href="#">×</a>
+<p class='newsletter-sub'>Get MERRY JANE delivered straight to your inbox.</p>
+<p>Sign up below.</p>
+<div class='newsletter-singup'>
+<input type="email" name="email" id="email" class="email" placeholder="Enter Email" />
+<small class='error'></small>
+<div class='actions'>
+<input type="submit" name="commit" value="go" id="modal-submit-newsletter" class="button small" />
+</div>
+</div>
+</div>
+<div class='newsletter-thankyou-page row text-center'>
+<h2>Thank you for subscribing to the MERRY JANE Newsletter.</h2>
+<a class="close-reveal-modal" aria-label="Close" href="#">×</a>
+<p>You will soon receive a verification email in the email account entered. Please confirm your email address and we will start sending you daily updates on cannabis culture and items of interest.</p>
+<p class='newsletter-sign'>-MERRY JANE</p>
+</div>
+</div>
+
+</div>
+
+<script>
+  var islrsharing = true; var islrsocialcounter = true; var isevenmorepopup= 'false';
+
+  function initLoginRadius() {
+    LoginRadius.util.ready(function() {
+      $u = LoginRadius.user_settings;
+      $u.apikey='817ae4d6-77d8-4c91-a8fa-610f97a24c64';
+      $i = $SS.Interface.horizontal;
+      $SS.Providers.Top = ["Facebook", "Twitter", "GooglePlus", "Reddit"];
+      $SS.facebookappid='907844355953071';
+      $SS.redirecturi='https://merryjane.com/social/thanks';
+      $SS.isCustomcss = 'true';
+      $SS.isTotalShare = false;
+      $u.sharecounttype='web';
+      $i.size = 32;
+      $i.show("share-bar");
+
+      $('.share-bar').velocity('transition.fadeIn', { duration: 300 });
+    });
+  }
+</script>
+<script src="//cdn.loginradius.com/share/v1/LoginRadius.js" async onload='initLoginRadius()'></script>
+
+
+<!-- start Mixpanel -->
+<script type='text/javascript'>
+(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split('.');2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;'undefined'!==typeof d?c=b[d]=[]:d='mixpanel';c.people=c.people||[];c.toString=function(b){var a='mixpanel';'mixpanel'!==d&&(a+='.'+d);b||(a+=' (stub)');return a};c.people.toString=function(){return c.toString(1)+'.people (stub)'};i='disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user'.split(' ');
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement('script');a.type='text/javascript';a.async=!0;a.src='undefined'!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:'file:'===e.location.protocol&&'//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js'.match(/^\/\//)?'https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js':'//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js';f=e.getElementsByTagName('script')[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+mixpanel.init('b4b3f829f85ee73ec93c79aae6b5b178', { 'loaded' : function() {
+mixpanel.incrementer=function(property){value = mixpanel.get_property(property);update={};if(value && typeof(value)=='number'){update[property]=value+1;}else{update[property]=1}mixpanel.register(update);mixpanel.people.increment(property);}
+var urlParam=function(name){var results=new RegExp('[\?&]'+name+'=([^&#]*)').exec(window.location.href);if(results===null){return null;}else{return results[1]||null;}}
+
+mixpanel.time_event("Make Comment")
+
+mixpanel.track("Viewed Article", {"Article Name":"High Prices are Driving New York’s Medical Marijuana Patients Back to the Black Market","Article Type":"News"});
+
+mixpanel.incrementer("Total Articles Read");
+
+
+}});
+</script>
+<!-- end Mixpanel -->
+
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid',
+543730683
+]);
+(function() {
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+})();
+</script>
+<!-- End Inspectlet Embed Code -->
+
+</body>
+</html>

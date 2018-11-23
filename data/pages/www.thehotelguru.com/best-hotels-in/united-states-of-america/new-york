@@ -1,0 +1,1916 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400&amp;subset=latin" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="HandheldFriendly" content="true">
+<title>Best places to stay in New York, United States of America | The Hotel Guru</title>
+<meta name="description" content="Find the best places to stay in New York, United States of America, using our very fast highlights search" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-language" content="en" />
+<meta property="og:title" content="Best places to stay in New York, United States of America" />
+<meta property="og:site_name" content="The Hotel Guru" />
+<meta property="fb:app_id" content="143121159073444" />
+<link rel="stylesheet" href="/v2/lib/blueprint/src/reset.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/blueprint/src/grid.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/blueprint/modified/typography.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/blueprint/src/forms.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/lib/slimpicker/slimpicker.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/layout.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/global.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/buttons.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/blog.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/availability.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/listings.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/pages/destinations.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/assets/style.css?v=1" media="screen" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="/v2/css/mobile.css" media="screen" type="text/css" charset="utf-8" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-gb/best-hotels-in/united-states-of-america/new-york" hreflang="en-gb" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-us/best-hotels-in/united-states-of-america/new-york" hreflang="en-us" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-ca/best-hotels-in/united-states-of-america/new-york" hreflang="en-ca" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-au/best-hotels-in/united-states-of-america/new-york" hreflang="en-au" />
+<link rel="alternate" href="https://www.thehotelguru.com/en-eu/best-hotels-in/united-states-of-america/new-york" hreflang="en" />
+<link rel="alternate" href="https://www.thehotelguru.com/best-hotels-in/united-states-of-america/new-york" hreflang="x-default" />
+<link rel="canonical" href="https://www.thehotelguru.com/best-hotels-in/united-states-of-america/new-york" />
+<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.5&amp;key=AIzaSyD6hRQI8nFE3hGMI6Tl4PVCSRXAb2lIPhA" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/lib/mootools-more-1.4.0.1.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/behaviors.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/global.js?" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-tabs.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-popup.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-slideshow.js?2" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/ui/ui-autosuggest.js?1" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/newsletter-popup.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/tracking.js?1" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/map-tooltip.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/mapping.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/availability.js?7" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/popups.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/pages/hotel-list-page.js" type="text/javascript" charset="utf-8"></script>
+<script src="/v2/js/pages/hotel-page.js" type="text/javascript" charset="utf-8"></script>
+<script src="/assets/script.js" type="text/javascript" charset="utf-8"></script>
+<script src="/autocomplete.js" type="text/javascript" charset="utf-8"></script>
+<script src="/leaflet-src.js" type="text/javascript" charset="utf-8"></script>
+<style>
+		#page-content a[href*=\/search] {
+			text-decoration: underline !important;
+		}
+	</style>
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-5T93Z8B':true});</script>
+<script>
+	//Universal Analytics Setup
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-431682-1', 'auto');
+	ga('require', 'GTM-5T93Z8B');
+	ga('send', 'pageview');
+	</script>
+
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1237108869710431'); 
+	fbq('track', 'PageView');
+	</script>
+<noscript>
+	<img height="1" width="1" 
+	src="https://www.facebook.com/tr?id=1237108869710431&ev=PageView
+	&noscript=1"/>
+	</noscript>
+
+<meta name="p:domain_verify" content="45f39a30696910cc1b4c2aeb8561813e" />
+</head>
+<body>
+<div class="siteWrapper headerFixed">
+<div id="header">
+<div class="wrapper">
+<a class="searchButton">
+<i class="fa fa-search"></i>
+<span>Search</span>
+</a>
+<a href="/" class="logo">
+<img src="/v2/images/logo-sub.png" alt=" " width="165" />
+</a>
+<div class="strapline">The Expert View</div>
+<a href="/" class="mobileLogo">
+<img src="/assets/mobile_logo.png" alt="" />
+</a>
+<a class="flyoutButton">
+<span></span>
+</a>
+<div class="flyoutWrap">
+<ul class="mainMenu">
+<li class="mobileItem"><a href="/">Home</a></li>
+<li><a href="/themes">Collections</a></li>
+<li><a href="/best-hotels-in">Destinations</a></li>
+<li><a href="/car-hire">Car Hire</a></li>
+<li><a href="/blog">Blog</a></li>
+<li class="mobileItem"><a href="/the-gurus">About</a></li>
+<li><a target="_blank" href="https://twitter.com/The_Hotel_Guru" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
+<li><a target="_blank" href="https://www.facebook.com/pages/The-Hotel-Guru/112527392107595" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+<li><a target="_blank" href="https://www.instagram.com/the_hotel_guru/" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
+</ul>
+</div> 
+<form class="searchBox" action="/search" method="get">
+<input type="hidden" name="searchbox" value="topbar">
+<button class="submit" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input type="hidden" name="loc">
+<input data-behavior="AutoSuggest" data-autosuggest-options="{popupClass:'AutoComplete_Suggestions AutoComplete_Suggestions_Big',submitOnClick:false}" name="locname" class="text autoSuggest" placeholder="Search for destination or hotel..." autocomplete="off" value="" />
+</form>
+<p style="    
+  float:left;
+    margin-top: -20px;
+clear:both;
+"><a href="/en-gb/best-hotels-in/united-states-of-america/new-york"><img src="/files/flags/24/uk.png" alt="GB" /></a> <a href="/en-us/best-hotels-in/united-states-of-america/new-york"><img src="/files/flags/24/usa.png" alt="USA" /></a> <a href="/en-eu/best-hotels-in/united-states-of-america/new-york"><img src="/files/flags/24/eu.png" alt="EU" /></a> <a href="/en-au/best-hotels-in/united-states-of-america/new-york"><img src="/files/flags/24/aus.png" alt="Australia" /></a> <a href="/en-ca/best-hotels-in/united-states-of-america/new-york"><img src="/files/flags/24/ca.png" alt="Canada" /></a></p>
+</div> 
+</div> 
+<div id="content" role="main">
+<div class="mobileSearch">
+<div id="AvailSearchBox" class="searchBox" data-behavior="AvailSearchBox">
+<form action="/search" method="get">
+<input type="hidden" name="loc" value="1067" />
+<div class="row">
+<label for="locname">Find me the best hotels in:</label>
+<div class="inputWrap mapIcon">
+<input data-behavior="AutoSuggest" data-autosuggest-options="{popupClass:'AutoComplete_Suggestions AutoComplete_Suggestions_Big',submitOnClick:false}" name="locname" class="text autoSuggest" placeholder="Search for destination or hotel..." autocomplete="off" value="" />
+</div>
+</div>
+<div class="row">
+<div class="row rowHalf">
+<label for="checkin">Check in</label>
+<div class="inputWrap date">
+<input type="text" class="text datepicker" name="checkin" autocomplete="off" alt="{format:'dd/mm/yyyy'}" placeholder="Check in date" readonly />
+</div>
+</div>
+<div class="row rowHalf">
+<label for="checkout">Check out</label>
+<div class="inputWrap date">
+<input type="text" class="text datepicker" name="checkout" autocomplete="off" alt="{format:'dd/mm/yyyy'}" placeholder="Check out date" readonly />
+</div>
+</div>
+</div>
+<div class="row">
+<input type="checkbox" name="flexible" id="flexible" onclick="update_no_dates(this);" />
+<label for="flexible">I'm flexible with dates</label>
+</div>
+<div class="row">
+<button type="submit" class="button">Search & Book</button>
+</div>
+</form>
+</div>
+</div>
+<div class="headerTagline">
+<div class="wrapper">
+<ul><li>✓ FREE cancellation on most rooms</li><li>✓ Save time, save money</li></ul>
+</div>
+</div>
+<div class="breadcrumbWrap">
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a href="/" rel="v:url" property="v:title">The Hotel Guru</a></li> <li typeof="v:Breadcrumb"><a href="/best-hotels-in/united-states-of-america" rel="v:url" property="v:title">United States of America</a></li> <li>New York</li></ul>
+</div>
+<div class="contentPageWrap">
+<div class="contentWrap colWrap">
+<div class="destinationHead">
+<div class="headLeft">
+<h1>New York</h1>
+<div class="addthis_inline_share_toolbox"></div>
+</div>
+<div class="headRight">
+<a href="" class="button openLocation">Hotels In New York</a>
+</div>
+</div>
+<div class="destinationBanner">
+<div id="AvailSearchBox" class="searchBox topSearchBox" data-behavior="AvailSearchBox">
+<a href="#" class="removeX" onclick="removeTopSearch();">x</a>
+<h2>Search the best hotels <b>in New York</b></h2>
+<form action="/search" method="get">
+<div class="row">
+<input type="hidden" name="loc" value="1067" />
+<input type="hidden" data-behavior="AutoSuggest" data-autosuggest-options="{'submitOnClick':false}" class="text" name="locname" placeholder="Type destination..." autocomplete="off" value="New York" />
+<div class="row rowHalf">
+<label for="checkin">Check in</label>
+<div class="inputWrap">
+<input type="text" class="text datepicker" name="checkin" autocomplete="off" alt="{format:'dd/mm/yyyy'}" placeholder="Check in" value="" />
+</div>
+</div>
+<div class="row rowHalf">
+<label for="checkout">Check out</label>
+<div class="inputWrap">
+<input type="text" class="text datepicker" name="checkout" autocomplete="off" alt="{format:'dd/mm/yyyy'}" placeholder="Check out" value="" />
+</div>
+</div>
+</div>
+<div class="inputWrap">
+<input type="checkbox" name="flexible" id="flexible" onclick="update_no_dates(this);" />
+<label for="flexible">I'm flexible with dates</label>
+</div>
+<div class="row">
+<button type="submit" class="button" onclick="Track.event('Interaction','destinations-search-top')">Search &amp; Book</button>
+</div>
+</form>
+</div>
+<div class="hotelGallery">
+<div class="ui-slideshow"><div class="ui-slideshow-frame"><div style="background-image:url(https://www.thehotelguru.com/_images/38/3f/383f15546870e5cea8d9c159029401e1/new-york-s1180x560.jpg)" class="ui-slideshow-inner"><img src="https://www.thehotelguru.com/_images/38/3f/383f15546870e5cea8d9c159029401e1/new-york-s1180x560.jpg" alt="Photo of New York" class="poster" /></div></div><div class="ui-slideshow-thumbs"><img src="https://www.thehotelguru.com/_images/38/3f/383f15546870e5cea8d9c159029401e1/s116x94.jpg" data-credit-author="flickr user www.travellife.blo" data-credit-url="https://www.flickr.com/photos/selda_eigler/" data-src="https://www.thehotelguru.com/_images/38/3f/383f15546870e5cea8d9c159029401e1/new-york-s1180x560.jpg" /><img src="https://www.thehotelguru.com/_images/4e/b5/4eb5953e4600315e8a2b3f2c7651f691/s116x94.jpg" data-credit-author="flickr user Janitors" data-credit-url="https://www.flickr.com/photos/janitors/" data-src="https://www.thehotelguru.com/_images/4e/b5/4eb5953e4600315e8a2b3f2c7651f691/new-york-s1180x560.jpg" /><img src="https://www.thehotelguru.com/_images/5e/8f/5e8f1aad73b2fadf793cc07bc1cd35b1/s116x94.jpg" data-credit-author="Flickr user Thomas Hawk" data-credit-url="https://www.flickr.com/photos/thomashawk/" data-src="https://www.thehotelguru.com/_images/5e/8f/5e8f1aad73b2fadf793cc07bc1cd35b1/new-york-s1180x560.jpg" /><img src="https://www.thehotelguru.com/_images/9b/d5/9bd51c898fb7a42235b2d5bc77f7a901/s116x94.jpg" data-credit-author="Flickr user Lukas Schlagenhauf" data-credit-url="https://www.flickr.com/photos/lschlagenhauf/" data-src="https://www.thehotelguru.com/_images/9b/d5/9bd51c898fb7a42235b2d5bc77f7a901/new-york-s1180x560.jpg" /></div></div>
+</div>
+</div>
+<div class="headNav headNav2 keywords">
+<ul>
+<li><a class="button external" onclick="Track.event('Interaction','destinations-search-all')" style="color:#fff;text-decoration: none;margin: 0px 0 12px 0;" href="/search?searchbox=topbar&loc=1067&locname=New York">See all hotels in New York</a></li>
+<li><a href="#about">About New York</a></li>
+<li><a href="https://www.booking.com/searchresults.en-gb.html?ss=New+York%2C+United+States+of+America&amp;unchecked_filter=hoteltype&amp;nflt=ht_id=201;ht_id=220;ht_id=213;&amp;aid=333214" onclick="Track.event('Clickout','destinations-apartments','booking.com')" target="_blank" class="external">Apartments in New York</a></li>
+</ul>
+</div>
+<div class="destinationHotels">
+<div class="colLeft">
+<div class="hotelDesc" id="about">
+<h3>About New York</h3>
+<div class="innerText">
+<p>All our New York collections:</p>
+<ul>
+<li><a href="/best-hotels/united-states-of-america/new-york-midtown-and-uptown">Best Midtown and Uptown Manhattan Hotels</a></li>
+<li><a href="/best-hotels/united-states-of-america/new-york-downtown">Best Manhattan Hotels</a></li>
+</ul>
+<p><em>New York, New York, a wonderful town, the Bronx is up and the Battery's down. </em>This is a factual, yet brief, introduction to one of the world's best known cities. Gloried in many a film, New York doesn't have an equivalent. Once she welcomed in the poor and huddled masses and the city is now a celebration of their triumphs. Here anyone is welcome to be themselves and many of the best places to stay in New York reflect this philosophy.</p>
+<p>The grid may seem simple enough to navigate from the maps, but New York is a hive of industry, and hives have all sorts of ins and outs that you only see once you're in the thick of things. So choosing where to stay can be a complicated part of planning your visit.</p>
+<h3>What not to miss:</h3>
+<ul>
+<li>Join the crowds at atmospheric Times Square.</li>
+<li>Enjoy panoramic views from the observatory deck in the iconic Empire State Building.</li>
+<li>View famed works at the Museum of Modern Art.</li>
+<li>Make a trip to the Statue of Liberty and neighbouring Ellis Island.</li>
+<li>Stroll through New York's renowned Central Park.</li>
+<li>Catch a performance on Broadway.</li>
+</ul>
+<p>Here are some of the city's hottest holiday addresses: the Hotel Guru's pick of the best places to stay in New York starting from 'Up' top of Manhattan and heading 'Down'.</p>
+<h3></h3>
+<ul>
+</ul>
+<h2>The Best of Historic Harlem</h2>
+<ul>
+<li><a href="/hotel/the-harlem-flophouse-new-york">The Harlem Flophouse</a> might not sound like the kind of place your Mum would want you to stay; but Harlem's star is on the rise at the moment and this bit of New York is arty, vibrant and historic. The Flophouse itself is a lovingly restored brownstone building complete with wonderful original features.</li>
+</ul>
+<h2>For the museums - Central Park &amp; the Upper East Side</h2>
+<ul>
+<li>Long an uptown landmark, <a href="/hotel/the-mark-new-york">The Mark</a>, value adds to its park side location with an award winning restaurant and a world renowned hairdresser. 'Stylish' doesn't do the decor by Jacques Grange enough credit. </li>
+<li>The <a href="/hotel/lowell-hotel-new-york">Lowell Hotel</a> is perfect if you're looking for classic, intimate luxury. The bathrooms are marble, the colour pallet draws from nature, the lobby is well dressed and the staff will all know you by name after your first nights stay.</li>
+<li><a href="/hotel/the-surrey-new-york" target="_blank">The Surrey</a>, a grand and gracious 5* Upper East Side Manhattan hotel is not one to be outdone. The Art Deco inspired lobby features many unique modern art pieces. With a private roof garden, a decadent bar and surrounded by some of the city's best restaurant - this really is New York City Luxury.</li>
+</ul>
+<h2>For Central New York - Times Square</h2>
+<ul>
+<li>Vibrant and friendly, the <a href="/hotel/casablanca-hotel-new-york">Casablanca Hotel</a> is one of the best places to stay if you want to be right in the heart of things. The decor, as you may have guessed, is Moroccan, with beautiful mosaics, tapestries ad paintings, impressive rugs and even ornate ceiling fans. These unique, careful touches, and the fact that it's incredibly well priced for the location, means that the 48 rooms are often booked solid with repeat guests.</li>
+<li><a href="/hotel/the-algonquin-hotel-new-york">The Algonquin Hotel</a> opened its doors in 1902 and has been doing a roaring trade ever since. The decor is gorgeous, an antique lover's dream, and they even still have a hotel cat - her name is Matilda.</li>
+<li><a href="/hotel/city-club-hotel-new-york" target="_blank">City Club Hotel</a> is an impressive former gentleman's club preserving the glamour and style as a hotel just minutes from Times Square and Broadway. </li>
+<li><a href="/hotel/westhouse-hotel-new-york" target="_blank">Westhouse Hotel</a> is an exclusive hotel in a fantastic location a few minutes from Times Square and Central Park. Channeling rich 1920s glamour with a touch of Art Deco, it boasts crystal chandeliers and polished wooden floors.</li>
+<li><a href="/hotel/room-mate-grace-new-york" target="_blank">Room Mate Grace</a> is a funky and lively hotel just minutes from Times Square with a colourfully illuminated indoor pool with underwater music and a swim-up bar.</li>
+</ul>
+<h2>Highlights of Midtown</h2>
+<p>Midtown has the Museum of Modern Art, Grand Central Station, the UN, the New York Public Library, the Chrysler Building, the Empire State Building and the Rockefeller Centre. Shoppers will know that the Midtown is also where you'll find Fifth Avenue, with Saks, FAO Schwartz and Tiffany &amp; Co.. Bloomingdale's is on Third Ave..</p>
+<ul>
+<li>If you believe 'you gotta have a gimmick', then the <a href="/hotel/library-hotel-new-york">Library Hotel</a> may be for you. Their bookish theme is anything but gimmicky though, in addition to a well stocked reading room there's also a writer's den and poetry garden, the rooms all have individual literary themes.</li>
+<li>The <a href="/hotel/hotel-elysee-new-york">Hotel Elysee</a> is one of those addresses forever associated with literary greats and fading movie stars. This is the hotel Tennessee Williams moved into to live out his last years, a place of low-key elegance and comfort on demand. Built in the 20s the hotel has been renovated, but it's still every inch an old fashioned hotel.</li>
+</ul>
+<h2>For fashionistas - Gramercy Park</h2>
+<ul>
+<li>This boho original had art by Andy Warhol and Damien Hirst on the walls of the bar, and in the revamp, the <a href="/hotel/gramercy-park-hotel-new-york">Gramercy Park Hotel</a> has kept these, and other original details, in a style they're calling 'Bohemia reinvented for the 21st Century'.</li>
+</ul>
+<h2>For Hipsters - SoHo, Tribeca &amp; the Meatpacking District</h2>
+<ul>
+<li>These days Soho is pretty cool. If you are looking for a cool place to lay your head in a cool place, then you'll want the <a href="/hotel/soho-grand-hotel-new-york">SoHo Grand Hotel</a>. The rooms are comfortable and relatively modest, but the public spaces are beautifully imaginative. There's colour, there's chic design and in the Grand Lounge there's live music.</li>
+<li>Jostling for cool with the Soho Grand is the <a href="/hotel/tribeca-grand-new-york">Tribeca Grand</a>. Like competitive sisters they fight to have the hippest fashionistas in their bars and musicians at their live music events. The Tribeca Grand can also add filmmakers using its in-house cinema.</li>
+<li>With panoramic views over the Hudson River, <a href="/hotel/the-standard-new-york">The Standard</a>, an Andre Balaza hotel, is one of the best places to stay in New York if you're after detail and atmosphere. Cool, stark and perfectly proportioned to take best advantage of the location, this is a great place from which to experience New York. You are starting the day with the city spread out beneath you.</li>
+<li><a href="/hotel/the-bryant-park-hotel-new-york" target="_blank">Bryant Park Hotel</a> is a black and gold gothic landmark overlooking Byrant Park in the heart of Soho. Light, sharp rooms with luxury linens, bathtubs and city views. KOI sushi restaurant is popular with locals and the bar is a lively start to the night. </li>
+<li>This achingly chic hotel in Manhattan&rsquo;s SoHo/Nolita district attracts celebrities and design addicts alike with its cool interiors by Kit Kemp. Despite the enviable location<a href="/hotel/crosby-street-hotel-new-york" target="_blank"> Crosby Street Hotel</a> is on a quiet street so you can leave the city chaos behind. </li>
+</ul>
+<h2>For something unusual - Wall Street</h2>
+<ul>
+<li>The <a href="/hotel/andaz-wall-street-new-york">Andaz, Wall Street</a>, is the only hotel on Wall Street. It may also be the only hotel in the world which used to be a Barclays Bank. They've renovated with clever, innovative design - think sharp shiny edges in warm colours - it has an excellent spa.</li>
+<li><a href="/hotel/paper-factory-new-york" target="_blank">Paper Factory</a> is a quirky and unusual hotel in Long Island city styled as industrial-chic; a modern renovation of a paper factory. The spacious rooms pay homage to the historic industrial architecture whilst featuring upscale and antique furnishings.</li>
+<li><a href="/hotel/archer-new-york-new-york" target="_blank">Archer New York</a> blends downtown-style brick walls and industrial spaces with uptown decorative influences, located in the Garment District just a mile from Times Square. The modern rooms are chic and delicately decorated and the rooftop bar Spyglass offers irresistible panoramic views.</li>
+</ul>
+<h2>For value</h2>
+<ul>
+<li><a href="/hotel/citizenm-new-york-new-york">citizenM New York</a> offers the usual luxury for less that you've come to expect from their brand. Compact rooms boast wall to wall windows, and there's a rooftop bar for panoramic views across the city.</li>
+</ul>
+<h2>For an eco stay</h2>
+<ul>
+<li><a href="/hotel/1-hotel-brooklyn-bridge-new-york" target="_blank">1 Hotel Brooklyn Bridge</a> offers contemporary designer accommodation, right beside the famed Brooklyn Bridge Promenade. Think chic wooden furnishings, warm hues and superb views of the area. Kick back and enjoy a movie in the screening room after a busy day sightseeing. A perfect Eco break!</li>
+</ul>
+<ul>
+</ul>
+<h2>For an apartment or flat</h2>
+<ul>
+<li>For those keen on some additional privacy, explore the private apartment options available at our online partner <a href="https://www.booking.com/searchresults.en-gb.html?ss=New+York,+United+States+of+America&amp;unchecked_filter=hoteltype&amp;nflt=ht_id=201;ht_id=220;ht_id=213;&amp;aid=333214" target="_blank">Booking.com</a>.</li>
+</ul>
+<ul>
+</ul>
+<h2>Travel information</h2>
+<ul>
+<li>Fly to any of the three well connected airports: John F. Kennedy International Airport, Newark Liberty International Airport and LaGuardia Airport (serving domestic flights).</li>
+<li>New York is a year round destination with four distinct seasons. Summers get very hot, winters extremely cold, while spring and autumn are moderate. Perhaps Autumn or 'fall' is one of the most beautiful seasons.</li>
+</ul>
+<ul>
+<li>If you plan to hire a car, we recommend you visit our online partner <a href="/car-hire">Rentalcars</a>.</li>
+</ul>
+<h2>Still not sure?</h2>
+<ol>
+<li>Browse through our list of all the <a href="/search?loc=&amp;locname=New+York">best places to stay in New York</a>.</li>
+<li>Refine your search to the <a href="/best-hotels/united-states-of-america/new-york-midtown-and-uptown">best Midtown and Uptown Manhattan hotels</a>.</li>
+<li>Or the <a href="/best-hotels/united-states-of-america/new-york-downtown">best Manhattan Hotels</a>.</li>
+<li>For some personal travel advice, <a href="/advice-and-booking/enquire">contact</a> one of our friendly Gurus for advice.</li>
+</ol>
+</div>
+</div>
+<div class="hotelDesc hotelLimit" id="best">
+<h3>Best Hotels in New York</h3>
+</div>
+<div class="innerText">
+<ul class="hotels" id="hotels">
+<li class="hotel" id="hotel-49223" data-hotel-id="49223">
+<div class="imgWrap">
+<a href="/hotel/paper-factory-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/a3/75/a375faed3fbe1713249e1d8fec2e4031/s440x294.jpg" alt="Paper Factory">
+<br /><a href="/hotel/paper-factory-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/paper-factory-new-york" class="hotel-link">Paper Factory</a>
+<span class="roomsInfo">
+123 rooms
+from <b>£100</b>
+</span>
+ </h3>
+<span class="location">New York (Long Island City)</span>
+<div class="desc">
+<p>Quirky and unusual hotel in Long Island city styled as industrial-chic; a modern renovation of a paper factory. The spacious rooms pay homage to the historic industrial architecture whilst featuring upscale and antique furnishings. Mundo serves exotic food, and all communal areas are characterful.</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;A little off the beaten track, offering the perfect urban retreat, but well connected to the sights of NYC.</div><div><b>Architectural</b>&nbsp;&nbsp;-&nbsp;&nbsp;100-year old paper factory with some original architecture retained and trendy brick and stone walls.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in a 100-year-old paper factory, lovingly restored, salvaging flooring and furniture.</div><div><b>Value chic</b></div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=49223" data-hotel-id="49223" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-49293" data-hotel-id="49293">
+<div class="imgWrap">
+<a href="/hotel/city-club-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/ac/2f/ac2fb0ba0e22737c35497b6740b3ecd1/s440x294.jpg" alt="City Club Hotel">
+<br /><a href="/hotel/city-club-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/city-club-hotel-new-york" class="hotel-link">City Club Hotel</a>
+<span class="roomsInfo">
+65 rooms
+from <b>£123</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Impressive former gentleman's club preserving the glamour and style as a hotel just minutes from Times Square and Broadway. The subtly luxurious decor of the bedrooms exudes warmth and class, and award-winning chef Daniel Boulud serves up a coveted menu of French-American dishes in the restaurant.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Former gentleman's club turned into chic hotel in fantastically central location with award-winning cuisine from Daniel Boulud.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;3 blocks from Times Square, half a mile from the Rockefeller Centre and close to shops like Tiffany &amp; Co, Prada and Apple</div><div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;Daniel Boulud's coveted cuisine has Manhattan's fastidious foodies queuing to try it.</div><div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;I Escape</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=49293" data-hotel-id="49293" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-488" data-hotel-id="488">
+<div class="imgWrap">
+<a href="/hotel/the-harlem-flophouse-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/29/e1/29e106e5fa7fe26fb70521f4723a0821/s440x294.jpg" alt="The Harlem Flophouse">
+<br /><a href="/hotel/the-harlem-flophouse-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-harlem-flophouse-new-york" class="hotel-link">The Harlem Flophouse</a>
+<span class="roomsInfo">
+5 rooms
+from <b>£96</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Lovingly restored B&amp;B in Harlem. Cosy rooms with wooden floor boards and fireplaces. A beautiful brownstone building in one of the city’s most culturally vibrant areas. An arty city spot for the young traveller.</p>
+<div><b>Child friendly</b>&nbsp;&nbsp;-&nbsp;&nbsp;Children under 12 years of age are free.</div><div><b>Historic</b>&nbsp;&nbsp;-&nbsp;&nbsp;Fully renovated prewar building</div><div><b>City Style</b></div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Good for walkers.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=488" data-hotel-id="488" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48763" data-hotel-id="48763">
+<div class="imgWrap">
+<a href="/hotel/westhouse-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/48/dd/48dd4124eddac9ebf43bb9162f64e531/s440x294.jpg" alt="WestHouse Hotel">
+<br /><a href="/hotel/westhouse-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/westhouse-hotel-new-york" class="hotel-link">WestHouse Hotel</a>
+<span class="roomsInfo">
+172 rooms
+from <b>£128</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Exclusive hotel in a fantastic location, a few minutes from Times Square and Central Park. Channeling rich 1920s glamour with a touch of Art Deco, it boasts crystal chandeliers and polished wooden floors. Designer decor in the rooms, a vintage speakeasy bar, and al fresco dining on the 23rd floor.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Beautiful rooftop terrace, exclusive lounge and bar, and an award-winning concierge skilled at building specialised itineries.</div><div><b>Families</b>&nbsp;&nbsp;-&nbsp;&nbsp;A number of rooms are available that cater for children: double and connecting rooms which also provide childrens bathrobes.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in Midtown Manhattan, an 8-minute walk from Times Square, and 3-minutes from Central Park.</div><div><b>Designer</b>&nbsp;&nbsp;-&nbsp;&nbsp;Uniquely designed interiors.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet, Small Luxury Hotels</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48763" data-hotel-id="48763" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-49183" data-hotel-id="49183">
+<div class="imgWrap">
+<a href="/hotel/archer-new-york-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/dd/0b/dd0b908a5365ccc95a237d66f98cf621/s440x294.jpg" alt="Archer New York">
+<br /><a href="/hotel/archer-new-york-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/archer-new-york-new-york" class="hotel-link">Archer New York</a>
+<span class="roomsInfo">
+180 rooms
+from <b>£140</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Quirky hotel blending downtown-style brick walls and industrial spaces with uptown decorative influences, located in the Garment District just a mile from Times Square. The modern rooms are chic and delicately decorated, and the rooftop bar Spyglass offers irresistible panoramic views.</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Just over a mile from Times Square, 5 minutes from Bryant Park and close to popular shops such as Tiffany &amp; Co, Prada and Apple.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Glamorous 22-story hotel in the heart of the Garment District with quirky, curated luxuries and decoration.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;The bar on the 21st floor has fantastic views of the Chrysler and Empire State Buildings.</div><div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=49183" data-hotel-id="49183" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48883" data-hotel-id="48883">
+<div class="imgWrap">
+<a href="/hotel/the-marlton-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/34/65/34656c1d9bdcb7018f38109a8617e6b1/s440x294.jpg" alt="The Marlton">
+<br /><a href="/hotel/the-marlton-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-marlton-new-york" class="hotel-link">The Marlton</a>
+<span class="roomsInfo">
+107 rooms
+from <b>£144</b>
+</span>
+</h3>
+<span class="location">New York (Greenwich Village)</span>
+<div class="desc">
+<p>Atmospheric hotel with 'chic petite' rooms all featuring parquet floors, brass fixtures and marble bathrooms, located in the heart of Greenwich Village. Rich oak-panelled walls and elaborately furnished dining rooms and bars all contribute to its warm, romantic and characterful aesthetic.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A cocktail bar, an espresso bar, and the Margaux all in a restored historic building, previously frequented by great names.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in the heart of Greenwich Village, a lively area with plenty to do and see.</div><div><b>Full of character</b></div><div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48883" data-hotel-id="48883" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-49313" data-hotel-id="49313">
+<div class="imgWrap">
+<a href="/hotel/the-inn-at-irving-place-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/78/9e/789e3a538f343fcbc596abc7e6276141/s440x294.jpg" alt="The Inn at Irving Place">
+<br /><a href="/hotel/the-inn-at-irving-place-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-inn-at-irving-place-new-york" class="hotel-link">The Inn at Irving Place</a>
+<span class="roomsInfo">
+12 rooms
+from <b>£150</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Uniquely authentic inn, a conversion of two 1830s brownstone townhouses in the quiet Gramercy neighbourhood. The hotel is exquisitely decorated with antique furnishings and cherrywood floors, and the charming Tea Rooms serve delectable afternoon teas amid grand Victorian-style architecture.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;An authentic snapshot of an entirely different era, far from the shiny modern glamour of the big NYC hotels</div><div><b>Hideaway</b>&nbsp;&nbsp;-&nbsp;&nbsp;As much as you can hideaway in NYC, this is the perfect option. An unique, intimate hotel in a quiet but central neighbourhood.</div><div><b>Full of character</b></div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Small Luxury Hotels</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=49313" data-hotel-id="49313" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-49303" data-hotel-id="49303">
+<div class="imgWrap">
+<a href="/hotel/room-mate-grace-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/59/ec/59ec9d3df00a823cca9301bfdad5fe31/s440x294.jpg" alt="Room Mate Grace">
+<br /><a href="/hotel/room-mate-grace-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/room-mate-grace-new-york" class="hotel-link">Room Mate Grace</a>
+<span class="roomsInfo">
+139 rooms
+from <b>£159</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Funky and lively hotel just minutes from Times Square with a colourfully illuminated indoor pool with underwater music and a swim-up bar. The modest, modern rooms are brought to life by vibrant Jonathan Adler wallpaper, and great spa facilities are available (sauna, steam room, gym, pool, massages).</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Minutes from Times Square, Bryant Park, Rockefeller Centre and the Museum of Modern Art, as well as great brand shops.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;1970s inspired hotel minutes from Times Square with an indoor pool and bar, and brightly coloured retro rooms.</div><div><b>Swimming Pool</b>&nbsp;&nbsp;-&nbsp;&nbsp;A large, funky indoor pool with colourful light shows, underwater music, a swim-up bar and groovy seating area.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;I Escape</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=49303" data-hotel-id="49303" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-47043" data-hotel-id="47043">
+<div class="imgWrap">
+<a href="/hotel/mave-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/3e/03/3e039665b49bf174643d77c5bfdaea71/s440x294.jpg" alt="MAve">
+<br /><a href="/hotel/mave-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/mave-new-york" class="hotel-link">MAve</a>
+<span class="roomsInfo">
+72 rooms
+from <b>£122</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Ideally situated in the bustling Flatiron District, this sleek 72-room hotel is a stylish urban retreat with high-ceilinged neutral rooms and larger-than-expected bathrooms.</p>
+<div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div><div><b>Designer</b>&nbsp;&nbsp;-&nbsp;&nbsp;Uniquely designed interiors.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Well located for major sights.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=47043" data-hotel-id="47043" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48753" data-hotel-id="48753">
+<div class="imgWrap">
+<a href="/hotel/the-roger-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/8a/76/8a76dc83967102b9114f5ab917a9c501/s440x294.jpg" alt="The Roger">
+<br /><a href="/hotel/the-roger-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-roger-new-york" class="hotel-link">The Roger</a>
+<span class="roomsInfo">
+194 rooms
+from <b>£159</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Stylish, recently renovated hotel with contemporary and elegant designer furnishings &amp; a fantastic location on Madison Ave. Many rooms have stunning views of the Empire State Building and private furnished terraces. Colourful, bright, and buzzy this hotel is perfect for a cool city break.</p>
+<div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;On the edge of Madison Square Park and the Flatiron District, which feature plenty of high-end restaurants and stylish bars.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;A little off the beaten track but well connected to the major tourist sites and buzzing with local offerings.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Some rooms with terraces have breath-taking views across Manhattan.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A landmark location on Manhattan's Madison Avenue.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48753" data-hotel-id="48753" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48923" data-hotel-id="48923">
+<div class="imgWrap">
+<a href="/hotel/hotel-chandler-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/9e/09/9e09012dc2762af76d972f4969aca1b1/s440x294.jpg" alt="Hotel Chandler">
+<br /><a href="/hotel/hotel-chandler-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/hotel-chandler-new-york" class="hotel-link">Hotel Chandler</a>
+<span class="roomsInfo">
+148 rooms
+from <b>£160</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Cosy and colourful hotel with modern and elegant bedrooms and suites centrally located minutes from the Empire State Building. With one of the best Michelin-rated restaurants in NYC, an equally brilliant bar and a sophisticated library space, this hotel offers a tasteful oasis in its ideal location.</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;A Flatiron District hotel in the epicentre of New York City, near the Empire State Building and 5th Avenue, it's ideally located</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A Michelin-starred restaurant, an elegant library and stylish rooms, ideally located near the Empire State Building.</div><div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;Juni is a Michelin-starred restaurant that will tease the taste-buds of any foodies exploring New York City.</div><div><b>Four poster beds</b>&nbsp;&nbsp;-&nbsp;&nbsp;Chandler suites have modern four-poster beds.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Small Luxury Hotels, Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48923" data-hotel-id="48923" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48903" data-hotel-id="48903">
+<div class="imgWrap">
+<a href="/hotel/the-high-line-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/19/64/1964a5544ccdfd220f85a19bbd383fe1/s440x294.jpg" alt="The High Line Hotel">
+<br /><a href="/hotel/the-high-line-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-high-line-hotel-new-york" class="hotel-link">The High Line Hotel</a>
+<span class="roomsInfo">
+60 rooms
+from <b>£162</b>
+</span>
+</h3>
+<span class="location">New York (Chelsea)</span>
+<div class="desc">
+<p>Unusual and grand hotel with rich vintage interiors matching the red-brick Gothic architecture. Hardwood floors pave the spacious, light-filled, colourful rooms, and a terrace and garden provide the perfect oasis. The breathtaking Hoffman Hall reception room is also a show-stopping events space.</p>
+<div><b>Groups</b>&nbsp;&nbsp;-&nbsp;&nbsp;Spacious and beautiful events rooms perfect for receptions, galas, weddings, screenings, presentations, art shows, and much more</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;On the High Line, a 1 min walk from the High Line Park and 6 minutes from Chelsea market, it is well placed for any explorer.</div><div><b>Business meetings</b>&nbsp;&nbsp;-&nbsp;&nbsp;Plenty of fantastic and unusual meeting and conference rooms and an expert meetings and events team.</div><div><b>City Style</b></div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48903" data-hotel-id="48903" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48913" data-hotel-id="48913">
+<div class="imgWrap">
+<a href="/hotel/walker-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/50/d8/50d8fef332c92ca167f9e4483084c001/s440x294.jpg" alt="Walker Hotel">
+<br /><a href="/hotel/walker-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/walker-hotel-new-york" class="hotel-link">Walker Hotel</a>
+<span class="roomsInfo">
+113 rooms
+from <b>£165</b>
+</span>
+</h3>
+<span class="location">New York (Greenwich Village)</span>
+<div class="desc">
+<p>Elegant hotel nestled in the heart of Greenwich Village, with vintage 1920s-inspired decor. The rooms feature luxurious leather chairs, richly coloured fabrics and retro rotary phones. A Parisian-style bistro and bar with a carefully selected wine list add to the atmosphere of sleekness and warmth.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Furnished with 1920s-inspired decor with a beautiful Parisian bistro-style lounge and bar in the heart of Greenwich Village.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;An easy walk from Washington Square and Little Italy, and a few yards from bustling 6th Avenue.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views from hotel</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48913" data-hotel-id="48913" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48793" data-hotel-id="48793">
+<div class="imgWrap">
+<a href="/hotel/mccarren-hotel-pool-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/29/0e/290eac02457b39cc214d7e698fa1b091/s440x294.jpg" alt="McCarren Hotel &amp; Pool">
+<br /><a href="/hotel/mccarren-hotel-pool-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/mccarren-hotel-pool-new-york" class="hotel-link">McCarren Hotel &amp; Pool</a>
+<span class="roomsInfo">
+64 rooms
+from <b>£168</b>
+</span>
+</h3>
+<span class="location">New York (Brooklyn)</span>
+<div class="desc">
+<p>Modern urban retreat renowned for its outdoor saltwater pool, one of the largest in New York City, overlooking leafy McCarren Park. Stylish, clean and modern rooms, an elegant rooftop terrace offering spectacular views of the Manhattan skyline, and the new restaurant boasts a Michelin-star chef. </p>
+<div><b>Active Holiday</b>&nbsp;&nbsp;-&nbsp;&nbsp;With complimentary bicycles and one of the largest outdoor swimming pools in NYC, a great spot for an active city holiday.</div><div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;Oleanders is a beautifully designed restaurant serving delicious food from a Michelin-starred chef.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in Brooklyn, next to the McCarren Park, and well-connected to all the sights of Manhattan.</div><div><b>Swimming Pool</b>&nbsp;&nbsp;-&nbsp;&nbsp;Salt water pool, one of the largest outdoor swimming pools in NY City, 4,800 sq. ft. deck space, the perfect urban retreat.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Mr &amp; Mrs Smith</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48793" data-hotel-id="48793" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-49153" data-hotel-id="49153">
+<div class="imgWrap">
+<a href="/hotel/gansevoort-meatpacking-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/9a/04/9a04402e02f012dc27414ede237968b1/s440x294.jpg" alt="Gansevoort Meatpacking">
+<br /><a href="/hotel/gansevoort-meatpacking-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/gansevoort-meatpacking-new-york" class="hotel-link">Gansevoort Meatpacking</a>
+<span class="roomsInfo">
+186 rooms
+from <b>£174</b>
+</span>
+</h3>
+<span class="location">New York (Greenwich Village)</span>
+<div class="desc">
+<p>Vibrant hotel in the Meatpacking District complete with relaxing spa, salon, pool and lively nightlife. The rooftop pool and bar terrace offer spectacular 360-degree views, and each stylishly decorated modern room has large windows and high ceilings. The Chester bistro also serves a delicious menu.</p>
+<div><b>Groups</b>&nbsp;&nbsp;-&nbsp;&nbsp;The Meatpacking District is renowned for its nightlife: Gansevoort's bar and nightclub draw revelers from all over the city.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;The Meatpacking District is hedonistic and lively, offering fantastic shopping by day, and devilish entertainment by night.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;250 yards from High line Park, 500 yards from Chelsea Market, and well-connected to the sites of NYC.</div><div><b>Spa breaks</b>&nbsp;&nbsp;-&nbsp;&nbsp;The Exhale Fitness + Spa, provides the perfect opportunity for a relaxing spa break.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=49153" data-hotel-id="49153" data-behavior="CheckOnlineRatesAll">Check prices</a>
+ <span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48953" data-hotel-id="48953">
+<div class="imgWrap">
+<a href="/hotel/gild-hall-a-thompson-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/dc/cf/dccf45427303d699790e196dbda833e1/s440x294.jpg" alt="Gild Hall, A Thompson Hotel">
+<br /><a href="/hotel/gild-hall-a-thompson-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/gild-hall-a-thompson-hotel-new-york" class="hotel-link">Gild Hall, A Thompson Hotel</a>
+<span class="roomsInfo">
+126 rooms
+from <b>£137</b>
+</span>
+</h3>
+<span class="location">New York (Wall Street- Financial District)</span>
+<div class="desc">
+<p>Characterful hotel with a fantastic location next to Wall Street. The rooms are decorated with strong, dark and stylish features that complement the sleek aesthetic in the communal areas - such as the sophisticated split-level library, rustic-glam bar and restaurant - adding to the air of luxury.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;This stylish hotel has a fantastic wine selection at La Soffitta, authentic Italian cuisine, and a split level library.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located on historic Gold Street in the Financial District, a few hundred yards from Wall Street.</div><div><b>Outstanding location</b></div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Well located for major sights.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48953" data-hotel-id="48953" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48743" data-hotel-id="48743">
+<div class="imgWrap">
+<a href="/hotel/hotel-hugo-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/bb/0a/bb0a4a289fce4ee748981448a41f8541/s440x294.jpg" alt="Hotel Hugo">
+<br /><a href="/hotel/hotel-hugo-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/hotel-hugo-new-york" class="hotel-link">Hotel Hugo</a>
+<span class="roomsInfo">
+122 rooms
+from <b>£180</b>
+</span>
+</h3>
+<span class="location">New York (Soho)</span>
+<div class="desc">
+<p>Retro hotel decorated with custom-made Italian furnishings, designed by renowned architect Marcello Pozzi, located on the edge of the bustling shopping district of Soho. Brilliant views of the Hudson river and downtown skyline &amp; a double-level rooftop bar. Stylish, sophisticated and spacious rooms.</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Times Square, Central Park and Broadway are all only a few miles away and the Hudson is even closer: perfect for local exploring</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in SoHo, NYC's downtown shopping district with plenty of designer brands, and 2.4 miles from Times Square.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Deluxe rooms on the West side of the buiding have brilliant views of the Hudson River, as does the roof terrace.</div><div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48743" data-hotel-id="48743" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48943" data-hotel-id="48943">
+<div class="imgWrap">
+<a href="/hotel/the-london-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/fb/a1/fba1fa739e06c2d06d6082d17add0101/s440x294.jpg" alt="The London, New York">
+<br /><a href="/hotel/the-london-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-london-new-york" class="hotel-link">The London, New York</a>
+<span class="roomsInfo">
+561 rooms
+from <b>£193</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Grand hotel in prime location a few minutes from Central Park. Stylish, modern and understated, the rooms are spacious and the suites are expansive. The addition of the Gordon Ramsay, a sophisticated creation of the Michelin-starred chef, enhances the luxurious aspect of this hotel.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located a 5 minute walk from Central Park of which many rooms have great views, and 7 minutes from the shopping on 5th Avenue.</div><div><b>Business meetings</b>&nbsp;&nbsp;-&nbsp;&nbsp;Sophisticated meeting/ event rooms for up to 200 guests, state-of-the-art technology and award-winning event specialists</div><div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;Gordon Ramsay's fantastic and coveted restaurant is a major draw for any guest.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views from hotel</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48943" data-hotel-id="48943" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48983" data-hotel-id="48983">
+<div class="imgWrap">
+<a href="/hotel/citizenm-new-york-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/d5/d8/d5d81da682ff77052367e7b673ab47d1/s440x294.jpg" alt="CitizenM New York">
+<br /><a href="/hotel/citizenm-new-york-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/citizenm-new-york-new-york" class="hotel-link">CitizenM New York</a>
+<span class="roomsInfo">
+229 rooms
+from <b>£148</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Innovative and modern hotel in the heart of Manhattan, 1 minute from Times Square. It prioritises experience and value: bright, cosy, clean rooms, all with wall-to-wall windows to immerse the guest in the bustle of NYC at a reasonable price. A panoramic rooftop bar also provides spectacular views.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the heart of Manhattan, a few minutes from Times Square and Central Park, and rooms have wall-to-wall windows for great views</div><div><b>Value chic</b>&nbsp;&nbsp;-&nbsp;&nbsp;The hotel is modern, chic, and at the epicentre of NYC, but strives to provide the most reasonable prices.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located so centrally, this hotel is perfect for anyone wanting to explore New York from its very heart.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;The 360 degree views from the panoramic rooftop bar are truly spectacular.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48983" data-hotel-id="48983" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-486" data-hotel-id="486">
+<div class="imgWrap">
+<a href="/hotel/washington-square-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/65/ab/65ab97aaec9df0e64b382e0eee617581/s440x294.jpg" alt="Washington Square Hotel">
+<br /><a href="/hotel/washington-square-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/washington-square-hotel-new-york" class="hotel-link">Washington Square Hotel</a>
+<span class="roomsInfo">
+150 rooms
+from <b>£194</b>
+</span>
+</h3>
+<span class="location">New York Downtown</span>
+<div class="desc">
+<p>An historic 1902 residence turned hotel in Greenwich Village. Art-deco style furnishings and dark mahoganies make up the subtly lit rooms. Here it's all about the prime location right on the corner of Washington Square Park. </p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Right in Greenwich Village, this is an ideal spot for exploring Manhattan by foot.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Check out the streets of China Town, packed with stalls and shops of every description.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;All within a few minutes walk are Madison Square Gardens and Little Italy.</div><div><b>Outstanding location</b>&nbsp;&nbsp;-&nbsp;&nbsp;On the edge of Washington Square Park.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Frommers</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=486" data-hotel-id="486" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-49243" data-hotel-id="49243">
+<div class="imgWrap">
+<a href="/hotel/hotel-on-rivington-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/04/72/047213fcf8a25df6fe6afa4b655e9d01/s440x294.jpg" alt="Hotel on Rivington">
+<br /><a href="/hotel/hotel-on-rivington-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/hotel-on-rivington-new-york" class="hotel-link">Hotel on Rivington</a>
+<span class="roomsInfo">
+110 rooms
+from <b>£206</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Youthful and modern hotel on the trendy Lower East Side, located near Wall Street and the World Trade Centre. The bright rooms feature floor-to-ceiling windows with spectacular views and sleek furnishings. The restaurant blends American brasserie with sushi and adds to the liveliness of the hotel.</p>
+<div><b>Weddings</b>&nbsp;&nbsp;-&nbsp;&nbsp;The Penthouse is a premier event space in NYC, with floor-to-ceiling glass, 3000 sq ft across three levels and panoramic views.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;5 minutes from Little Italy, and close to SoHo, Tribeca and Chinatown, with Ground Zero and Wall Street both 1 mile away.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A youthful and hip hotel with spectacular views of the Financial District and the downtown bridges.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views from hotel</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=49243" data-hotel-id="49243" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-482" data-hotel-id="482">
+<div class="imgWrap">
+<a href="/hotel/hotel-elysee-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/a7/0d/a70de5b43e68470c5743e2d74e61ced1/s440x294.jpg" alt="Hotel Elysee">
+<br /><a href="/hotel/hotel-elysee-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/hotel-elysee-new-york" class="hotel-link">Hotel Elysee</a>
+<span class="roomsInfo">
+100 rooms
+from <b>£164</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>The Elysee, formerly a host to Manhattan's literary elite, has retained its iconic old world charm. The suites feature French style furnishings, rich fabrics and plush carpets. The Monkey Bar has become one of Midtown's most iconic and hip bars. Classy, elegant and intimate.</p>
+<div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Central Park is under ten minutes from the hotel with plenty of trails for walking, running and cycling.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Opulent</b></div><div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Frommers</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=482" data-hotel-id="482" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-690" data-hotel-id="690">
+<div class="imgWrap">
+<a href="/hotel/library-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/f3/63/f363bc808ae47070e7ae441c8ab00151/s440x294.jpg" alt="Library Hotel, New York">
+<br /><a href="/hotel/library-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/library-hotel-new-york" class="hotel-link">Library Hotel, New York</a>
+<span class="roomsInfo">
+60 rooms
+from <b>£178</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>A book-lovers' paradise between Grand Central and Bryant Park. Literary themed rooms and writer's den. The rooftop bar and poetry garden offer excellent cocktails and city views. Complimentary continental breakfast is served in the Reading Room. A truly unique place to absorb art and culture.</p>
+<div><b>Theme hotel</b>&nbsp;&nbsp;-&nbsp;&nbsp;Floors are themed around a category of the Dewey Decimal system</div><div><b>Writing a novel</b>&nbsp;&nbsp;-&nbsp;&nbsp;A literary-themed hotel with library and poetry garden</div><div><b>Literary</b>&nbsp;&nbsp;-&nbsp;&nbsp;The free public library is within walking distance</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Contemporary comfort in the heart of the city</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Fodors, Frommers</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=690" data-hotel-id="690" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-480" data-hotel-id="480">
+<div class="imgWrap">
+<a href="/hotel/casablanca-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/6e/22/6e227289f2524db481543c3056890801/s440x294.jpg" alt="Casablanca Hotel">
+<br /><a href="/hotel/casablanca-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/casablanca-hotel-new-york" class="hotel-link">Casablanca Hotel</a>
+<span class="roomsInfo">
+48 rooms
+from <b>£183</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>An individual and stylish hotel just steps from Times Square. The funky Moroccan themed rooms and opulent old school bars featuring live piano sets, will transport you to another time. A warm and welcoming spot in an enviable location - perfect for a charming city stay.</p>
+<div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located just a few steps from Times Square and Rockefeller Center.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Bryant Park is just a seven minute walk away from the hotel.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Full of character</b></div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Fodors, Frommers</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=480" data-hotel-id="480" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-17873" data-hotel-id="17873">
+<div class="imgWrap">
+<a href="/hotel/hotel-americano-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/d5/ee/d5eee5a915c726144953411318e43c11/s440x294.jpg" alt="Hotel Americano">
+<br /><a href="/hotel/hotel-americano-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/hotel-americano-new-york" class="hotel-link">Hotel Americano</a>
+<span class="roomsInfo">
+56 rooms
+from <b>£188</b>
+</span>
+</h3>
+<span class="location">New York (Chelsea)</span>
+<div class="desc">
+<p>New York based award-wining Mexican architect Enriques Norten designed the ultra stylish Hotel Americano in Manhattan's Chelsea District. Three types of uber cool urban bedrooms offered with natural materials, warm lighting, some with hot tubs &amp; fireplaces. Roof terrace with grill and outdoor patio</p>
+<div><b>Restaurant</b>&nbsp;&nbsp;-&nbsp;&nbsp;Super Trendy and contempoary restaruant serving French and Latin American cuisine</div><div><b>Shops</b>&nbsp;&nbsp;-&nbsp;&nbsp;Chelsea's art galleries, Chelsea Market and boutiques all close by</div><div><b>Roof terrace</b>&nbsp;&nbsp;-&nbsp;&nbsp;Stunning terrace with grill and city views</div><div><b>Wifi</b></div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=17873" data-hotel-id="17873" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-483" data-hotel-id="483">
+<div class="imgWrap">
+<a href="/hotel/hotel-giraffe-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/b4/0f/b40fdcccf9e12c058f9aa1ad3a38db81/s440x294.jpg" alt="Hotel Giraffe">
+<br /><a href="/hotel/hotel-giraffe-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/hotel-giraffe-new-york" class="hotel-link">Hotel Giraffe</a>
+<span class="roomsInfo">
+72 rooms
+from <b>£193</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Luxurious boutique hotel with outstanding service. Rooms in neutral tones ooze understated elegance - chocolate leather headboards and pearlized platinum walls. Complimentary breakfasts and complimentary wine and cheese every evening except Sunday. A hotel with sophistication and urban style. </p>
+<div><b>Roof terrace</b>&nbsp;&nbsp;-&nbsp;&nbsp;Rooftop restaurant.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;The Empire State Building is only eight blocks away, and commands views of the whole of New York.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Explore this hip area on foot, there is no better way to take in the sights!</div><div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=483" data-hotel-id="483" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+ <div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-83543" data-hotel-id="83543">
+<div class="imgWrap">
+<a href="/hotel/dream-downtown-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/88/1b/881b14875d28ca720da60b99fb54afe1/s440x294.jpg" alt="Dream Downtown">
+<br /><a href="/hotel/dream-downtown-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/dream-downtown-new-york" class="hotel-link">Dream Downtown</a>
+<span class="roomsInfo">
+316 rooms
+from <b>£198</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>A trendy hotel in an enviable locality near both Chelsea and the Meatpacking district. Enormous rooms are industrial in feel with large portal windows, metallic walls and tiled floors. The rooftop hosts a glorious pool whilst downstairs you'll find two exclusive nightclubs. A lively spot.</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;An uber trendy hotel (complete with rooftop pool) well located for accessing the Chelsea and Meatpacking districts.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Situated close to Union Square, Ground Zero and Madison Square Garden.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Swimming Pool</b>&nbsp;&nbsp;-&nbsp;&nbsp;Indoor/outdoor</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=83543" data-hotel-id="83543" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-33823" data-hotel-id="33823">
+<div class="imgWrap">
+<a href="/hotel/ace-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/22/4b/224bc8df31df4de37c1a4b7b57c2ab31/s440x294.jpg" alt="Ace Hotel">
+<br /><a href="/hotel/ace-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/ace-hotel-new-york" class="hotel-link">Ace Hotel</a>
+<span class="roomsInfo">
+258 rooms
+from <b>£199</b>
+</span>
+</h3>
+<span class="location">New York (Manhattan)</span>
+<div class="desc">
+<p>Eclectic designer hotel in central Manhattan. Rooms are filled with contemporary and vintage pieces, modern bathrooms and quirky extras. Sublime food in both restaurants, very cool bar. Gym, art gallery and shop inside hotel. Excellent, friendly service, in this great city hotel. </p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Eclectic hotel with vintage and retro pieces is in very central Manhattan, and with extremely knowledgable staff</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;In neighbouring boroughs Brooklyn and Queens; hotel can advise</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Empire State Building, Times Square, Madison Avenue</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Up to Madison Square Park and Central Park</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Fodors, Mr &amp; Mrs Smith</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=33823" data-hotel-id="33823" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-571" data-hotel-id="571">
+<div class="imgWrap">
+<a href="/hotel/dream-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/0c/9a/0c9a2ff12fd411853cf43c49764e6a91/s440x294.jpg" alt="Dream Hotel">
+<br /><a href="/hotel/dream-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/dream-hotel-new-york" class="hotel-link">Dream Hotel</a>
+<span class="roomsInfo">
+210 rooms
+from <b>£203</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>A modern hotel with quirky touches - perfectly located for a Manhattan getaway. A variety of smartly decorated bedrooms and a guesthouse suite. Cool night club spot on the roof top terrace with panoramic views of Times Square and a popular cocktail bar. A lively destination. </p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the heart of New York - the city, broadway especially, is on your doorstep</div><div><b>Families</b>&nbsp;&nbsp;-&nbsp;&nbsp;Children under 17 staying in parents room stay free.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Central Park closeby</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Times Square</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=571" data-hotel-id="571" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48773" data-hotel-id="48773">
+<div class="imgWrap">
+<a href="/hotel/the-ludlow-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/8f/5e/8f5e565b9481510bca78594a709df851/s440x294.jpg" alt="The Ludlow">
+<br /><a href="/hotel/the-ludlow-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-ludlow-new-york" class="hotel-link">The Ludlow</a>
+<span class="roomsInfo">
+184 rooms
+from <b>£266</b>
+</span>
+</h3>
+<span class="location">New York (Lower East Side)</span>
+<div class="desc">
+<p>Stylish hotel with a touch of the avant garde in the trendy Lower East Side. Large casement windows flood natural light into the rooms furnished with vintage items such as handmade silk rugs and Moroccan lamps. It also features a trellised garden bar, cosy lounge and authentic French bistro.</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;The Lower East Side neighbourhood of Manhattan is the perfect choice for anyone interested in nightlife and restaurants.</div><div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;Dirty French is a recent offering from the Major Food Group, and promises an exciting twist on classic French cuisine.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Close to the shopping in SoHo and the landmark Brooklyn Bridge, and offering spectacular views of the iconic skyline.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views from hotel</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48773" data-hotel-id="48773" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-48783" data-hotel-id="48783">
+<div class="imgWrap">
+<a href="/hotel/smyth-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/06/9a/069a9e0e505949728d80d8b0c7bfb5b1/s440x294.jpg" alt="Smyth Hotel">
+<br /><a href="/hotel/smyth-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/smyth-hotel-new-york" class="hotel-link">Smyth Hotel</a>
+<span class="roomsInfo">
+100 rooms
+from <b>£211</b>
+</span>
+</h3>
+<span class="location">New York (Tribeca)</span>
+<div class="desc">
+<p>Sleek hotel located in the fashionable Tribeca neighbourhood with spacious, modern and richly colourful rooms styled to evoke 1960s glamour. The hotel also boasts an authentic and characterful den bar, a lively seasonal restaurant, Danish-modern furnishings and art sourced from local galleries.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Carefully and stylishly furnished to evoke 1960s glamour, with an intimate den bar, and located in a lively neighbourhood.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in lively Tribeca neighbourhood, less than 1 mile away from the Brooklyn Bridge.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;The rooms on the higher floors boast fantastic views of the cityscape.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Mr &amp; Mrs Smith</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=48783" data-hotel-id="48783" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-30733" data-hotel-id="30733">
+<div class="imgWrap">
+<a href="/hotel/wythe-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/cb/72/cb72582b5930b3361a98dceead73d621/s440x294.jpg" alt="Wythe Hotel">
+<br /><a href="/hotel/wythe-hotel-new-york" class="hotel-link">See more photos</a>
+ </a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/wythe-hotel-new-york" class="hotel-link">Wythe Hotel</a>
+<span class="roomsInfo">
+70 rooms
+from <b>£230</b>
+</span>
+</h3>
+<span class="location">New York (N. 11th Williamsburg)</span>
+<div class="desc">
+<p>Fashionable hotel in old industrial building offers spacious, well-equipped rooms. Brooklyn location, modern art on the walls and general décor makes this a hotel perfect for modern, stylish New York experience. Restaurant and bar in the building complement this contemporary feel.</p>
+<div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;30 min' subway ride to main NYC attractions.</div><div><b>Quirky</b>&nbsp;&nbsp;-&nbsp;&nbsp;An experience!</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=30733" data-hotel-id="30733" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-3013" data-hotel-id="3013">
+<div class="imgWrap">
+<a href="/hotel/soho-grand-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/56/59/5659086880ad037c647a38c24aeaef31/s440x294.jpg" alt="SoHo Grand Hotel">
+<br /><a href="/hotel/soho-grand-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/soho-grand-hotel-new-york" class="hotel-link">SoHo Grand Hotel</a>
+<span class="roomsInfo">
+355 rooms
+from <b>£300</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Sumptuous and elegantly designed - the 1870’s Gilded Age meets 1970's luxury - catering to the ultra-chic New Yorker. Rooms have stunning views and are decorated with original artworks. Acclaimed cuisine, stylish bar and sophisticated club room. A chic urban paradise.</p>
+<div><b>Rooms with balcony/terrace</b>&nbsp;&nbsp;-&nbsp;&nbsp;Two sprawling penthouse lofts</div><div><b>Pet friendly</b>&nbsp;&nbsp;-&nbsp;&nbsp;No fee for pets</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Central location means sights of New York are on your doorstep</div><div><b>Designer</b>&nbsp;&nbsp;-&nbsp;&nbsp;Interior designs by celebrated interior designer Bill Sofield</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=3013" data-hotel-id="3013" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-89443" data-hotel-id="89443">
+<div class="imgWrap">
+<a href="/hotel/arlo-soho-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/06/3c/063c2bfd980dd7db4f724277e803d4b1/s440x294.jpg" alt="Arlo Soho">
+<br /><a href="/hotel/arlo-soho-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/arlo-soho-new-york" class="hotel-link">Arlo Soho</a>
+<span class="roomsInfo">
+325 rooms
+from <b>£234</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>The designer Arlo Hudson Square is located in Soho, Lower Manhattan. Boutique and light-filled accommodation with plenty of wooden influences. Rooms come with a fridge and some even have balconies. Enjoy a drink and the excellent food at the rooftop bar! A fun and friendly city stay.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Arlo Hudson Square is the ultimate 'micro-hotel' oozing contemporary cool from its sleek, comfortable tight fit rooms!</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Make the most of your Soho location to see all that this amazing city has to offer</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Wander around the city taking in its incredible buzz or head for a stroll through Central Park</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Be sure to see the Empire State Building, Ellis Island and Ground Zero</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=89443" data-hotel-id="89443" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-3023" data-hotel-id="3023">
+<div class="imgWrap">
+<a href="/hotel/the-roxy-hotel-tribeca-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/ec/ef/ecefd819668f7d5cf3a49c9ce1eb8841/s440x294.jpg" alt="The Roxy Hotel Tribeca">
+<br /><a href="/hotel/the-roxy-hotel-tribeca-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-roxy-hotel-tribeca-new-york" class="hotel-link">The Roxy Hotel Tribeca</a>
+<span class="roomsInfo">
+203 rooms
+from <b>£238</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>The SoHo Grand’s cooler little sister - the ultimate in downtown chic. The in-house cinema, live music and suave roof top terrace all attract a fashionista crowd. Sleek, mid-century modern rooms, fitted with the latest technology. The relaxing Aire Ancient Baths are located just one block away.</p>
+<div><b>Pet friendly</b>&nbsp;&nbsp;-&nbsp;&nbsp;Pets can stay with no additional charge</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Luxurious downtown chic</div><div><b>Spa</b>&nbsp;&nbsp;-&nbsp;&nbsp;Aire Ancient Baths, located just one block from the hotel</div><div><b>House party feel</b>&nbsp;&nbsp;-&nbsp;&nbsp;Noise from the lively bar downstairs</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=3023" data-hotel-id="3023" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-485" data-hotel-id="485">
+<div class="imgWrap">
+<a href="/hotel/sixty-soho-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/a6/8d/a68d6fc7277b2ce4e1ceb97ca77cce11/s440x294.jpg" alt="Sixty Soho">
+<br /><a href="/hotel/sixty-soho-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/sixty-soho-new-york" class="hotel-link">Sixty Soho</a>
+<span class="roomsInfo">
+97 rooms
+from <b>£241</b>
+</span>
+</h3>
+<span class="location">New York (Soho)</span>
+<div class="desc">
+<p>A hip and stylish SoHo hotel. The chic rooms are full of individual details such artworks by Harland Miller and selected literature. Phenomenal bar and restaurant are incentive enough to stay here. A lively spot to see and be seen.</p>
+<div><b>Restaurant</b>&nbsp;&nbsp;-&nbsp;&nbsp;Acclaimed restaurant - a paean to Thai cuisine.</div><div><b>Roof terrace</b>&nbsp;&nbsp;-&nbsp;&nbsp;Rooftop bar</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Learn about the Lower East Side’s rich immigrant history on foot during a guided tour at the Tenement Museum on Orchard Street.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Wander down to Chinatown, under two Km away, and check out all this dynamic area has to offer.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=485" data-hotel-id="485" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-476" data-hotel-id="476">
+<div class="imgWrap">
+<a href="/hotel/gramercy-park-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/74/cb/74cb9d7e4dab85503870afe623835091/s440x294.jpg" alt="Gramercy Park Hotel">
+<br /><a href="/hotel/gramercy-park-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/gramercy-park-hotel-new-york" class="hotel-link">Gramercy Park Hotel</a>
+<span class="roomsInfo">
+185 rooms
+from <b>£268</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Newly decorated luxury boutique. Great pieces of furniture and diverse artworks, from Warhol to Damien Hirst, provide a unique impression of 21st century Bohemia. A lively and hip destination.</p>
+<div><b>Luxury</b></div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Just a short stroll away you will find New Yorks most famous site, The Empire State Building.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Take a turn around the lovely Gramercy Park literally on the hotels doorstep.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Gorgeous views of Gramercy Park</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=476" data-hotel-id="476" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-31353" data-hotel-id="31353">
+<div class="imgWrap">
+<a href="/hotel/mysuites-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/35/d9/35d92d29b3fb9dbb44a0ccbc1f6ef881/s440x294.jpg" alt="MySuites">
+<br /><a href="/hotel/mysuites-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/mysuites-new-york" class="hotel-link">MySuites</a>
+<span class="roomsInfo">
+from <b>£276</b>
+</span>
+</h3>
+<span class="location">New York (West Village)</span>
+<div class="desc">
+<p>Contemporary, design-led suites in the heart of the West Village. The concept here is hotel style services, with self catering style accommodation. All suites offer sitting rooms and kitchens, but there is a chef on hand if you like! Superb location and great for families on a city visit.</p>
+<div><b>Designer</b>&nbsp;&nbsp;-&nbsp;&nbsp;Each suite has been individually created by a different designer.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Bang next to a subway station, so all of NYC is easily accessible</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=31353" data-hotel-id="31353" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-477" data-hotel-id="477">
+<div class="imgWrap">
+<a href="/hotel/the-bowery-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/6c/b0/6cb0ee49e3065c81f97971e554686131/s440x294.jpg" alt="The Bowery Hotel">
+<br /><a href="/hotel/the-bowery-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-bowery-hotel-new-york" class="hotel-link">The Bowery Hotel</a>
+<span class="roomsInfo">
+135 rooms
+from <b>£288</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>A young, hip and delightfully atmospheric hotel in the trendy East Village. Chic and comfortable rooms with large windows providing plenty of light and splendid views. The vintage bars and restaurants are full of old world charm. A fun and lively destination in an up and coming district.</p>
+<div><b>Close to nightlife</b>&nbsp;&nbsp;-&nbsp;&nbsp;Bowery Ballroom and Mercury Lounge are just 800m away, as well as a whole range of hip bars and clubs.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;More for revelry than for pampering.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;The hip and trendy East Village is best explored on foot, wander the streets or ask at reception for a good route!</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Just a few short blocks away check out Union Square Greenmarket.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet, Fodors, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=477" data-hotel-id="477" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-54033" data-hotel-id="54033">
+<div class="imgWrap">
+<a href="/hotel/the-bryant-park-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/82/07/82078d8574191187b0dea75ee40c0f81/s440x294.jpg" alt="The Bryant Park Hotel">
+<br /><a href="/hotel/the-bryant-park-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-bryant-park-hotel-new-york" class="hotel-link">The Bryant Park Hotel</a>
+<span class="roomsInfo">
+128 rooms
+from <b>£303</b>
+</span>
+</h3>
+<span class="location">New York State</span>
+<div class="desc">
+<p>This black and gold gothic landmark overlooks Byrant Park in the heart of Soho. Light, sharp rooms with luxury linens, bathtubs and city views. KOI sushi restaurant is popular with locals and the bar is a lively start to the night. Location is spot on for nightlight as well as daytime exploring.</p>
+<div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Grand Central Terminal and Times Square are closeby, and directly opposite New York City’s Bryant Park.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Central Park or head down to New York Harbour to see the Statue of Liberty.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Lively area</b>&nbsp;&nbsp;-&nbsp;&nbsp;In the thick of the action.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Fodors</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=54033" data-hotel-id="54033" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-54023" data-hotel-id="54023">
+<div class="imgWrap">
+<a href="/hotel/nomad-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/83/68/836867df6fc12fc1c22c0579489e9f01/s440x294.jpg" alt="NoMad">
+<br /><a href="/hotel/nomad-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/nomad-new-york" class="hotel-link">NoMad</a>
+<span class="roomsInfo">
+168 rooms
+from <b>£319</b>
+</span>
+</h3>
+<span class="location">New York State</span>
+<div class="desc">
+<p>This broadway and art boutique offers a lively bar and a two-storied library. Notably large, contemporary rooms house local artist works and show off with spectacular city views. Refined dining complimented by a renowned wine list. Very close to Madison Park, offering local exploring with ease.</p>
+<div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Empire State Building - Travel five blocks north and 102 floors up, and you’ll be at the top of the Empire State Building.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views from hotel</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Good for local colour.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Mr &amp; Mrs Smith</div>
+ </div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=54023" data-hotel-id="54023" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-479" data-hotel-id="479">
+<div class="imgWrap">
+<a href="/hotel/the-algonquin-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/a0/63/a063b48e859cf8a51059e32669da0471/s440x294.jpg" alt="The Algonquin Hotel">
+<br /><a href="/hotel/the-algonquin-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-algonquin-hotel-new-york" class="hotel-link">The Algonquin Hotel</a>
+<span class="roomsInfo">
+156 rooms
+from <b>£328</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Historic Manhattan hotel and host to the city's artistic and cultural elite. Old-world charm and contemporary comforts to suit anyone on business or leisure. The hotel was newly refurbished in 2004 but retains its original opulent charm.</p>
+<div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;This downtown hotel is just seven minute walk from Times Square and ten from the Rockefeller Center.</div><div><b>Literary</b>&nbsp;&nbsp;-&nbsp;&nbsp;A well-known literary history.</div><div><b>Historic</b>&nbsp;&nbsp;-&nbsp;&nbsp;Oldest-running hotel in NYC.</div><div><b>Business Hotel</b></div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=479" data-hotel-id="479" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-37783" data-hotel-id="37783">
+<div class="imgWrap">
+<a href="/hotel/the-surrey-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/86/84/86844e37fb3505e7990f29c5335255a1/s440x294.jpg" alt="The Surrey">
+<br /><a href="/hotel/the-surrey-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-surrey-new-york" class="hotel-link">The Surrey</a>
+<span class="roomsInfo">
+189 rooms
+from <b>£330</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>This grand and gracious 5* Upper East Side Manhattan hotel is not one to be outdone. The Art Deco inspired lobby features many unique modern art pieces. With a private roof garden, a decadent bar and surrounded by some of the city's best restaurant - this really is New York City Luxury. </p>
+<div><b>Artworks</b>&nbsp;&nbsp;-&nbsp;&nbsp;31 original works of modern art dispersed through its private and public spaces.</div><div><b>Bicycles available</b>&nbsp;&nbsp;-&nbsp;&nbsp;Take advantage of the Hotel Bike Share Program</div><div><b>Architectural</b>&nbsp;&nbsp;-&nbsp;&nbsp;Interiors by design giant Lauren Rottet.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Luxury, Upper East Side Manhattan Hotel</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Relais &amp; Chateaux</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=37783" data-hotel-id="37783" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-1289" data-hotel-id="1289">
+<div class="imgWrap">
+<a href="/hotel/the-standard-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/e0/90/e090a3935783667e15a21ab0871f4381/s440x294.jpg" alt="The Standard">
+<br /><a href="/hotel/the-standard-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-standard-new-york" class="hotel-link">The Standard</a>
+<span class="roomsInfo">
+338 rooms
+from <b>£359</b>
+</span>
+</h3>
+<span class="location">New York (Meatpacking District)</span>
+<div class="desc">
+<p>Oh-so chic rooms in the edgy ambient neighbourhood of Lower West Side. Ceiling to floor windows offer stunning views across New York, even from your bath tub. Hip all American food at the hotel restaurant and a 'to be seen in' bar. A hyper-modern way to experience New York. </p>
+<div><b>Romantic Break</b>&nbsp;&nbsp;-&nbsp;&nbsp;Wonderfully indulgent suites feature romantic stand alone baths with stunning views and downstairs expect wonderful cuisine.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A super trendy creation by Andre Balazs- achingly hip and housing one of New York's most sought after nightlife spots.</div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views of the skyline and Hudson Bay</div><div><b>Romantic</b>&nbsp;&nbsp;-&nbsp;&nbsp;Good for couples.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet, Fodors, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=1289" data-hotel-id="1289" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-89723" data-hotel-id="89723">
+<div class="imgWrap">
+<a href="/hotel/1-hotel-brooklyn-bridge-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/f5/25/f525c6ec9a4c37d15103abb3b7e81771/s440x294.jpg" alt="1 Hotel Brooklyn Bridge">
+<br /><a href="/hotel/1-hotel-brooklyn-bridge-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/1-hotel-brooklyn-bridge-new-york" class="hotel-link">1 Hotel Brooklyn Bridge</a>
+<span class="roomsInfo">
+194 rooms
+from <b>£367</b>
+</span>
+</h3>
+<span class="location">New York (Brooklyn)</span>
+<div class="desc">
+<p>1 Hotel Brooklyn Bridge offers contemporary designer accommodation, right beside the famed Brooklyn Bridge Promenade. Think chic wooden furnishings, warm hues and superb views of the area. Kick back and enjoy a movie in the screening room after a busy day sightseeing. A perfect Eco break!</p>
+<div><b>Eco break</b>&nbsp;&nbsp;-&nbsp;&nbsp;Almost entirely powered by wind, with more than half the building materials 'reclaimed' and free Teslas for guests to use!</div><div><b>Romantic Break</b>&nbsp;&nbsp;-&nbsp;&nbsp;Divine accommodation, gorgeous views and one of the world's liveliest cities on your doorstep-the ideal romantic getaway!</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;1 Hotel Brooklyn Bridge enjoys a wonderfully central location, just a short walk over the bridge from downtown Manhattan</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Wander around New York's streets taking in its unique atmoshpere or head for a stroll around Central Park</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=89723" data-hotel-id="89723" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-4353" data-hotel-id="4353">
+<div class="imgWrap">
+<a href="/hotel/chambers-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/18/96/1896ede704b31f232e891f7dcff22741/s440x294.jpg" alt="Chambers Hotel">
+<br /><a href="/hotel/chambers-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/chambers-hotel-new-york" class="hotel-link">Chambers Hotel</a>
+<span class="roomsInfo">
+77 rooms
+from <b>£380</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>A successful blend of cool and luxury in this dynamic, contemporary-style hotel</p>
+<div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Good for walkers.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Well located for major sights.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=4353" data-hotel-id="4353" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-1283" data-hotel-id="1283">
+<div class="imgWrap">
+<a href="/hotel/andaz-wall-street-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/e2/98/e298b338767dfc57992a0a10e4dc8551/s440x294.jpg" alt="Andaz Wall Street">
+<br /><a href="/hotel/andaz-wall-street-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/andaz-wall-street-new-york" class="hotel-link">Andaz Wall Street</a>
+<span class="roomsInfo">
+253 rooms
+from <b>£388</b>
+</span>
+</h3>
+<span class="location">New York City</span>
+<div class="desc">
+<p>The only hotel with an address on Wall Street, placing it at the epicenter of the Financial District. Large loft style rooms with seriously luxurious bathrooms. A hip restaurant using farm fresh produce, trendy bar and a glorious spa. A boutique hotel with a chains knowledge. </p>
+<div><b>Romantic Break</b>&nbsp;&nbsp;-&nbsp;&nbsp;A stylish choice- loft-style rooms featuring pillow menus and king sized beds and downstairs a hip bar and yummy restaurant.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;A slick hotel set in an historic NYC neighborhood- trendy rough brick walls mixed with glossy finishes and lavish fittings.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Close to New Yorks famous Central Park, a breath of fresh air in the city centre.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Walking distance from ferries to the Statue of Liberty and Governor's Island.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=1283" data-hotel-id="1283" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-570" data-hotel-id="570">
+<div class="imgWrap">
+<a href="/hotel/soho-house-new-york-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/31/1a/311ae91c86f2ee0a7427200f111f6a41/s440x294.jpg" alt="Soho House New York">
+<br /><a href="/hotel/soho-house-new-york-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/soho-house-new-york-new-york" class="hotel-link">Soho House New York</a>
+<span class="roomsInfo">
+24 rooms
+from <b>£389</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Exclusive luxury in lower Manhattan's hip Meatpacking district. Fantastic rooftop terrace with pool, 44-seater cinema, and delux spa. Soho House is the epitome of cool. What more could you want from a trendy trip to NYC. Enjoy the Soho House restaurant, bar and Cowshed spa.</p>
+<div><b>Bar</b>&nbsp;&nbsp;-&nbsp;&nbsp;Rooftop bar situated near rooftop pool.</div><div><b>Swimming Pool</b>&nbsp;&nbsp;-&nbsp;&nbsp;Heated rooftop pool with bar</div><div><b>Roof terrace</b></div><div><b>Views</b>&nbsp;&nbsp;-&nbsp;&nbsp;Great views from hotel</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, I Escape, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=570" data-hotel-id="570" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-38783" data-hotel-id="38783">
+<div class="imgWrap">
+<a href="/hotel/crosby-street-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/82/a9/82a96d2bfa61825a5d6f01d4a4988441/s440x294.jpg" alt="Crosby Street Hotel">
+<br /><a href="/hotel/crosby-street-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/crosby-street-hotel-new-york" class="hotel-link">Crosby Street Hotel</a>
+<span class="roomsInfo">
+86 rooms
+ from <b>£426</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>This achingly chic hotel in Manhattan’s SoHo/Nolita district attracts celebrities and design addicts alike with its cool interiors by Kit Kemp. Despite the enviable location, it’s on a quiet street so you can leave the city chaos behind. Service is impeccable while still being relaxed. </p>
+<div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;A walk south-east of the hotel takes you to Little Italy.</div><div><b>Designer Shopping</b>&nbsp;&nbsp;-&nbsp;&nbsp;Explore the local stores and boutiques in SoHo</div><div><b>Close to nightlife</b>&nbsp;&nbsp;-&nbsp;&nbsp;SoHo has some of the city's best nightlife</div><div><b>City</b></div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, I Escape, Fodors</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=38783" data-hotel-id="38783" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-82233" data-hotel-id="82233">
+<div class="imgWrap">
+<a href="/hotel/the-beekman-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/f5/80/f5800183bf58c849dde087e10cf9fd71/s440x294.jpg" alt="The Beekman">
+<br /><a href="/hotel/the-beekman-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-beekman-new-york" class="hotel-link">The Beekman</a>
+<span class="roomsInfo">
+287 rooms
+from <b>£441</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Stellar hotel with a definitively jazz age feel in the heart of Manhattan. Rooms are swish and elegant with simple designs and comfortable furniture. Enjoy a cocktail in the atmospheric bar that evokes a Gatsby-esque atmosphere with it's booth bar and chandeliers. A five-star downtown option.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Right in the heart of Manhattan, near the World Trade Centre.</div><div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Perfect for exploring the sights and sounds of New York.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Browse the frenzy of the South Street Seaport market.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Ten minutes walk from Ground Zero.</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=82233" data-hotel-id="82233" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-689" data-hotel-id="689">
+<div class="imgWrap">
+<a href="/hotel/lowell-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/34/e7/34e72183343aa70ecac2a217a78da521/s440x294.jpg" alt="Lowell Hotel">
+<br /><a href="/hotel/lowell-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/lowell-hotel-new-york" class="hotel-link">Lowell Hotel</a>
+ <span class="roomsInfo">
+74 rooms
+from <b>£518</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>A finely crafted and charmingly intimate Upper East Side hotel, one block from Central Park. Classically decorated - marble bathrooms, neutral tones, paintings, and elegant furnishings. Some rooms have real wood burning fireplaces. A luxurious destination, reminiscent of a private townhouse.</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Sleek accommodations in the heart of the city</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Just one block from Central Park</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Well located for major sights.</div><div><b>5* Luxury</b>&nbsp;&nbsp;-&nbsp;&nbsp;Very high service standards.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=689" data-hotel-id="689" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-692" data-hotel-id="692">
+<div class="imgWrap">
+<a href="/hotel/inn-new-york-city-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/c6/89/c689b4e6fccf07e22effd4b8820f6a31/s440x294.jpg" alt="Inn New York City">
+<br /><a href="/hotel/inn-new-york-city-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/inn-new-york-city-new-york" class="hotel-link">Inn New York City</a>
+<span class="roomsInfo">
+4 rooms
+from <b>£534</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Charming and intimate Upper West Side townhouse hotel, bursting with old-world charm. Suites are individually decorated with fine paintings, sculptures, and elegant wooden furnishings. A genteel atmosphere in a residential area. Breakfasts are served in the suites. An ideal New York hideaway. </p>
+<div><b>Writing a novel</b>&nbsp;&nbsp;-&nbsp;&nbsp;Take the literary-themed suite and draw inspiration amongst the theatrical interiors and shelves of books.</div><div><b>Romantic Break</b>&nbsp;&nbsp;-&nbsp;&nbsp;Take the Spa Suite with jacuzzi and fireplace or the Opera Suite with baby grand piano and terrace!</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Walking distance from Central Park, an ideal spot for a morning stroll or jog if you're up for it.</div><div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Lincoln Center for the Performing Arts is a five minute walk and well worth checking out.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Frommers</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=692" data-hotel-id="692" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-484" data-hotel-id="484">
+<div class="imgWrap">
+<a href="/hotel/the-mercer-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/2f/c5/2fc52e0efd388b3586fc027f93dda871/s440x294.jpg" alt="The Mercer">
+<br /><a href="/hotel/the-mercer-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-mercer-new-york" class="hotel-link">The Mercer</a>
+<span class="roomsInfo">
+75 rooms
+from <b>£534</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Ultimate SoHo chic. An iconic hotel, The Mercer provides the comforts of a home away from home, but in the surroundings of a trendy loft space. Artistic cool and modernist designs. Its world-class restaurant is a must.</p>
+<div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;The automatic table reservation at chef Jean-Georges Vongerichten’s Mercer Kitchen is worth its weight in gold.</div><div><b>Families</b>&nbsp;&nbsp;-&nbsp;&nbsp;Interconnecting family suites and babysitting services.</div><div><b>Outstanding location</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in bustling downtown Soho.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Walk to the south-east of the hotel and you'll stumble across Little Italy and Chinatown, both well worth a visit.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, I Escape, Tablet, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=484" data-hotel-id="484" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-478" data-hotel-id="478">
+<div class="imgWrap">
+<a href="/hotel/the-carlyle-hotel-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/b1/30/b130bd1d4d18c18223a90732be29c141/s440x294.jpg" alt="The Carlyle Hotel">
+<br /><a href="/hotel/the-carlyle-hotel-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-carlyle-hotel-new-york" class="hotel-link">The Carlyle Hotel</a>
+<span class="roomsInfo">
+190 rooms
+from <b>£553</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>Luxurious Upper East Side landmark hotel. The Carlyle is a timeless classic and a unique place to stay discover New York Upper East Side style. Opulent suites feature exquisite views of the park and grand pianos. Keep your finger on New York's pulse.</p>
+<div><b>Romantic Break</b>&nbsp;&nbsp;-&nbsp;&nbsp;Romantic suites, chic in house restaurants and bars and proximity to Central Park make this a perfect getaway for two.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Located in the Upper East Side, with chic art deco interiors it is a New York dream</div><div><b>Traditional</b></div><div><b>Grand Hotel</b></div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Fodors, Frommers, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=478" data-hotel-id="478" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+ <div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-85183" data-hotel-id="85183">
+<div class="imgWrap">
+<a href="/hotel/the-whitby-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/46/b7/46b7f034f55963ceba07921bf4adb631/s440x294.jpg" alt="The Whitby">
+<br /><a href="/hotel/the-whitby-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-whitby-new-york" class="hotel-link">The Whitby</a>
+<span class="roomsInfo">
+86 rooms
+from <b>£610</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>One of the newest additions in husband and wife duo Tim and Kit Kemp's portfolio and it doesn't disappoint. Beautifully designed rooms makes traditional style contemporary. The best rooms boast large terraces. Complete with chic bar, excellent restaurant and a cinema this is hotel perfection.</p>
+<div><b>Local exploring</b>&nbsp;&nbsp;-&nbsp;&nbsp;Perfectly positioned just two blocks from Central Park and with easy access to many restaurants, galleries and bars.</div><div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;An uber chic property designed by the renowned hotelier Kit Kemp.</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;Take a stroll around Central Park.</div><div><b>Designer</b>&nbsp;&nbsp;-&nbsp;&nbsp;Uniquely designed interiors.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=85183" data-hotel-id="85183" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-52543" data-hotel-id="52543">
+<div class="imgWrap">
+<a href="/hotel/the-greenwich-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/75/9c/759c4910ce7faaf79bbfce1836098eb1/s440x294.jpg" alt="The Greenwich">
+<br /><a href="/hotel/the-greenwich-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-greenwich-new-york" class="hotel-link">The Greenwich</a>
+<span class="roomsInfo">
+88 rooms
+from <b>£633</b>
+</span>
+</h3>
+<span class="location">New York State</span>
+<div class="desc">
+<p>Tribeca neighborhood is prime location for foodies, local explorers and relaxing in-house at the Shibui Spa and indoor pool. Modern rooms with all mod-cons. Enjoy casual Italian dining at Locanda Verde, or in the courtyard with the great bar. Perfect location for nightlife and New York!</p>
+<div><b>Sights nearby</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hop on the metro at Franklin Street and explore the city at ease.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Local markets</b>&nbsp;&nbsp;-&nbsp;&nbsp;Good for local colour.</div><div><b>Full of character</b></div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Mr &amp; Mrs Smith, Tablet</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=52543" data-hotel-id="52543" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+<li class="hotel" id="hotel-1287" data-hotel-id="1287">
+<div class="imgWrap">
+<a href="/hotel/the-mark-new-york" class="hotel-link">
+<img src="https://www.thehotelguru.com/_images/35/59/35595942fcb87686d759b8f6615d7b11/s440x294.jpg" alt="The Mark, New York">
+<br /><a href="/hotel/the-mark-new-york" class="hotel-link">See more photos</a>
+</a>
+</div>
+<div class="infoWrap">
+<h3>
+<a href="/hotel/the-mark-new-york" class="hotel-link">The Mark, New York</a>
+<span class="roomsInfo">
+152 rooms
+from <b>£687</b>
+</span>
+</h3>
+<span class="location">New York</span>
+<div class="desc">
+<p>An old favourite with spectacular neo-deco Jacques Granges interiors. Right in the heart of Upper East Side, old style elegance meets modern chic. The award-winning restaurant is reason enough to visit. A super stylish way to experience New York. Popular with celebs and New York royalty!</p>
+<div><b>City Style</b>&nbsp;&nbsp;-&nbsp;&nbsp;Upper East Side glamour in all its old-moneyed glory with a clean cut and suave injection of style from designer Jacques Grange.</div><div><b>Foodies</b>&nbsp;&nbsp;-&nbsp;&nbsp;The phenomenal Jean Georges heads the kitchen here, be prepared for some of the best food in NY- and that's saying something!</div><div><b>Great walks</b>&nbsp;&nbsp;-&nbsp;&nbsp;New York was made for walking, this hotels central location makes it ideal for exploring on foot.</div><div><b>Lively</b>&nbsp;&nbsp;-&nbsp;&nbsp;Hip and happening.</div><div><b>Recommended by</b>&nbsp;&nbsp;-&nbsp;&nbsp;Tablet, Fodors, Frommers, Johansens, Kiwi Collection</div>
+</div>
+<a class="button" href="/advice-and-booking/enquire?hotel_id=1287" data-hotel-id="1287" data-behavior="CheckOnlineRatesAll">Check prices</a>
+<span class="bottomPrice"></span>
+<div class="rooms"></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="addthis_inline_share_toolbox"></div>
+</div>
+<div class="colRight">
+<div id="mapOutside" style="">
+<div id="mapInside">
+<div id="map" style=" min-height:500px;height:99%; "></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ShortlistBtn" data-count="0">
+Your shortlist (0)
+</div>
+<div class="footerWrap">
+<div class="footer" role="contentinfo">
+<div id="credits">
+<div class="footerNav">
+<ul>
+<li><a href="/themes">Collections</a></li>
+<li><a href="/best-hotels-in">Destinations</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/the-gurus">About Us</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li><a href="/advice-and-booking/enquire">Ask the Guru</a></li>
+</ul>
+</div> 
+<span class="copyright">
+Copyright &copy; Hotel Guru 2018
+<div class="socialBar">
+<a target="_blank" href="https://twitter.com/The_Hotel_Guru" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a target="_blank" href="https://www.facebook.com/pages/The-Hotel-Guru/112527392107595" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="https://www.instagram.com/the_hotel_guru/" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a target="_blank" href="https://www.pinterest.co.uk/bestplacestostay/" rel="nofollow"><i class="fa fa-pinterest"></i></a>
+<a target="_blank" href="https://plus.google.com/+Thehotelguru" rel="nofollow"><i class="fa fa-google-plus"></i></a>
+</div>
+</span> 
+<span class="credits">
+<a href="http://www.mtcmedia.co.uk" target="_blank" rel="external" title="Opens in a new window">Responsive website design</a> by
+<a href="http://www.mtcmedia.co.uk" target="_blank" rel="external" title="Opens in a new window">
+<strong>mtc.</strong>
+</a>
+</span>
+</div> 
+</div> 
+</div> 
+<div class="scrollTop"><i class="fa fa-chevron-up"></i></div>
+</div>
+<script type="text/javascript">
+var hg_ga_location="united-states-of-america\/new-york";
+var map_max_zoom=13;
+var locationlatlng=[40.734770989672,-73.998413085938];
+var markers={"hotels":[{"id":49223,"uri":"paper-factory-new-york","title":"Paper Factory","latlng":[40.752695946811,-73.927441835403]},{"id":49293,"uri":"city-club-hotel-new-york","title":"City Club Hotel","latlng":[40.755548624417,-73.981783390045]},{"id":488,"uri":"the-harlem-flophouse-new-york","title":"The Harlem Flophouse","latlng":[40.808165422374,-73.950973495701]},{"id":48763,"uri":"westhouse-hotel-new-york","title":"WestHouse Hotel","latlng":[40.764292077128,-73.981182575226]},{"id":49183,"uri":"archer-new-york-new-york","title":"Archer New York","latlng":[40.751681496616,-73.984487056732]},{"id":48883,"uri":"the-marlton-new-york","title":"The Marlton","latlng":[40.732613277442,-73.996787667274]},{"id":49313,"uri":"the-inn-at-irving-place-new-york","title":"The Inn at Irving Place","latlng":[40.736138247677,-73.987126350403]},{"id":49303,"uri":"room-mate-grace-new-york","title":"Room Mate Grace","latlng":[40.757444246327,-73.983831256628]},{"id":47043,"uri":"mave-new-york","title":"MAve","latlng":[40.743547131918,-73.986225128174]},{"id":48753,"uri":"the-roger-new-york","title":"The Roger","latlng":[40.745676768707,-73.984422683716]},{"id":48923,"uri":"hotel-chandler-new-york","title":"Hotel Chandler","latlng":[40.746123452167,-73.985034227371]},{"id":48903,"uri":"the-high-line-hotel-new-york","title":"The High Line Hotel","latlng":[40.746095375815,-74.00529563427]},{"id":48913,"uri":"walker-hotel-new-york","title":"Walker Hotel","latlng":[40.736301751575,-73.996591866016]},{"id":48793,"uri":"mccarren-hotel-pool-new-york","title":"McCarren Hotel & Pool","latlng":[40.721080738557,-73.955583572388]},{"id":49153,"uri":"gansevoort-meatpacking-new-york","title":"Gansevoort Meatpacking","latlng":[40.739980232686,-74.00605738163]},{"id":48953,"uri":"gild-hall-a-thompson-hotel-new-york","title":"Gild Hall, A Thompson Hotel","latlng":[40.707975074045,-74.007140994072]},{"id":48743,"uri":"hotel-hugo-new-york","title":"Hotel Hugo","latlng":[40.726349628173,-74.009034633636]},{"id":48943,"uri":"the-london-new-york","title":"The London, New York","latlng":[40.763219430753,-73.980495929718]},{"id":48983,"uri":"citizenm-new-york-new-york","title":"CitizenM New York","latlng":[40.761740450544,-73.984814286232]},{"id":486,"uri":"washington-square-hotel-new-york","title":"Washington Square Hotel","latlng":[40.73252688403,-73.998688889549]},{"id":49243,"uri":"hotel-on-rivington-new-york","title":"Hotel on Rivington","latlng":[40.719878782083,-73.987984657288]},{"id":482,"uri":"hotel-elysee-new-york","title":"Hotel Elysee","latlng":[40.75928279506,-73.971756846558]},{"id":690,"uri":"library-hotel-new-york","title":"Library Hotel, New York","latlng":[40.752126,-73.979434]},{"id":480,"uri":"casablanca-hotel-new-york","title":"Casablanca Hotel","latlng":[40.756535333049,-73.985613584518]},{"id":17873,"uri":"hotel-americano-new-york","title":"Hotel Americano","latlng":[40.750816986609,-74.003455638885]},{"id":483,"uri":"hotel-giraffe-new-york","title":"Hotel Giraffe","latlng":[40.742064437617,-73.984572023665]},{"id":83543,"uri":"dream-downtown-new-york","title":"Dream Downtown","latlng":[40.742335171273,-74.003443653026]},{"id":33823,"uri":"ace-hotel-new-york","title":"Ace Hotel","latlng":[40.745071985094,-73.988542556763]},{"id":571,"uri":"dream-hotel-new-york","title":"Dream Hotel","latlng":[40.764453298772,-73.98198561475]},{"id":48773,"uri":"the-ludlow-new-york","title":"The Ludlow","latlng":[40.721796291252,-73.987437486649]},{"id":48783,"uri":"smyth-hotel-new-york","title":"Smyth Hotel","latlng":[40.714145848065,-74.010128974915]},{"id":30733,"uri":"wythe-hotel-new-york","title":"Wythe Hotel","latlng":[40.722267,-73.958203]},{"id":3013,"uri":"soho-grand-hotel-new-york","title":"SoHo Grand Hotel","latlng":[40.722092674029,-74.004518866604]},{"id":89443,"uri":"arlo-soho-new-york","title":"Arlo Soho","latlng":[40.724401827232,-74.007840380073]},{"id":3023,"uri":"the-roxy-hotel-tribeca-new-york","title":"The Roxy Hotel Tribeca","latlng":[40.719336139911,-74.004787087506]},{"id":485,"uri":"sixty-soho-new-york","title":"Sixty Soho","latlng":[40.723941380701,-74.003120796295]},{"id":476,"uri":"gramercy-park-hotel-new-york","title":"Gramercy Park Hotel","latlng":[40.738519617811,-73.985744746033]},{"id":31353,"uri":"mysuites-new-york","title":"MySuites","latlng":[40.733381566879,-74.004651904106]},{"id":477,"uri":"the-bowery-hotel-new-york","title":"The Bowery Hotel","latlng":[40.725943254883,-73.991498169312]},{"id":54033,"uri":"the-bryant-park-hotel-new-york","title":"The Bryant Park Hotel","latlng":[40.752828,-73.983762]},{"id":54023,"uri":"nomad-new-york","title":"NoMad","latlng":[40.7448855,-73.9887176]},{"id":479,"uri":"the-algonquin-hotel-new-york","title":"The Algonquin Hotel","latlng":[40.755949475312,-73.982432652779]},{"id":37783,"uri":"the-surrey-new-york","title":"The Surrey","latlng":[40.774306306898,-73.963978886604]},{"id":1289,"uri":"the-standard-new-york","title":"The Standard","latlng":[40.740917613303,-74.008116001327]},{"id":89723,"uri":"1-hotel-brooklyn-bridge-new-york","title":"1 Hotel Brooklyn Bridge","latlng":[40.701697447652,-73.995777145028]},{"id":4353,"uri":"chambers-hotel-new-york","title":"Chambers Hotel","latlng":[40.763203195266,-73.976408243179]},{"id":1283,"uri":"andaz-wall-street-new-york","title":"Andaz Wall Street","latlng":[40.705151330491,-74.008118391102]},{"id":570,"uri":"soho-house-new-york-new-york","title":"Soho House New York","latlng":[40.740418,-74.005899]},{"id":38783,"uri":"crosby-street-hotel-new-york","title":"Crosby Street Hotel","latlng":[40.723034,-73.997409]},{"id":82233,"uri":"the-beekman-new-york","title":"The Beekman","latlng":[40.711233518475,-74.006746709347]},{"id":689,"uri":"lowell-hotel-new-york","title":"Lowell Hotel","latlng":[40.765698,-73.969248]},{"id":692,"uri":"inn-new-york-city-new-york","title":"Inn New York City","latlng":[40.77880130488,-73.984556038029]},{"id":484,"uri":"the-mercer-new-york","title":"The Mercer","latlng":[40.724924916007,-73.998659220901]},{"id":478,"uri":"the-carlyle-hotel-new-york","title":"The Carlyle Hotel","latlng":[40.77437,-73.96321859259]},{"id":85183,"uri":"the-whitby-new-york","title":"The Whitby","latlng":[40.762671785641,-73.975694775581]},{"id":52543,"uri":"the-greenwich-new-york","title":"The Greenwich","latlng":[40.719822,-74.0098607]},{"id":1287,"uri":"the-mark-new-york","title":"The Mark, New York","latlng":[40.77525652305,-73.963383436203]}],"attractions":[]};
+</script>
+<script type="text/javascript">
+window.addEvent("domready", function(){
+Behavior.init();
+HotelGuruPage.init();
+jamesmedia.ui.Slideshow.initInstances();
+HotelListPage.init();
+});
+</script>
+<script type="text/javascript">
+		//var WHY_BOOK_HTML=;
+		track_links();
+	</script>
+<script>
+		$$('a[href="#newsletter_popup"]').forEach(function(e){
+			e.addEventListener('click', Subscribe.open);
+		});
+	</script>
+
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nuq1v', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+	<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nuq1v&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+	<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nuq1v&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+	</noscript>
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59d5eef504424b09" async="async"></script>
+<script type="application/ld+json">
+
+	{
+	    "@context" : "http://schema.org",
+	    "@type" : "Organization",
+	    "name" : "The Hotel Guru",
+	    "description": "Our mission is to find good hotels. Pure and simple. We are a small group of well-known hotel critics, founded by Sunday Telegraph columnist Fiona Duncan and Former Charming Small Hotel Guides series editor Leonie Glass.",
+	    "url" : "https://www.thehotelguru.com",
+	    "sameAs": [
+				"https://www.facebook.com/pages/The-Hotel-Guru/112527392107595",
+				"https://twitter.com/The_Hotel_Guru",
+				"https://www.instagram.com/the_hotel_guru/",
+				"https://plus.google.com/+Thehotelguru"
+				],
+	    "logo": "https://www.thehotelguru.com/v2/images/logo-sub.png",
+	    "contactPoint" : {
+	        "@type" : "ContactPoint",
+	        "telephone" : "+44(0)203 1370694",
+	        "contactType" : "Customer Service",
+	        "areaServed" : "World Wide"
+	    }
+
+	}
+	</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Blog",
+        "url": "https://www.thehotelguru.com/blog"
+    }
+    </script>
+<script type="text/javascript">
+jQuery( document ).ready(function() {
+
+//check for cookie
+	//60000 miliseconds for 60 seconds
+	//setTimeout(emailPopup, 6000);
+	var match = document.cookie.match(new RegExp('(^| )emailPopup=([^;]+)'));
+	if (!match) {
+		setTimeout(emailPopup, 8000);
+	}
+});
+
+function emailPopup() {
+
+	
+    var popupTxt = '<p>Be the first to know about newly opened hideaways and incredible hidden gems, unearthed and reviewed for you by our top team of professional Hotel Gurus.</p>';
+
+     popupTxt += '<form action="/email-signup" method="post"><p>Email address*:<br><input type="email" name="email" style="width:260px;margin-right:50px"/><img src="https://gallery.mailchimp.com/1d3e67d4ac74c01fd3f3eb947/images/dea92360-e7d3-47d9-9464-7e83d0121368.png"></p><p><input type="submit" class="button" value="Yes, send them to me!" name="newsletterSignup" style="    color: #fff;    background-color: #6a972e;    display: inline-block;    padding: 6px 18px;    margin-bottom: 0;    margin-top: 15px;    font-size: 18px;    font-weight: 700;    line-height: 1.428571429;    text-shadow: 0 1px 2px rgba(0,0,0,.3);    text-align: center;    white-space: nowrap;    vertical-align: middle;    cursor: pointer;      border: 1px solid transparent;    border-radius: 4px;      outline: 0;" /></p></form>';
+
+popupTxt += '<p style="">We value your privacy, and promise never to share your data with anyone else. And remember, you can unsubscribe any time.</p>';
+    jamesmedia.ui.Popup.display('SIGN UP TO OUR LATEST FINDS', popupTxt, 500, 200);
+
+	//set cookie so that it doesn't show again
+	var d = new Date();
+	var days = 10;
+    d.setTime(d.getTime() + (days*24*60*60*1000));
+    var expires = "expires="+ d.toUTCString();
+    document.cookie = "emailPopup=1;" + expires + ";path=/";
+
+} 
+
+
+   	</script>
+</body>
+</html>

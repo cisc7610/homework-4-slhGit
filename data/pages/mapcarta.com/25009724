@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://api.mapbox.com" />
+<link rel="dns-prefetch" href="https://a.tiles.mapbox.com" />
+<link rel="dns-prefetch" href="https://b.tiles.mapbox.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="description" content="Jonathan Williams Houses is nearby to Williamsburg and Navy Yard. Jonathan Williams Houses, New York from Mapcarta, the free map." />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="application-name" content="Mapcarta" />
+<meta name="apple-mobile-web-app-title" content="Mapcarta" />
+<meta property="og:url" content="https://mapcarta.com/25009724" />
+<meta property="og:image" content="https://farm1.staticflickr.com/844/41747372900_2e260ca251_b.jpg" />
+<meta property="og:image" content="https://farm1.staticflickr.com/836/42348616204_1583aa3ee3_b.jpg" />
+<meta property="og:image" content="https://farm1.staticflickr.com/925/42685668664_b497886ae5_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1772/43020531111_d8a6691d87_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1783/42061593725_e41d4cb369_b.jpg" />
+<meta property="og:title" content="Jonathan Williams Houses" />
+<meta property="og:description" content="Jonathan Williams Houses is nearby to Williamsburg and Navy Yard. Jonathan Williams Houses, New York from Mapcarta, the free map." />
+<meta property="og:site_name" content="Mapcarta" />
+<meta name="ICBM" content="40.70778, -73.96" />
+<meta name="geo.position" content="40.70778;-73.96" />
+<meta name="geo.placename" content="Jonathan Williams Houses" />
+<link rel="canonical" href="https://mapcarta.com/25009724" />
+<link rel="alternate" hreflang="de" href="https://mapcarta.com/de/25009724" />
+<link rel="alternate" hreflang="es" href="https://mapcarta.com/es/25009724" />
+<link rel="alternate" hreflang="fr" href="https://mapcarta.com/fr/25009724" />
+<link rel="alternate" hreflang="it" href="https://mapcarta.com/it/25009724" />
+<link rel="alternate" hreflang="pt" href="https://mapcarta.com/pt/25009724" />
+<title>Jonathan Williams Houses Map - New York - Mapcarta</title>
+<script>
+var rosetta = {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"weekdays":["Su","Mo","Tu","We","Th","Fr","Sa"],"units":["meter","meters","mile","miles","foot","feet","second","seconds","minute","minutes","hour","hours"],"interface":["Search","Loading","Searching","of","Improve this map","and","Locations and directions are provided by *, and are copyrighted.","View on the map"],"titles":["* Map","* Directions","* Hotels","Hotels Near *","* Photos","Photos Near *"],"atlas":["Standard","Satellite","Traffic","Driving","Bicycling","Walking"],"label":["Localities","Attractions","Natural","Transport","Water","Hotels","Other"],"itinerary":["Enter your trip details","to find hotel deals and availability","for directions","Use the map to set your destination","Change trip details"],"searching":["Searching *","Select this recommended site","Select these two recommended sites","Select your 2 preferred sites","to show *","* hotels","We recommend *","for hotels in *.","You've chosen * recommended hotel sites."],"hotels":["My Destination","Travel Dates","Guest","Guests","Search Hotels","Find your ideal hotel","in *"],"photography":["Photos provided by * under the copyright of their owners.","Copyright","* uses the Flickr API but is not endorsed or certified by Flickr.","Please contact us if you'd prefer to remove your Flickr photos from *."],"fail":["An error occurred.","Your trip details are incomplete.","Please try again.","We couldn't locate your start or end point.","We couldn't find a route between those places.","Your start and end points are too far apart.","No photos are available for this place."],"aboutsite":"About Mapcarta"};
+var phase = 0, queue = null, language = "en", sitename = "Mapcarta", siteurl = "mapcarta.com", abouturi = "About_Mapcarta", mapstyle = 0, testing = false, hasads = [true,true,true,true,true,true], gplace = false, monday = false, country = "us", separators = [".",","], mbtoken = "pk.eyJ1IjoiY3licml3c2t5IiwiYSI6ImNqZ3k3c2UxajEwMmsyd280dzk4azM0NTcifQ.78YbjrPjSONzuqWG4-CIGA", viewnames = {"photo":"Photos","stay":"Hotels","results":"Search","map":"Map","plot":"Directions","driving":"Driving","cycling":"Bicycling","walking":"Walking","main":"Overview","album":"Gallery"}, routes = ["driving","cycling","walking"], pageid = "25009724", searchvalue = "Search", viewtype = "main", albumid = null, plotmode = 0, present = [19,11,2018], checkin = [30,11,2018], checkout = [2,12,2018], guests = 2, pages = {};
+/* start import */pages[pageid] = {
+	"pagename":"Jonathan Williams Houses",
+	"pageuri":"25009724",
+	"tongue":null,
+	"lat":40.70778,
+	"lng":-73.96,
+	"zoom":13,
+	"islocation":true,
+	"mappable":true,
+	"hyperlocal":true,
+	"markerclass":19,
+	"imperial":true,
+	"country":"United States",
+	"locality":true,
+	"landmark":false,
+	"feature":"populated place",
+	"featureclass":"p",
+	"hotelplace":false,
+	"maintitle":"Jonathan Williams Houses Map - New York - Mapcarta",
+	"mapsummary":"<a onclick=\"act('main'); return false;\" href=\"/25009724\" title=\"Jonathan Williams Houses\" rel=\"noopener\">Jonathan Williams Houses</a> is nearby to <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/22634838\" title=\"Williamsburg\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Williamsburg</span></a></span> and <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/29218634\" title=\"Navy Yard\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Navy Yard</span></a></span>.",
+	"spot":"New_York_City",
+	"spots":{"New_York_City":"New York, New York","Weehawken":"Weehawken, New Jersey (5 miles northwest)","Jersey_City":"Jersey City, New Jersey (6 miles west)","Hoboken":"Hoboken, New Jersey (4\u00bd miles northwest)","Secaucus":"Secaucus, New Jersey (8 miles northwest)"},
+	"ph0t0s":["25009724"],
+	"photodata":{"25009724":["25009724","25009724","40.70778,-73.96,13"]},
+	"pics":{"25009724":[{"id":41747372900,"secret":"2e260ca251","server":844,"farm":1,"title":"Fog Bridge at Domino Park","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"98411817@N00","ownername":"Zach K"},{"id":42348616204,"secret":"1583aa3ee3","server":836,"farm":1,"title":"Manhattan view from North Fifth Street Pier Park, Williamsburg \/ Brooklyn","ratio":1.4970000000000001083577672034152783453464508056640625,"owner":"38743501@N08","ownername":"SomePhotosTakenByMe"},{"id":42685668664,"secret":"b497886ae5","server":925,"farm":1,"title":"Domino Park","ratio":1.612999999999999989341858963598497211933135986328125,"owner":"13280307@N05","ownername":"Arun Sundar"},{"id":43020531111,"secret":"d8a6691d87","server":1772,"farm":2,"title":"Holy Ghost Ukrainian Catholic church - Williamsburg \/ Brooklyn","ratio":0.6870000000000000550670620214077644050121307373046875,"owner":"38743501@N08","ownername":"SomePhotosTakenByMe"},{"id":42061593725,"secret":"e41d4cb369","server":1783,"farm":2,"title":"Williamsburg, NY","ratio":1.8449999999999999733546474089962430298328399658203125,"owner":"22276110@N02","ownername":"lotosleo"},{"id":42917273172,"secret":"06c46d3643","server":1833,"farm":2,"title":"Murals in Williamsburg \/ Brooklyn","ratio":1.4970000000000001083577672034152783453464508056640625,"owner":"38743501@N08","ownername":"SomePhotosTakenByMe"},{"id":42913751422,"secret":"6a0c375195","server":1774,"farm":2,"title":"East River, NYC","ratio":1.854999999999999982236431605997495353221893310546875,"owner":"22276110@N02","ownername":"lotosleo"},{"id":28198780557,"secret":"74bf2bd956","server":844,"farm":1,"title":"Williamsburg Bridge, New York City","ratio":1.6279999999999998916422327965847216546535491943359375,"owner":"38743501@N08","ownername":"SomePhotosTakenByMe"},{"id":28825089418,"secret":"5b95a00cc9","server":1754,"farm":2,"title":"BKfoxx brooklyn","ratio":1.544000000000000039079850466805510222911834716796875,"owner":"36426732@N05","ownername":"ZUCCONY"},{"id":43139826822,"secret":"419819d0e0","server":1764,"farm":2,"title":"Street art in Brooklyn","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"142995416@N07","ownername":"erichudson78"},{"id":26266421396,"secret":"d2e153e7f4","server":1705,"farm":2,"title":"lee avenue","ratio":1,"owner":"28668614@N07","ownername":"pete gardner"},{"id":41799372485,"secret":"421c6954fc","server":1724,"farm":2,"title":"BKFoxx Bears In Brooklyn","ratio":1.3859999999999998987476601541857235133647918701171875,"owner":"36426732@N05","ownername":"ZUCCONY"},{"id":29460900808,"secret":"e421f586fa","server":1807,"farm":2,"title":"on Metropolitan Avenue, Williamsburg - Brooklyn","ratio":1.072999999999999953814722175593487918376922607421875,"owner":"144857780@N02","ownername":"V-A-B"},{"id":43687510742,"secret":"f0e69954c2","server":861,"farm":1,"title":"Love Me Love Me","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"51035555243@N01","ownername":"Thomas Hawk"},{"id":10292201104,"secret":"3cb9ab444c","server":3770,"farm":4,"title":"Too Early to Tipple","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"33255932@N04","ownername":"Eddie C3"},{"id":41520932160,"secret":"745b6aff30","server":1782,"farm":2,"title":"on Havemeyer Street, Williamsburg - Brooklyn","ratio":1.0549999999999999378275106209912337362766265869140625,"owner":"144857780@N02","ownername":"V-A-B"},{"id":42182300634,"secret":"27fce23313","server":899,"farm":1,"title":"Domino Park","ratio":1.3329999999999999626965063725947402417659759521484375,"owner":"27403767@N00","ownername":"Scott Beale"}]}
+};/* end import */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create','UA-4656078-5');
+ga('set','anonymizeIp',true);
+function fields(a) { var i = pages[pageid]; if (i.islocation) { if (i.country) { a.dimension1 = i.country; } a.dimension2 = i.locality ? 'Locality' : (i.landmark ? 'Landmark' : 'Place'); a.dimension3 = i.feature; a.dimension4 = i.featureclass; } return a; }
+ga('send','pageview',fields({}));
+function domload() { if (phase < 2) { phase += 2; if (phase === 3) { initiate(); } } }
+if (document.addEventListener) { document.addEventListener('DOMContentLoaded',domload,false); }
+function act(i) { if (phase === 5) { launch(i); } else { queue = i; } }
+function noads() { if (hasads.length) { hasads = []; if (phase === 5) { setads(); } } }
+</script>
+<link rel="stylesheet" type="text/css" href="/static/874.css" />
+<link rel="shortcut icon" href="https://mapcarta.com/favicon.ico" />
+<link rel="apple-touch-icon" href="https://mapcarta.com/icons/appicon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://mapcarta.com/icons/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mapcarta.com/icons/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://mapcarta.com/icons/icon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://mapcarta.com/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://mapcarta.com/icons/icon-512.png">
+<script async src="/static/874.js"></script>
+</head>
+<body onload="domload();" class="pagemode mappage mainview" onclick="if (phase === 5) { checkclose(event); } return true;">
+<script id="adsscript" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noads();"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client:'ca-pub-3417291128493297',
+enable_page_level_ads:true
+});
+window.google_analytics_uacct = "UA-4656078-5";
+</script>
+<div id="pagebox">
+<div id="backbox">
+<div id="headbox">
+<a href="/" title="Mapcarta" class="pagelogo" rel="noopener"></a>
+<div class="searchbar"><form action="https://google.com/cse" onsubmit="if (phase === 5) { submitsearch(this); } return false;"><input type="hidden" name="cx" value="004731645928269741811:1t7of2uek1o" /><input type="hidden" name="ie" value="UTF-8" /><div class="searchsubmit"><input type="image" class="searcharea" src="/images/clear.gif" alt="Search" name="sa" /><span class="ikon searchicon"></span></div><input class="searchfield" name="q" maxlength="47" value="Search" onfocus="this.value = '';" onblur="if (!this.value) { this.value = searchvalue; }" autocomplete="off" /></form></div>
+<div class="stayleader">Hotels</div>
+</div>
+<div class="helmbox">
+<div class="helmdouble firstblock"><div class="mainbutton helmblock"><a onclick="act('main'); return false;" href="/25009724" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></div><div class="mapbutton helmblock helmright"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div></div>
+<div class="helmdouble lastblock"><div class="staybutton helmblock"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div><div class="photobutton helmblock helmright"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mainbutton"><a onclick="act('main'); return false;" href="/25009724" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></span><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div>
+<div id="breadcrumbs">
+<!-- start breadcrumbs -->
+<div class="pillbox" itemscope itemtype="https://schema.org/BreadcrumbList">
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/North_America" title="North America" class="pill" itemprop="item" rel="noopener"><span itemprop="name">North America</span><meta itemprop="position" content="1" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/United_States_of_America" title="United States" class="pill" itemprop="item" rel="noopener"><span itemprop="name">USA</span><meta itemprop="position" content="2" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/Mid-Atlantic" title="Mid-Atlantic" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Mid-Atlantic</span><meta itemprop="position" content="3" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/New_York_%28state%29" title="New York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">New York</span><meta itemprop="position" content="4" /></a></span>
+<div class="clearboth"></div>
+</div>
+<!-- end breadcrumbs -->
+</div>
+<div id="mainbox" itemscope itemtype="https://schema.org/AdministrativeArea">
+<!-- start mainbox -->
+<h1><span itemprop="name">Jonathan Williams Houses</span></h1>
+<div id="topbox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<div class="pod backdrop podback"><div class="headpouch icyshade"><span itemprop="description">Jonathan Williams Houses is southwest of <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22634838" title="Williamsburg" itemprop="url" rel="noopener"><span itemprop="name">Williamsburg</span></a></span>, northeast of <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29218634" title="Navy Yard" itemprop="url" rel="noopener"><span itemprop="name">Navy Yard</span></a></span> and northwest of <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25009728" title="Marcy Houses" itemprop="url" rel="noopener"><span itemprop="name">Marcy Houses</span></a></span>.</span></div><div class="tailpouch"><div class="helmdouble firstblock"><div class="mapbutton helmblock"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div><div class="staybutton helmblock helmright"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div></div>
+<div class="helmdouble lastblock"><div class="photobutton helmblock"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div></div>
+<div id="blurb0" class="plug"></div>
+<h2 id="photoheading">Jonathan Williams Houses Photos</h2>
+<div id="corebox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<h2>Jonathan Williams Houses</h2>
+<div class="pod pouch shaded"><ul>
+<li>Location:&nbsp; <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_%28state%29" title="New York" itemprop="url" rel="noopener"><span itemprop="name">New York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Mid-Atlantic" title="Mid-Atlantic" itemprop="url" rel="noopener"><span itemprop="name">Mid-Atlantic</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/United_States_of_America" title="United States" itemprop="url" rel="noopener"><span itemprop="name">United States</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/North_America" title="North America" itemprop="url" rel="noopener"><span itemprop="name">North America</span></a></span></li>
+<li>Latitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="latitude">40°&nbsp;42'&nbsp;28" (40.7078°) north</span></span></li>
+<li>Longitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="longitude">73°&nbsp;57'&nbsp;36" (73.96°) west</span></span></li>
+<li>Elevation:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="elevation">46 feet (14 meters)</span></span></li>
+</ul></div>
+<h2>New York Hotels</h2>
+<div class="subline texthue"><b class="hue">✓</b> Find your ideal hotel in New York</div>
+<div class="pod stayform backdrop stayback"><div class="pouch frostyshade"><form onsubmit="act('Preset Search'); return false;"><div class="formarea"><div class="formdetails"><div class="formdate formspaced"><div class="forminfo">Travel Dates</div><div class="formbase"><input value="11/30 – 12/2" id="spreadcal" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" readonly="readonly" /></div></div><div class="formguests formspaced"><div class="forminfo">Guests</div><div class="formbase"><input value="2" id="spreadguests" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" size="1" maxlength="1" /></div></div></div><div class="formbutton"><a onclick="act('Preset Search'); return false;" title="Search Hotels" class="button" rel="noopener"><span class="formcut"><span class="withicon"><span class="ikon whitesearchicon"></span>Search<wbr /> Hotels</span></span></a></div></div></form></div></div>
+<h2>Maps of Jonathan Williams Houses</h2>
+<div class="pod pouch shaded"><ul>
+<li><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.openstreetmap.org/#map=13/40.70778/-73.96" title="OpenStreetMap" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon osmicon"></span>OpenStreetMap</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.google.com/maps/@40.70778,-73.96,13z" title="Google Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon gmapsicon"></span>Google Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://wego.here.com/?map=40.70778,-73.96,13" title="Here WeGo" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon hereicon"></span>Here WeGo</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.bing.com/maps/?cp=40.70778~-73.96&amp;lvl=13&amp;where1=Jonathan+Williams+Houses" title="Bing Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon bingicon"></span>Bing Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.mapquest.com/?center=40.70778,-73.96&amp;zoom=13" title="MapQuest" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon mapquesticon"></span>MapQuest</span></a></span></li>
+</ul></div>
+<h2>Localities in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22634838" title="Williamsburg" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Williamsburg</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29218634" title="Navy Yard" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Navy Yard</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25009728" title="Marcy Houses" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Marcy Houses</span>&nbsp; <span class="addendum texthue">1 mile southeast</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010590" title="Williamsburg Houses" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Williamsburg Houses</span>&nbsp; <span class="addendum texthue">1 mile east</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22573170" title="Corlears Hook" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Corlears Hook</span>&nbsp; <span class="addendum texthue">Cape, 1 mile west</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Brooklyn/Williamsburg" title="Williamsburg" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Williamsburg</span>&nbsp; <span class="addendum texthue">1 mile northeast</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22581000" title="Fort Greene" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Fort Greene</span>&nbsp; <span class="addendum texthue">1 mile south</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Landmarks in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26668218" title="Sobel Green" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Sobel Green</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26668210" title="Marcy Park South" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Marcy Park South</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26668216" title="Roebling Playground" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Roebling Playground</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26668202" title="Marcy Green South" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Marcy Green South</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26668208" title="Rodney Park South" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rodney Park South</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26668206" title="Rodney Park Center" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rodney Park Center</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25042524" title="Washington Plaza" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Washington Plaza</span>&nbsp; <span class="addendum texthue">Park</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Popular Destinations in <span itemprop="name">New York</span></h2>
+<div class="pod pouch shaded"><div itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><div class="pillbox">
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_City" title="New York City" class="pill" itemprop="url" rel="noopener"><span itemprop="name">New York City</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Buffalo" title="Buffalo" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Buffalo</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan" title="Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Manhattan</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Rochester_%28New_York%29" title="Rochester" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rochester</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Binghamton" title="Binghamton" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Binghamton</span></a></span>
+<div class="clearboth"></div>
+</div>
+<meta itemprop="url" content="https://mapcarta.com/New_York_%28state%29" /></div></div>
+<h2>Escape to a Random Place</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Milos" title="Milos" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Milos</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Sousse" title="Sousse" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Sousse</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Oradea" title="Oradea" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Oradea</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Mendoza" title="Mendoza" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Mendoza</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Cartagena_%28Colombia%29" title="Cartagena" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Cartagena</span><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="blurb1" class="plug"></div>
+<h2>Your World is Without Borders</h2>
+<div class="pod pouch shaded"><div class="languagelist"><a href="/de/25009724" title="Deutsch" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon deicon"></span>Deutsch</span></a><a href="/es/25009724" title="Español" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon esicon"></span>Español</span></a><a href="/fr/25009724" title="Français" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon fricon"></span>Français</span></a><a href="/it/25009724" title="Italiano" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon iticon"></span>Italiano</span></a><a href="/pt/25009724" title="Português" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon pticon"></span>Português</span></a></div></div>
+<div class="spacer3"></div>
+<div class="pod pouch footerpod"><a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" class="cclink" rel="noopener"><span class="cclogo"></span></a>Text is available under the <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" rel="noopener">Creative Commons Attribution-ShareAlike License</a>, excluding photos, directions and the map.<div class="spacer1"></div><a href="/About_Mapcarta" title="About Mapcarta" rel="noopener">About Mapcarta</a>. Thanks to <a target="_blank" href="https://www.mapbox.com" title="Mapbox" rel="noopener">Mapbox</a> for providing amazing maps. Photos provided by <a target="_blank" href="https://www.flickr.com" title="Flickr" rel="noopener">Flickr</a> under the copyright of their owners. Mapcarta uses the Flickr API but is not endorsed or certified by Flickr. Please contact us if you'd prefer to remove your Flickr photos from Mapcarta.<meta itemprop="image" content="https://farm1.staticflickr.com/844/41747372900_2e260ca251_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/836/42348616204_1583aa3ee3_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/925/42685668664_b497886ae5_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1772/43020531111_d8a6691d87_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1783/42061593725_e41d4cb369_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1833/42917273172_06c46d3643_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1774/42913751422_6a0c375195_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/844/28198780557_74bf2bd956_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1754/28825089418_5b95a00cc9_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1764/43139826822_419819d0e0_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1705/26266421396_d2e153e7f4_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1724/41799372485_421c6954fc_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1807/29460900808_e421f586fa_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/861/43687510742_f0e69954c2_b.jpg" /><meta itemprop="image" content="https://farm4.staticflickr.com/3770/10292201104_3cb9ab444c_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1782/41520932160_745b6aff30_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/899/42182300634_27fce23313_b.jpg" /></div>
+<!-- end mainbox -->
+</div>
+<div id="hotelbox"></div>
+<div id="resultsbox"></div>
+<div id="noticebox"></div>
+<div id="photobox"></div>
+<div id="plotbox"></div>
+</div>
+</div>
+<div id="mapbox" class="pick0"></div>
+<div id="albumbox"></div>
+<div id="checksplit" class="checkunit"></div>
+<div id="checkmini" class="checkunit"></div>
+<div id="checksingle" class="checkunit"></div>
+<div id="checkad" class="checkunit"></div>
+<div id="checkphoto" class="checkunit"></div>
+<!-- Complete -->
+</body>
+</html>

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://api.mapbox.com" />
+<link rel="dns-prefetch" href="https://a.tiles.mapbox.com" />
+<link rel="dns-prefetch" href="https://b.tiles.mapbox.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="description" content="Trinity Park is a park and is nearby to Vinegar Hill and Downtown Brooklyn. Trinity Park from Mapcarta, the free map." />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="application-name" content="Mapcarta" />
+<meta name="apple-mobile-web-app-title" content="Mapcarta" />
+<meta property="og:url" content="https://mapcarta.com/26670504" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1858/43571321795_e9b37f581f_b.jpg" />
+<meta property="og:image" content="https://farm8.staticflickr.com/7471/15216990714_b83967f6b6_b.jpg" />
+<meta property="og:image" content="https://farm4.staticflickr.com/3770/9561042307_5d63f7fe3d_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1802/28326116517_30a698ebef_b.jpg" />
+<meta property="og:image" content="https://farm9.staticflickr.com/8693/16991415932_1caf2008ff_b.jpg" />
+<meta property="og:title" content="Trinity Park" />
+<meta property="og:description" content="Trinity Park is a park and is nearby to Vinegar Hill and Downtown Brooklyn. Trinity Park from Mapcarta, the free map." />
+<meta property="og:site_name" content="Mapcarta" />
+<meta name="ICBM" content="40.69889, -73.98417" />
+<meta name="geo.position" content="40.69889;-73.98417" />
+<meta name="geo.placename" content="Trinity Park" />
+<link rel="canonical" href="https://mapcarta.com/26670504" />
+<link rel="alternate" hreflang="de" href="https://mapcarta.com/de/26670504" />
+<link rel="alternate" hreflang="es" href="https://mapcarta.com/es/26670504" />
+<link rel="alternate" hreflang="fr" href="https://mapcarta.com/fr/26670504" />
+<link rel="alternate" hreflang="it" href="https://mapcarta.com/it/26670504" />
+<link rel="alternate" hreflang="pt" href="https://mapcarta.com/pt/26670504" />
+<title>Trinity Park Map - New York - Mapcarta</title>
+<script>
+var rosetta = {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"weekdays":["Su","Mo","Tu","We","Th","Fr","Sa"],"units":["meter","meters","mile","miles","foot","feet","second","seconds","minute","minutes","hour","hours"],"interface":["Search","Loading","Searching","of","Improve this map","and","Locations and directions are provided by *, and are copyrighted.","View on the map"],"titles":["* Map","* Directions","* Hotels","Hotels Near *","* Photos","Photos Near *"],"atlas":["Standard","Satellite","Traffic","Driving","Bicycling","Walking"],"label":["Localities","Attractions","Natural","Transport","Water","Hotels","Other"],"itinerary":["Enter your trip details","to find hotel deals and availability","for directions","Use the map to set your destination","Change trip details"],"searching":["Searching *","Select this recommended site","Select these two recommended sites","Select your 2 preferred sites","to show *","* hotels","We recommend *","for hotels in *.","You've chosen * recommended hotel sites."],"hotels":["My Destination","Travel Dates","Guest","Guests","Search Hotels","Find your ideal hotel","in *"],"photography":["Photos provided by * under the copyright of their owners.","Copyright","* uses the Flickr API but is not endorsed or certified by Flickr.","Please contact us if you'd prefer to remove your Flickr photos from *."],"fail":["An error occurred.","Your trip details are incomplete.","Please try again.","We couldn't locate your start or end point.","We couldn't find a route between those places.","Your start and end points are too far apart.","No photos are available for this place."],"aboutsite":"About Mapcarta"};
+var phase = 0, queue = null, language = "en", sitename = "Mapcarta", siteurl = "mapcarta.com", abouturi = "About_Mapcarta", mapstyle = 0, testing = false, hasads = [true,true,true,true,true,true], gplace = false, monday = false, country = "us", separators = [".",","], mbtoken = "pk.eyJ1IjoiY3licml3c2t5IiwiYSI6ImNqZ3k3c2UxajEwMmsyd280dzk4azM0NTcifQ.78YbjrPjSONzuqWG4-CIGA", viewnames = {"photo":"Photos","stay":"Hotels","results":"Search","map":"Map","plot":"Directions","driving":"Driving","cycling":"Bicycling","walking":"Walking","main":"Overview","album":"Gallery"}, routes = ["driving","cycling","walking"], pageid = "26670504", searchvalue = "Search", viewtype = "main", albumid = null, plotmode = 0, present = [19,11,2018], checkin = [30,11,2018], checkout = [2,12,2018], guests = 2, pages = {};
+/* start import */pages[pageid] = {
+	"pagename":"Trinity Park",
+	"pageuri":"26670504",
+	"tongue":null,
+	"lat":40.69889,
+	"lng":-73.98417,
+	"zoom":13,
+	"islocation":true,
+	"mappable":true,
+	"hyperlocal":true,
+	"markerclass":13,
+	"imperial":true,
+	"country":"United States",
+	"locality":false,
+	"landmark":true,
+	"feature":"park",
+	"featureclass":"n",
+	"hotelplace":false,
+	"maintitle":"Trinity Park Map - New York - Mapcarta",
+	"mapsummary":"<a onclick=\"act('main'); return false;\" href=\"/26670504\" title=\"Trinity Park\" rel=\"noopener\">Trinity Park</a> is a park and is nearby to <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/25010708\" title=\"Vinegar Hill\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Vinegar Hill</span></a></span> and <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/Brooklyn/Downtown\" title=\"Downtown Brooklyn\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Downtown Brooklyn</span></a></span>.",
+	"spot":"New_York_City",
+	"spots":{"New_York_City":"New York, New York","Weehawken":"Weehawken, New Jersey (5 miles north)","Jersey_City":"Jersey City, New Jersey (5 miles west)","Hoboken":"Hoboken, New Jersey (4 miles northwest)","Secaucus":"Secaucus, New Jersey (7 miles northwest)"},
+	"ph0t0s":["26670504"],
+	"photodata":{"26670504":["26670504","26670504","40.69889,-73.98417,13"]},
+	"pics":{"26670504":[{"id":43571321795,"secret":"e9b37f581f","server":1858,"farm":2,"title":"Brooklyn Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"161400164@N05","ownername":"alvarolsalmeida"},{"id":15216990714,"secret":"b83967f6b6","server":7471,"farm":8,"title":"Heart of the City","ratio":2,"owner":"31536158@N02","ownername":"Nick Burwell"},{"id":9561042307,"secret":"5d63f7fe3d","server":3770,"farm":4,"title":"Manhattan Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"51035555243@N01","ownername":"Thomas Hawk"},{"id":28326116517,"secret":"30a698ebef","server":1802,"farm":2,"title":"New York City - Brooklyn Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"133876835@N08","ownername":"Michael.Kemper"},{"id":16991415932,"secret":"1caf2008ff","server":8693,"farm":9,"title":"Spending the night by the Brooklyn Bridge","ratio":1.6310000000000000053290705182007513940334320068359375,"owner":"95796241@N02","ownername":"Apostolis Giontzis"},{"id":29177493537,"secret":"16883f646c","server":1896,"farm":2,"title":"Cielos frios","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"68018236@N03","ownername":"Miradortigre"},{"id":7416595938,"secret":"55b833f17d","server":8006,"farm":9,"title":"The Brooklyn Bridge","ratio":1.500999999999999889865875957184471189975738525390625,"owner":"36303794@N02","ownername":"Grant Mattice Photography"},{"id":29340729138,"secret":"677a7c33ed","server":1764,"farm":2,"title":"East River fish","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"142995416@N07","ownername":"erichudson78"},{"id":45094596762,"secret":"2bdd6f6684","server":1947,"farm":2,"title":"Manhattan and Brooklyn Bridge","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"62624361@N03","ownername":"Tube S\u00e9boom"},{"id":44765463282,"secret":"82910d6135","server":1896,"farm":2,"title":"New York City","ratio":1.3360000000000000763833440942107699811458587646484375,"owner":"87636307@N04","ownername":"Themarrero"}]}
+};/* end import */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create','UA-4656078-5');
+ga('set','anonymizeIp',true);
+function fields(a) { var i = pages[pageid]; if (i.islocation) { if (i.country) { a.dimension1 = i.country; } a.dimension2 = i.locality ? 'Locality' : (i.landmark ? 'Landmark' : 'Place'); a.dimension3 = i.feature; a.dimension4 = i.featureclass; } return a; }
+ga('send','pageview',fields({}));
+function domload() { if (phase < 2) { phase += 2; if (phase === 3) { initiate(); } } }
+if (document.addEventListener) { document.addEventListener('DOMContentLoaded',domload,false); }
+function act(i) { if (phase === 5) { launch(i); } else { queue = i; } }
+function noads() { if (hasads.length) { hasads = []; if (phase === 5) { setads(); } } }
+</script>
+<link rel="stylesheet" type="text/css" href="/static/874.css" />
+<link rel="shortcut icon" href="https://mapcarta.com/favicon.ico" />
+<link rel="apple-touch-icon" href="https://mapcarta.com/icons/appicon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://mapcarta.com/icons/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mapcarta.com/icons/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://mapcarta.com/icons/icon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://mapcarta.com/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://mapcarta.com/icons/icon-512.png">
+<script async src="/static/874.js"></script>
+</head>
+<body onload="domload();" class="pagemode mappage mainview" onclick="if (phase === 5) { checkclose(event); } return true;">
+<script id="adsscript" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noads();"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client:'ca-pub-3417291128493297',
+enable_page_level_ads:true
+});
+window.google_analytics_uacct = "UA-4656078-5";
+</script>
+<div id="pagebox">
+<div id="backbox">
+<div id="headbox">
+<a href="/" title="Mapcarta" class="pagelogo" rel="noopener"></a>
+<div class="searchbar"><form action="https://google.com/cse" onsubmit="if (phase === 5) { submitsearch(this); } return false;"><input type="hidden" name="cx" value="004731645928269741811:1t7of2uek1o" /><input type="hidden" name="ie" value="UTF-8" /><div class="searchsubmit"><input type="image" class="searcharea" src="/images/clear.gif" alt="Search" name="sa" /><span class="ikon searchicon"></span></div><input class="searchfield" name="q" maxlength="47" value="Search" onfocus="this.value = '';" onblur="if (!this.value) { this.value = searchvalue; }" autocomplete="off" /></form></div>
+<div class="stayleader">Hotels</div>
+</div>
+<div class="helmbox">
+<div class="helmdouble firstblock"><div class="mainbutton helmblock"><a onclick="act('main'); return false;" href="/26670504" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></div><div class="mapbutton helmblock helmright"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div></div>
+<div class="helmdouble lastblock"><div class="staybutton helmblock"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div><div class="photobutton helmblock helmright"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mainbutton"><a onclick="act('main'); return false;" href="/26670504" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></span><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div>
+<div id="breadcrumbs">
+<!-- start breadcrumbs -->
+<div class="pillbox" itemscope itemtype="https://schema.org/BreadcrumbList">
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/North_America" title="North America" class="pill" itemprop="item" rel="noopener"><span itemprop="name">North America</span><meta itemprop="position" content="1" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/United_States_of_America" title="United States" class="pill" itemprop="item" rel="noopener"><span itemprop="name">USA</span><meta itemprop="position" content="2" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/Mid-Atlantic" title="Mid-Atlantic" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Mid-Atlantic</span><meta itemprop="position" content="3" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/New_York_%28state%29" title="New York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">New York</span><meta itemprop="position" content="4" /></a></span>
+<div class="clearboth"></div>
+</div>
+<!-- end breadcrumbs -->
+</div>
+<div id="mainbox" itemscope itemtype="https://schema.org/Place">
+<!-- start mainbox -->
+<h1><span itemprop="name">Trinity Park</span></h1>
+<div class="pod backdrop podback"><div class="headpouch icyshade"><span itemprop="description">Trinity Park is a park and is nearby to <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010708" title="Vinegar Hill" itemprop="url" rel="noopener"><span itemprop="name">Vinegar Hill</span></a></span>, <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Brooklyn/Downtown" title="Downtown Brooklyn" itemprop="url" rel="noopener"><span itemprop="name">Downtown Brooklyn</span></a></span> and <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29167264" title="Dumbo" itemprop="url" rel="noopener"><span itemprop="name">Dumbo</span></a></span>. Trinity Park is also close to <span itemscope itemtype="https://schema.org/Place"><a href="/26670502" title="Golconda Playground" itemprop="url" rel="noopener"><span itemprop="name">Golconda Playground</span></a></span>, <span itemscope itemtype="https://schema.org/Place"><a href="/26670520" title="Weinburg Triangle" itemprop="url" rel="noopener"><span itemprop="name">Weinburg Triangle</span></a></span> and <span itemscope itemtype="https://schema.org/Place"><a href="/26670518" title="McLaughlin Park" itemprop="url" rel="noopener"><span itemprop="name">McLaughlin Park</span></a></span>. Trinity Park has an elevation of 56 feet.</span></div><div class="tailpouch"><div class="helmdouble firstblock"><div class="mapbutton helmblock"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div><div class="staybutton helmblock helmright"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div></div>
+<div class="helmdouble lastblock"><div class="photobutton helmblock"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div></div>
+<div id="blurb0" class="plug"></div>
+<h2 id="photoheading">Photos Near Trinity Park</h2>
+<div id="corebox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<h2>Trinity Park</h2>
+<div class="pod pouch shaded"><ul>
+<li>Type:&nbsp; park</li>
+<li>Location:&nbsp; <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_%28state%29" title="New York" itemprop="url" rel="noopener"><span itemprop="name">New York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Mid-Atlantic" title="Mid-Atlantic" itemprop="url" rel="noopener"><span itemprop="name">Mid-Atlantic</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/United_States_of_America" title="United States" itemprop="url" rel="noopener"><span itemprop="name">United States</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/North_America" title="North America" itemprop="url" rel="noopener"><span itemprop="name">North America</span></a></span></li>
+<li>Latitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="latitude">40°&nbsp;41'&nbsp;56" (40.6989°) north</span></span></li>
+<li>Longitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="longitude">73°&nbsp;59'&nbsp;3" (73.9842°) west</span></span></li>
+<li>Elevation:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="elevation">56 feet (17 meters)</span></span></li>
+</ul></div>
+<h2>New York Hotels</h2>
+<div class="subline texthue"><b class="hue">✓</b> Find your ideal hotel in New York</div>
+<div class="pod stayform backdrop stayback"><div class="pouch frostyshade"><form onsubmit="act('Preset Search'); return false;"><div class="formarea"><div class="formdetails"><div class="formdate formspaced"><div class="forminfo">Travel Dates</div><div class="formbase"><input value="11/30 – 12/2" id="spreadcal" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" readonly="readonly" /></div></div><div class="formguests formspaced"><div class="forminfo">Guests</div><div class="formbase"><input value="2" id="spreadguests" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" size="1" maxlength="1" /></div></div></div><div class="formbutton"><a onclick="act('Preset Search'); return false;" title="Search Hotels" class="button" rel="noopener"><span class="formcut"><span class="withicon"><span class="ikon whitesearchicon"></span>Search<wbr /> Hotels</span></span></a></div></div></form></div></div>
+<h2>Maps of Trinity Park</h2>
+<div class="pod pouch shaded"><ul>
+<li><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.openstreetmap.org/#map=13/40.69889/-73.98417" title="OpenStreetMap" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon osmicon"></span>OpenStreetMap</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.google.com/maps/@40.69889,-73.98417,13z" title="Google Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon gmapsicon"></span>Google Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://wego.here.com/?map=40.69889,-73.98417,13" title="Here WeGo" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon hereicon"></span>Here WeGo</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.bing.com/maps/?cp=40.69889~-73.98417&amp;lvl=13&amp;where1=Trinity+Park" title="Bing Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon bingicon"></span>Bing Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.mapquest.com/?center=40.69889,-73.98417&amp;zoom=13" title="MapQuest" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon mapquesticon"></span>MapQuest</span></a></span></li>
+</ul></div>
+<h2>Localities in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/25010708" title="Vinegar Hill" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Vinegar Hill</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Brooklyn/Downtown" title="Downtown Brooklyn" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Downtown Brooklyn</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29167264" title="Dumbo" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Dumbo</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Brooklyn" title="Brooklyn" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Brooklyn</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/36023548" title="Fulton Ferry" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Fulton Ferry</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22566296" title="Brooklyn Heights" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Brooklyn Heights</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29218634" title="Navy Yard" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Navy Yard</span>&nbsp; <span class="addendum texthue">4200 feet east</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Landmarks in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26670502" title="Golconda Playground" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Golconda Playground</span>&nbsp; <span class="addendum texthue">Park, 740 feet southeast</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26670520" title="Weinburg Triangle" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Weinburg Triangle</span>&nbsp; <span class="addendum texthue">Park, 940 feet south</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26670518" title="McLaughlin Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">McLaughlin Park</span>&nbsp; <span class="addendum texthue">Park, 1100 feet southwest</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26670500" title="Arbor Place" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Arbor Place</span>&nbsp; <span class="addendum texthue">Park, 1400 feet southeast</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25042350" title="Commodore John Barry Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Commodore John Barry Park</span>&nbsp; <span class="addendum texthue">Park, 1400 feet southeast</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22634508" title="Whitman Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Whitman Park</span>&nbsp; <span class="addendum texthue">Park, 1500 feet west</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26700784" title="Vinegar Hill Historic District" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Vinegar Hill Historic District</span>&nbsp; <span class="addendum texthue">Park, 1700 feet northeast</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Also in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/34906890" title="Chapel Street Veterans Healthcare Center" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Chapel Street Veterans Healthcare Center</span>&nbsp; <span class="addendum texthue">Building, 680 feet southwest</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25032274" title="Howard Building" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Howard Building</span>&nbsp; <span class="addendum texthue">Building, 740 feet southwest</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22591710" title="Intermediate/High School 265" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Intermediate/High School 265</span>&nbsp; <span class="addendum texthue">School, 960 feet east</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22611152" title="Public School 287" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Public School 287</span>&nbsp; <span class="addendum texthue">School, 960 feet east</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25020840" title="Saint James Cathedral" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Saint James Cathedral</span>&nbsp; <span class="addendum texthue">Church, 990 feet southwest</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/35986036" title="Kings County Distillery" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Kings County Distillery</span>&nbsp; <span class="addendum texthue">Brewery, 1100 feet east</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22611562" title="Public School 7" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Public School 7</span>&nbsp; <span class="addendum texthue">School, 1100 feet north</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Popular Destinations in <span itemprop="name">New York</span></h2>
+<div class="pod pouch shaded"><div itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><div class="pillbox">
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_City" title="New York City" class="pill" itemprop="url" rel="noopener"><span itemprop="name">New York City</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Buffalo" title="Buffalo" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Buffalo</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan" title="Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Manhattan</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Rochester_%28New_York%29" title="Rochester" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rochester</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Binghamton" title="Binghamton" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Binghamton</span></a></span>
+<div class="clearboth"></div>
+</div>
+<meta itemprop="url" content="https://mapcarta.com/New_York_%28state%29" /></div></div>
+<h2>Escape to a Random Place</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Lucerne" title="Lucerne" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Lucerne</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Austria" title="Austria" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Austria</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Dresden" title="Dresden" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Dresden</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Sintra" title="Sintra" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Sintra</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/G%C3%B6reme" title="Göreme" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Göreme</span><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="blurb1" class="plug"></div>
+<h2>Your World is Without Borders</h2>
+<div class="pod pouch shaded"><div class="languagelist"><a href="/de/26670504" title="Deutsch" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon deicon"></span>Deutsch</span></a><a href="/es/26670504" title="Español" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon esicon"></span>Español</span></a><a href="/fr/26670504" title="Français" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon fricon"></span>Français</span></a><a href="/it/26670504" title="Italiano" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon iticon"></span>Italiano</span></a><a href="/pt/26670504" title="Português" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon pticon"></span>Português</span></a></div></div>
+<div class="spacer3"></div>
+<div class="pod pouch footerpod"><a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" class="cclink" rel="noopener"><span class="cclogo"></span></a>Text is available under the <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" rel="noopener">Creative Commons Attribution-ShareAlike License</a>, excluding photos, directions and the map.<div class="spacer1"></div><a href="/About_Mapcarta" title="About Mapcarta" rel="noopener">About Mapcarta</a>. Thanks to <a target="_blank" href="https://www.mapbox.com" title="Mapbox" rel="noopener">Mapbox</a> for providing amazing maps. Photos provided by <a target="_blank" href="https://www.flickr.com" title="Flickr" rel="noopener">Flickr</a> under the copyright of their owners. Mapcarta uses the Flickr API but is not endorsed or certified by Flickr. Please contact us if you'd prefer to remove your Flickr photos from Mapcarta.<meta itemprop="image" content="https://farm2.staticflickr.com/1858/43571321795_e9b37f581f_b.jpg" /><meta itemprop="image" content="https://farm8.staticflickr.com/7471/15216990714_b83967f6b6_b.jpg" /><meta itemprop="image" content="https://farm4.staticflickr.com/3770/9561042307_5d63f7fe3d_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1802/28326116517_30a698ebef_b.jpg" /><meta itemprop="image" content="https://farm9.staticflickr.com/8693/16991415932_1caf2008ff_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1896/29177493537_16883f646c_b.jpg" /><meta itemprop="image" content="https://farm9.staticflickr.com/8006/7416595938_55b833f17d_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1764/29340729138_677a7c33ed_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1947/45094596762_2bdd6f6684_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1896/44765463282_82910d6135_b.jpg" /></div>
+<!-- end mainbox -->
+</div>
+<div id="hotelbox"></div>
+<div id="resultsbox"></div>
+<div id="noticebox"></div>
+<div id="photobox"></div>
+<div id="plotbox"></div>
+</div>
+</div>
+<div id="mapbox" class="pick0"></div>
+<div id="albumbox"></div>
+<div id="checksplit" class="checkunit"></div>
+<div id="checkmini" class="checkunit"></div>
+<div id="checksingle" class="checkunit"></div>
+<div id="checkad" class="checkunit"></div>
+<div id="checkphoto" class="checkunit"></div>
+<!-- Complete -->
+</body>
+</html>

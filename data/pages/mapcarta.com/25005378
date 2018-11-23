@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://api.mapbox.com" />
+<link rel="dns-prefetch" href="https://a.tiles.mapbox.com" />
+<link rel="dns-prefetch" href="https://b.tiles.mapbox.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="description" content="Graduate School and University Center City University of New York is an university and is nearby to Midtown East and Herald Square. From Mapcarta, the free map." />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="application-name" content="Mapcarta" />
+<meta name="apple-mobile-web-app-title" content="Mapcarta" />
+<meta property="og:url" content="https://mapcarta.com/25005378" />
+<meta property="og:image" content="https://farm3.staticflickr.com/2850/10649483054_899f54e872_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1808/28077661277_347e3ebd9d_b.jpg" />
+<meta property="og:image" content="https://farm6.staticflickr.com/5591/14478286954_80297e5f6d_b.jpg" />
+<meta property="og:image" content="https://farm1.staticflickr.com/840/43052581092_a92cb3bfba_b.jpg" />
+<meta property="og:image" content="https://farm2.staticflickr.com/1816/43054588615_155688cac3_b.jpg" />
+<meta property="og:title" content="Graduate School and University Center City University of New York" />
+<meta property="og:description" content="Graduate School and University Center City University of New York is an university and is nearby to Midtown East and Herald Square. From Mapcarta, the free map." />
+<meta property="og:site_name" content="Mapcarta" />
+<meta name="ICBM" content="40.74861, -73.98444" />
+<meta name="geo.position" content="40.74861;-73.98444" />
+<meta name="geo.placename" content="Graduate School and University Center City University of New York" />
+<link rel="canonical" href="https://mapcarta.com/25005378" />
+<link rel="alternate" hreflang="de" href="https://mapcarta.com/de/25005378" />
+<link rel="alternate" hreflang="es" href="https://mapcarta.com/es/25005378" />
+<link rel="alternate" hreflang="fr" href="https://mapcarta.com/fr/25005378" />
+<link rel="alternate" hreflang="it" href="https://mapcarta.com/it/25005378" />
+<link rel="alternate" hreflang="pt" href="https://mapcarta.com/pt/25005378" />
+<title>Graduate School and University Center City University of New York Map - New York - Mapcarta</title>
+<script>
+var rosetta = {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"weekdays":["Su","Mo","Tu","We","Th","Fr","Sa"],"units":["meter","meters","mile","miles","foot","feet","second","seconds","minute","minutes","hour","hours"],"interface":["Search","Loading","Searching","of","Improve this map","and","Locations and directions are provided by *, and are copyrighted.","View on the map"],"titles":["* Map","* Directions","* Hotels","Hotels Near *","* Photos","Photos Near *"],"atlas":["Standard","Satellite","Traffic","Driving","Bicycling","Walking"],"label":["Localities","Attractions","Natural","Transport","Water","Hotels","Other"],"itinerary":["Enter your trip details","to find hotel deals and availability","for directions","Use the map to set your destination","Change trip details"],"searching":["Searching *","Select this recommended site","Select these two recommended sites","Select your 2 preferred sites","to show *","* hotels","We recommend *","for hotels in *.","You've chosen * recommended hotel sites."],"hotels":["My Destination","Travel Dates","Guest","Guests","Search Hotels","Find your ideal hotel","in *"],"photography":["Photos provided by * under the copyright of their owners.","Copyright","* uses the Flickr API but is not endorsed or certified by Flickr.","Please contact us if you'd prefer to remove your Flickr photos from *."],"fail":["An error occurred.","Your trip details are incomplete.","Please try again.","We couldn't locate your start or end point.","We couldn't find a route between those places.","Your start and end points are too far apart.","No photos are available for this place."],"aboutsite":"About Mapcarta"};
+var phase = 0, queue = null, language = "en", sitename = "Mapcarta", siteurl = "mapcarta.com", abouturi = "About_Mapcarta", mapstyle = 0, testing = false, hasads = [true,true,true,true,true,true], gplace = false, monday = false, country = "us", separators = [".",","], mbtoken = "pk.eyJ1IjoiY3licml3c2t5IiwiYSI6ImNqZ3k3c2UxajEwMmsyd280dzk4azM0NTcifQ.78YbjrPjSONzuqWG4-CIGA", viewnames = {"photo":"Photos","stay":"Hotels","results":"Search","map":"Map","plot":"Directions","driving":"Driving","cycling":"Bicycling","walking":"Walking","main":"Overview","album":"Gallery"}, routes = ["driving","cycling","walking"], pageid = "25005378", searchvalue = "Search", viewtype = "main", albumid = null, plotmode = 0, present = [19,11,2018], checkin = [30,11,2018], checkout = [2,12,2018], guests = 2, pages = {};
+/* start import */pages[pageid] = {
+	"pagename":"Graduate School and University Center City University of New York",
+	"pageuri":"25005378",
+	"tongue":null,
+	"lat":40.74861,
+	"lng":-73.98444,
+	"zoom":13,
+	"islocation":true,
+	"mappable":true,
+	"hyperlocal":true,
+	"markerclass":12,
+	"imperial":true,
+	"country":"United States",
+	"locality":false,
+	"landmark":true,
+	"feature":"university",
+	"featureclass":"x",
+	"hotelplace":false,
+	"maintitle":"Graduate School and University Center City University of New York Map - New York - Mapcarta",
+	"mapsummary":"<a onclick=\"act('main'); return false;\" href=\"/25005378\" title=\"Graduate School and University Center City University of New York\" rel=\"noopener\">Graduate School and University Center City University of New York</a> is an university and is nearby to <span itemscope itemtype=\"https://schema.org/AdministrativeArea\"><a href=\"/Manhattan/Midtown_East\" title=\"Midtown East\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Midtown East</span></a></span> and <span itemscope itemtype=\"https://schema.org/Place\"><a href=\"/22586756\" title=\"Herald Square\" itemprop=\"url\" rel=\"noopener\"><span itemprop=\"name\">Herald Square</span></a></span>.",
+	"spot":"New_York_City",
+	"spots":{"New_York_City":"New York, New York","Weehawken":"Weehawken, New Jersey (2\u00bd miles northwest)","Jersey_City":"Jersey City, New Jersey (5 miles west)","Hoboken":"Hoboken, New Jersey (2\u00bd miles west)","Secaucus":"Secaucus, New Jersey (4\u00bd miles northwest)"},
+	"ph0t0s":["25005378"],
+	"photodata":{"25005378":["25005378","25005378","40.74861,-73.98444,13"]},
+	"pics":{"25005378":[{"id":10649483054,"secret":"899f54e872","server":2850,"farm":3,"title":"Flatiron District","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"26522673@N07","ownername":"Gary Burke."},{"id":28077661277,"secret":"347e3ebd9d","server":1808,"farm":2,"title":"Needle by the church - New York City","ratio":1.3890000000000000124344978758017532527446746826171875,"owner":"25582125@N04","ownername":"Andreas Komodromos"},{"id":14478286954,"secret":"80297e5f6d","server":5591,"farm":6,"title":"Empire State Building","ratio":1.080999999999999960920149533194489777088165283203125,"owner":"37390607@N02","ownername":"Bev Goodwin"},{"id":43052581092,"secret":"a92cb3bfba","server":840,"farm":1,"title":"Climb up - Flatiron, New York City","ratio":0.93000000000000004884981308350688777863979339599609375,"owner":"25582125@N04","ownername":"Andreas Komodromos"},{"id":43054588615,"secret":"155688cac3","server":1816,"farm":2,"title":"Turn to Clear Vision","ratio":1,"owner":"146832554@N06","ownername":"pom'."},{"id":29378041552,"secret":"7f1103bb34","server":8102,"farm":9,"title":"EmpireReflectionTwo","ratio":1.5100000000000000088817841970012523233890533447265625,"owner":"90593353@N04","ownername":"hiimlynx"},{"id":40462124980,"secret":"f198b9476b","server":979,"farm":1,"title":"the Empire strikes back","ratio":1.8930000000000000159872115546022541821002960205078125,"owner":"39871759@N02","ownername":"marianna_armata"},{"id":42458155542,"secret":"cefc5ea8cf","server":1723,"farm":2,"title":"Flatiron Building","ratio":0.6670000000000000373034936274052597582340240478515625,"owner":"142995416@N07","ownername":"erichudson78"},{"id":42200803672,"secret":"0e552b4061","server":823,"farm":1,"title":"Flat Iron building, NYC","ratio":1.1999999999999999555910790149937383830547332763671875,"owner":"39871759@N02","ownername":"marianna_armata"},{"id":40736701490,"secret":"d9427fc207","server":1744,"farm":2,"title":"NYC Flatiron Building","ratio":0.66200000000000003286260152890463359653949737548828125,"owner":"142382111@N07","ownername":"gerard eder"},{"id":31238397876,"secret":"f84dcd733d","server":5793,"farm":6,"title":"New York Public Library, Hallway","ratio":0.685000000000000053290705182007513940334320068359375,"owner":"61580017@N06","ownername":"vern Ri"},{"id":28781513838,"secret":"d37fa799db","server":1742,"farm":2,"title":"NYC, Park Ave. MetLife","ratio":1.5100000000000000088817841970012523233890533447265625,"owner":"142382111@N07","ownername":"gerard eder"},{"id":18098074863,"secret":"0c084c8f96","server":398,"farm":1,"title":"Crossing 42ed Street","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"26522673@N07","ownername":"Gary Burke."},{"id":42963153624,"secret":"c0a659c694","server":929,"farm":1,"title":"NYC Grand Central and MetLife","ratio":1.5220000000000000195399252334027551114559173583984375,"owner":"142382111@N07","ownername":"gerard eder"},{"id":43640411751,"secret":"2dacc4fae5","server":845,"farm":1,"title":"Flatiron Bulding","ratio":0.6670000000000000373034936274052597582340240478515625,"owner":"96037254@N00","ownername":"ep_jhu"},{"id":28781512178,"secret":"e07d390007","server":1753,"farm":2,"title":"NYC long ago, Park Ave. PanAm","ratio":0.6630000000000000337507799486047588288784027099609375,"owner":"142382111@N07","ownername":"gerard eder"},{"id":41950318194,"secret":"dcbc5f39bb","server":1725,"farm":2,"title":"Up to the sky","ratio":1.5060000000000000053290705182007513940334320068359375,"owner":"23221637@N02","ownername":"Maya K. Photography"},{"id":41822262764,"secret":"d1c5ab4353","server":1754,"farm":2,"title":"Down Town in the Big Apple","ratio":1.5100000000000000088817841970012523233890533447265625,"owner":"142382111@N07","ownername":"gerard eder"},{"id":43818302011,"secret":"7fac13a9c2","server":1799,"farm":2,"title":"The flat one","ratio":0.6670000000000000373034936274052597582340240478515625,"owner":"142382111@N07","ownername":"gerard eder"},{"id":28016129627,"secret":"c2b6a6defb","server":1790,"farm":2,"title":"Downtown at Night","ratio":1.778000000000000024868995751603506505489349365234375,"owner":"43592720@N08","ownername":"GeraldGrote"},{"id":41162380010,"secret":"6cea64e2f2","server":1834,"farm":2,"title":"NYC, Black Cadillac antenna mania","ratio":1.5629999999999999449329379785922355949878692626953125,"owner":"142382111@N07","ownername":"gerard eder"},{"id":42298227335,"secret":"e505758e99","server":1790,"farm":2,"title":"Flatiron, New York","ratio":1.499000000000000110134124042815528810024261474609375,"owner":"98927875@N05","ownername":"trombone65 (PhotoArt Laatzen)"},{"id":29846295128,"secret":"a326d95359","server":942,"farm":1,"title":"building","ratio":0.75,"owner":"34239398@N00","ownername":"luke kurtis"},{"id":42977184564,"secret":"9286077927","server":851,"farm":1,"title":"Le Carrousel, Bryant Park","ratio":1.516999999999999904076730672386474907398223876953125,"owner":"144857780@N02","ownername":"V-A-B"}]}
+};/* end import */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create','UA-4656078-5');
+ga('set','anonymizeIp',true);
+function fields(a) { var i = pages[pageid]; if (i.islocation) { if (i.country) { a.dimension1 = i.country; } a.dimension2 = i.locality ? 'Locality' : (i.landmark ? 'Landmark' : 'Place'); a.dimension3 = i.feature; a.dimension4 = i.featureclass; } return a; }
+ga('send','pageview',fields({}));
+function domload() { if (phase < 2) { phase += 2; if (phase === 3) { initiate(); } } }
+if (document.addEventListener) { document.addEventListener('DOMContentLoaded',domload,false); }
+function act(i) { if (phase === 5) { launch(i); } else { queue = i; } }
+function noads() { if (hasads.length) { hasads = []; if (phase === 5) { setads(); } } }
+</script>
+<link rel="stylesheet" type="text/css" href="/static/874.css" />
+<link rel="shortcut icon" href="https://mapcarta.com/favicon.ico" />
+<link rel="apple-touch-icon" href="https://mapcarta.com/icons/appicon.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://mapcarta.com/icons/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mapcarta.com/icons/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://mapcarta.com/icons/icon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://mapcarta.com/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://mapcarta.com/icons/icon-512.png">
+<script async src="/static/874.js"></script>
+</head>
+<body onload="domload();" class="pagemode mappage mainview" onclick="if (phase === 5) { checkclose(event); } return true;">
+<script id="adsscript" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noads();"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client:'ca-pub-3417291128493297',
+enable_page_level_ads:true
+});
+window.google_analytics_uacct = "UA-4656078-5";
+</script>
+<div id="pagebox">
+<div id="backbox">
+<div id="headbox">
+<a href="/" title="Mapcarta" class="pagelogo" rel="noopener"></a>
+<div class="searchbar"><form action="https://google.com/cse" onsubmit="if (phase === 5) { submitsearch(this); } return false;"><input type="hidden" name="cx" value="004731645928269741811:1t7of2uek1o" /><input type="hidden" name="ie" value="UTF-8" /><div class="searchsubmit"><input type="image" class="searcharea" src="/images/clear.gif" alt="Search" name="sa" /><span class="ikon searchicon"></span></div><input class="searchfield" name="q" maxlength="47" value="Search" onfocus="this.value = '';" onblur="if (!this.value) { this.value = searchvalue; }" autocomplete="off" /></form></div>
+<div class="stayleader">Hotels</div>
+</div>
+<div class="helmbox">
+<div class="helmdouble firstblock"><div class="mainbutton helmblock"><a onclick="act('main'); return false;" href="/25005378" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></div><div class="mapbutton helmblock helmright"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div></div>
+<div class="helmdouble lastblock"><div class="staybutton helmblock"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div><div class="photobutton helmblock helmright"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mainbutton"><a onclick="act('main'); return false;" href="/25005378" title="Overview" class="button" rel="noopener"><span class="withicon"><span class="ikon iicon"></span>Overview</span></a></span><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div>
+<div id="breadcrumbs">
+<!-- start breadcrumbs -->
+<div class="pillbox" itemscope itemtype="https://schema.org/BreadcrumbList">
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/North_America" title="North America" class="pill" itemprop="item" rel="noopener"><span itemprop="name">North America</span><meta itemprop="position" content="1" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/United_States_of_America" title="United States" class="pill" itemprop="item" rel="noopener"><span itemprop="name">USA</span><meta itemprop="position" content="2" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/Mid-Atlantic" title="Mid-Atlantic" class="pill" itemprop="item" rel="noopener"><span itemprop="name">Mid-Atlantic</span><meta itemprop="position" content="3" /></a></span>
+<span class="capsule" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/New_York_%28state%29" title="New York" class="pill" itemprop="item" rel="noopener"><span itemprop="name">New York</span><meta itemprop="position" content="4" /></a></span>
+<div class="clearboth"></div>
+</div>
+<!-- end breadcrumbs -->
+</div>
+<div id="mainbox" itemscope itemtype="https://schema.org/Place">
+<!-- start mainbox -->
+<h1><span itemprop="name">Graduate School and University Center City University of New York</span></h1>
+<div class="pod backdrop podback"><div class="headpouch icyshade"><span itemprop="description">Graduate School and University Center City University of New York is an university and is nearby to <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan/Midtown_East" title="Midtown East" itemprop="url" rel="noopener"><span itemprop="name">Midtown East</span></a></span>, <span itemscope itemtype="https://schema.org/Place"><a href="/22586756" title="Herald Square" itemprop="url" rel="noopener"><span itemprop="name">Herald Square</span></a></span> and <span itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29167260" title="Koreatown" itemprop="url" rel="noopener"><span itemprop="name">Koreatown</span></a></span>. Graduate School and University Center City University of New York is also close to <span itemscope itemtype="https://schema.org/Place"><a href="/35984894" title="Morgan Library and Museum" itemprop="url" rel="noopener"><span itemprop="name">Morgan Library and Museum</span></a></span>, <span itemscope itemtype="https://schema.org/Place"><a href="/25042384" title="Greeley Square" itemprop="url" rel="noopener"><span itemprop="name">Greeley Square</span></a></span> and <span itemscope itemtype="https://schema.org/Place"><a href="/25051898" title="Manhattan Mall Shopping Center" itemprop="url" rel="noopener"><span itemprop="name">Manhattan Mall Shopping Center</span></a></span>.</span></div><div class="tailpouch"><div class="helmdouble firstblock"><div class="mapbutton helmblock"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></div><div class="staybutton helmblock helmright"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></div></div>
+<div class="helmdouble lastblock"><div class="photobutton helmblock"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></div><div class="plotbutton helmblock helmright"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></div></div>
+<div class="helmsingle"><span class="mapbutton"><a onclick="act('map'); return false;" title="Map" class="button" rel="noopener"><span class="withicon"><span class="ikon earthicon"></span>Map</span></a></span><span class="staybutton"><a onclick="act('Button'); return false;" title="Hotels" class="button" rel="noopener"><span class="withicon"><span class="ikon hotelicon"></span>Hotels</span></a></span><span class="photobutton"><a onclick="act('photo'); return false;" title="Photos" class="button" rel="noopener"><span class="withicon"><span class="ikon photoicon"></span>Photos</span></a></span><span class="plotbutton"><a onclick="act('plot'); return false;" title="Directions" class="button" rel="noopener"><span class="withicon"><span class="ikon ploticon"></span>Directions</span></a></span></div>
+</div></div>
+<div id="blurb0" class="plug"></div>
+<h2 id="photoheading">Photos Near Graduate School and University Center City University of New York</h2>
+<div id="corebox" class="picbox fluidbox"><table class="loadingbox"><tr><td class="middle"><span class="siteicon"></span></td><td class="middle">Loading…</td></tr></table></div>
+<h2>Graduate School and University Center City University of New York</h2>
+<div class="pod pouch shaded"><ul>
+<li>Type:&nbsp; university</li>
+<li>Location:&nbsp; <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_%28state%29" title="New York" itemprop="url" rel="noopener"><span itemprop="name">New York</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Mid-Atlantic" title="Mid-Atlantic" itemprop="url" rel="noopener"><span itemprop="name">Mid-Atlantic</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/United_States_of_America" title="United States" itemprop="url" rel="noopener"><span itemprop="name">United States</span></a></span>, <span itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/North_America" title="North America" itemprop="url" rel="noopener"><span itemprop="name">North America</span></a></span></li>
+<li>Latitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="latitude">40°&nbsp;44'&nbsp;55" (40.7486°) north</span></span></li>
+<li>Longitude:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="longitude">73°&nbsp;59'&nbsp;4" (73.9844°) west</span></span></li>
+<li>Elevation:&nbsp; <span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates"><span itemprop="elevation">52 feet (16 meters)</span></span></li>
+</ul></div>
+<h2>New York Hotels</h2>
+<div class="subline texthue"><b class="hue">✓</b> Find your ideal hotel in New York</div>
+<div class="pod stayform backdrop stayback"><div class="pouch frostyshade"><form onsubmit="act('Preset Search'); return false;"><div class="formarea"><div class="formdetails"><div class="formdate formspaced"><div class="forminfo">Travel Dates</div><div class="formbase"><input value="11/30 – 12/2" id="spreadcal" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" readonly="readonly" /></div></div><div class="formguests formspaced"><div class="forminfo">Guests</div><div class="formbase"><input value="2" id="spreadguests" class="formfield menunode" autocomplete="off" onfocus="if (phase === 5) { focuson(this); }" size="1" maxlength="1" /></div></div></div><div class="formbutton"><a onclick="act('Preset Search'); return false;" title="Search Hotels" class="button" rel="noopener"><span class="formcut"><span class="withicon"><span class="ikon whitesearchicon"></span>Search<wbr /> Hotels</span></span></a></div></div></form></div></div>
+<h2>Maps of Graduate School and University Center City University of New York</h2>
+<div class="pod pouch shaded"><ul>
+<li><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.openstreetmap.org/#map=13/40.74861/-73.98444" title="OpenStreetMap" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon osmicon"></span>OpenStreetMap</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.google.com/maps/@40.74861,-73.98444,13z" title="Google Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon gmapsicon"></span>Google Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://wego.here.com/?map=40.74861,-73.98444,13" title="Here WeGo" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon hereicon"></span>Here WeGo</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.bing.com/maps/?cp=40.74861~-73.98444&amp;lvl=13&amp;where1=Graduate+School+and+University+Center+City+University+of+New+York" title="Bing Maps" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon bingicon"></span>Bing Maps</span></a></span></li>
+<li class="iconspacing"><span itemprop="hasMap" itemscope itemtype="https://schema.org/Map"><a target="_blank" href="https://www.mapquest.com/?center=40.74861,-73.98444&amp;zoom=13" title="MapQuest" itemprop="sameAs" rel="noopener"><span class="withicon"><span class="ikon mapquesticon"></span>MapQuest</span></a></span></li>
+</ul></div>
+<h2>Localities in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan/Midtown_East" title="Midtown East" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Midtown East</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22586756" title="Herald Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Herald Square</span>&nbsp; <span class="addendum texthue">Square</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29167260" title="Koreatown" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Koreatown</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22602068" title="Murray Hill" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Murray Hill</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/29218616" title="NoMad" class="pill" itemprop="url" rel="noopener"><span itemprop="name">NoMad</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/22614444" title="Rose Hill" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rose Hill</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/26206434" title="Times Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Times Square</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Landmarks in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/35984894" title="Morgan Library and Museum" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Morgan Library and Museum</span>&nbsp; <span class="addendum texthue">Museum, 870 feet east</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25042384" title="Greeley Square" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Greeley Square</span>&nbsp; <span class="addendum texthue">Park, 1200 feet west</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25051898" title="Manhattan Mall Shopping Center" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Manhattan Mall Shopping Center</span>&nbsp; <span class="addendum texthue">Mall, 1300 feet west</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22624982" title="Stern College Yeshiva University" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Stern College Yeshiva University</span>&nbsp; <span class="addendum texthue">University, 1500 feet east</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/26700728" title="Sniffen Court Historic District" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Sniffen Court Historic District</span>&nbsp; <span class="addendum texthue">Park, 1800 feet east</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25051900" title="Bryant Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Bryant Park</span>&nbsp; <span class="addendum texthue">Park, 1800 feet north</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22596960" title="Madison Square Park" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Madison Square Park</span>&nbsp; <span class="addendum texthue">Park, 2400 feet southwest</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Also in the Area</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25331384" title="Hotel 373 Fifth Avenue" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Hotel 373 Fifth Avenue</span>&nbsp; <span class="addendum texthue">Hotel</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/28613668" title="NY SKYRIDE at the Empire State Building" class="pill" itemprop="url" rel="noopener"><span itemprop="name">NY SKYRIDE at the Empire State Building</span>&nbsp; <span class="addendum texthue">Building</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/25038842" title="Gorham Building" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Gorham Building</span>&nbsp; <span class="addendum texthue">Building</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22631134" title="WLTW-FM (New York)" class="pill" itemprop="url" rel="noopener"><span itemprop="name">WLTW-FM (New York)</span>&nbsp; <span class="addendum texthue">Tower, 350 feet west</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22631220" title="WNSR-FM (New York)" class="pill" itemprop="url" rel="noopener"><span itemprop="name">WNSR-FM (New York)</span>&nbsp; <span class="addendum texthue">Tower, 350 feet west</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22630606" title="WBAI-FM (New York)" class="pill" itemprop="url" rel="noopener"><span itemprop="name">WBAI-FM (New York)</span>&nbsp; <span class="addendum texthue">Tower, 350 feet west</span></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/Place"><a href="/22631196" title="WNCN-FM (New York)" class="pill" itemprop="url" rel="noopener"><span itemprop="name">WNCN-FM (New York)</span>&nbsp; <span class="addendum texthue">Tower, 350 feet west</span></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<h2>Popular Destinations in <span itemprop="name">New York</span></h2>
+<div class="pod pouch shaded"><div itemprop="containedInPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><div class="pillbox">
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/New_York_City" title="New York City" class="pill" itemprop="url" rel="noopener"><span itemprop="name">New York City</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Buffalo" title="Buffalo" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Buffalo</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Manhattan" title="Manhattan" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Manhattan</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Rochester_%28New_York%29" title="Rochester" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Rochester</span></a></span>
+<span class="capsule" itemprop="containsPlace" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Binghamton" title="Binghamton" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Binghamton</span></a></span>
+<div class="clearboth"></div>
+</div>
+<meta itemprop="url" content="https://mapcarta.com/New_York_%28state%29" /></div></div>
+<h2>Escape to a Random Place</h2>
+<div class="pod pouch shaded"><div class="pillbox">
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Buenos_Aires" title="Buenos Aires" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Buenos Aires</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Amritsar" title="Amritsar" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Amritsar</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Napa" title="Napa" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Napa</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Victoria_Falls" title="Victoria Falls" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Victoria Falls</span><b class="hue">&nbsp;✓</b></a></span>
+<span class="capsule" itemscope itemtype="https://schema.org/AdministrativeArea"><a href="/Armenia" title="Armenia" class="pill" itemprop="url" rel="noopener"><span itemprop="name">Armenia</span><b class="hue">&nbsp;✓</b></a></span>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="blurb1" class="plug"></div>
+<h2>Your World is Without Borders</h2>
+<div class="pod pouch shaded"><div class="languagelist"><a href="/de/25005378" title="Deutsch" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon deicon"></span>Deutsch</span></a><a href="/es/25005378" title="Español" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon esicon"></span>Español</span></a><a href="/fr/25005378" title="Français" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon fricon"></span>Français</span></a><a href="/it/25005378" title="Italiano" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon iticon"></span>Italiano</span></a><a href="/pt/25005378" title="Português" itemprop="sameAs" class="languagetext" rel="noopener"><span class="withicon"><span class="ikon pticon"></span>Português</span></a></div></div>
+<div class="spacer3"></div>
+<div class="pod pouch footerpod"><a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" class="cclink" rel="noopener"><span class="cclogo"></span></a>Text is available under the <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License" rel="noopener">Creative Commons Attribution-ShareAlike License</a>, excluding photos, directions and the map.<div class="spacer1"></div><a href="/About_Mapcarta" title="About Mapcarta" rel="noopener">About Mapcarta</a>. Thanks to <a target="_blank" href="https://www.mapbox.com" title="Mapbox" rel="noopener">Mapbox</a> for providing amazing maps. Photos provided by <a target="_blank" href="https://www.flickr.com" title="Flickr" rel="noopener">Flickr</a> under the copyright of their owners. Mapcarta uses the Flickr API but is not endorsed or certified by Flickr. Please contact us if you'd prefer to remove your Flickr photos from Mapcarta.<meta itemprop="image" content="https://farm3.staticflickr.com/2850/10649483054_899f54e872_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1808/28077661277_347e3ebd9d_b.jpg" /><meta itemprop="image" content="https://farm6.staticflickr.com/5591/14478286954_80297e5f6d_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/840/43052581092_a92cb3bfba_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1816/43054588615_155688cac3_b.jpg" /><meta itemprop="image" content="https://farm9.staticflickr.com/8102/29378041552_7f1103bb34_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/979/40462124980_f198b9476b_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1723/42458155542_cefc5ea8cf_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/823/42200803672_0e552b4061_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1744/40736701490_d9427fc207_b.jpg" /><meta itemprop="image" content="https://farm6.staticflickr.com/5793/31238397876_f84dcd733d_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1742/28781513838_d37fa799db_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/398/18098074863_0c084c8f96_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/929/42963153624_c0a659c694_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/845/43640411751_2dacc4fae5_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1753/28781512178_e07d390007_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1725/41950318194_dcbc5f39bb_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1754/41822262764_d1c5ab4353_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1799/43818302011_7fac13a9c2_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1790/28016129627_c2b6a6defb_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1834/41162380010_6cea64e2f2_b.jpg" /><meta itemprop="image" content="https://farm2.staticflickr.com/1790/42298227335_e505758e99_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/942/29846295128_a326d95359_b.jpg" /><meta itemprop="image" content="https://farm1.staticflickr.com/851/42977184564_9286077927_b.jpg" /></div>
+<!-- end mainbox -->
+</div>
+<div id="hotelbox"></div>
+<div id="resultsbox"></div>
+<div id="noticebox"></div>
+<div id="photobox"></div>
+<div id="plotbox"></div>
+</div>
+</div>
+<div id="mapbox" class="pick0"></div>
+<div id="albumbox"></div>
+<div id="checksplit" class="checkunit"></div>
+<div id="checkmini" class="checkunit"></div>
+<div id="checksingle" class="checkunit"></div>
+<div id="checkad" class="checkunit"></div>
+<div id="checkphoto" class="checkunit"></div>
+<!-- Complete -->
+</body>
+</html>

@@ -1,0 +1,8 @@
+]: Cannot send session cookie - headers already sent by (output started at /home4/trainiq0/public_html/flickrCC/flickrCC/index.php:18) in 
+]: Cannot send session cache limiter - headers already sent (output started at /home4/trainiq0/public_html/flickrCC/flickrCC/index.php:18) in 
+flickrCC - losangeles
+flickrCC - losangeles
+click on a thumbnail for details (be patient, it may take a few seconds to load)
+ Right click and select "save image" for a copy
+        This site is created and run under a
+Creative Commons Attribution 2.5  License

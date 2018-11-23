@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+
+  <link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="canonical" href="https://www.trover.com/d/7YuE-world-trade-center-station-new-york-city-new-york"/>
+<meta name="description" content="Eyes underground. They always seem somehow Byzantine."/>
+<meta name="keywords" content="World Trade Center Station, discoveries, discovery, photos, photo sharing"/>
+<title>World Trade Center Station, New York City, New York - Eyes...</title>
+<meta property="og:site_name" content="Trover"/>
+<meta property="og:image" content="https://media2.trover.com/T/4e41b8e092e9bd3344000179/fixedw_large_4x.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="fb:app_id" content="207130792637491"/>
+<meta name="robots" content="all"/>
+<meta property="og:url" content="https://www.trover.com/d/7YuE-world-trade-center-station-new-york-city-new-york"/>
+<meta property="og:title" content="World Trade Center Station, New York City, New York — by Amanda Glassman"/>
+<meta name="twitter:card" property="twitter:card" content="summary_large_image"/>
+<meta property="og:description" content="Eyes underground. They always seem somehow Byzantine."/>
+  
+      <meta http-equiv="x-dns-prefetch-control" content="on">
+      <link rel="dns-prefetch" href="//media.trover.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//maps.googleapis.com" />
+      <link rel="preconnect" href="//media.trover.com" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="preconnect" href="//maps.googleapis.com" />
+    
+
+  <!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', { 
+  trackingId: 'UA-9392967-7', 
+  cookieDomain: 'auto', 
+  storeGac: true
+});
+ga('set', 'dimension1', 'Guest');
+ga('send', 'pageview');
+ga('require', 'ec'); 
+ga(function(tracker) {document.cookie="gacid="+tracker.get('clientId')});
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){function N(a){var b=1,c;if(a)for(b=0,c=a.length-1;0<=c;c--)var d=a.charCodeAt(c),b=(b<<6&268435455)+d+(d<<14),d=b&266338304,b=0!=d?b^d>>21:b;return b}function g(a){wb.set(a)}function Nc(a){if(100!=a.get(xa)&&N(n(a,u))%1E4>=100*z(a,xa))throw"abort";}function Oc(a){if(ba(n(a,t)))throw"abort";}function Pc(){var a=l.location.protocol;if("http:"!=a&&"https:"!=a)throw"abort";}function Qc(a){try{k.navigator.sendBeacon?g(42):k.XMLHttpRequest&&"withCredentials"in new k.XMLHttpRequest&&g(40)}catch(c){}a.set(xb,
+yb(a),!0);a.set(zb,z(a,zb)+1);var b=[];ca.map(function(c,d){d.F&&(c=a.get(c),void 0!=c&&c!=d.defaultValue&&("boolean"==typeof c&&(c*=1),b.push(d.F+"="+G(""+c))))});b.push("z="+Ab());a.set(ya,b.join("&"),!0)}function Rc(a){var b=n(a,Pa)||Qa()+"/collect",c=a.get(Bb),d=n(a,Sc);!d&&a.get(Tc)&&(d="beacon");if(c)Ra(b,n(a,ya),c,a.get(S));else if(d){var c=d,d=n(a,ya),e=a.get(S),e=e||v;"image"==c?T(b,d,e):"xhr"==c&&Sa(b,d,e)||"beacon"==c&&Cb(b,d,e)||Db(b,d,e)}else Db(b,n(a,ya),a.get(S));b=a.get(t);b=Ta(b);
+c=b.hitcount;b.hitcount=c?c+1:1;b=a.get(t);delete Ta(b).pending_experiments;a.set(S,v,!0)}function Uc(a){(k.gaData=k.gaData||{}).expId&&a.set(Vc,(k.gaData=k.gaData||{}).expId);(k.gaData=k.gaData||{}).expVar&&a.set(Wc,(k.gaData=k.gaData||{}).expVar);var b=a.get(t);if(b=Ta(b).pending_experiments){var c=[];for(d in b)b.hasOwnProperty(d)&&b[d]&&c.push(encodeURIComponent(d)+"."+encodeURIComponent(b[d]));var d=c.join("!")}else d=void 0;d&&a.set(Xc,d,!0)}function Yc(){if(k.navigator&&"preview"==k.navigator.loadPurpose)throw"abort";
+}function Zc(a){var b=k.gaDevIds;Ua(b)&&0!=b.length&&a.set("&did",b.join(","),!0)}function $c(a){if(!a.get(t))throw"abort";}function ad(a){var b=z(a,Eb);500<=b&&g(15);var c=n(a,za);if("transaction"!=c&&"item"!=c){var c=z(a,Fb),d=(new Date).getTime(),e=z(a,Va);0==e&&a.set(Va,d);e=Math.round(2*(d-e)/1E3);0<e&&(c=Math.min(c+e,20),a.set(Va,d));if(0>=c)throw"abort";a.set(Fb,--c)}a.set(Eb,++b)}function A(a,b,c,d){b[a]=function(){try{return d&&g(d),c.apply(this,arguments)}catch(e){throw D("exc",a,e&&e.name),
+e;}}}function bd(){var a,b;if((b=(b=k.navigator)?b.plugins:null)&&b.length)for(var c=0;c<b.length&&!a;c++){var d=b[c];-1<d.name.indexOf("Shockwave Flash")&&(a=d.description)}if(!a)try{var e=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");a=e.GetVariable("$version")}catch(h){}if(!a)try{e=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6"),a="WIN 6,0,21,0",e.AllowScriptAccess="always",a=e.GetVariable("$version")}catch(h){}if(!a)try{e=new ActiveXObject("ShockwaveFlash.ShockwaveFlash"),a=e.GetVariable("$version")}catch(h){}a&&
+(e=a.match(/[\d]+/g))&&3<=e.length&&(a=e[0]+"."+e[1]+" r"+e[2]);return a||void 0}function Wa(a,b,c){"none"==b&&(b="");var d=[],e=B(a);a="__utma"==a?6:2;for(var h=0;h<e.length;h++){var f=(""+e[h]).split(".");f.length>=a&&d.push({hash:f[0],R:e[h],O:f})}if(0!=d.length)return 1==d.length?d[0]:Xa(b,d)||Xa(c,d)||Xa(null,d)||d[0]}function Xa(a,b){if(null==a)var c=a=1;else c=N(a),a=N(w(a,".")?a.substring(1):"."+a);for(var d=0;d<b.length;d++)if(b[d].hash==c||b[d].hash==a)return b[d]}function Ya(a,b){var c=
+new Date,d=k.navigator,e=d.plugins||[];a=[a,d.userAgent,c.getTimezoneOffset(),c.getYear(),c.getDate(),c.getHours(),c.getMinutes()+b];for(b=0;b<e.length;++b)a.push(e[b].description);return N(a.join("."))}function da(a,b){var c=new Date,d=k.navigator,e=c.getHours()+Math.floor((c.getMinutes()+b)/60);return N([a,d.userAgent,d.language||"",c.getTimezoneOffset(),c.getYear(),c.getDate()+Math.floor(e/24),(24+e)%24,(60+c.getMinutes()+b)%60].join("."))}function Gb(a,b){if(b==l.location.hostname)return!1;for(var c=
+0;c<a.length;c++)if(a[c]instanceof RegExp){if(a[c].test(b))return!0}else if(0<=b.indexOf(a[c]))return!0;return!1}function Za(a,b){return b!=Ya(a,0)&&b!=Ya(a,-1)&&b!=Ya(a,-2)&&b!=da(a,0)&&b!=da(a,-1)&&b!=da(a,-2)}function $a(a){var b=Hb(a);return{_ga:a.get(u),_gid:a.get(H)||void 0,_gac:b?[b.qa,b.timestamp].join("."):void 0}}function Hb(a){function b(a){return void 0==a||""===a?0:Number(a)}var c=a.get(K);if(c&&a.get(ea)){var d=b(a.get(L));if(1E3*d+b(a.get(ab))<=(new Date).getTime())g(76);else return{timestamp:d,
+qa:c}}}function Ib(a){return 0<=a.indexOf(".")||0<=a.indexOf(":")}(function(){function a(){for(var a=v,b={},c=0;c<a.length;++c)b[a[c]]=c;return b}function b(){var a="ABCDEFGHIJKLMNOPQRSTUVWXYZ",a=a+(a.toLowerCase()+"0123456789-_");return a+"."}function c(a,b){if(!a||b===t.location.hostname)return!1;for(var c=0;c<a.length;c++)if(a[c]instanceof RegExp){if(a[c].test(b))return!0}else if(0<=b.indexOf(a[c]))return!0;return!1}function d(a){var b=D.exec(a);if(b){var c=b[2],d=b[4];a=b[1];d&&(a=a+c+d)}return a}
+function e(a,b,c){function e(a){a=d(a);var b=a.charAt(a.length-1);a&&"&"!==b&&(a+="&");return a+fa}c=void 0===c?!1:c;var r=J.exec(b);if(!r)return"";b=r[1];var h=r[2]||"",r=r[3]||"",fa="_gl="+a;c?r="#"+e(r.substring(1)):h="?"+e(h.substring(1));return""+b+h+r}function h(a,b,d){for(var e={},r={},h=B().va,fa=0;fa<h.length;++fa){var ga=h[fa];(!d||ga.forms)&&c(ga.Aa,b)&&(ga.ea?n(r,ga.za()):n(e,ga.za()))}p(e)&&(b=E(e),d?g(b,a):f(b,a,!1));!d&&p(r)&&(d=E(r),f(d,a,!0))}function f(a,b,c){b.href&&(a=e(a,b.href,
+void 0===c?!1:c),u.test(a)&&(b.href=a))}function g(a,b){if(b&&b.action){var c=(b.method||"").toLowerCase();if("get"===c){for(var c=b.childNodes||[],d=!1,h=0;h<c.length;h++){var r=c[h];if("_gl"===r.name){r.setAttribute("value",a);d=!0;break}}d||(c=t.createElement("input"),c.setAttribute("type","hidden"),c.setAttribute("name","_gl"),c.setAttribute("value",a),b.appendChild(c))}else"post"===c&&(a=e(a,b.action),u.test(a)&&(b.action=a))}}var k=this,l=function(a,b){a=a.split(".");var c=k;a[0]in c||"undefined"==
+typeof c.execScript||c.execScript("var "+a[0]);for(var d;a.length&&(d=a.shift());)a.length||void 0===b?c=c[d]&&c[d]!==Object.prototype[d]?c[d]:c[d]={}:c[d]=b},m=function(a){var b=[];if(Array.prototype.indexOf)return a=b.indexOf(a),"number"==typeof a?a:-1;for(var c=0;c<b.length;c++)if(b[c]===a)return c;return-1},n=function(a,b){for(var c in b)b.hasOwnProperty(c)&&(a[c]=b[c])},p=function(a){for(var b in a)if(a.hasOwnProperty(b))return!0;return!1},u=/^(?:(?:https?|mailto|ftp):|[^:/?#]*(?:[/?#]|$))/i,
+q=window,t=document,w=function(a,b){t.addEventListener?t.addEventListener(a,b,!1):t.attachEvent&&t.attachEvent("on"+a,b)},y=/:[0-9]+$/,z=function(a,b){var c=function(a){return a?a.replace(":","").toLowerCase():""},c=c(a.protocol)||c(q.location.protocol);b&&(b=String(b).toLowerCase());switch(b){case "protocol":a=c;break;case "host":a=(a.hostname||q.location.hostname).replace(y,"").toLowerCase();break;case "port":a=String(Number(a.hostname?a.port:q.location.port)||("http"==c?80:"https"==c?443:""));
+break;case "path":a="/"==a.pathname.substr(0,1)?a.pathname:"/"+a.pathname;a=a.split("/");0<=m(a[a.length-1])&&(a[a.length-1]="");a=a.join("/");break;case "query":a=a.search.replace("?","");break;case "extension":a=a.pathname.split(".");a=1<a.length?a[a.length-1]:"";a=a.split("/")[0];break;case "fragment":a=a.hash.replace("#","");break;default:a=a&&a.href}return a},A=function(a){var b=document.createElement("a");a&&(u.test(a),b.href=a);a=b.pathname;"/"!==a[0]&&(a="/"+a);var c=b.hostname.replace(y,
+"");return{href:b.href,protocol:b.protocol,host:b.host,hostname:c,pathname:a,search:b.search,hash:b.hash,port:b.port}},v,x,F=function(c){v=v||b();x=x||a();for(var d=[],e=0;e<c.length;e+=3){var h=e+1<c.length,f=e+2<c.length,P=c.charCodeAt(e),g=h?c.charCodeAt(e+1):0,r=f?c.charCodeAt(e+2):0,k=P>>2,P=(P&3)<<4|g>>4,g=(g&15)<<2|r>>6,r=r&63;f||(r=64,h||(g=64));d.push(v[k],v[P],v[g],v[r])}return d.join("")},G=function(c){function d(a){for(;h<c.length;){var b=c.charAt(h++),d=x[b];if(null!=d)return d;if(!/^[\s\xa0]*$/.test(b))throw Error("Unknown base64 encoding at char: "+
+b);}return a}v=v||b();x=x||a();for(var e="",h=0;;){var f=d(-1),P=d(0),g=d(64),r=d(64);if(64===r&&-1===f)return e;e+=String.fromCharCode(f<<2|P>>4);64!=g&&(e+=String.fromCharCode(P<<4&240|g>>2),64!=r&&(e+=String.fromCharCode(g<<6&192|r)))}},C,B=function(){var a={},b=q.sa;q.sa=void 0===b?a:b;a=q.sa;(b=a.wa)&&b.va||(b={va:[]},a.wa=b);return b},H=/(.*?)\*(.*?)\*(.*)/,J=/([^?#]+)(\?[^#]*)?(#.*)?/,D=/(.*?)(^|&)_gl=([^&]*)&?(.*)/,E=function(a){var b=[],c;for(c in a)if(a.hasOwnProperty(c)){var d=a[c];void 0!==
+d&&d===d&&null!==d&&"[object Object]"!==d.toString()&&(b.push(c),b.push(F(String(d))))}a=b.join("*");return["1",I(a),a].join("*")},I=function(a,b){a=[window.navigator.userAgent,(new Date).getTimezoneOffset(),window.navigator.xa||window.navigator.language,Math.floor((new Date).getTime()/60/1E3)-(void 0===b?0:b),a].join("*");if(!(b=C)){b=Array(256);for(var c=0;256>c;c++){for(var d=c,e=0;8>e;e++)d=d&1?d>>>1^3988292384:d>>>1;b[c]=d}}C=b;b=4294967295;for(c=0;c<a.length;c++)b=b>>>8^C[(b^a.charCodeAt(c))&
+255];return((b^-1)>>>0).toString(36)},M=function(a){return function(b){var c=A(q.location.href),d=c.search.replace("?","");a:{for(var e=d.split("&"),h=0;h<e.length;h++){var f=e[h].split("=");if("_gl"==decodeURIComponent(f[0]).replace(/\+/g," ")){e=f.slice(1).join("=");break a}}e=void 0}b.query=K(e||"")||{};e=z(c,"fragment");h=e.match(D);b.ea=K(h&&h[3]||"")||{};a&&N(c,d,e)}},N=function(a,b,c){function e(a,b){a=d(a);a.length&&(a=b+a);return a}q.history&&q.history.replaceState&&(D.test(b)||D.test(c))&&
+(a=z(a,"path"),b=e(b,"?"),c=e(c,"#"),q.history.replaceState({},void 0,""+a+b+c))},K=function(a){var b=void 0===b?3:b;try{if(a){var c=H.exec(a);if(c&&"1"===c[1]){var d=c[2],e=c[3];a:{for(a=0;a<b;++a)if(d===I(e,a)){var h=!0;break a}h=!1}if(h){for(var b={},f=e?e.split("*"):[],e=0;e<f.length;e+=2)b[f[e]]=G(f[e+1]);return b}}}}catch(Ae){}},L=function(a){try{a:{var b=a.target||a.srcElement||{};for(a=100;b&&0<a;){if(b.href&&b.nodeName.match(/^a(?:rea)?$/i)){var c=b;break a}b=b.parentNode;a--}c=null}if(c){var d=
+c.protocol;"http:"!==d&&"https:"!==d||h(c,c.hostname,!1)}}catch(Be){}},O=function(a){try{var b=a.target||a.srcElement||{};if(b.action){var c=z(A(b.action),"host");h(b,c,!0)}}catch(ze){}};l("google_tag_data.glBridge.auto",function(a,b,c,d){var e=B();e.N||(w("mousedown",L),w("keyup",L),w("submit",O),e.N=!0);a={za:a,Aa:b,ea:"fragment"===c,forms:!!d};B().va.push(a)});l("google_tag_data.glBridge.decorate",function(a,b,c){c=!!c;a=E(a);if(b.tagName){if("a"==b.tagName.toLowerCase())return f(a,b,c);if("form"==
+b.tagName.toLowerCase())return g(a,b)}if("string"==typeof b)return e(a,b,c)});l("google_tag_data.glBridge.generate",E);l("google_tag_data.glBridge.get",function(a,b){var c=M(!!b);b=B();b.data||(b.data={query:{},ea:{}},c(b.data));c={};if(b=b.data)n(c,b.query),a&&n(c,b.ea);return c})})(window);var U=function(a){this.w=a||[]};U.prototype.set=function(a){this.w[a]=!0};U.prototype.encode=function(){for(var a=[],b=0;b<this.w.length;b++)this.w[b]&&(a[Math.floor(b/6)]^=1<<b%6);for(b=0;b<a.length;b++)a[b]=
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_".charAt(a[b]||0);return a.join("")+"~"};var wb=new U,yb=function(a){a=Jb(a);a=new U(a);for(var b=wb.w.slice(),c=0;c<a.w.length;c++)b[c]=b[c]||a.w[c];return(new U(b)).encode()},Jb=function(a){a=a.get(Kb);Ua(a)||(a=[]);return a},O=function(a){return"function"==typeof a},Ua=function(a){return"[object Array]"==Object.prototype.toString.call(Object(a))},Aa=function(a){return void 0!=a&&-1<(a.constructor+"").indexOf("String")},w=function(a,
+b){return 0==a.indexOf(b)},Lb=function(a){return a?a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,""):""},Mb=function(){for(var a=k.navigator.userAgent+(l.cookie?l.cookie:"")+(l.referrer?l.referrer:""),b=a.length,c=k.history.length;0<c;)a+=c--^b++;return[E()^N(a)&2147483647,Math.round((new Date).getTime()/1E3)].join(".")},Nb=function(a){var b=l.createElement("img");b.width=1;b.height=1;b.src=a;return b},v=function(){},G=function(a){if(encodeURIComponent instanceof Function)return encodeURIComponent(a);g(28);
+return a},ha=function(a,b,c,d){try{a.addEventListener?a.addEventListener(b,c,!!d):a.attachEvent&&a.attachEvent("on"+b,c)}catch(e){g(27)}},Ob=/^[\w\-:/.?=&%!\[\]]+$/,Pb=function(a,b,c){a&&(c?(c="",b&&Ob.test(b)&&(c=' id="'+b+'"'),Ob.test(a)&&l.write("<script"+c+' src="'+a+'">\x3c/script>')):(c=l.createElement("script"),c.type="text/javascript",c.async=!0,c.src=a,b&&(c.id=b),a=l.getElementsByTagName("script")[0],a.parentNode.insertBefore(c,a)))},ia=function(a,b){return bb(l.location[b?"href":"search"],
+a)},bb=function(a,b){return(a=a.match("(?:&|#|\\?)"+G(b).replace(/([.*+?^=!:${}()|\[\]\/\\])/g,"\\$1")+"=([^&#]*)"))&&2==a.length?a[1]:""},ja=function(){var a=""+l.location.hostname;return 0==a.indexOf("www.")?a.substring(4):a},Qb=function(a,b){var c=a.indexOf(b);if(5==c||6==c)if(a=a.charAt(c+b.length),"/"==a||"?"==a||""==a||":"==a)return!0;return!1},cd=function(a,b){var c=l.referrer;if(/^(https?|android-app):\/\//i.test(c)){if(a)return c;a="//"+l.location.hostname;if(!Qb(c,a))return b&&(b=a.replace(/\./g,
+"-")+".cdn.ampproject.org",Qb(c,b))?void 0:c}},Rb=function(a,b){if(1==b.length&&null!=b[0]&&"object"===typeof b[0])return b[0];for(var c={},d=Math.min(a.length+1,b.length),e=0;e<d;e++)if("object"===typeof b[e]){for(var h in b[e])b[e].hasOwnProperty(h)&&(c[h]=b[e][h]);break}else e<a.length&&(c[a[e]]=b[e]);return c},C=function(){this.keys=[];this.values={};this.m={}};C.prototype.set=function(a,b,c){this.keys.push(a);c?this.m[":"+a]=b:this.values[":"+a]=b};C.prototype.get=function(a){return this.m.hasOwnProperty(":"+
+a)?this.m[":"+a]:this.values[":"+a]};C.prototype.map=function(a){for(var b=0;b<this.keys.length;b++){var c=this.keys[b],d=this.get(c);d&&a(c,d)}};var k=window,l=document,Ba=function(a,b){return setTimeout(a,b)},cb=window,dd=document,ba=function(a){var b,c=cb._gaUserPrefs;if(c&&c.ioo&&c.ioo()||a&&!0===cb["ga-disable-"+a])return!0;try{if((b=cb.external)&&b._gaUserPrefs&&"oo"==b._gaUserPrefs)return!0}catch(h){}a=[];c=String(dd.cookie||document.cookie).split(";");for(b=0;b<c.length;b++){var d=c[b].split("="),
+e=d[0].replace(/^\s*|\s*$/g,"");e&&"AMP_TOKEN"==e&&((d=d.slice(1).join("=").replace(/^\s*|\s*$/g,""))&&(d=decodeURIComponent(d)),a.push(d))}for(c=0;c<a.length;c++)if("$OPT_OUT"==a[c])return!0;return!1},B=function(a){var b=[],c=l.cookie.split(";");a=new RegExp("^\\s*"+a+"=\\s*(.*?)\\s*$");for(var d=0;d<c.length;d++){var e=c[d].match(a);e&&b.push(e[1])}return b},Q=function(a,b,c,d,e,h){e=ba(e)?!1:Sb.test(l.location.hostname)||"/"==c&&Tb.test(d)?!1:!0;if(!e)return!1;b&&1200<b.length&&(b=b.substring(0,
+1200));c=a+"="+b+"; path="+c+"; ";h&&(c+="expires="+(new Date((new Date).getTime()+h)).toGMTString()+"; ");d&&"none"!==d&&(c+="domain="+d+";");d=l.cookie;l.cookie=c;if(!(d=d!=l.cookie))a:{a=B(a);for(d=0;d<a.length;d++)if(b==a[d]){d=!0;break a}d=!1}return d},V=function(a){return encodeURIComponent?encodeURIComponent(a).replace(/\(/g,"%28").replace(/\)/g,"%29"):a},Tb=/^(www\.)?google(\.com?)?(\.[a-z]{2})?$/,Sb=/(^|\.)doubleclick\.net$/i,Ca,ed=/^.*Version\/?(\d+)[^\d].*$/i,Ub=function(){if(void 0!==
+k.__ga4__)return k.__ga4__;if(void 0===Ca){var a=k.navigator.userAgent;if(a){var b=a;try{b=decodeURIComponent(a)}catch(c){}if(a=!(0<=b.indexOf("Chrome"))&&!(0<=b.indexOf("CriOS"))&&(0<=b.indexOf("Safari/")||0<=b.indexOf("Safari,")))b=ed.exec(b),a=11<=(b?Number(b[1]):-1);Ca=a}else Ca=!1}return Ca},ka,la,Da,W,Vb=/^https?:\/\/[^/]*cdn\.ampproject\.org\//,Wb=/^(?:www\.|m\.|amp\.)+/,Ea=[],fd=function(){q.D([v])},Xb=function(a,b){var c=B("AMP_TOKEN");if(1<c.length)return g(55),!1;c=decodeURIComponent(c[0]||
+"");if("$OPT_OUT"==c||"$ERROR"==c||ba(b))return g(62),!1;if(!Vb.test(l.referrer)&&"$NOT_FOUND"==c)return g(68),!1;if(void 0!==W)return g(56),Ba(function(){a(W)},0),!0;if(ka)return Ea.push(a),!0;if("$RETRIEVING"==c)return g(57),Ba(function(){Xb(a,b)},1E4),!0;ka=!0;c&&"$"!=c[0]||(Yb("$RETRIEVING",3E4),setTimeout(gd,3E4),c="");return Zb(c,b)?(Ea.push(a),!0):!1},Zb=function(a,b,c){if(!window.JSON)return g(58),!1;var d=k.XMLHttpRequest;if(!d)return g(59),!1;var e=new d;if(!("withCredentials"in e))return g(60),
+!1;e.open("POST",(c||"https://ampcid.google.com/v1/publisher:getClientId")+"?key=AIzaSyA65lEHUEizIsNtlbNo-l2K18dT680nsaM",!0);e.withCredentials=!0;e.setRequestHeader("Content-Type","text/plain");e.onload=function(){ka=!1;if(4==e.readyState){try{200!=e.status&&(g(61),X("","$ERROR",3E4));var d=JSON.parse(e.responseText);d.optOut?(g(63),X("","$OPT_OUT",31536E6)):d.clientId?X(d.clientId,d.securityToken,31536E6):!c&&d.alternateUrl?(la&&clearTimeout(la),ka=!0,Zb(a,b,d.alternateUrl)):(g(64),X("","$NOT_FOUND",
+36E5))}catch(P){g(65),X("","$ERROR",3E4)}e=null}};d={originScope:"AMP_ECID_GOOGLE"};a&&(d.securityToken=a);e.send(JSON.stringify(d));la=Ba(function(){g(66);X("","$ERROR",3E4)},1E4);return!0},gd=function(){ka=!1},Yb=function(a,b){if(void 0===Da){Da="";for(var c=$b(),d=0;d<c.length;d++){var e=c[d];if(Q("AMP_TOKEN",encodeURIComponent(a),"/",e,"",b)){Da=e;return}}}Q("AMP_TOKEN",encodeURIComponent(a),"/",Da,"",b)},X=function(a,b,c){la&&clearTimeout(la);b&&Yb(b,c);W=a;b=Ea;Ea=[];for(c=0;c<b.length;c++)b[c](a)},
+Qa=function(){return(Y||"https:"==l.location.protocol?"https:":"http:")+"//www.google-analytics.com"},hd=function(a){this.name="len";this.message=a+"-8192"},Db=function(a,b,c){c=c||v;if(2036>=b.length)T(a,b,c);else if(8192>=b.length)Cb(a,b,c)||Sa(a,b,c)||T(a,b,c);else throw D("len",b.length),new hd(b.length);},Ra=function(a,b,c,d){d=d||v;Sa(a+"?"+b,"",d,c)},T=function(a,b,c){var d=Nb(a+"?"+b);d.onload=d.onerror=function(){d.onload=null;d.onerror=null;c()}},Sa=function(a,b,c,d){var e=k.XMLHttpRequest;
+if(!e)return!1;var h=new e;if(!("withCredentials"in h))return!1;a=a.replace(/^http:/,"https:");h.open("POST",a,!0);h.withCredentials=!0;h.setRequestHeader("Content-Type","text/plain");h.onreadystatechange=function(){if(4==h.readyState){if(d)try{var a=h.responseText;if(1>a.length)D("xhr","ver","0"),c();else if("1"!=a.charAt(0))D("xhr","ver",String(a.length)),c();else if(3<d.count++)D("xhr","tmr",""+d.count),c();else if(1==a.length)c();else{var b=a.charAt(1);if("d"==b)Ra("https://stats.g.doubleclick.net/j/collect",
+d.U,d,c);else if("g"==b){var e="https://www.google.%/ads/ga-audiences".replace("%","com");T(e,d.google,c);var f=a.substring(2);if(f)if(/^[a-z.]{1,6}$/.test(f)){var g="https://www.google.%/ads/ga-audiences".replace("%",f);T(g,d.google,v)}else D("tld","bcc",f)}else D("xhr","brc",b),c()}}catch(Ce){D("xhr","rsp"),c()}else c();h=null}};h.send(b);return!0},Cb=function(a,b,c){return k.navigator.sendBeacon?k.navigator.sendBeacon(a,b)?(c(),!0):!1:!1},D=function(a,b,c){1<=100*Math.random()||ba("?")||(a=["t=error",
+"_e="+a,"_v=j71","sr=1"],b&&a.push("_f="+b),c&&a.push("_m="+G(c.substring(0,100))),a.push("aip=1"),a.push("z="+E()),T("https://www.google-analytics.com/u/d",a.join("&"),v))},Ta=function(a){var b=k.gaData=k.gaData||{};return b[a]=b[a]||{}},db=function(){this.M=[]};db.prototype.add=function(a){this.M.push(a)};db.prototype.D=function(a){try{for(var b=0;b<this.M.length;b++){var c=a.get(this.M[b]);c&&O(c)&&c.call(k,a)}}catch(d){}b=a.get(S);b!=v&&O(b)&&(a.set(S,v,!0),setTimeout(b,10))};var E=function(){return Math.round(2147483647*
+Math.random())},Ab=function(){try{var a=new Uint32Array(1);k.crypto.getRandomValues(a);return a[0]&2147483647}catch(b){return E()}},Fa=function(){this.data=new C},ca=new C,eb=[];Fa.prototype.get=function(a){var b=ma(a),c=this.data.get(a);b&&void 0==c&&(c=O(b.defaultValue)?b.defaultValue():b.defaultValue);return b&&b.Z?b.Z(this,a,c):c};var n=function(a,b){a=a.get(b);return void 0==a?"":""+a},z=function(a,b){a=a.get(b);return void 0==a||""===a?0:1*a};Fa.prototype.set=function(a,b,c){if(a)if("object"==
+typeof a)for(var d in a)a.hasOwnProperty(d)&&ac(this,d,a[d],c);else ac(this,a,b,c)};var ac=function(a,b,c,d){if(void 0!=c)switch(b){case t:id.test(c)}var e=ma(b);e&&e.o?e.o(a,b,c,d):a.data.set(b,c,d)},na=function(a,b,c,d,e){this.name=a;this.F=b;this.Z=d;this.o=e;this.defaultValue=c},ma=function(a){var b=ca.get(a);if(!b)for(var c=0;c<eb.length;c++){var d=eb[c],e=d[0].exec(a);if(e){b=d[1](e);ca.set(b.name,b);break}}return b},jd=function(a){var b;ca.map(function(c,d){d.F==a&&(b=d)});return b&&b.name},
+f=function(a,b,c,d,e){a=new na(a,b,c,d,e);ca.set(a.name,a);return a.name},Ga=function(a,b){eb.push([new RegExp("^"+a+"$"),b])},p=function(a,b,c){return f(a,b,c,void 0,bc)},bc=function(){},oa=Aa(window.GoogleAnalyticsObject)&&Lb(window.GoogleAnalyticsObject)||"ga",cc=/^(?:utma\.)?\d+\.\d+$/,kd=/^amp-[\w.-]{22,64}$/,Y=!1,dc=p("apiVersion","v"),ec=p("clientVersion","_v");f("anonymizeIp","aip");var ld=f("adSenseId","a"),za=f("hitType","t"),S=f("hitCallback"),ya=f("hitPayload");f("nonInteraction","ni");
+f("currencyCode","cu");f("dataSource","ds");var Tc=f("useBeacon",void 0,!1),Sc=f("transport");f("sessionControl","sc","");f("sessionGroup","sg");f("queueTime","qt");var zb=f("_s","_s");f("screenName","cd");var pa=f("location","dl",""),md=f("referrer","dr"),nd=f("page","dp","");f("hostname","dh");var od=f("language","ul"),pd=f("encoding","de");f("title","dt",function(){return l.title||void 0});Ga("contentGroup([0-9]+)",function(a){return new na(a[0],"cg"+a[1])});var qd=f("screenColors","sd"),rd=f("screenResolution",
+"sr"),sd=f("viewportSize","vp"),td=f("javaEnabled","je"),ud=f("flashVersion","fl");f("campaignId","ci");f("campaignName","cn");f("campaignSource","cs");f("campaignMedium","cm");f("campaignKeyword","ck");f("campaignContent","cc");var vd=f("eventCategory","ec"),wd=f("eventAction","ea"),xd=f("eventLabel","el"),yd=f("eventValue","ev"),zd=f("socialNetwork","sn"),Ad=f("socialAction","sa"),Bd=f("socialTarget","st"),fb=f("l1","plt"),fc=f("l2","pdt"),gc=f("l3","dns"),hc=f("l4","rrt"),ic=f("l5","srt"),jc=f("l6",
+"tcp"),kc=f("l7","dit"),lc=f("l8","clt"),mc=f("l9","_gst"),nc=f("l10","_gbt"),oc=f("l11","_cst"),pc=f("l12","_cbt"),Cd=f("timingCategory","utc"),Dd=f("timingVar","utv"),Ed=f("timingLabel","utl"),Fd=f("timingValue","utt");f("appName","an");f("appVersion","av","");f("appId","aid","");f("appInstallerId","aiid","");f("exDescription","exd");f("exFatal","exf");var Vc=f("expId","xid"),Wc=f("expVar","xvar"),Xc=f("exp","exp"),Gd=f("_utma","_utma"),Hd=f("_utmz","_utmz"),Id=f("_utmht","_utmht"),Eb=f("_hc",void 0,
+0),Va=f("_ti",void 0,0),Fb=f("_to",void 0,20);Ga("dimension([0-9]+)",function(a){return new na(a[0],"cd"+a[1])});Ga("metric([0-9]+)",function(a){return new na(a[0],"cm"+a[1])});f("linkerParam",void 0,void 0,function(a){if(a.get(qa))return g(35),ra.generate($a(a));var b=a.get(u),c=a.get(H)||"",b="_ga=2."+G(da(c+b,0)+"."+c+"-"+b);(a=Hb(a))?(g(44),a="&_gac=1."+G([da(a.qa,0),a.timestamp,a.qa].join("."))):a="";return b+a},bc);var qa=p("_cd2l",void 0,!1),xb=f("usage","_u"),Kb=f("_um");f("forceSSL",void 0,
+void 0,function(){return Y},function(a,b,c){g(34);Y=!!c});var sa=f("_j1","jid"),gb=f("_j2","gjid");Ga("\\&(.*)",function(a){var b=new na(a[0],a[1]),c=jd(a[0].substring(1));c&&(b.Z=function(a){return a.get(c)},b.o=function(a,b,h,f){a.set(c,h,f)},b.F=void 0);return b});var Jd=p("_oot"),Kd=f("previewTask"),Ld=f("checkProtocolTask"),Md=f("validationTask"),Nd=f("checkStorageTask"),Od=f("historyImportTask"),Pd=f("samplerTask"),Qd=f("_rlt"),hb=f("buildHitTask"),ib=f("sendHitTask"),Rd=f("ceTask"),Sd=f("devIdTask"),
+Td=f("timingTask"),Ud=f("displayFeaturesTask"),Vd=f("customTask"),x=p("name"),u=p("clientId","cid"),jb=p("clientIdTime"),qc=p("storedClientId"),kb=f("userId","uid"),t=p("trackingId","tid"),I=p("cookieName",void 0,"_ga"),y=p("cookieDomain"),J=p("cookiePath",void 0,"/"),ta=p("cookieExpires",void 0,63072E3),ua=p("cookieUpdate",void 0,!0),Ha=p("legacyCookieDomain"),lb=p("legacyHistoryImport",void 0,!0),M=p("storage",void 0,"cookie"),mb=p("allowLinker",void 0,!1),R=p("allowAnchor",void 0,!0),xa=p("sampleRate",
+"sf",100),Ia=p("siteSpeedSampleRate",void 0,1),nb=p("alwaysSendReferrer",void 0,!1),H=p("_gid","_gid"),ob=p("_gcn"),Ja=p("useAmpClientId"),K=p("_gclid"),L=p("_gt"),ab=p("_ge",void 0,7776E6),pb=p("_gclsrc"),ea=p("storeGac",void 0,!0),Pa=f("transportUrl"),Wd=f("_r","_r"),Bb=f("_dp"),rc=f("allowAdFeatures",void 0,!0),Xd=function(){this.V=100;this.$=this.fa=!1;this.oa="detourexp";this.groups=1},Yd=function(a){var b=new Xd,c;if(b.fa&&b.$)return 0;b.$=!0;if(a){if(b.oa&&void 0!==a.get(b.oa))return z(a,b.oa);
+if(0==a.get(Ia))return 0}if(0==b.V)return 0;void 0===c&&(c=Ab());return 0==c%b.V?Math.floor(c/b.V)%b.groups+1:0},Zd=function(a){var b=Math.min(z(a,Ia),100);return N(n(a,u))%100>=b?!1:!0},sc=function(a){var b={};if($d(b)||ae(b)){var c=b[fb];void 0==c||Infinity==c||isNaN(c)||(0<c?(F(b,gc),F(b,jc),F(b,ic),F(b,fc),F(b,hc),F(b,kc),F(b,lc),F(b,mc),F(b,nc),F(b,oc),F(b,pc),Ba(function(){a(b)},10)):ha(k,"load",function(){sc(a)},!1))}},$d=function(a){var b=k.performance||k.webkitPerformance,b=b&&b.timing;if(!b)return!1;
+var c=b.navigationStart;if(0==c)return!1;a[fb]=b.loadEventStart-c;a[gc]=b.domainLookupEnd-b.domainLookupStart;a[jc]=b.connectEnd-b.connectStart;a[ic]=b.responseStart-b.requestStart;a[fc]=b.responseEnd-b.responseStart;a[hc]=b.fetchStart-c;a[kc]=b.domInteractive-c;a[lc]=b.domContentLoadedEventStart-c;a[mc]=m.L-c;a[nc]=m.ya-c;k.google_tag_manager&&k.google_tag_manager._li&&(b=k.google_tag_manager._li,a[oc]=b.cst,a[pc]=b.cbt);return!0},ae=function(a){if(k.top!=k)return!1;var b=k.external,c=b&&b.onloadT;
+b&&!b.isValidLoadTime&&(c=void 0);2147483648<c&&(c=void 0);0<c&&b.setPageReadyTime();if(void 0==c)return!1;a[fb]=c;return!0},F=function(a,b){var c=a[b];if(isNaN(c)||Infinity==c||0>c)a[b]=void 0},be=function(a){return function(b){if("pageview"==b.get(za)&&!a.I){a.I=!0;var c=Zd(b),d=0<bb(b.get(pa),"gclid").length;(c||d)&&sc(function(b){c&&a.send("timing",b);d&&a.send("adtiming",b)})}}},Z=!1,vc=function(a){if("cookie"==n(a,M)){if(a.get(ua)||n(a,qc)!=n(a,u)){var b=1E3*z(a,ta);tc(a,u,I,b)}tc(a,H,ob,864E5);
+if(a.get(ea)){var c=a.get(K);if(c){var d=Math.min(z(a,ab),1E3*z(a,ta)),d=Math.min(d,1E3*z(a,L)+d-(new Date).getTime());a.data.set(ab,d);b={};var e=a.get(L),h=a.get(pb),f=qb(n(a,J)),k=Ka(n(a,y));a=n(a,t);h&&"aw.ds"!=h?b&&(b.ua=!0):(c=["1",e,V(c)].join("."),0<d&&(b&&(b.ta=!0),Q("_gac_"+V(a),c,f,k,a,d)));uc(b)}}else g(75)}},tc=function(a,b,c,d){var e=wc(a,b);if(e){c=n(a,c);var h=qb(n(a,J)),f=Ka(n(a,y)),k=n(a,t);if("auto"!=f)Q(c,e,h,f,k,d)&&(Z=!0);else{g(32);for(var l=$b(),m=0;m<l.length;m++)if(f=l[m],
+a.data.set(y,f),e=wc(a,b),Q(c,e,h,f,k,d)){Z=!0;return}a.data.set(y,"auto")}}},ce=function(a){if("cookie"==n(a,M)&&!Z&&(vc(a),!Z))throw"abort";},de=function(a){if(a.get(lb)){var b=n(a,y),c=n(a,Ha)||ja(),d=Wa("__utma",c,b);d&&(g(19),a.set(Id,(new Date).getTime(),!0),a.set(Gd,d.R),(b=Wa("__utmz",c,b))&&d.hash==b.hash&&a.set(Hd,b.R))}},wc=function(a,b){b=V(n(a,b));var c=Ka(n(a,y)).split(".").length;a=xc(n(a,J));1<a&&(c+="-"+a);return b?["GA1",c,b].join("."):""},zc=function(a,b){return yc(b,n(a,y),n(a,
+J))},yc=function(a,b,c){if(!a||1>a.length)g(12);else{for(var d=[],e=0;e<a.length;e++){var h=a[e],f=h.split("."),k=f.shift();("GA1"==k||"1"==k)&&1<f.length?(h=f.shift().split("-"),1==h.length&&(h[1]="1"),h[0]*=1,h[1]*=1,f={H:h,s:f.join(".")}):f=kd.test(h)?{H:[0,0],s:h}:void 0;f&&d.push(f)}if(1==d.length)return g(13),d[0].s;if(0==d.length)g(12);else{g(14);d=Ac(d,Ka(b).split(".").length,0);if(1==d.length)return d[0].s;d=Ac(d,xc(c),1);1<d.length&&g(41);return d[0]&&d[0].s}}},Ac=function(a,b,c){for(var d=
+[],e=[],h,f=0;f<a.length;f++){var g=a[f];g.H[c]==b?d.push(g):void 0==h||g.H[c]<h?(e=[g],h=g.H[c]):g.H[c]==h&&e.push(g)}return 0<d.length?d:e},Ka=function(a){return 0==a.indexOf(".")?a.substr(1):a},$b=function(){var a=[],b=ja().split(".");if(4==b.length){var c=b[b.length-1];if(parseInt(c,10)==c)return["none"]}for(c=b.length-2;0<=c;c--)a.push(b.slice(c).join("."));b=l.location.hostname;Sb.test(b)||Tb.test(b)||a.push("none");return a},qb=function(a){if(!a)return"/";1<a.length&&a.lastIndexOf("/")==a.length-
+1&&(a=a.substr(0,a.length-1));0!=a.indexOf("/")&&(a="/"+a);return a},xc=function(a){a=qb(a);return"/"==a?1:a.split("/").length},uc=function(a){a.ta&&g(77);a.na&&g(74);a.pa&&g(73);a.ua&&g(69)},ee=new RegExp(/^https?:\/\/([^\/:]+)/),ra=k.google_tag_data.glBridge,fe=/(.*)([?&#])(?:_ga=[^&#]*)(?:&?)(.*)/,ge=/(.*)([?&#])(?:_gac=[^&#]*)(?:&?)(.*)/,va=function(a){g(48);this.target=a;this.T=!1};va.prototype.ca=function(a,b){if(a){if(this.target.get(qa))return ra.decorate($a(this.target),a,b);if(a.tagName){if("a"==
+a.tagName.toLowerCase()){a.href&&(a.href=La(this,a.href,b));return}if("form"==a.tagName.toLowerCase())return Bc(this,a)}if("string"==typeof a)return La(this,a,b)}};var La=function(a,b,c){var d=fe.exec(b);d&&3<=d.length&&(b=d[1]+(d[3]?d[2]+d[3]:""));(d=ge.exec(b))&&3<=d.length&&(b=d[1]+(d[3]?d[2]+d[3]:""));a=a.target.get("linkerParam");var e=b.indexOf("?"),d=b.indexOf("#");c?b+=(-1==d?"#":"&")+a:(c=-1==e?"?":"&",b=-1==d?b+(c+a):b.substring(0,d)+c+a+b.substring(d));b=b.replace(/&+_ga=/,"&_ga=");return b.replace(/&+_gac=/,
+"&_gac=")},Bc=function(a,b){if(b&&b.action)if("get"==b.method.toLowerCase()){a=a.target.get("linkerParam").split("&");for(var c=0;c<a.length;c++){for(var d=a[c].split("="),e=d[1],d=d[0],h=b.childNodes||[],f=!1,g=0;g<h.length;g++)if(h[g].name==d){h[g].setAttribute("value",e);f=!0;break}f||(h=l.createElement("input"),h.setAttribute("type","hidden"),h.setAttribute("name",d),h.setAttribute("value",e),b.appendChild(h))}}else"post"==b.method.toLowerCase()&&(b.action=La(a,b.action))};va.prototype.S=function(a,
+b,c){function d(c){try{c=c||k.event;a:{var d=c.target||c.srcElement;for(c=100;d&&0<c;){if(d.href&&d.nodeName.match(/^a(?:rea)?$/i)){var e=d;break a}d=d.parentNode;c--}e={}}("http:"==e.protocol||"https:"==e.protocol)&&Gb(a,e.hostname||"")&&e.href&&(e.href=La(h,e.href,b))}catch(De){g(26)}}var e=this;if(this.target.get(qa))ra.auto(function(){return $a(e.target)},a,b?"fragment":"",c);else{var h=this;this.T||(this.T=!0,ha(l,"mousedown",d,!1),ha(l,"keyup",d,!1));c&&ha(l,"submit",function(b){b=b||k.event;
+if((b=b.target||b.srcElement)&&b.action){var c=b.action.match(ee);c&&Gb(a,c[1])&&Bc(h,b)}})}};var he=/^(GTM|OPT)-[A-Z0-9]+$/,ie=/;_gaexp=[^;]*/g,je=/;((__utma=)|([^;=]+=GAX?\d+\.))[^;]*/g,ke=/^https?:\/\/[\w\-.]+\.google.com(:\d+)?\/optimize\/opt-launch\.html\?.*$/,le=function(a){function b(a,b){b&&(c+="&"+a+"="+G(b))}var c="https://www.google-analytics.com/gtm/js?id="+G(a.id);"dataLayer"!=a.B&&b("l",a.B);b("t",a.target);b("cid",a.clientId);b("cidt",a.ka);b("gac",a.la);b("aip",a.ia);a.sync&&b("m",
+"sync");b("cycle",a.G);a.qa&&b("gclid",a.qa);ke.test(l.referrer)&&b("cb",String(E()));return c},Cc=function(a,b,c){this.aa=b;(b=c)||(b=(b=n(a,x))&&"t0"!=b?me.test(b)?"_gat_"+V(n(a,t)):"_gat_"+V(b):"_gat");this.Y=b;this.ra=null},ne=function(a,b){var c=b.get(hb);b.set(hb,function(b){Ma(a,b,sa);Ma(a,b,gb);var d=c(b);Dc(a,b);return d});var d=b.get(ib);b.set(ib,function(b){var c=d(b);if(rb(b)){if(Ub()!==Ec(a,b)){g(80);var e={U:wa(a,b,1),google:wa(a,b,2),count:0};Ra("https://stats.g.doubleclick.net/j/collect",
+e.U,e)}else Nb(wa(a,b,0));b.set(sa,"",!0)}return c})},Ma=function(a,b,c){!1===b.get(rc)||b.get(c)||("1"==B(a.Y)[0]?b.set(c,"",!0):b.set(c,""+E(),!0))},Dc=function(a,b){rb(b)&&Q(a.Y,"1",b.get(J),b.get(y),b.get(t),6E4)},rb=function(a){return!!a.get(sa)&&a.get(rc)},wa=function(a,b,c){var d=new C,e=function(a){ma(a).F&&d.set(ma(a).F,b.get(a))};e(dc);e(ec);e(t);e(u);e(sa);if(0==c||1==c)e(kb),e(gb),e(H);d.set(ma(xb).F,yb(b));var f="";d.map(function(a,b){f+=G(a)+"=";f+=G(""+b)+"&"});f+="z="+E();0==c?f=a.aa+
+f:1==c?f="t=dc&aip=1&_r=3&"+f:2==c&&(f="t=sr&aip=1&_r=4&slf_rd=1&"+f);return f},Ec=function(a,b){null===a.ra&&(a.ra=1===Yd(b),a.ra&&g(33));return a.ra},me=/^gtm\d+$/,Fc=function(a,b){a=a.b;if(!a.get("dcLoaded")){var c=new U(Jb(a));c.set(29);a.set(Kb,c.w);b=b||{};var d;b[I]&&(d=V(b[I]));b=new Cc(a,"https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&",d);ne(b,a);a.set("dcLoaded",!0)}},oe=function(a){if(!a.get("dcLoaded")&&"cookie"==a.get(M)){var b=new Cc(a);Ma(b,a,sa);Ma(b,a,gb);Dc(b,a);if(rb(a)){var c=
+Ub()!==Ec(b,a);a.set(Wd,1,!0);c?(g(79),a.set(Pa,Qa()+"/j/collect",!0),a.set(Bb,{U:wa(b,a,1),google:wa(b,a,2),count:0},!0)):a.set(Pa,Qa()+"/r/collect",!0)}}},pe=function(){var a=k.gaGlobal=k.gaGlobal||{};return a.hid=a.hid||E()},Gc,qe=function(a,b,c){if(!Gc){var d=l.location.hash,e=k.name,f=/^#?gaso=([^&]*)/;if(e=(d=(d=d&&d.match(f)||e&&e.match(f))?d[1]:B("GASO")[0]||"")&&d.match(/^(?:!([-0-9a-z.]{1,40})!)?([-.\w]{10,1200})$/i))Q("GASO",""+d,c,b,a,0),window._udo||(window._udo=b),window._utcp||(window._utcp=
+c),a=e[1],Pb("https://www.google.com/analytics/web/inpage/pub/inpage.js?"+(a?"prefix="+a+"&":"")+E(),"_gasojs");Gc=!0}},id=/^(UA|YT|MO|GP)-(\d+)-(\d+)$/,aa=function(a){function b(a,b){d.b.data.set(a,b)}function c(a,c){b(a,c);d.filters.add(a)}var d=this;this.b=new Fa;this.filters=new db;b(x,a[x]);b(t,Lb(a[t]));b(I,a[I]);b(y,a[y]||ja());b(J,a[J]);b(ta,a[ta]);b(ua,a[ua]);b(Ha,a[Ha]);b(lb,a[lb]);b(mb,a[mb]);b(R,a[R]);b(xa,a[xa]);b(Ia,a[Ia]);b(nb,a[nb]);b(M,a[M]);b(kb,a[kb]);b(jb,a[jb]);b(Ja,a[Ja]);b(ea,
+a[ea]);b(qa,a[qa]);b(dc,1);b(ec,"j71");c(Jd,Oc);c(Vd,v);c(Kd,Yc);c(Ld,Pc);c(Md,$c);c(Nd,ce);c(Od,de);c(Pd,Nc);c(Qd,ad);c(Rd,Uc);c(Sd,Zc);c(Ud,oe);c(hb,Qc);c(ib,Rc);c(Td,be(this));re(this.b);se(this.b,a[u]);this.b.set(ld,pe());qe(this.b.get(t),this.b.get(y),this.b.get(J))},se=function(a,b){var c=n(a,I);a.data.set(ob,"_ga"==c?"_gid":c+"_gid");if("cookie"==n(a,M)){Z=!1;c=B(n(a,I));c=zc(a,c);if(!c){c=n(a,y);var d=n(a,Ha)||ja();c=Wa("__utma",d,c);void 0!=c?(g(10),c=c.O[1]+"."+c.O[2]):c=void 0}c&&(Z=!0);
+if(d=c&&!a.get(ua))if(d=c.split("."),2!=d.length)d=!1;else if(d=Number(d[1])){var e=z(a,ta);d=d+e<(new Date).getTime()/1E3}else d=!1;d&&(c=void 0);c&&(a.data.set(qc,c),a.data.set(u,c),c=B(n(a,ob)),(c=zc(a,c))&&a.data.set(H,c));if(a.get(ea)&&(c=a.get(K),d=a.get(pb),!c||d&&"aw.ds"!=d)){c={};if(l){d=[];e=l.cookie.split(";");for(var f=/^\s*_gac_(UA-\d+-\d+)=\s*(.+?)\s*$/,m=0;m<e.length;m++){var p=e[m].match(f);p&&d.push({ja:p[1],value:p[2]})}e={};if(d&&d.length)for(f=0;f<d.length;f++)(m=d[f].value.split("."),
+"1"!=m[0]||3!=m.length)?c&&(c.na=!0):m[1]&&(e[d[f].ja]?c&&(c.pa=!0):e[d[f].ja]=[],e[d[f].ja].push({timestamp:m[1],qa:m[2]}));d=e}else d={};d=d[n(a,t)];uc(c);d&&0!=d.length&&(c=d[0],a.data.set(L,c.timestamp),a.data.set(K,c.qa))}}if(a.get(ua)&&(c=ia("_ga",a.get(R)),d=ia("_gl",a.get(R)),e=ra.get(a.get(R)),f=e._ga,d&&0<d.indexOf("_ga")&&!f&&g(30),c||f))if(c&&f&&g(36),a.get(mb)){if(f&&(g(38),a.data.set(u,f),e._gid&&(g(51),a.data.set(H,e._gid)),e._gac&&(d=e._gac.split("."))&&2==d.length&&(g(37),a.data.set(K,
+d[0]),a.data.set(L,d[1]))),c)a:if(d=c.indexOf("."),-1==d)g(22);else{e=c.substring(0,d);f=c.substring(d+1);d=f.indexOf(".");c=f.substring(0,d);f=f.substring(d+1);if("1"==e){if(d=f,Za(d,c)){g(23);break a}}else if("2"==e){d=f.indexOf("-");e="";0<d?(e=f.substring(0,d),d=f.substring(d+1)):d=f.substring(1);if(Za(e+d,c)){g(53);break a}e&&(g(2),a.data.set(H,e))}else{g(22);break a}g(11);a.data.set(u,d);if(c=ia("_gac",a.get(R)))c=c.split("."),"1"!=c[0]||4!=c.length?g(72):Za(c[3],c[1])?g(71):(a.data.set(K,c[3]),
+a.data.set(L,c[2]),g(70))}}else g(21);b&&(g(9),a.data.set(u,G(b)));a.get(u)||((b=(b=k.gaGlobal&&k.gaGlobal.vid)&&-1!=b.search(cc)?b:void 0)?(g(17),a.data.set(u,b)):(g(8),a.data.set(u,Mb())));a.get(H)||(g(3),a.data.set(H,Mb()));vc(a)},re=function(a){var b=k.navigator,c=k.screen,d=l.location;a.set(md,cd(a.get(nb),a.get(Ja)));if(d){var e=d.pathname||"";"/"!=e.charAt(0)&&(g(31),e="/"+e);a.set(pa,d.protocol+"//"+d.hostname+e+d.search)}c&&a.set(rd,c.width+"x"+c.height);c&&a.set(qd,c.colorDepth+"-bit");
+var c=l.documentElement,f=(e=l.body)&&e.clientWidth&&e.clientHeight,m=[];c&&c.clientWidth&&c.clientHeight&&("CSS1Compat"===l.compatMode||!f)?m=[c.clientWidth,c.clientHeight]:f&&(m=[e.clientWidth,e.clientHeight]);c=0>=m[0]||0>=m[1]?"":m.join("x");a.set(sd,c);a.set(ud,bd());a.set(pd,l.characterSet||l.charset);a.set(td,b&&"function"===typeof b.javaEnabled&&b.javaEnabled()||!1);a.set(od,(b&&(b.language||b.browserLanguage)||"").toLowerCase());a.data.set(K,ia("gclid",!0));a.data.set(pb,ia("gclsrc",!0));
+a.data.set(L,Math.round((new Date).getTime()/1E3));if(d&&a.get(R)&&(b=l.location.hash)){b=b.split(/[?&#]+/);d=[];for(c=0;c<b.length;++c)(w(b[c],"utm_id")||w(b[c],"utm_campaign")||w(b[c],"utm_source")||w(b[c],"utm_medium")||w(b[c],"utm_term")||w(b[c],"utm_content")||w(b[c],"gclid")||w(b[c],"dclid")||w(b[c],"gclsrc"))&&d.push(b[c]);0<d.length&&(b="#"+d.join("&"),a.set(pa,a.get(pa)+b))}};aa.prototype.get=function(a){return this.b.get(a)};aa.prototype.set=function(a,b){this.b.set(a,b)};var te={pageview:[nd],
+event:[vd,wd,xd,yd],social:[zd,Ad,Bd],timing:[Cd,Dd,Fd,Ed]};aa.prototype.send=function(a){if(!(1>arguments.length)){if("string"===typeof arguments[0]){var b=arguments[0];var c=[].slice.call(arguments,1)}else b=arguments[0]&&arguments[0][za],c=arguments;b&&(c=Rb(te[b]||[],c),c[za]=b,this.b.set(c,void 0,!0),this.filters.D(this.b),this.b.data.m={})}};aa.prototype.ma=function(a,b){var c=this;sb(a,c,b)||(ue(a,function(){sb(a,c,b)}),tb(String(c.get(x)),a,void 0,b,!0))};var Hc=function(a){if("prerender"==
+l.visibilityState)return!1;a();return!0},Ic=function(a){if(!Hc(a)){g(16);var b=!1,c=function(){if(!b&&Hc(a)){b=!0;var d=c,e=l;e.removeEventListener?e.removeEventListener("visibilitychange",d,!1):e.detachEvent&&e.detachEvent("onvisibilitychange",d)}};ha(l,"visibilitychange",c)}},ve=/^(?:(\w+)\.)?(?:(\w+):)?(\w+)$/,we=function(a){if(O(a[0]))this.u=a[0];else{var b=ve.exec(a[0]);null!=b&&4==b.length&&(this.c=b[1]||"t0",this.K=b[2]||"",this.C=b[3],this.a=[].slice.call(a,1),this.K||(this.A="create"==this.C,
+this.i="require"==this.C,this.g="provide"==this.C,this.ba="remove"==this.C),this.i&&(3<=this.a.length?(this.X=this.a[1],this.W=this.a[2]):this.a[1]&&(Aa(this.a[1])?this.X=this.a[1]:this.W=this.a[1])));b=a[1];a=a[2];if(!this.C)throw"abort";if(this.i&&(!Aa(b)||""==b))throw"abort";if(this.g&&(!Aa(b)||""==b||!O(a)))throw"abort";if(Ib(this.c)||Ib(this.K))throw"abort";if(this.g&&"t0"!=this.c)throw"abort";}};var ub=new C;var Jc=new C;var Na=new C;var vb={ec:45,ecommerce:46,linkid:47};var sb=function(a,b,
+c){b==m||b.get(x);var d=ub.get(a);if(!O(d))return!1;b.plugins_=b.plugins_||new C;if(b.plugins_.get(a))return!0;b.plugins_.set(a,new d(b,c||{}));return!0},tb=function(a,b,c,d,e){if(!O(ub.get(b))&&!Jc.get(b)){vb.hasOwnProperty(b)&&g(vb[b]);if(he.test(b)){g(52);a=m.j(a);if(!a)return!0;c=d||{};d={id:b,B:c.dataLayer||"dataLayer",ia:!!a.get("anonymizeIp"),sync:e,G:!1};a.get("&gtm")==b&&(d.G=!0);var f=String(a.get("name"));"t0"!=f&&(d.target=f);ba(String(a.get("trackingId")))||(d.clientId=String(a.get(u)),
+d.ka=Number(a.get(jb)),c=c.palindrome?je:ie,c=(c=l.cookie.replace(/^|(; +)/g,";").match(c))?c.sort().join("").substring(1):void 0,d.la=c,d.qa=bb(a.b.get(pa)||"","gclid"));a=d.B;c=(new Date).getTime();k[a]=k[a]||[];c={"gtm.start":c};e||(c.event="gtm.js");k[a].push(c);c=le(d)}!c&&vb.hasOwnProperty(b)?(g(39),c=b+".js"):g(43);c&&(c&&0<=c.indexOf("/")||(c=(Y||"https:"==l.location.protocol?"https:":"http:")+"//www.google-analytics.com/plugins/ua/"+c),d=Kc(c),a=d.protocol,c=l.location.protocol,("https:"==
+a||a==c||("http:"!=a?0:"http:"==c))&&xe(d)&&(Pb(d.url,void 0,e),Jc.set(b,!0)))}},ue=function(a,b){var c=Na.get(a)||[];c.push(b);Na.set(a,c)},Oa=function(a,b){ub.set(a,b);b=Na.get(a)||[];for(var c=0;c<b.length;c++)b[c]();Na.set(a,[])},xe=function(a){var b=Kc(l.location.href);if(w(a.url,"https://www.google-analytics.com/gtm/js?id="))return!0;if(a.query||0<=a.url.indexOf("?")||0<=a.path.indexOf("://"))return!1;if(a.host==b.host&&a.port==b.port)return!0;b="http:"==a.protocol?80:443;return"www.google-analytics.com"==
+a.host&&(a.port||b)==b&&w(a.path,"/plugins/")?!0:!1},Kc=function(a){function b(a){var b=a.hostname||"",c=0<=b.indexOf("]"),b=b.split(c?"]":":")[0].toLowerCase();c&&(b+="]");c=(a.protocol||"").toLowerCase();c=1*a.port||("http:"==c?80:"https:"==c?443:"");a=a.pathname||"";w(a,"/")||(a="/"+a);return[b,""+c,a]}var c=l.createElement("a");c.href=l.location.href;var d=(c.protocol||"").toLowerCase(),e=b(c),f=c.search||"",g=d+"//"+e[0]+(e[1]?":"+e[1]:"");w(a,"//")?a=d+a:w(a,"/")?a=g+a:!a||w(a,"?")?a=g+e[2]+
+(a||f):0>a.split("/")[0].indexOf(":")&&(a=g+e[2].substring(0,e[2].lastIndexOf("/"))+"/"+a);c.href=a;d=b(c);return{protocol:(c.protocol||"").toLowerCase(),host:d[0],port:d[1],path:d[2],query:c.search||"",url:a||""}},q={ga:function(){q.f=[]}};q.ga();q.D=function(a){var b=q.J.apply(q,arguments),b=q.f.concat(b);for(q.f=[];0<b.length&&!q.v(b[0])&&!(b.shift(),0<q.f.length););q.f=q.f.concat(b)};q.J=function(a){for(var b=[],c=0;c<arguments.length;c++)try{var d=new we(arguments[c]);d.g?Oa(d.a[0],d.a[1]):(d.i&&
+(d.ha=tb(d.c,d.a[0],d.X,d.W)),b.push(d))}catch(e){}return b};q.v=function(a){try{if(a.u)a.u.call(k,m.j("t0"));else{var b=a.c==oa?m:m.j(a.c);if(a.A){if("t0"==a.c&&(b=m.create.apply(m,a.a),null===b))return!0}else if(a.ba)m.remove(a.c);else if(b)if(a.i){if(a.ha&&(a.ha=tb(a.c,a.a[0],a.X,a.W)),!sb(a.a[0],b,a.W))return!0}else if(a.K){var c=a.C,d=a.a,e=b.plugins_.get(a.K);e[c].apply(e,d)}else b[a.C].apply(b,a.a)}}catch(h){}};var m=function(a){g(1);q.D.apply(q,[arguments])};m.h={};m.P=[];m.L=0;m.ya=0;m.answer=
+42;var ye=[t,y,x];m.create=function(a){var b=Rb(ye,[].slice.call(arguments));b[x]||(b[x]="t0");var c=""+b[x];if(m.h[c])return m.h[c];a:{if(b[Ja]){g(67);if(b[M]&&"cookie"!=b[M]){var d=!1;break a}if(Vb.test(l.referrer)){d=l.location.hostname.replace(Wb,"");var e=l.referrer.replace(/^https?:\/\//,"").replace(/^[^/]+/,"").split("/");var f=e[2];e=("s"==f?decodeURIComponent(e[3]):decodeURIComponent(f)).replace(Wb,"");d==e?(d=(d=ra.get())&&d._ga||void 0,void 0!==d&&(W=d,g(81))):g(78)}if(void 0!==W)b[u]||
+(b[u]=W);else if(d=(d=String(b[y]||ja()),e=String(b[J]||"/"),f=B(String(b[I]||"_ga")),d=yc(f,d,e),!d||cc.test(d))?!0:(d=B("AMP_TOKEN"),0==d.length)?!0:1==d.length&&(d=decodeURIComponent(d[0]),"$RETRIEVING"==d||"$OPT_OUT"==d||"$ERROR"==d||"$NOT_FOUND"==d)?!0:!1,d&&Xb(fd,String(b[t]))){d=!0;break a}}d=!1}if(d)return null;b=new aa(b);m.h[c]=b;m.P.push(b);return b};m.remove=function(a){for(var b=0;b<m.P.length;b++)if(m.P[b].get(x)==a){m.P.splice(b,1);m.h[a]=null;break}};m.j=function(a){return m.h[a]};
+m.getAll=function(){return m.P.slice(0)};m.N=function(){"ga"!=oa&&g(49);var a=k[oa];if(!a||42!=a.answer){m.L=a&&a.l;m.ya=1*new Date;m.loaded=!0;var b=k[oa]=m;A("create",b,b.create);A("remove",b,b.remove);A("getByName",b,b.j,5);A("getAll",b,b.getAll,6);b=aa.prototype;A("get",b,b.get,7);A("set",b,b.set,4);A("send",b,b.send);A("requireSync",b,b.ma);b=Fa.prototype;A("get",b,b.get);A("set",b,b.set);if("https:"!=l.location.protocol&&!Y){a:{for(var b=l.getElementsByTagName("script"),c=0;c<b.length&&100>
+c;c++){var d=b[c].src;if(d&&0==d.indexOf("https://www.google-analytics.com/analytics")){b=!0;break a}}b=!1}b&&(Y=!0)}(k.gaplugins=k.gaplugins||{}).Linker=va;b=va.prototype;Oa("linker",va);A("decorate",b,b.ca,20);A("autoLink",b,b.S,25);Oa("displayfeatures",Fc);Oa("adfeatures",Fc);a=a&&a.q;Ua(a)?q.D.apply(m,a):g(50)}};m.da=function(){for(var a=m.getAll(),b=0;b<a.length;b++)a[b].get(x)};var Lc=m.N,Mc=k[oa];Mc&&Mc.r?Lc():Ic(Lc);Ic(function(){q.D(["provide","render",v])})})(window);
+
+//]]>
+</script>
+<!-- <script async src='https://www.google-analytics.com/analytics.js'></script> -->
+<!-- End Google Analytics -->
+
+
+  <link href="https://www.trover.com/assets/f216586997a0c64c56c2682607328c90/desktop_all.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://www.trover.com/assets/f216586997a0c64c56c2682607328c90/desktop_typical.css" media="all" rel="stylesheet" type="text/css" />
+  <script src='//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js' type='text/javascript'></script>
+  <script>
+function is_tablet_device() { return false }
+function is_mobile_device() { return false }
+function is_desktop_device() { return true }
+function is_touch_device() { return false }
+function secure_host() { return "https://www.trover.com"}
+function auth_host() { return "https://www.trover.com" }
+function app_host() { return "app.trover.com" }
+function is_admin() { return false }
+function is_expe_partner() { return false }
+function is_signin_enabled() { return true }
+function location_from_ip() { return [40.6281, -73.9467] }
+function supports_fixed_positioning() {return true }
+function google_client_id() { return "gme-expedia" }
+function app_store_url() { return "http://itunes.apple.com/app/trover/id433589595?mt=8" }
+function google_play_url() { return "https://play.google.com/store/apps/details?id=com.trover" }
+function running_experiments() { return {"XA0DTDpVQQOZV4vaOgO-BA":0} }
+function get_variant(experiment_id) { return running_experiments()[experiment_id] }
+function is_running(experiment_id) {return running_experiments()[experiment_id] != undefined ? true : false}
+function can_log_experiments(){return true}
+</script>
+
+  <script src="https://www.trover.com/assets/f216586997a0c64c56c2682607328c90/desktop_all.js" type="text/javascript"></script>
+<script src="https://www.trover.com/assets/f216586997a0c64c56c2682607328c90/desktop_typical.js" type="text/javascript"></script>
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="79CM8c0+AA3csxMHVD0ooIqU1hyPHutZ6Z+aNwMUTW0=" name="csrf-token" />
+
+  
+  
+  	
+  <script>
+  // Called by the google maps api once it's (asynchronously) loaded
+  var initMapsApi = function() {
+    $(document).ready(function() {
+      window.trover.MapsLoader.ready();
+    });
+  }
+</script>
+<script type='text/javascript' async src='//maps.googleapis.com/maps/api/js?v=3&libraries=places%2Cgeometry&callback=initMapsApi&client=gme-expedia&channel=trover'></script><script src="https://www.trover.com/assets/f216586997a0c64c56c2682607328c90/maps.js" type="text/javascript"></script>  <link href="https://www.trover.com/assets/f216586997a0c64c56c2682607328c90/desktop_colwall.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="https://www.trover.com/assets/f216586997a0c64c56c2682607328c90/desktop_colwall.js" type="text/javascript"></script>
+  <script type="text/javascript">
+//<![CDATA[
+window.fbAsyncInit = function() { if (!window.fbApiInit) { FB.init({appId: '207130792637491', status: false, cookie: false, version: 'v2.9', channelUrl: '//www.trover.com/fb_channel.html'}); } window.fbApiInit = true; if ('undefined' != typeof(FacebookStatus)) {FacebookStatus.init()}; };
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+(function() { function lazy_load(){ {var d = document.createElement('div'); d.id = "fb-root"; document.body.appendChild(d);} var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://connect.facebook.net/en_US/sdk.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); } if (window.attachEvent) { window.attachEvent('onload', lazy_load); } else { window.addEventListener('load', lazy_load, false); } })();
+//]]>
+</script>
+
+
+  
+
+  <link rel="apple-touch-icon" href="//cdn.trover.com/images/apple_touch_icon/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//cdn.trover.com/images/apple_touch_icon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//cdn.trover.com/images/apple_touch_icon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="//cdn.trover.com/images/apple_touch_icon/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="//cdn.trover.com/images/apple_touch_icon/apple-touch-icon-180x180.png">
+
+
+</head>
+
+
+
+
+<script>
+  var _sift = window._sift = window._sift || [];
+  // sandbox key
+  _sift.push(['_setAccount', "fcf9c435bd"]);
+  _sift.push(['_setUserId', ""]);
+  _sift.push(['_setSessionId', "8f2091a9-758e-4a30-90ed-f3a94cfa03ec"]);
+  _sift.push(['_trackPageview']);
+
+  (function() {
+    function ls() {
+      var e = document.createElement('script');
+      e.src = 'https://cdn.siftscience.com/s.js';
+      document.body.appendChild(e);
+    }
+    if (window.attachEvent) {
+      window.attachEvent('onload', ls);
+    } else {
+      window.addEventListener('load', ls, false);
+    }
+  })();
+
+
+</script>
+
+
+  <body class="full-screen simple-colwall desktop">
+
+    <div id="thin_header" class="fixed"><div id="thin_header_centered"><div class="thin-header-content">
+          <a href="https://www.trover.com/signup" class="signup-link thin-header-nav-item highlightable" rel="nofollow">JOIN</a>
+    <div class="thin-header-divider"></div>
+    <a href="https://www.trover.com/signin" class="signin-link thin-header-nav-item highlightable" rel="nofollow">LOGIN</a>
+
+      <div class="thin-header-divider"></div>
+    
+        <div class="omnibox omnibox-header thin-header-item" id="thin_header_omnibox"><input type='text' trdefaultvalue='Search places or interests' TABINDEX='1'></div>
+        <div class="thin-header-divider"></div>
+
+      <a id="thin_header_nav_app" class="thin-header-nav-item unpadded highlightable" href="javascript:">GO MOBILE</a>
+      <div id="thin_header_tt_app" class="thin-header-nav-menu" data-tr-tooltip-config="{&quot;trigger&quot;:&quot;#thin_header_nav_app&quot;,&quot;offset&quot;:[0,-15],&quot;arrow&quot;:false}">
+        <a class="iphone" href="/itunes?lt=h"><span class="icon"></span>iphone</a>
+        <a class="android" href="/android?lt=h"><span class="icon"></span>android</a>
+      </div>
+      <div class="thin-header-divider"></div>
+
+      <a id="thin_header_nav_explore" class="thin-header-nav-item highlightable" href="javascript:">EXPLORE</a>
+      <div id="thin_header_tt_explore" class="thin-header-nav-menu" data-tr-tooltip-config="{&quot;trigger&quot;:&quot;#thin_header_nav_explore&quot;,&quot;offset&quot;:[0,-15],&quot;arrow&quot;:false}">
+        
+  <div class="desktop-explore-menu">
+    <table class="desktop-explore-menu-col-wrapper"><tr>
+    <td class="desktop-explore-menu-col-a">
+      <div class="desktop-explore-menu-section">GREAT DESTINATIONS</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/h73B-iconic-places-around-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3db&quot;,&quot;label&quot;:&quot;Iconic Places&quot;,&quot;value&quot;:100}">Iconic Places</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gfI3-national-parks-of-the-usa" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3eT&quot;,&quot;label&quot;:&quot;National Parks USA&quot;,&quot;value&quot;:101}">National Parks USA</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/getP-gorgeous-beaches-around-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3fl&quot;,&quot;label&quot;:&quot;Gorgeous Beaches&quot;,&quot;value&quot;:102}">Gorgeous Beaches</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gj3F-weekend-getaways-in-the-us" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3fo&quot;,&quot;label&quot;:&quot;Weekend Getaways USA&quot;,&quot;value&quot;:103}">Weekend Getaways USA</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/Vpd4-disappearing-destinations" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3k8&quot;,&quot;label&quot;:&quot;Disappearing Destinations&quot;,&quot;value&quot;:104}">Disappearing Destinations</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/W2yE-exquisite-waterfalls" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3mK&quot;,&quot;label&quot;:&quot;Exquisite Waterfalls&quot;,&quot;value&quot;:105}">Exquisite Waterfalls</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/giuy-disney-magic" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3kz&quot;,&quot;label&quot;:&quot;Disney Magic&quot;,&quot;value&quot;:106}">Disney Magic</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/givk-cute-creatures" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3lZ&quot;,&quot;label&quot;:&quot;Cute Creatures&quot;,&quot;value&quot;:107}">Cute Creatures</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/ioLK-awe-inspiring-travel-destinations" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3m9&quot;,&quot;label&quot;:&quot;Awe-Inspiring Destinations&quot;,&quot;value&quot;:108}">Awe-Inspiring Destinations</a>
+</div>
+      <div class="desktop-explore-menu-section">ACTIVITIES</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/iSDw-hikes-around-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3gA&quot;,&quot;label&quot;:&quot;Hiking&quot;,&quot;value&quot;:200}">Hiking</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gixH-extreme-adventures" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3gm&quot;,&quot;label&quot;:&quot;Extreme Adventures&quot;,&quot;value&quot;:201}">Extreme Adventures</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/h7pz-tallest-mountains-of-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3pY&quot;,&quot;label&quot;:&quot;Tallest Mountains&quot;,&quot;value&quot;:202}">Tallest Mountains</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/TAbD-camping-spots" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3qR&quot;,&quot;label&quot;:&quot;Camping&quot;,&quot;value&quot;:203}">Camping</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gj5L-snow-troving" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3qu&quot;,&quot;label&quot;:&quot;Snow Troving&quot;,&quot;value&quot;:204}">Snow Troving</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/giwc-surf-spots" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3qv&quot;,&quot;label&quot;:&quot;Surfing&quot;,&quot;value&quot;:205}">Surfing</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/ioae-kids-fun-around-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3rs&quot;,&quot;label&quot;:&quot;Kids&#x27; Fun Around the World&quot;,&quot;value&quot;:206}">Kids&#x27; Fun Around the World</a>
+</div>
+    </td>
+    <td class="desktop-explore-menu-col-b">
+      <div class="desktop-explore-menu-section">PLACES TO VISIT</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gehJ-explore-europe" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3Zp&quot;,&quot;label&quot;:&quot;Europe&quot;,&quot;value&quot;:300}">Europe</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gevX-explore-asia" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3aa&quot;,&quot;label&quot;:&quot;Asia&quot;,&quot;value&quot;:301}">Asia</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/hQ8r-explore-iceland" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3bc&quot;,&quot;label&quot;:&quot;Iceland&quot;,&quot;value&quot;:302}">Iceland</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gfAv-explore-new-zealand" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3az&quot;,&quot;label&quot;:&quot;New Zealand&quot;,&quot;value&quot;:303}">New Zealand</a>
+</div>
+      <div class="desktop-explore-menu-item desktop-explore-menu-item-static"><a href="/cities" class="desktop-explore-menu-link">More...</a></div>
+      <div class="desktop-explore-menu-section">HISTORY &amp; CULTURE</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gipZ-ancient-ruins-and-temples" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3iW&quot;,&quot;label&quot;:&quot;Ancient Ruins &amp; Temples&quot;,&quot;value&quot;:400}">Ancient Ruins &amp; Temples</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/giuT-castles-of-old-europe" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3j3&quot;,&quot;label&quot;:&quot;Castles&quot;,&quot;value&quot;:401}">Castles</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/gikL-the-forgotten%3a-abandoned-places-around-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3to&quot;,&quot;label&quot;:&quot;Forgotten Places&quot;,&quot;value&quot;:402}">Forgotten Places</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/h7wE-coffee-around-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3uL&quot;,&quot;label&quot;:&quot;Coffee&quot;,&quot;value&quot;:403}">Coffee</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/hQDS-art-around-the-world" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3vA&quot;,&quot;label&quot;:&quot;Art&quot;,&quot;value&quot;:404}">Art</a>
+</div>
+      <div class="desktop-explore-menu-section">TRENDING</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/popular" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 40T&quot;,&quot;label&quot;:&quot;What&#x27;s Hot&quot;,&quot;value&quot;:500}">What&#x27;s Hot</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/discoveries/recent" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 402&quot;,&quot;label&quot;:&quot;What&#x27;s New&quot;,&quot;value&quot;:501}">What&#x27;s New</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/users" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3zU&quot;,&quot;label&quot;:&quot;Top Trovers&quot;,&quot;value&quot;:502}">Top Trovers</a>
+</div>
+        <div class="desktop-explore-menu-item" >
+  <a href="http://www.trover.com/l/featured" class="desktop-explore-menu-link" data-tr-trackable="{&quot;interaction&quot;:&quot;click&quot;,&quot;impression&quot;:false,&quot;category&quot;:&quot;PromotedLink&quot;,&quot;action&quot;:&quot;desktop-explore-menu 0 0 3yl&quot;,&quot;label&quot;:&quot;Discovery of the Day&quot;,&quot;value&quot;:503}">Discovery of the Day</a>
+</div>
+    </td>
+    </tr></table>
+  </div>
+
+      </div>
+      <div class="thin-header-divider"></div>
+
+      <a class="thin-header-nav-item highlightable" href="/discoveries/new">ADD A PHOTO</a>
+      <div class="thin-header-divider"></div>
+
+      <div id="thin_header_logo">
+        <a class="logo" href="/"></a>
+        <span class="tagline"></span>
+      </div>
+
+</div></div><div id="thin_header_mask"></div></div>
+<div id="thin_header_spacer"></div>
+	  <div id="notify-container"></div>
+	  
+
+
+
+
+
+
+<div id="page_container">
+  
+<div class="mimic-discovery-popup-2">  
+  <div class="popup discovery-popup-2-wrapper">
+    <div class="discoveries">
+      
+
+
+<div id="discovery_popup_7YuE" class="discovery-popup-2" data-tr-page-context="{&quot;og_image&quot;:&quot;//media2.trover.com/T/4e41b8e092e9bd3344000179/fixedw_large_4x.jpg&quot;,&quot;og_title&quot;:&quot;World Trade Center Station, New York City, New York — by Amanda Glassman&quot;,&quot;url&quot;:&quot;/d/7YuE-world-trade-center-station-new-york-city-new-york&quot;,&quot;title&quot;:&quot;World Trade Center Station, New York City, New York - Eyes...&quot;}" data-tr-discovery="{&quot;id&quot;:&quot;4e41b8ce37f1b535f2000091&quot;,&quot;slug&quot;:&quot;7YuE&quot;,&quot;hot&quot;:false,&quot;photo_host&quot;:&quot;media2.trover.com&quot;,&quot;photo_id&quot;:&quot;4e41b8e092e9bd3344000179&quot;,&quot;photo_aspect_ratio&quot;:1.02,&quot;photo_color&quot;:&quot;BCB1A1&quot;,&quot;syndicatable&quot;:false,&quot;user_img&quot;:&quot;/2800563657/facebook/small_sq.jpg?146401674900&quot;,&quot;user_name&quot;:&quot;Amanda Glassman&quot;,&quot;user_path&quot;:&quot;/u/2800563657&quot;,&quot;place_name&quot;:&quot;World Trade Center Station&quot;,&quot;vicinity&quot;:&quot;New York City, New York&quot;,&quot;url&quot;:&quot;/d/7YuE-world-trade-center-station-new-york-city-new-york&quot;,&quot;desc&quot;:&quot;Eyes underground. They always seem somehow Byzantine.&quot;,&quot;title&quot;:&quot;World Trade Center Station, New York City, New York - Eyes...&quot;}">
+  <div class="wrap">
+    <div class="bcol-wrap">
+      <div class="bcol-content noclose">
+        <div class="discovery-popup-2-author" id="user_shingle_7YuE_2800563657_1">
+          <div class="image">
+            <div class="image-box user-image-box" id="image_box_2"><a href="/u/2800563657" rel="nofollow"><img class="main-image" src="https://media.trover.com/prod.aws/members/2800563657/facebook/mobile_2x.jpg?146401674900" width="60" /></a></div>
+          </div>
+          <div class="follow"><div class="multi-state-element tp-trigger-follow-user-2800563657" data-tp-trigger="{&quot;trigger_class&quot;:&quot;tp-trigger-follow-user-2800563657&quot;,&quot;state&quot;:&quot;unfollowed&quot;}" id="tr-follow-button-user-2800563657-5bf2ff71bb1673da15000862"><div class="multi-state-state multi-state-state-show unfollowed"><div class="tr-new-button tp-remote-action tr-fixed-background-button follow-button tr-user-follow-button unfollowed discovery" data-tp-remote-action-config="{&quot;acct_reqd&quot;:true,&quot;spinner_css&quot;:true,&quot;acct_title&quot;:&quot;Follow Amanda Glassman&quot;,&quot;acct_subtitle&quot;:&quot;Start your personalized discovery feed.&quot;,&quot;replaceable&quot;:&quot;#tr-follow-button-user-2800563657-5bf2ff71bb1673da15000862&quot;,&quot;link&quot;:&quot;/u/2800563657/follow?button_style=discovery&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Follow (attempt)&#x27;); }&quot;,&quot;fn_onsuccess&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Follow&#x27;); (function() {$(document).trigger(&#x27;tr.followship&#x27;); })() }&quot;}" id="tp-remote-action_3"><div class="icon"></div><span></span><div class="waiter"></div></div></div><div class="multi-state-state  followed"><div class="tr-new-button tp-remote-action tr-fixed-background-button follow-button tr-user-follow-button followed discovery" data-tp-remote-action-config="{&quot;acct_reqd&quot;:true,&quot;spinner_css&quot;:true,&quot;acct_title&quot;:&quot;Follow Amanda Glassman&quot;,&quot;acct_subtitle&quot;:&quot;Start your personalized discovery feed.&quot;,&quot;replaceable&quot;:&quot;#tr-follow-button-user-2800563657-5bf2ff71bb1673da15000862&quot;,&quot;link&quot;:&quot;/u/2800563657/unfollow?button_style=discovery&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow (attempt)&#x27;); }&quot;,&quot;fn_onsuccess&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow&#x27;); (function() {$(document).trigger(&#x27;tr.followship&#x27;); })() }&quot;}" id="tp-remote-action_4"><div class="icon"></div><span></span><div class="waiter"></div></div></div><div class="multi-state-state  super_followed"><div class="tr-new-button tp-remote-action tr-fixed-background-button follow-button tr-user-follow-button followed discovery" data-tp-remote-action-config="{&quot;acct_reqd&quot;:true,&quot;spinner_css&quot;:true,&quot;acct_title&quot;:&quot;Follow Amanda Glassman&quot;,&quot;acct_subtitle&quot;:&quot;Start your personalized discovery feed.&quot;,&quot;replaceable&quot;:&quot;#tr-follow-button-user-2800563657-5bf2ff71bb1673da15000862&quot;,&quot;link&quot;:&quot;/u/2800563657/unfollow?button_style=discovery&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow (attempt)&#x27;); }&quot;,&quot;fn_onsuccess&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow&#x27;); (function() {$(document).trigger(&#x27;tr.followship&#x27;); })() }&quot;}" id="tp-remote-action_5"><div class="icon"></div><span></span><div class="waiter"></div></div></div></div></div>
+          <div class="name "><div class="name-table"><div class="name-table-cell"><span>by&nbsp;</span><a href="/u/2800563657">Amanda Glassman</a></div></div></div>
+        </div>
+        <div class="discovery-popup-2-details xx-scroll-child">
+          <h1><div class="place">World Trade Center Station</div>
+          <div class="vicinity">New York City, New York</div></h1>
+          <div class="location">
+            <a href="javascript:" class="map" data-tr-map-popup-config="{&quot;url&quot;:&quot;/discoveries/7YuE/map&quot;}">map</a>
+            <div class="website">&nbsp;</div>
+          </div>
+          <p class="body">Eyes underground. They always seem somehow Byzantine.</p>
+          <div class="time">&gt; 1 year ago</div>
+        </div>
+        <div class="discovery-popup-2-actionbar">
+            <a href="javascript:" class="addlist-btn" data-tr-addlist-config="{&quot;id&quot;:&quot;4e41b8ce37f1b535f2000091&quot;}"></a>
+              <div class="discovery-popup-2-thank-btn-wrap"><div class="tr-new-button tp-remote-action tr-fixed-background-button discovery-thanks new_popup vote" data-tp-remote-action-config="{&quot;acct_reqd&quot;:true,&quot;button_style&quot;:&quot;new_popup&quot;,&quot;voted&quot;:false,&quot;spinner&quot;:&quot;/images/btn/spinner_gray.gif&quot;,&quot;acct_title&quot;:&quot;Thank Amanda Glassman&quot;,&quot;acct_subtitle&quot;:&quot;People at Trover love encouragement.&lt;br/&gt;Send your props to Amanda Glassman.&quot;,&quot;text&quot;:&quot;4&quot;,&quot;link&quot;:&quot;/discoveries/4e41b8ce37f1b535f2000091/vote?button_style=new_popup&amp;category=thanks&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;Discovery&#x27;, &#x27;Thank (attempt)&#x27;) }&quot;,&quot;fn_onsuccess&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;Discovery&#x27;, &#x27;Thank&#x27;) }&quot;}" id="tp-thanks-button-4e41b8ce37f1b535f2000091_6"><div class="icon"></div><span>4</span><img alt="" class="waiter" src="https://cdn.trover.com/images/btn/spinner_gray.gif" /></div></div>
+              <div class="discovery-popup-2-thank-tooltip">
+                <div>This is a good find.<br/>Thanks, Amanda Glassman!</div>
+              </div>
+            <div class="discovery-popup-2-addlist-tooltip">
+              <div>Save this to your dream destinations or spots to try list!</div>
+            </div>
+        </div>
+          
+  <div class="above-fold-heading">More near World Trade Center Station</div>
+  <div class="above-fold-nearby-module">
+          <a class="above-fold-image-0 above-fold-image"  href="/d/1n7xL">
+            <div class="fit-image-to-block"><div class="fit-image-to-block-centered tall"><img class="fit-image-to-block-image" src="//media2.trover.com/T/5ab0f39b2c2e916e1f0088ba/fixedw_large_2x.jpg" /></div></div>
+          </a>
+          <a class="above-fold-image-1 above-fold-image"  href="/d/1pADH">
+            <div class="fit-image-to-block"><div class="fit-image-to-block-centered tall"><img class="fit-image-to-block-image" src="//media2.trover.com/T/5ae65adb85f4f40d7f048dea/fixedw_large_2x.jpg" /></div></div>
+          </a>
+          <a class="above-fold-image-2 above-fold-image"  href="/d/1nQ04">
+            <div class="fit-image-to-block"><div class="fit-image-to-block-centered tall"><img class="fit-image-to-block-image" src="//media2.trover.com/T/5ab991fa2c2e91841b0276cd/fixedw_large_2x.jpg" /></div></div>
+          </a>
+          <a class="above-fold-image-3 above-fold-image"  href="/d/1CpZY">
+            <div class="fit-image-to-block"><div class="fit-image-to-block-centered "><img class="fit-image-to-block-image" src="//media2.trover.com/T/570acddd7eb4f4198b037521/fixedw_large_2x.jpg" /></div></div>
+          </a>
+  </div>
+
+<style>
+  .above-fold-heading {
+    margin-top: 14px;
+    font-size: 16px;
+    font-weight: bold;
+    display: none;
+  }
+  .above-fold-nearby-module {
+    display:none;
+    margin-top: 6px;
+  }
+
+  .above-fold-image {
+    width: 165px ;
+    height: 165px;
+    float: left;
+  }
+
+  .above-fold-image-0, .above-fold-image-2 {
+      padding-right:9px;
+  }
+
+  .above-fold-image-0, .above-fold-image-1 {
+    padding-bottom: 9px;
+  }
+</style>
+
+      </div>
+    </div>
+
+    <div class="discovery-popup-2-acol noclose">
+      <div class="img-wrap">
+        <img class="discovery" alt="World Trade Center Station, New York City, New York - Eyes underground. They always seem somehow Byzantine." src="//media2.trover.com/T/4e41b8e092e9bd3344000179/fixedw_large_4x.jpg">
+        <img class="discovery-preview">
+        
+      </div>
+      <div class="discovery-popup-2-social">
+        <div class="sharing">
+          <ul class="share-bar-md"><li><a href="#" class="fb-share share-bar-fb" data-tp-fb-link-config="{&quot;url&quot;:&quot;https://www.trover.com/d/7YuE?st=adfdnl1&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.track_social_tag(&#x27;adfdnl1&#x27;);TRAnalytics.logEventWithMobile(&#x27;Discovery&#x27;, &#x27;Share&#x27;, &#x27;Facebook&#x27;) }&quot;,&quot;fn_onsuccess&quot;:null,&quot;type&quot;:&quot;share&quot;,&quot;mobile&quot;:false}" id="fb-share_7" photo_size="thumb"></a></li><li><a href="#" class="tr-tweet-share custom share-bar-tw" data-count="none" data-text="World Trade Center Station, New York City, New York - Eyes underground. They always seem somehow Byzantine." data-tr-tweet-config="{&quot;url&quot;:&quot;http://twitter.com/share?url=https%3A%2F%2Fwww.trover.com%2Fd%2F7YuE%3Fst%3Dadtdnt1&amp;text=World%20Trade%20Center%20Station%2C%20New%20York%20City%2C%20New%20York%20-%20Eyes%20underground.%20They%20always%20seem%20somehow%20Byzantine.&amp;&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.track_social_tag(&#x27;adtdnt1&#x27;);TRAnalytics.logEventWithMobile(&#x27;Discovery&#x27;, &#x27;Share&#x27;, &#x27;Twitter&#x27;) }&quot;}" data-url="https://www.trover.com/d/7YuE?st=adtdnt1" theme="custom"></a></li><li><a href="javascript:" class="tr-tumblr-share share-bar-tu" data-tr-tumblr-config="{&quot;type&quot;:&quot;photo&quot;,&quot;caption&quot;:&quot;&lt;p&gt;Eyes underground. They always seem somehow Byzantine.&lt;/p&gt;\n\n&lt;p&gt;Discovered by Amanda Glassman at World Trade Center Station, New York City, New York. See more at &lt;a href=\&quot;https://www.trover.com/d/7YuE-world-trade-center-station-new-york-city-new-york?st=adudnp1\&quot;&gt;Trover&lt;/a&gt;&lt;/p&gt;&quot;,&quot;link&quot;:&quot;https://www.trover.com/d/7YuE-world-trade-center-station-new-york-city-new-york?st=adudnp1&quot;,&quot;source&quot;:&quot;https://media2.trover.com/T/4e41b8e092e9bd3344000179/fixedw_large_4x.jpg&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.track_social_tag(&#x27;adudnp1&#x27;);TRAnalytics.logEventWithMobile(&#x27;Discovery&#x27;, &#x27;Share&#x27;, &#x27;Tumblr&#x27;) }&quot;}"></a></li><li><a href="javascript:" class="tr-pinterest-share share-bar-pi" data-tr-pinterest-config="{&quot;url&quot;:&quot;https://www.trover.com/d/7YuE-world-trade-center-station-new-york-city-new-york?st=adpdnc1&quot;,&quot;media_url&quot;:&quot;https://media2.trover.com/T/4e41b8e092e9bd3344000179/fixedw_large_2x.jpg&quot;,&quot;description&quot;:&quot;World Trade Center Station, New York City, New York — by Amanda Glassman. Eyes underground. They always seem somehow Byzantine.&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.track_social_tag(&#x27;adpdnc1&#x27;);TRAnalytics.logEventWithMobile(&#x27;Discovery&#x27;, &#x27;Share&#x27;, &#x27;Pinterest&#x27;) }&quot;}"></a></li><li><a href="javascript:" class="tr-gplus-share share-bar-gp" data-tr-gplus-config="{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://www.trover.com/d/7YuE-world-trade-center-station-new-york-city-new-york?st=adgdns1&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.track_social_tag(&#x27;adgdns1&#x27;);TRAnalytics.logEventWithMobile(&#x27;Discovery&#x27;, &#x27;Share&#x27;, &#x27;Google Plus&#x27;) }&quot;}"></a></li><li><a class="mailto-button share-bar-em" href="mailto:?body=I%20used%20Trover%20to%20find%20something%20cool%20by%20Amanda%20Glassman%20at%20World%20Trade%20Center%20Station%2C%20New%20York%20City%2C%20New%20York.%20%20Check%20out%20a%20photo%20and%20comments%20about%20it%20here%3A%20https%3A%2F%2Fwww.trover.com%2Fd%2F7YuE-world-trade-center-station-new-york-city-new-york%3Fst%3Dadednm1&amp;subject=World%20Trade%20Center%20Station%2C%20New%20York%20City%2C%20New%20York%20-%20Eyes%20underground.%20They%20always%20seem%20somehow%20Byzantine." onclick="setTimeout( function() {TRAnalytics.track_social_tag('adednm1');TRAnalytics.logEventWithMobile('Discovery', 'Share', 'Email')}, 1000)"></a></li></ul>
+        </div>
+        Comments
+      </div>
+      <div class="discovery-popup-2-comments">
+        <div class="comments-list no-comments xx-scroll-child">
+          <ol>
+            
+          </ol>
+          <div class="remove-comment-tooltip">
+            <div>Remove this comment.</div>
+          </div>
+        </div>
+        <div class="content bottom-pos top-pos filled add">
+          <div class="inner-wrap">
+            <div class="image-box user-image-box marker" id="image_box_8"><img class="main-image" src="https://cdn.trover.com/images/no_profile_pic/mobile.png" width="60" /></div>
+            <form accept-charset="UTF-8" action="/discoveries/7YuE/add_comment" class="add_comment" data-remote="true" data-type="json" id="add_comment_7YuE" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="79CM8c0+AA3csxMHVD0ooIqU1hyPHutZ6Z+aNwMUTW0=" /></div>
+              <input name="mentions" type="hidden" value="" />
+              <input name="template" type="hidden" value="add_comment_popup" />
+              <a href="#" onclick=" ; $(&#x27;#add_comment_7YuE&#x27;).submit(); ; return false;" rel="nofollow"></a>
+              <img class="waiter" src="/images/ra-spinner-dkgray.gif">
+              <div class="textarea-wrap"><div class="discovery-popup-comment-error"></div><textarea class="discovery-popup-comment-textarea xx-scroll-child" name="body" trdefaultvalue="Write a comment">
+</textarea></div>
+</form>          </div>
+        </div>
+      </div>
+      <div class="discovery-popup-2-stats">
+        <div class="thanks  tp-trigger-thank-count-7YuE"><span class="thankers" dir="auto"><a href="/u/2804015562" data-tr-user-id="2804015562">Tiffany Allington</a>, <a href="/u/2803673110" data-tr-user-id="2803673110">RoseMary</a>, <a href="/u/2803872711" data-tr-user-id="2803872711">Amninder Narota</a>, <a href="/u/2803675677" data-tr-user-id="2803675677">Heiko Bader</a></span></div>
+        <div class="lists  tp-trigger-list-add-4e41b8ce37f1b535f2000091"><span class="listed"><a href="/l/Hwa9-lovely-artificial-colors!" data-tr-list-id="Hwa9">Lovely Artificial Colors!</a></span></div>
+          <div class="nearby"><a href="/new-york-city-ny" rel="nofollow">New York City</a><span class="divider"> &raquo; </span><a href="/discoveries/wall?d=7YuE" rel="nofollow">World Trade Center Station</a></div>
+      </div>
+    </div>
+
+        <div class="discovery-popup-2-pivots-aligned noclose discovery-scroll-hint-target">
+          <div class="discovery-popup-2-pivots-aligned-header">More near World Trade Center Station</div>
+          <div class="discovery-popup-2-wall-wrapper">
+            <div id="colwall" data-tr-colwall-config="{&quot;more&quot;:true,&quot;count&quot;:24,&quot;offset&quot;:24,&quot;limit&quot;:24,&quot;json&quot;:&quot;{\&quot;status\&quot;:\&quot;OK\&quot;,\&quot;results\&quot;:{\&quot;discoveries\&quot;:[{\&quot;id\&quot;:\&quot;5ab0f39885f4f4ae26008978\&quot;,\&quot;slug\&quot;:\&quot;1n7xL\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5ab0f39b2c2e916e1f0088ba\&quot;,\&quot;photo_aspect_ratio\&quot;:0.66667,\&quot;photo_color\&quot;:\&quot;8B8987\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2800472140/facebook/small_sq.jpg?153269933002\&quot;,\&quot;user_name\&quot;:\&quot;George Zimzores\&quot;,\&quot;user_path\&quot;:\&quot;/u/georgezim\&quot;,\&quot;place_name\&quot;:\&quot;World Trade Center\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1n7xL-world-trade-center-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;The Oculus\&quot;,\&quot;title\&quot;:\&quot;World Trade Center, New York City, New York - The Oculus\&quot;,\&quot;dist\&quot;:0.10558336484759491,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5ae65af02c2e91cc02048196\&quot;,\&quot;slug\&quot;:\&quot;1pADH\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5ae65adb85f4f40d7f048dea\&quot;,\&quot;photo_aspect_ratio\&quot;:0.66667,\&quot;photo_color\&quot;:\&quot;B9B4B2\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2938957858/facebook/small_sq.jpg?151927784415\&quot;,\&quot;user_name\&quot;:\&quot;Carlo Dacanay\&quot;,\&quot;user_path\&quot;:\&quot;/u/cfdimages\&quot;,\&quot;place_name\&quot;:\&quot;World Trade Center\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1pADH-world-trade-center-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Spring time at the Oculus. The Oculus has risen from the ruins of the World Trade Center. It is an ultra modern and architectural marvel that...\&quot;,\&quot;title\&quot;:\&quot;World Trade Center, New York City, New York - Spring time at the...\&quot;,\&quot;dist\&quot;:0.10558336484759491,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5ab991fa2c2e91841b0276cb\&quot;,\&quot;slug\&quot;:\&quot;1nQ04\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5ab991fa2c2e91841b0276cd\&quot;,\&quot;photo_aspect_ratio\&quot;:0.79896,\&quot;photo_color\&quot;:\&quot;BBC8C6\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2930030619/facebook/small_sq.jpg?151906600692\&quot;,\&quot;user_name\&quot;:\&quot;Kevin Maschke\&quot;,\&quot;user_path\&quot;:\&quot;/u/kevmas\&quot;,\&quot;place_name\&quot;:\&quot;World Trade Center\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1nQ04-world-trade-center-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;The Oculus. Amazing architecture and structure. Even on cold grey stormy days, it&amp;#x27;s bright and white in here. The largest shopping mall in...\&quot;,\&quot;title\&quot;:\&quot;World Trade Center, New York City, New York - The Oculus. Amazing...\&quot;,\&quot;dist\&quot;:0.10558336484759491,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;570acddd7eb4f4198b037520\&quot;,\&quot;slug\&quot;:\&quot;1CpZY\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;570acddd7eb4f4198b037521\&quot;,\&quot;photo_aspect_ratio\&quot;:1.33043,\&quot;photo_color\&quot;:\&quot;A39786\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2849390555/facebook/small_sq.jpg?150202342381\&quot;,\&quot;user_name\&quot;:\&quot;Ron Namilit\&quot;,\&quot;user_path\&quot;:\&quot;/u/2849390555\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1CpZY-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Inside the Oculus\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - Inside the Oculus\&quot;,\&quot;dist\&quot;:0.11548717898987829,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;51d8337e3230437f64000e42\&quot;,\&quot;slug\&quot;:\&quot;S1Bz\&quot;,\&quot;hot\&quot;:true,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;51d8336bd6bdd4652e000e85\&quot;,\&quot;photo_aspect_ratio\&quot;:0.66667,\&quot;photo_color\&quot;:\&quot;385D92\&quot;,\&quot;syndicatable\&quot;:false,\&quot;user_img\&quot;:\&quot;/2800459467/facebook/small_sq.jpg?153150811070\&quot;,\&quot;user_name\&quot;:\&quot;Bob Cooley\&quot;,\&quot;user_path\&quot;:\&quot;/u/2800459467\&quot;,\&quot;place_name\&quot;:\&quot;World Trade Center\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/S1Bz-world-trade-center-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;The exterior windows from at One World Trade Center (formerly the Freedom Tower) are now complete on the exterior of the building as of July 3rd....\&quot;,\&quot;title\&quot;:\&quot;World Trade Center, New York City, New York - The exterior windows...\&quot;,\&quot;dist\&quot;:0.13952338242158982,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;4e1967b0624f1922500000c7\&quot;,\&quot;slug\&quot;:\&quot;5i5K\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;4e1967aac2049c73d000002c\&quot;,\&quot;photo_aspect_ratio\&quot;:1.0,\&quot;photo_color\&quot;:\&quot;657075\&quot;,\&quot;syndicatable\&quot;:false,\&quot;user_img\&quot;:\&quot;/2800556598/facebook/small_sq.jpg?135525708400\&quot;,\&quot;user_name\&quot;:\&quot;Mark Summers\&quot;,\&quot;user_path\&quot;:\&quot;/u/2800556598\&quot;,\&quot;place_name\&quot;:\&quot;Battery Park City\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/5i5K-battery-park-city-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;A symbol of humanity and hope.\&quot;,\&quot;title\&quot;:\&quot;Battery Park City, New York City, New York - A symbol of humanity...\&quot;,\&quot;dist\&quot;:0.15255511182351408,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;4e81f5961563c134910000a5\&quot;,\&quot;slug\&quot;:\&quot;9iNj\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;4e81f59b1563c134910000a8\&quot;,\&quot;photo_aspect_ratio\&quot;:0.99351,\&quot;photo_color\&quot;:\&quot;34332D\&quot;,\&quot;syndicatable\&quot;:false,\&quot;user_img\&quot;:\&quot;/2800450968/facebook/small_sq.jpg?132315235500\&quot;,\&quot;user_name\&quot;:\&quot;MJ\&quot;,\&quot;user_path\&quot;:\&quot;/u/2800450968\&quot;,\&quot;place_name\&quot;:\&quot;City Hall Area\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/9iNj-city-hall-area-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Woolworth Building\&quot;,\&quot;title\&quot;:\&quot;City Hall Area, New York City, New York - Woolworth Building\&quot;,\&quot;dist\&quot;:0.15394115391431198,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;4edd6d9e8dbdba10890001de\&quot;,\&quot;slug\&quot;:\&quot;C2hs\&quot;,\&quot;hot\&quot;:true,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;4edd6da6809b641686000008\&quot;,\&quot;photo_aspect_ratio\&quot;:1.00328,\&quot;photo_color\&quot;:\&quot;778599\&quot;,\&quot;syndicatable\&quot;:false,\&quot;user_img\&quot;:\&quot;/2800450968/facebook/small_sq.jpg?132315235500\&quot;,\&quot;user_name\&quot;:\&quot;MJ\&quot;,\&quot;user_path\&quot;:\&quot;/u/2800450968\&quot;,\&quot;place_name\&quot;:\&quot;WTC Progress\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/C2hs-wtc-progress-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;81st floor of WTC on a foggy December day.\&quot;,\&quot;title\&quot;:\&quot;WTC Progress, New York City, New York - 81st floor of WTC on a...\&quot;,\&quot;dist\&quot;:0.15599861119820937,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;57c99527998428736500ef08\&quot;,\&quot;slug\&quot;:\&quot;1IEQH\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;57c99529998428735900f04c\&quot;,\&quot;photo_aspect_ratio\&quot;:0.5,\&quot;photo_color\&quot;:\&quot;929797\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2800463499/facebook/small_sq.jpg?133436619100\&quot;,\&quot;user_name\&quot;:\&quot;Sam Y\&quot;,\&quot;user_path\&quot;:\&quot;/u/2800463499\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1IEQH-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;180 panorama.\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - 180 panorama.\&quot;,\&quot;dist\&quot;:0.15892708012898107,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5b5ef50a12e828b64200505d\&quot;,\&quot;slug\&quot;:\&quot;1tkU8\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5b5ef4cc025f620f50004ec9\&quot;,\&quot;photo_aspect_ratio\&quot;:0.75,\&quot;photo_color\&quot;:\&quot;78878C\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2930889870/facebook/small_sq.jpg?151534524092\&quot;,\&quot;user_name\&quot;:\&quot;William Keller\&quot;,\&quot;user_path\&quot;:\&quot;/u/wkeller2000\&quot;,\&quot;place_name\&quot;:\&quot;St. Paul&amp;#x27;s Chapel\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1tkU8-st-pauls-chapel-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;St. Paul&amp;#x27;s Chapel, nicknamed &amp;quot;The Little Chapel That Stood&amp;quot;, is an Episcopal chapel located at 209 Broadway, between Fulton Street and Vesey...\&quot;,\&quot;title\&quot;:\&quot;St. Paul&#x27;s Chapel, New York City, New York - St. Paul&#x27;s Chapel,...\&quot;,\&quot;dist\&quot;:0.1657414661887248,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;543b53ec26c48d1fae0022be\&quot;,\&quot;slug\&quot;:\&quot;g59K\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;543b53f026c48d1fae0022c1\&quot;,\&quot;photo_aspect_ratio\&quot;:0.765,\&quot;photo_color\&quot;:\&quot;443C36\&quot;,\&quot;syndicatable\&quot;:false,\&quot;user_img\&quot;:\&quot;/2800459467/facebook/small_sq.jpg?153150811070\&quot;,\&quot;user_name\&quot;:\&quot;Bob Cooley\&quot;,\&quot;user_path\&quot;:\&quot;/u/2800459467\&quot;,\&quot;place_name\&quot;:\&quot;World Trade Center PATH station\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/g59K-world-trade-center-path-station-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Night Construction - welding the wings... Designed by Santiago Calatrava, the World Trade Center Transportation Hub will resemble a bird being...\&quot;,\&quot;title\&quot;:\&quot;World Trade Center PATH station, New York City, New York - Night...\&quot;,\&quot;dist\&quot;:0.17110132244399967,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;58613c2374a351272f05df60\&quot;,\&quot;slug\&quot;:\&quot;1NJ2u\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;58613c3a74a351274305f479\&quot;,\&quot;photo_aspect_ratio\&quot;:0.66812,\&quot;photo_color\&quot;:\&quot;866361\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2823257951/facebook/small_sq.jpg?141753591800\&quot;,\&quot;user_name\&quot;:\&quot;Benny Goh\&quot;,\&quot;user_path\&quot;:\&quot;/u/2823257951\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1NJ2u-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Magnificent #architecture. Displaying #colorful Xmas lightings. #I&lt;img class=&#x27;emoji&#x27; src=&#x27;/images/emoji/2764.png&#x27; &gt;NY #lovemytown #citylife #NikonD7100 #cityscape\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - Magnificent #architecture....\&quot;,\&quot;dist\&quot;:0.17310444914915205,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;594f919de398907cbe01e2b1\&quot;,\&quot;slug\&quot;:\&quot;1XfTo\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;594f9166ad412a778e01da5e\&quot;,\&quot;photo_aspect_ratio\&quot;:1.33043,\&quot;photo_color\&quot;:\&quot;8A94A0\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2889880731/facebook/small_sq.jpg?149846548200\&quot;,\&quot;user_name\&quot;:\&quot;louann ohora\&quot;,\&quot;user_path\&quot;:\&quot;/u/2889880731\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1XfTo-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Old and new side by side #Patterns\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - Old and new side by side  ...\&quot;,\&quot;dist\&quot;:0.17411199237216324,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;59393b46ad412a7ac6008ab7\&quot;,\&quot;slug\&quot;:\&quot;1WmAp\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;59393b4de398907d5400815a\&quot;,\&quot;photo_aspect_ratio\&quot;:0.75,\&quot;photo_color\&quot;:\&quot;7173BD\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2885892481/facebook/small_sq.jpg?149906905415\&quot;,\&quot;user_name\&quot;:\&quot;Erica Fumagalli\&quot;,\&quot;user_path\&quot;:\&quot;/u/2885892481\&quot;,\&quot;place_name\&quot;:\&quot;The Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1WmAp-the-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Known as the Oculus, the building is designed to bring light down into the subterranean rail station and shopping centre that quietly opened in...\&quot;,\&quot;title\&quot;:\&quot;The Oculus, New York City, New York - Known as the Oculus, the...\&quot;,\&quot;dist\&quot;:0.17478715508948003,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;58b206b7761f9f2297018da5\&quot;,\&quot;slug\&quot;:\&quot;1R1gY\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;58b206ba761f9f22b3018106\&quot;,\&quot;photo_aspect_ratio\&quot;:1.33043,\&quot;photo_color\&quot;:\&quot;975EB8\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2878351602/facebook/small_sq.jpg?148684230700\&quot;,\&quot;user_name\&quot;:\&quot;Sathi Bhowmick\&quot;,\&quot;user_path\&quot;:\&quot;/u/2878351602\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1R1gY-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;#StunningStructures wtc oculus modern city structure #Patterns\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - #StunningStructures wtc...\&quot;,\&quot;dist\&quot;:0.17478715508948003,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;548cf71400ab012bbb0052b0\&quot;,\&quot;slug\&quot;:\&quot;jBSR\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;548cf68500ab011c2101003e\&quot;,\&quot;photo_aspect_ratio\&quot;:0.75,\&quot;photo_color\&quot;:\&quot;7A4A4D\&quot;,\&quot;syndicatable\&quot;:false,\&quot;user_img\&quot;:\&quot;/2823472030/facebook/small_sq.jpg?142003931400\&quot;,\&quot;user_name\&quot;:\&quot;Diana Meier\&quot;,\&quot;user_path\&quot;:\&quot;/u/diana\&quot;,\&quot;place_name\&quot;:\&quot;Balloon Flower Sculpture\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/jBSR-balloon-flower-sculpture-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Sculpture by Jeff Koons in honor of survivors of 9/11/2001\&quot;,\&quot;title\&quot;:\&quot;Balloon Flower Sculpture, New York City, New York - Sculpture by...\&quot;,\&quot;dist\&quot;:0.18033167113859977,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5b5efcbd12e828ce420050b5\&quot;,\&quot;slug\&quot;:\&quot;1tkaW\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5b5efba46c70341d06005a8d\&quot;,\&quot;photo_aspect_ratio\&quot;:1.33043,\&quot;photo_color\&quot;:\&quot;92979B\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2930889870/facebook/small_sq.jpg?151534524092\&quot;,\&quot;user_name\&quot;:\&quot;William Keller\&quot;,\&quot;user_path\&quot;:\&quot;/u/wkeller2000\&quot;,\&quot;place_name\&quot;:\&quot;The Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1tkaW-the-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Oculus: The new World Trade Center Transportation Hub. The Greenwich Street entrance to the new transit hub at the rebuilt World Trade Center site...\&quot;,\&quot;title\&quot;:\&quot;The Oculus, New York City, New York - Oculus: The new World Trade...\&quot;,\&quot;dist\&quot;:0.181168264355853,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5a5aaa6cced189596901d409\&quot;,\&quot;slug\&quot;:\&quot;1jzvX\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5a5aa9a97346c34c5400693b\&quot;,\&quot;photo_aspect_ratio\&quot;:1.18605,\&quot;photo_color\&quot;:\&quot;969593\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2897364548/facebook/small_sq.jpg?153326503878\&quot;,\&quot;user_name\&quot;:\&quot;Donny Campos\&quot;,\&quot;user_path\&quot;:\&quot;/u/DCP-15\&quot;,\&quot;place_name\&quot;:\&quot;The Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1jzvX-the-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Designed by architect Santiago Calatrava, the “Oculus” is a train station, plaza and shopping mall adjacent to the memorial site for the September...\&quot;,\&quot;title\&quot;:\&quot;The Oculus, New York City, New York - Designed by architect...\&quot;,\&quot;dist\&quot;:0.181168264355853,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5949d5a6092f574bca033f95\&quot;,\&quot;slug\&quot;:\&quot;1XR0p\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5949d55aad412a700a032a87\&quot;,\&quot;photo_aspect_ratio\&quot;:0.66667,\&quot;photo_color\&quot;:\&quot;636363\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_name\&quot;:\&quot;Tony Ning\&quot;,\&quot;user_path\&quot;:\&quot;/u/2889495999\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1XR0p-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;#Patterns Beautiful architectural design by Santiago Calatrava.\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - #Patterns...\&quot;,\&quot;dist\&quot;:0.18220780615094753,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;594d4714ad412a7786005c90\&quot;,\&quot;slug\&quot;:\&quot;1XYoZ\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;594d46d8092f5761560059a6\&quot;,\&quot;photo_aspect_ratio\&quot;:0.66667,\&quot;photo_color\&quot;:\&quot;AFB4B1\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2817942924/facebook/small_sq.jpg?141394176900\&quot;,\&quot;user_name\&quot;:\&quot;Esther Bichachi\&quot;,\&quot;user_path\&quot;:\&quot;/u/littleblueearth\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1XYoZ-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;I loved the architectural #patterns found along the WTC Oculus in NYC. They formed a wonderful contrast against the historical buildings of...\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - I loved the architectural...\&quot;,\&quot;dist\&quot;:0.18220780615094753,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;594d477bad412a7796005d05\&quot;,\&quot;slug\&quot;:\&quot;1XYpd\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;594d4766e398907cb200582d\&quot;,\&quot;photo_aspect_ratio\&quot;:1.5,\&quot;photo_color\&quot;:\&quot;9AADA3\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2817942924/facebook/small_sq.jpg?141394176900\&quot;,\&quot;user_name\&quot;:\&quot;Esther Bichachi\&quot;,\&quot;user_path\&quot;:\&quot;/u/littleblueearth\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1XYpd-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Stand at the entrance to the WTC Oculus for this grand view. #patterns #urbanjungle #details\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - Stand at the entrance to the...\&quot;,\&quot;dist\&quot;:0.18220780615094753,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;58babf5410b26856f601be25\&quot;,\&quot;slug\&quot;:\&quot;1RVak\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;58babf5674eb46037001528f\&quot;,\&quot;photo_aspect_ratio\&quot;:0.5625,\&quot;photo_color\&quot;:\&quot;C7BFB2\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2878260090/facebook/small_sq.jpg?148910771000\&quot;,\&quot;user_name\&quot;:\&quot;Meenu\&quot;,\&quot;user_path\&quot;:\&quot;/u/2878260090\&quot;,\&quot;place_name\&quot;:\&quot;WTC Oculus\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1RVak-wtc-oculus-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Newly opened grand transportation and shopping hub Oculus next to World Trade Center New York has awe-inspiring exterior and interior design....\&quot;,\&quot;title\&quot;:\&quot;WTC Oculus, New York City, New York - Newly opened grand...\&quot;,\&quot;dist\&quot;:0.18220780615094753,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5450c1cfd809d848b1000c23\&quot;,\&quot;slug\&quot;:\&quot;gmDT\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5450c1d4d809d848ae00086e\&quot;,\&quot;photo_aspect_ratio\&quot;:1.74857,\&quot;photo_color\&quot;:\&quot;383232\&quot;,\&quot;syndicatable\&quot;:false,\&quot;user_img\&quot;:\&quot;/2800459467/facebook/small_sq.jpg?153150811070\&quot;,\&quot;user_name\&quot;:\&quot;Bob Cooley\&quot;,\&quot;user_path\&quot;:\&quot;/u/2800459467\&quot;,\&quot;place_name\&quot;:\&quot;WTC Transportation Hub\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/gmDT-wtc-transportation-hub-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Night Construction - welding of the wing -Designed by Santiago Calatrava, the World Trade Center Transportation Hub will resemble a bird being...\&quot;,\&quot;title\&quot;:\&quot;WTC Transportation Hub, New York City, New York - Night...\&quot;,\&quot;dist\&quot;:0.1840495234279152,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0},{\&quot;id\&quot;:\&quot;5a439098fb439c046103e6ad\&quot;,\&quot;slug\&quot;:\&quot;1j5zk\&quot;,\&quot;hot\&quot;:false,\&quot;photo_host\&quot;:\&quot;media2.trover.com\&quot;,\&quot;photo_id\&quot;:\&quot;5a43909bfb439c046103e6af\&quot;,\&quot;photo_aspect_ratio\&quot;:1.33043,\&quot;photo_color\&quot;:\&quot;B8B8B8\&quot;,\&quot;syndicatable\&quot;:true,\&quot;user_img\&quot;:\&quot;/2892654507/facebook/small_sq.jpg?0\&quot;,\&quot;user_name\&quot;:\&quot;Julie Miller\&quot;,\&quot;user_path\&quot;:\&quot;/u/2892654507\&quot;,\&quot;place_name\&quot;:\&quot;World Trade Center\&quot;,\&quot;vicinity\&quot;:\&quot;New York City, New York\&quot;,\&quot;url\&quot;:\&quot;/d/1j5zk-world-trade-center-new-york-city-new-york\&quot;,\&quot;desc\&quot;:\&quot;Inside the Oculus\&quot;,\&quot;title\&quot;:\&quot;World Trade Center, New York City, New York - Inside the Oculus\&quot;,\&quot;dist\&quot;:0.18834067595215478,\&quot;owned\&quot;:0,\&quot;thanked\&quot;:0}],\&quot;offset\&quot;:24}}&quot;,&quot;user&quot;:&quot;null&quot;,&quot;base_url&quot;:&quot;//www.trover.com/discoveries/wall?qt=dlp&amp;d=7YuE&amp;thanks=10&amp;anonymous=0&amp;syndicatable=0&amp;channel=&amp;source=&amp;campaign=&quot;,&quot;page_url&quot;:&quot;/d/7YuE-world-trade-center-station-new-york-city-new-york&quot;,&quot;map_url&quot;:&quot;/discoveries/wall_map?qt=dlp&amp;d=7YuE&amp;thanks=10&amp;anonymous=0&amp;syndicatable=0&amp;channel=&amp;source=&amp;campaign=&quot;,&quot;location&quot;:[40.71272,-74.00989],&quot;query_type&quot;:&quot;discovery_landing_page&quot;,&quot;icon&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;subtitle&quot;:&quot;&quot;,&quot;list_id&quot;:null,&quot;url_prefix&quot;:null,&quot;og_title&quot;:null,&quot;og_image&quot;:null,&quot;widget_builder_url&quot;:null,&quot;ticker_name&quot;:&quot;World Trade Center Station&quot;,&quot;hover_mode&quot;:&quot;place&quot;,&quot;grid_mode&quot;:&quot;nearby&quot;,&quot;request_id&quot;:null,&quot;discovery_ids&quot;:[],&quot;col_width&quot;:276,&quot;min_cols&quot;:3,&quot;col_width_min&quot;:true,&quot;col_width_fixed&quot;:false,&quot;scroll_ticker&quot;:true,&quot;load_delay&quot;:1000}"></div>
+          </div>
+        </div>
+    
+    <div class="discovery-popup-2-scroll-hint-wrap noclose"><div class="discovery-popup-2-scroll-hint"></div></div>
+  </div>
+  <div class="user-shingle-large" data-tr-tooltip-config="{&quot;tip_hover&quot;:true,&quot;trigger&quot;:&quot;#user_shingle_7YuE_2800563657_1&quot;,&quot;offset&quot;:[0,-14],&quot;v_keep_visible&quot;:true,&quot;v_keep_visible_with_header&quot;:true}">
+  <div class="user-block">
+    <a href="/u/2800563657" class="simple-user-image simple-user-image-link"><img alt="Small_sq" class="simple-user-image simple-user-image-image" src="https://media.trover.com/prod.aws/members/2800563657/facebook/small_sq.jpg?146401674900" /></a>
+    <div class="name"><a href="/u/2800563657">Amanda Glassman</a></div>
+    <div class="follow-cnt tp-trigger-follow-user-2800563657">36 followers&nbsp;</div>
+    <div class="follow"><div class="multi-state-element tp-trigger-follow-user-2800563657" data-tp-trigger="{&quot;trigger_class&quot;:&quot;tp-trigger-follow-user-2800563657&quot;,&quot;state&quot;:&quot;unfollowed&quot;}" id="tr-follow-button-user-2800563657-5bf2ff71bb1673da15000863"><div class="multi-state-state multi-state-state-show unfollowed"><div class="tr-new-button tp-remote-action tr-fixed-background-button follow-button tr-user-follow-button unfollowed" data-tp-remote-action-config="{&quot;acct_reqd&quot;:true,&quot;spinner_css&quot;:true,&quot;acct_title&quot;:&quot;Follow Amanda Glassman&quot;,&quot;acct_subtitle&quot;:&quot;Start your personalized discovery feed.&quot;,&quot;replaceable&quot;:&quot;#tr-follow-button-user-2800563657-5bf2ff71bb1673da15000863&quot;,&quot;link&quot;:&quot;/u/2800563657/follow&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Follow (attempt)&#x27;); }&quot;,&quot;fn_onsuccess&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Follow&#x27;); (function() {$(document).trigger(&#x27;tr.followship&#x27;); })() }&quot;}" id="tp-remote-action_9"><div class="icon"></div><span></span><div class="waiter"></div></div></div><div class="multi-state-state  followed"><div class="tr-new-button tp-remote-action tr-fixed-background-button follow-button tr-user-follow-button followed" data-tp-remote-action-config="{&quot;acct_reqd&quot;:true,&quot;spinner_css&quot;:true,&quot;acct_title&quot;:&quot;Follow Amanda Glassman&quot;,&quot;acct_subtitle&quot;:&quot;Start your personalized discovery feed.&quot;,&quot;replaceable&quot;:&quot;#tr-follow-button-user-2800563657-5bf2ff71bb1673da15000863&quot;,&quot;link&quot;:&quot;/u/2800563657/unfollow&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow (attempt)&#x27;); }&quot;,&quot;fn_onsuccess&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow&#x27;); (function() {$(document).trigger(&#x27;tr.followship&#x27;); })() }&quot;}" id="tp-remote-action_10"><div class="icon"></div><span></span><div class="waiter"></div></div></div><div class="multi-state-state  super_followed"><div class="tr-new-button tp-remote-action tr-fixed-background-button follow-button tr-user-follow-button followed" data-tp-remote-action-config="{&quot;acct_reqd&quot;:true,&quot;spinner_css&quot;:true,&quot;acct_title&quot;:&quot;Follow Amanda Glassman&quot;,&quot;acct_subtitle&quot;:&quot;Start your personalized discovery feed.&quot;,&quot;replaceable&quot;:&quot;#tr-follow-button-user-2800563657-5bf2ff71bb1673da15000863&quot;,&quot;link&quot;:&quot;/u/2800563657/unfollow&quot;,&quot;fn_onstart&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow (attempt)&#x27;); }&quot;,&quot;fn_onsuccess&quot;:&quot;function() { TRAnalytics.logEvent(&#x27;User&#x27;, &#x27;Unfollow&#x27;); (function() {$(document).trigger(&#x27;tr.followship&#x27;); })() }&quot;}" id="tp-remote-action_11"><div class="icon"></div><span></span><div class="waiter"></div></div></div></div></div>
+  </div>
+  <div class="content-block">
+    <div class="photos">
+      <div class="photo" style="background:#655130"><div class="fit-image-to-block"><div class="fit-image-to-block-centered "><img class="fit-image-to-block-image d" src="//media4.trover.com/T/4e2324c373524575e000002c/fixedw_large.jpg" /></div></div></div><div class="photo" style="background:#6C6B6C"><div class="fit-image-to-block"><div class="fit-image-to-block-centered "><img class="fit-image-to-block-image d" src="//media1.trover.com/T/4e2328b5b0169270430001ec/fixedw_large.jpg" /></div></div></div><div class="photo" style="background:#2E1A15"><div class="fit-image-to-block"><div class="fit-image-to-block-centered "><img class="fit-image-to-block-image d" src="//media0.trover.com/T/4e220b7073524558250000a3/fixedw_large.jpg" /></div></div></div>
+    </div>
+    
+    
+  </div>
+</div>
+
+</div>
+    </div>
+  </div>
+</div>
+<script>
+$(document).ready(function() {
+  var win_el = $(window);
+  var popup_el = $(".mimic-discovery-popup-2 .discovery-popup-2-wrapper");
+  popup_el.show();
+
+  var discovery = popup_el.find(".discovery-popup-2").first();
+  var dlp = new DiscoveryLandingPage( discovery, "7YuE" );
+  dlp.show( win_el.width(), win_el.height()-50 )
+});
+</script>
+
+</div>
+
+<script>
+  $(document).ready(function() {
+    $("#colwall").tr_column_wall();
+    $.scrollDepth({
+      elements: ['#colwall'],
+      percentage: false,
+      userTiming: false,
+      pixelDepth: false,
+      nonInteraction: true
+    });
+  });
+</script>
+
+<div id="addlistpopup" >
+  <div class="addlist-title">Add to list</div>
+  <div class="addlist-content">
+    <div class="add">
+      <div class="addlist-lists-section" >
+        <div class="groupings xx-scroll"><div class="addlist-list-grouping recent"><ul class="addlist-lists"></ul></div><div class="addlist-list-grouping all"><ul class="addlist-lists"></ul></div><div class="addlist-list-grouping admin"><ul class="addlist-lists"></ul></div><div class="addlist-list-grouping suggested"><ul class="addlist-lists"></ul></div></div>
+        <div class="waiter">loading your lists...</div>
+        <div class="nolist">create your first list</div>
+      </div>
+      <div class="addlist-create-section">
+        <div class="link"><a href="javascript:">Create a new list...</a></div>
+        <div class="actions"><div class="name"><div class="error">Type a list name</div><input class="addlist-name-field" type="text" maxlength="100"></div><div class="tr-new-button addlist-create-btn" onclick="javascript:;"><div class="icon"></div><span></span><img alt="" class="waiter" src="https://cdn.trover.com/images/btn/spinner_yellow.gif" /></div></div>
+      </div>
+      <form accept-charset="UTF-8" action="/lists/add_item" data-remote="true" id="addtolistpopupform" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="79CM8c0+AA3csxMHVD0ooIqU1hyPHutZ6Z+aNwMUTW0=" /></div>
+        <input id="list_title" name="list[title]" type="hidden" />
+        <input id="list_entry_item_id" name="list_entry[item_id]" type="hidden" />
+        <input id="list_entry_resource_type" name="list_entry[resource_type]" type="hidden" />
+</form>      <form accept-charset="UTF-8" action="/lists/remove_item" data-remote="true" id="removefromlistpopupform" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="79CM8c0+AA3csxMHVD0ooIqU1hyPHutZ6Z+aNwMUTW0=" /></div>
+        <input id="item_id" name="item_id" type="hidden" value="" />
+</form>    </div>
+    <div class="addlist-success">
+      <div class="intro">Discovery added to <span class="list-title"></span></div>
+      <div class="seeitnow"><a class="list-link" href="/">See it now</a></div>
+      <div class="actions"><div class="tr-new-button addlist-continue-btn close" onclick="javascript:;"><div class="icon"></div><span></span></div></div>
+    </div>
+    <div class="addlist-error">
+      <div class="intro">Sorry, we were unable to add the discovery to your list at this time.</div>
+      <div class="actions"><div class="tr-new-button addlist-continue-btn close" onclick="javascript:;"><div class="icon"></div><span></span></div></div>
+    </div>
+    <div class="addlist-remove-success">
+      <div class="intro">Discovery removed from <span class="list-title"></span>.</div>
+      <div class="seeitnow"></div>
+      <div class="actions"><div class="tr-new-button addlist-continue-btn close" onclick="javascript:;"><div class="icon"></div><span></span></div></div>
+    </div>
+    <div class="addlist-remove-error">
+      <div class="intro">Sorry, we were unable to remove the discovery from your list at this time.</div>
+      <div class="actions"><div class="tr-new-button addlist-continue-btn close" onclick="javascript:;"><div class="icon"></div><span></span></div></div>
+    </div>
+  </div>
+  <div class="addlist-close close"><div class="close-icon"></div></div>
+</div>
+
+
+    
+		<div id="terms_popup">
+  <div class="color-background"></div>
+  <div class="image-background"></div>
+  <div class="title">Pour yourself a fresh cup of coffee, <br/>we've updated our terms!</div>
+  <div class="terms-ask">
+    <span class="terms-ask-wrap">
+      <span class="error"></span>
+      <span class="tr-toggle terms-ask-check" data-tr-toggle-config="{&quot;labels&quot;:[&quot;&quot;,&quot;&quot;]}"></span>
+      <span class="terms-ask-text"><span class="terms-ask-label">I have read and agree to Trover's <a class="terms-ask-link" href="/terms" target="_blank">Terms of Use</a> and <a class="terms-ask-link" href="/privacy" target="_blank">Privacy Policy</a>.</span></span>
+    </span>
+  </div>
+  <a href="javascript:;" class="continue-btn"></a>
+</div>
+
+		 
+		<div class="alert-popup">
+  <div class="content">
+    <div class="prompt">prompt</div>
+    <div class="actions">
+      <a href="javascript:;" class="alert-btn-l"></a>
+      <a href="javascript:;" class="alert-btn-r"></a>
+    </div>
+  </div>
+</div>
+
+    
+    <div id="fixed_footer" class="reveal">
+      <div class='discovery-fixed-footer-promo'>
+      <div class='discovery-fixed-footer-promo-title'>Satisfy your wanderlust</div>
+      <div class='discovery-fixed-footer-promo-subtitle'>Share tips.  Get inspired by a global community of travelers.</div>
+    </div>
+
+  
+  <div class="fixed-footer-universal">
+  	<div class="fixed-footer-background"></div>
+  	<div class="fixed-footer-center">
+      <a href="//www.trover.com/terms" class="fixed-footer-title fixed-footer-link">TERMS OF USE</a>
+  		<span class="fixed-footer-divider"></span>
+  		<a href="/about" id="about_trover_trigger" class="fixed-footer-title fixed-footer-link">ABOUT</a>
+  		<span class="fixed-footer-divider"></span>
+  		<a href="http://blog.trover.com" class="fixed-footer-title fixed-footer-link">BLOG</a>
+  		<span class="fixed-footer-divider"></span>
+  		<span class="fixed-footer-title fixed-footer-optional-title">APP&nbsp;&nbsp;</span>
+      <a class="fixed-footer-icon iphone" href="/itunes?lt=f"></a>
+      <a class="fixed-footer-icon android" href="/android?lt=f"></a>
+  		<span class="fixed-footer-divider"></span>
+  		<span class="fixed-footer-title fixed-footer-optional-title">FOLLOW&nbsp;&nbsp;</span>
+      <a class="fixed-footer-icon facebook" href="http://www.facebook.com/pages/Trover/216369761715901" target="_blank"></a>
+      <a class="fixed-footer-icon twitter" href="http://twitter.com/trover" target="_blank"></a>
+      <a class="fixed-footer-icon pinterest" href="http://pinterest.com/troverguide/" target="_blank"></a>
+  	</div>
+    <div id="about_trover_tt" class="thin-header-nav-menu">
+      <a href="https://www.trover.com/privacy">Privacy policy</a>
+      <div class="divider"></div>
+      
+      <a href="https://www.trover.com/press">Press</a>
+      <a href="https://www.trover.com/support">FAQ</a>
+      <a href="https://www.trover.com/widgets">Widgets</a>
+      <div class="divider"></div>
+      <a href="https://www.trover.com/about">About Trover</a>
+    </div>
+  </div>
+</div>
+<script>
+$(document).ready(function() {
+  $("#about_trover_tt").SimpleToolTipFixedMenu({
+    trigger:"#about_trover_trigger",
+    alignment:"top",
+    arrow:false,
+    offset:[0,3]
+  });
+});
+</script>
+
+    <!-- Script to push expts/variants to google analytics -->
+<script async src="https://www.google-analytics.com/cx/api.js"></script>
+  <script>
+      window.trover.TRExperiments.LogVariant('Tko3ricHT4S1i6-ETYUgOQ', '0');
+  </script>
+
+  </body>
+
+  <script type="text/javascript">
+//<![CDATA[
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+(function() { fbq('init', '1421115664599872'); fbq('track', 'PageView'); })();
+//]]>
+</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1421115664599872&ev=PageView&noscript=1" /></noscript>
+  <script type="text/javascript">
+//<![CDATA[
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments); },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js', a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+twq('init', 'nwb2h'); twq('track', 'PageView');
+//]]>
+</script>
+  
+<!-- Reddit Conversion Pixel -->
+<script>
+var i=new Image();i.src="https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAAAAA_pdIAA==&amp;s=ZUxjiCwG6eaxAuRss-hBbctj1hrY4abASMtQT6TUKvo=";
+</script>
+<noscript>
+<img height="1" width="1" style="display:none"
+src="https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAAAAA_pdIAA==&amp;s=ZUxjiCwG6eaxAuRss-hBbctj1hrY4abASMtQT6TUKvo="/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Reddit Conversion Pixel -->
+
+
+</html>
+ 

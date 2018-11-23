@@ -1,0 +1,45 @@
+[the voice of enterprise and emerging tech]
+CUBE SPECIAL FEATURES
+	                    Tintri ups the ante in the hybrid storage war with new generation of systems 					
+launching a new series of hybrid storage appliances
+ sporting an upgraded version of its homegrown management stack in the latest development from the cutthroat race to deliver the next-generation of flash-enhanced arrays for the enterprise. The move comes days after rival Tegile Inc. 
+ a similar combination
+ of hardware and software updates aimed at making solid-state memory more accessible for organizations.
+The new VMstore T800 series from Tintri is aimed at a different goal: allowing users to squeeze as many virtual machines into as little space as possible. The dual-controller appliance array in three different models, each of which comes in a neat 4U enclosure about the size of a desktop tower. Yet while they may be similar on the surface, the configurations vary greatly under the hood.
+At the bottom end of the family is the VMstore T820, which comes with 1.75 terabytes of speedy flash and another 20 terabytes of slower but more cost-effective disk that together provide just over 10 terabytes of usable storage. Built-in software optimizations more than double the effective capacity to 23 terabytes, according to Tintri, allowing the system to accommodate up to 750 virtual machines.
+For customers with tight space requirements and bigger budgets, the startup is offering up the T850, which ships with more than three times as much flash as its lighter sibling and 52 terabytes of disk with a maximum capacity of 2,500 virtual machines. And if that’s not enough, Tintri will happily propose the T880, the flagship of the new series, which can run as many as 3,500 instances thanks to 100 terabytes of effective storage space that can handle 140,000 input and output operations per second. That density adds up to a full petabyte of usable capacity per rack, or 35,000 virtual machines worth.
+All three new arrays run the latest version of Tintri OS, which made its debut on the same morning and introduces a number of significant improvements over the previous edition. The most important addition is a set of APIs that makes it possible to programmatically handle management tasks admins have traditionally had to carry out manually, not unlike what emerging software-defined storage solutions are promising to deliver. That affords a degree of automation that can’t be achieved with traditional arrays from the incumbent vendors Tintri hopes to disrupt.
+Additionally, version 3.1 of the operating system integrates with VMware Inc.’s recovery management software to enable users to manage copies from the native Tintri OS interface. Complementing the release is a brand new software product called SecureVM that uses self-encrypting drives to protect data at rest without incurring any noticeable system overhead, according to the startup.
+… We’d like to tell you about our mission and how you can help us fulfill it. SiliconANGLE Media Inc.’s business model is based on the intrinsic value of the content, not advertising. Unlike many online publications, we don’t have a paywall or run banner advertising, because we want to keep our journalism open, without influence or the need to chase traffic.
+The journalism, reporting and commentary on 
+ — along with live, unscripted video from our Silicon Valley studio and globe-trotting video teams at 
+ — take a lot of hard work, time and money. Keeping the quality high requires the support of sponsors who are aligned with our vision of ad-free journalism content.
+If you like the reporting, video interviews and other ad-free content here, please take a moment to check out a sample of the video content supported by our sponsors, 
+, and keep coming back to 
+Open-source and cloud-native: Kubernetes paves the way for new companies to bring DevOps to data
+Report: Waymo will launch a commercial driverless taxi service next month
+After nationwide bidding war, Amazon picks New York and Virginia for HQ2
+ClearSky raises $20M, partners with Equinix to expand its storage as a service
+Sauce Labs unveils cloud-based scalable headless browser testing solution for web DevOps
+Cisco hardens its SD-WAN networking platform to secure cloud-hosted apps
+Open-source and cloud-native: Kubernetes paves the way for new companies to bring DevOps to data
+Report: Waymo will launch a commercial driverless taxi service next month
+After nationwide bidding war, Amazon picks New York and Virginia for HQ2
+ClearSky raises $20M, partners with Equinix to expand its storage as a service
+Sauce Labs unveils cloud-based scalable headless browser testing solution for web DevOps
+Cisco hardens its SD-WAN networking platform to secure cloud-hosted apps
+Explore more videos at
+Open-source and cloud-native: Kubernetes paves the way for new companies to bring DevOps to data
+From the inside out, Dell Boomi cultivates digital transformation with AI, cloud
+Integration platforms zoom in on prospects with 360 CX view
+Dell Boomi awardee on iPaaS alchemy and blockchain at the ballots
+How startups can thrive in 'throwaway technology' era: tips from tech legend Alan Boehme
+Get our personalized daily newsletter.
+										2018 SiliconANGLE Media Inc. All rights reserved.
+Consumer or Enterprise?
+This field is for validation purposes and should be left unchanged.
+ Continue with Social Login
+ Continue with Social Login
+EXTRACT THE SIGNAL FROM THE NOISE
+Like Free Content? Subscribe to follow.
+We employ the use of cookies. 

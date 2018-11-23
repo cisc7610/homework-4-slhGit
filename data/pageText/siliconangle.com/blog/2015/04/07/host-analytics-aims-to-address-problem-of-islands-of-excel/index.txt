@@ -1,0 +1,45 @@
+[the voice of enterprise and emerging tech]
+CUBE SPECIAL FEATURES
+	                    Host Analytics aims to address problem of islands of Excel					
+Host Analytics Inc. is expanding its cloud-based performance management platform with a new modeling service that centralizes planning across the enterprise. The addition aims to address the lack of coordination that too often exists between the financial department and the rest of the organization.
+Business divisions rely more on their data than ever before, but much of the modeling  performed to extract meaning from that information is still carried out the old-fashioned way, using Excel. The unwieldiness of the format makes it difficult to synchronize the calculations with the balance sheets, which is detrimental when the resulting decisions have a tangible impact on the bottom line.
+That’s especially true in faster-moving parts of an organization like the sales force, where the operational calculus can change from day to day. As Host Analytics product marketing head Janette Kosior explained to SiliconANGLE, even short-term shifts in key factors such as anticipated bookings and commission rates make a noticeable difference.
+Yet in the typical environment, those fluctuations will only appear in the department’s model while the rest of the organization continues to operate according to a financial plan created in beginning of the month. By the time that the changes find their way into the accounting calculations, decisions will have already been made based on the inaccurate data.
+Compounded across every unit that carries out its modeling in isolation, that adds up to a potentially significant discrepancy that not only creates more work for the financial team but also makes it more difficult to balance the budgetary requirements of the different departments. That ends up hampering operations, a situation Host Analytics promises to help avoid with the new addition to its platform.
+The modeling service brings collaboration features that allow an analyst to create a report in Excel and synchronize their work to the vendor’s cloud, where it’s made accessible to the rest of their organization, including the financial department. There’s also built-in analytics functionality that make it possible to create plans directly through a browser and then view the results on a mobile device.
+The service is built directly into Host Analytics’ platform, which allows workers to access and act upon information in the same environment. The launch marks the latest milestone in the company’s efforts to narrow the gaps in performance management, which previously saw the introduction of an 
+integrated planning service
+ for sales personnel last year.
+… We’d like to tell you about our mission and how you can help us fulfill it. SiliconANGLE Media Inc.’s business model is based on the intrinsic value of the content, not advertising. Unlike many online publications, we don’t have a paywall or run banner advertising, because we want to keep our journalism open, without influence or the need to chase traffic.
+The journalism, reporting and commentary on 
+ — along with live, unscripted video from our Silicon Valley studio and globe-trotting video teams at 
+ — take a lot of hard work, time and money. Keeping the quality high requires the support of sponsors who are aligned with our vision of ad-free journalism content.
+If you like the reporting, video interviews and other ad-free content here, please take a moment to check out a sample of the video content supported by our sponsors, 
+, and keep coming back to 
+Report: Apple has cut back production of all 2018 iPhone models
+On the cusp of AWS re:Invent, the public cloud continues to transform the public sector
+Cato Networks improves its ability to detect and resolve network outages
+Thousands of dark web sites offline following hack of leading hosting provider
+SEC settles lawsuits with two companies that ran unregistered ICOs as market continues to decline
+Instagram suffers downtime after scrambling to fix password-revealing bug
+Report: Apple has cut back production of all 2018 iPhone models
+On the cusp of AWS re:Invent, the public cloud continues to transform the public sector
+Cato Networks improves its ability to detect and resolve network outages
+Thousands of dark web sites offline following hack of leading hosting provider
+SEC settles lawsuits with two companies that ran unregistered ICOs as market continues to decline
+Instagram suffers downtime after scrambling to fix password-revealing bug
+Explore more videos at
+Lock up your data: Optimizing security one platform at a time
+Old Publishers Clearing House does fresh analytics tricks with hybrid mix
+Tech leaders are getting their AI on, and 'not talking trash anymore,' say analysts
+Protecting SMBs that turn a blind eye to cyber threat
+How Kubernetes helps Didja TV broadcast faster than Hulu
+Get our personalized daily newsletter.
+										2018 SiliconANGLE Media Inc. All rights reserved.
+Consumer or Enterprise?
+This field is for validation purposes and should be left unchanged.
+ Continue with Social Login
+ Continue with Social Login
+EXTRACT THE SIGNAL FROM THE NOISE
+Like Free Content? Subscribe to follow.
+We employ the use of cookies. 

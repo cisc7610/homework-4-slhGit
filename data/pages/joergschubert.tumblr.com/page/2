@@ -1,0 +1,2356 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!doctype html>
+
+<html class="no-js" lang="en">
+
+<head>
+
+
+
+
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+	Selfie Premium Tumblr Theme by PRECRAFTED
+
+	Visit http://precrafted.com for information, support, and more themes!
+
+	Version 1.3
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+
+
+	<!-- Basic Page Settings -->
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>tinto|graphy</title>
+
+	<meta name="author" content="tinto|graphy">
+	
+	<meta name="tumblr-theme" content="" />
+	
+	
+	<meta name="description" content="" />
+	
+
+	<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="http://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=f5a70173e4db126d3aa1328d58a66677"><link rel="shortcut icon" href="https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj">
+	<link rel="apple-touch-icon" href="https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj">
+	<link rel="alternate" type="application/rss+xml" href="http://joergschubert.tumblr.com/rss">
+
+
+
+
+	<!-- Main Style Settings -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+
+	
+	<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+	
+	
+
+	<link rel="stylesheet" href="http://static.tumblr.com/e6lc7yi/yUdoacwaz/precrafted-social.css">
+	<link rel="stylesheet" href="http://static.tumblr.com/e6lc7yi/h5Gocazzi/selfie-styles.css">
+
+
+
+
+	<!-- Custom Options -->
+
+
+	<!-- Custom Colors -->
+
+	<meta name="color:Header Background" content="#21272e"/>
+	<meta name="color:Header Overlay" content="#21272e"/>
+	<meta name="color:Header Text" content="#ffffff"/>
+
+	<meta name="color:Description" content="#30363c"/>
+	<meta name="color:Borders" content="#dbdedf"/>
+
+	<meta name="color:Post Titles" content="#444444"/>
+	<meta name="color:Text" content="#5d6061"/>
+	<meta name="color:Link" content="#000000"/>
+	<meta name="color:Link Hover" content="#f0a94d"/>
+
+
+	<!-- Custom Images -->
+	<meta name="image:Logo" content=""/>
+
+	<meta name="image:Header 2" content=""/>
+	<meta name="image:Header 3" content=""/>
+	<meta name="image:Header 4" content=""/>
+	<meta name="image:Header 5" content=""/>
+
+
+	<!-- Custom Text -->
+
+	<meta name="text:Title Font Size Small" content="30"/>
+	<meta name="text:Title Font Size Medium" content="60"/>
+	<meta name="text:Title Font Size Large" content="80"/>
+	<meta name="text:Title Letter Spacing" content="-0.02"/>
+	<meta name="text:Title Rotation" content="-3"/>
+
+	<meta name="text:Description Font Size Small" content="20">
+	<meta name="text:Description Font Size Medium" content="30">
+	<meta name="text:Description Font Size Large" content="40">
+	<meta name="text:Description Letter Spacing" content="-0.02"/>
+
+	<meta name="text:Menu Pages Title" content="Menu"/>
+	<meta name="text:Menu Tags Title" content="Browse"/>
+	<meta name="text:Menu Tags" content=""/>
+	<meta name="text:Menu Search Title" content="Search"/>
+
+	<meta name="text:Header Overlay Opacity" content="0.2"/>
+	<meta name="text:Header Overlay Menu Opacity" content="0.6"/>
+
+	<meta name="text:Logo Width" content="400"/>
+	<meta name="text:Photoset Spacing" content="10"/>
+
+	<meta name="text:Load More" content="Load More Posts"/>
+	<meta name="text:Load More Loading" content="Loading..."/>
+	<meta name="text:Load More End" content="No More Posts"/>
+	<meta name="text:Footer Text" content=""/>
+
+	<meta name="text:Instagram Token" content=""/>
+	<meta name="text:Instagram Order" content="1"/>
+	<meta name="text:Instagram Follow Me" content="Follow Me"/>
+
+	<meta name="text:Google Analytics Code" content=""/>
+	<meta name="text:Disqus Shortname" content=""/>
+
+	<meta name="text:Sticky Tag" content="featured"/>
+
+	<meta name="text:Font Embed Code" content=""/>
+	<meta name="text:Font Family Logo" content=""/>
+	<meta name="text:Font Family Titles" content=""/>
+	<meta name="text:Font Family Body" content=""/>
+
+	<meta name="text:URL Twitter" content=""/>
+	<meta name="text:URL Facebook" content=""/>
+	<meta name="text:URL Tumblr" content=""/>
+	<meta name="text:URL Website" content=""/>
+	<meta name="text:URL Google" content=""/>
+	<meta name="text:URL Linkedin" content=""/>
+	<meta name="text:URL Foursquare" content=""/>
+	<meta name="text:URL Skype" content=""/>
+	<meta name="text:URL Email" content=""/>
+	<meta name="text:URL Instagram" content=""/>
+	<meta name="text:URL Flickr" content=""/>
+	<meta name="text:URL 500px" content=""/>
+	<meta name="text:URL VSCO Grid" content=""/>
+	<meta name="text:URL Camera" content=""/>
+	<meta name="text:URL Eye" content=""/>
+	<meta name="text:URL Pinterest" content=""/>
+	<meta name="text:URL Heart" content=""/>
+	<meta name="text:URL Youtube" content=""/>
+	<meta name="text:URL Vimeo" content=""/>
+	<meta name="text:URL Vine" content=""/>
+	<meta name="text:URL Snapchat" content=""/>
+	<meta name="text:URL Ebay" content=""/>
+	<meta name="text:URL Store" content=""/>
+	<meta name="text:URL Apple" content=""/>
+	<meta name="text:URL Googleplay" content=""/>
+	<meta name="text:URL Etsy" content=""/>
+	<meta name="text:URL Dribbble" content=""/>
+	<meta name="text:URL Behance" content=""/>
+	<meta name="text:URL deviantART" content=""/>
+	<meta name="text:URL Github" content=""/>
+	<meta name="text:URL Medium" content=""/>
+	<meta name="text:URL Quora" content=""/>
+	<meta name="text:URL Weibo" content=""/>
+	<meta name="text:URL Travel" content=""/>
+	<meta name="text:URL Lastfm" content=""/>
+	<meta name="text:URL Rdio" content=""/>
+	<meta name="text:URL Spotify" content=""/>
+	<meta name="text:URL Soundcloud" content=""/>
+	<meta name="text:URL RSS" content=""/>
+
+
+	<!-- Custom Choices -->
+	<meta name="select:Pagination" content="pagination_load-more" title="Load More">
+	<meta name="select:Pagination" content="pagination_standard" title="Standard">
+	<meta name="select:Pagination" content="pagination_infinite-scroll" title="Infinite Scroll">
+
+	<meta name="select:Photo Link" content="post" title="Post">
+	<meta name="select:Photo Link" content="image" title="Image">
+	<meta name="select:Photo Link" content="lightbox" title="Lightbox">
+	<meta name="select:Photo Link" content="none" title="None">
+	<meta name="select:Photo Link Permalink" content="image" title="Image">
+	<meta name="select:Photo Link Permalink" content="lightbox" title="Lightbox">
+	<meta name="select:Photo Link Permalink" content="none" title="None">
+
+	<meta name="select:Panorama Link" content="image" title="Lightbox">
+	<meta name="select:Panorama Link" content="post" title="Post">
+	<meta name="select:Panorama Link" content="none" title="None">
+	<meta name="select:Panorama Link Permalink" content="image" title="Lightbox">
+	<meta name="select:Panorama Link Permalink" content="none" title="None">
+
+	<meta name="select:Photoset Link" content="lightbox" title="Lightbox">
+	<meta name="select:Photoset Link" content="post" title="Post">
+	<meta name="select:Photoset Link" content="none" title="None">
+	<meta name="select:Photoset Link Permalink" content="lightbox" title="Lightbox">
+	<meta name="select:Photoset Link Permalink" content="none" title="None">
+
+	<meta name="if:Photoset Cover" content="0">
+
+	<meta name="if:Sticky Posts" content="0">
+
+	<meta name="if:Show Intro" content="1">
+	<meta name="if:Show Home Link" content="1"/>
+	<meta name="if:Show Archive Link" content="1"/>
+	<meta name="if:Show Search" content="1"/>
+
+	<meta name="if:White Icons" content="0"/>
+	<meta name="if:Show Group Author" content="0">
+
+	<meta name="if:Sharer" content="1">
+	<meta name="if:Sharer Twitter" content="1">
+	<meta name="if:Sharer Facebook" content="1">
+	<meta name="if:Sharer Google" content="1">
+	<meta name="if:Sharer Pinterest" content="1">
+
+	<meta name="if:Show Timestamp" content="1">
+	<meta name="if:Show Meta On Home" content="0">
+
+
+
+
+	<!-- Custom CSS -->
+
+	<style type="text/css">
+
+		body {
+			background: #FFFFFF;
+			color: #5d6061;
+		}
+		h1, h2, h3, h4, h5,
+		h1 a, h2 a, h3 a, h4 a, h5 a {
+			color: #444444;
+		}
+		h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
+			color: #f4571e;
+		}
+		a {
+			color: #ff0000;
+		}
+		a:hover {
+			color: #f4571e;
+		}
+		::-moz-selection { background: #ff0000; color: #FFFFFF; text-shadow: none; }
+		::selection { background: #ff0000; color: #FFFFFF; text-shadow: none; }
+
+		.header-image-wrap,
+		.header,
+		.header .avatar-image {
+			background-color: #21272e;
+		}
+
+		.header-overlay {
+			background: rgba(33,39,46,0.2);
+		}
+
+		.header-title__name {
+			font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+			font-weight: bold;
+			color: #ffffff;
+
+			
+			font-size: 30px;
+			
+
+			
+			letter-spacing: -0.02em;
+			
+		}
+
+		
+		@media only screen and (min-width: 768px) {
+			.header-title__name {
+				font-size: 40px;
+			}
+		}
+		
+
+		
+		@media only screen and (min-width: 1440px) {
+			.header-title__name {
+				font-size: 50px;
+			}
+		}
+		
+
+		@media only screen and (min-width: 1024px) {
+			.body-ready .header-content,
+			.permalink .header-content,
+			.index.tagged .header-content,
+			.index.search .header-content {
+			-webkit-transform: translate(-50%, -50%) scale(1) rotate(0deg);
+			-moz-transform: translate(-50%, -50%) scale(1) rotate(0deg);
+			-o-transform: translate(-50%, -50%) scale(1) rotate(0deg);
+			-ms-transform: translate(-50%, -50%) scale(1) rotate(0deg);
+			transform: translate(-50%, -50%) scale(1) rotate(0deg);
+			}
+		}
+
+		.header-logo {
+			max-width: 400px;
+		}
+
+		.menu-toggle .menu-toggle-hamburger span,
+		.menu-toggle .menu-toggle-hamburger span:before,
+		.menu-toggle .menu-toggle-hamburger span:after {
+			background: #ffffff;
+		}
+
+		.menu {
+			background: rgba(33,39,46, 0.95);
+		}
+		@media only screen and (min-width: 1024px) {
+			.menu {
+				background: transparent;
+			}
+		}
+
+		.menu-item,
+		.menu-item:hover,
+		.menu-list__link,
+		.menu-list__link:hover {
+			color: #ffffff;
+		}
+		@media only screen and (min-width: 1024px) {
+			.menu-item,
+			.menu-list__link {
+				color: rgba(255,255,255, 0.7);
+			}
+			.menu-item:hover,
+			.menu-list__link:hover,
+			.menu-item--drop:hover .menu-item__label,
+			.menu-item--search:hover .menu-item__label {
+				color: #ffffff;
+			}
+		}
+
+		.menu-drop .header-overlay,
+		.search-on .header-overlay {
+			background: rgba(33,39,46,0.6);
+		}
+
+		.menu-item__label {
+			color: rgba(255,255,255, 0.6);
+		}
+		@media only screen and (min-width: 1024px) {
+			color: rgba(255,255,255, 0.7);
+		}
+
+		.menu-search .social-search {
+			color: #ffffff;
+		}
+
+		::-webkit-input-placeholder {
+			color: #ffffff;
+		}
+			:-moz-placeholder {
+			color: #ffffff;
+		}
+			::-moz-placeholder {
+			color: #ffffff;
+		}
+			:-ms-input-placeholder {
+			color: #ffffff;
+		}
+
+		.footer {
+			background: rgba(219,222,223, 0.4);
+		}
+
+		.footer span,
+		.footer .credit,
+		.footer .credit a {
+			color: #5d6061;
+		}
+		.footer .scroll-top {
+			background: #FFFFFF;
+			color: #5d6061;
+		}
+		.footer .scroll-top:hover {
+			background: #f4571e;
+			color: #FFFFFF;
+		}
+
+		.page-intro__description {
+			color: #30363c;
+
+			
+			font-size: 20px;
+			
+
+			
+			letter-spacing: -0.02em;
+			
+		}
+
+		
+		@media only screen and (min-width: 768px) {
+			.page-intro__description {
+				font-size: 30px;
+			}
+		}
+		
+
+		
+		@media only screen and (min-width: 1440px) {
+			.page-intro__description {
+				font-size: 40px;
+			}
+		}
+		
+
+		@media only screen and (min-width: 1024px) {
+			.page-intro__scroll {
+				color: #dbdedf;
+			}
+		}
+
+		.social-menu li a {
+			border-color: #ff0000;
+			color: #ff0000;
+		}
+		.social-menu li a:hover {
+			background: #ff0000;
+			color: #FFFFFF;
+		}
+
+		.post-header__timestamp,
+		.permalink .post-header__timestamp:hover {
+			color: #dbdedf;
+		}
+		.post-header__timestamp:hover {
+			color: #5d6061;
+		}
+
+		article {
+			border-color: #dbdedf;
+		}
+
+		article hr {
+			background: #dbdedf;
+		}
+		article blockquote {
+			border-left-color: #dbdedf;
+		}
+
+		article.type_quote .quote {
+			color: #444444;
+		}
+
+		article.type_answer .answer-inner {
+			background: #FFFFFF;
+			border-color: #dbdedf;
+		}
+		article.type_answer .answer-inner:after {
+			border-bottom-color: #FFFFFF;
+		}
+		article.type_answer .answer-inner:before {
+			border-bottom-color: #dbdedf;
+		}
+
+		@media only screen and (min-width: 768px) {
+			article.type_answer .answer-inner:after {
+				border-left-color: #FFFFFF;
+				border-bottom-color: transparent;
+			}
+			article.type_answer .answer-inner:before {
+				border-left-color: #dbdedf;
+				border-bottom-color: transparent;
+			}
+		}
+
+		article.type_chat .line {
+			border-top-color: #dbdedf;
+		}
+
+		article.type_link .the-link {
+			background: #ff0000;
+			color: #FFFFFF;
+		}
+		article.type_link .the-link:hover {
+			background: #f4571e;
+		}
+
+		.icons li.sharer ul {
+			background: #FFFFFF;
+			border-color: #dbdedf;
+		}
+		.icons li.sharer ul:before {
+			border-top-color: #dbdedf;
+		}
+		.icons li.sharer ul:after {
+			border-top-color: ;
+		}
+
+		.post-footer a {
+			color: #5d6061;
+		}
+
+		.instagram-feed .instagram-overlay {
+			background: rgba(244,87,30, 0.4);
+		}
+		.instagram-feed .instagram-link {
+			background: #ff0000;
+			color: #FFFFFF;
+		}
+		.instagram-feed .instagram-link:hover {
+			background: #f4571e;
+		}
+
+		article.type_pagination .pagination a {
+			background: #ff0000;
+			color: #FFFFFF;
+		}
+		article.type_pagination .pagination a:hover {
+			background: #f4571e;
+			color: #FFFFFF;
+		}
+		article.type_pagination.pagination_load-more .article-content,
+		article.type_pagination.pagination_infinite-scroll .article-content {
+			background: #ff0000;
+			color: #FFFFFF;
+		}
+		article.type_pagination.pagination_load-more .article-content:hover,
+		article.type_pagination.pagination_load-more.loading .article-content,
+		article.type_pagination.pagination_infinite-scroll .article-content {
+			background: #f4571e;
+			color: #FFFFFF;
+		}
+
+		.post-nav a {
+			background: #ff0000;
+			color: #FFFFFF;
+		}
+		.post-nav a:hover {
+			background: #f4571e;
+			color: #FFFFFF;
+		}
+
+		
+
+			
+			body {
+				font-family: 'Cutive Mono';
+			}
+			
+
+			
+
+			
+
+		
+
+		
+
+	</style>
+
+	<style type="text/css">
+
+		body {
+  background: #fff;
+  font-family: 'Helvetica Neue', Arial, Helvetica sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #7f8c8d;
+  text-align: left;
+}
+p {text-align:left;}
+body {font-size:90%;}
+nav .main-menu li a {padding:5px;}
+
+@media only screen and (min-width: 1024px) {
+.header {
+    width: 32.8%;
+}
+.the-posts {
+    padding-left: 32.8%;
+}
+.menu {
+    right: 67.2%;
+}
+
+    
+}
+
+	</style>
+
+
+
+	
+
+
+	<!-- Sharing meta tags -->
+	<meta property="og:site_name" content="tinto|graphy"/><meta property="og:title" content="tinto|graphy"/><meta property="og:url" content="http://joergschubert.tumblr.com/"/><meta property="og:type" content="blog"/><meta property="og:description" content=""/><meta property="og:image" content="https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj"/>
+
+	
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=joergschubert" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=joergschubert" /><script src="http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><meta name="keywords" content="fuji,fujix100t,fujixseries,x100t,tintography" /><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="app" /><meta name="twitter:description" content="joergschubert" /><meta name="twitter:title" content="joergschubert" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=joergschubert&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=joergschubert&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=joergschubert&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"http:\/\/joergschubert.tumblr.com\/page\/2","itemListElement":[{"@type":"ListItem","position":1,"url":"http:\/\/joergschubert.tumblr.com\/post\/178955988926\/911-neverforget-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":2,"url":"http:\/\/joergschubert.tumblr.com\/post\/178955964391\/hamburg-2018-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":3,"url":"http:\/\/joergschubert.tumblr.com\/post\/178955956276\/new-york-city-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":4,"url":"http:\/\/joergschubert.tumblr.com\/post\/178955947411\/new-york-city-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":5,"url":"http:\/\/joergschubert.tumblr.com\/post\/178955935066\/roadtrip-2017-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":6,"url":"http:\/\/joergschubert.tumblr.com\/post\/178955925911\/ibug-2018-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":7,"url":"http:\/\/joergschubert.tumblr.com\/post\/178955915606\/thank-god-its-friday-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":8,"url":"http:\/\/joergschubert.tumblr.com\/post\/177590217281\/new-york-city-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":9,"url":"http:\/\/joergschubert.tumblr.com\/post\/177590206151\/prague-by-j\u00f6rg-schubert"},{"@type":"ListItem","position":10,"url":"http:\/\/joergschubert.tumblr.com\/post\/177590188211\/hamburg-2018-by-j\u00f6rg-schubert"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="http://joergschubert.tumblr.com/page/2" /></head>
+
+
+<body
+ class="index"
+
+>
+
+<!-- Tumblr Theme # -->
+
+
+<header class="header">
+
+	
+	<div class="header-image-wrap">
+		<div class="header-image owl-carousel">
+			<div class="carousel-item" style="background-image: url(http://static.tumblr.com/a9d6f18bad31adf44db937f7a0e12134/ezkve0k/Qhwningqe/tumblr_static_9visdg2lba0c8wkog0o08ksgw_2048_v2.jpg);"></div>
+			<div class="carousel-item" style="background-image: url(http://static.tumblr.com/f61d6b851b260611673450377ae17f37/ezkve0k/sCkoj9otr/tumblr_static_5t30fchnyqkgws8cc4w4s04s4.jpg);"></div>
+			<div class="carousel-item" style="background-image: url(http://static.tumblr.com/51737b5dc3080e7eab0a5d549694f77e/ezkve0k/5SEoiyve0/tumblr_static_clpqz8angnc4k0ok80kwgss44.jpg);"></div>
+			<div class="carousel-item" style="background-image: url(http://static.tumblr.com/1933b0b48647bbfc739ae4321c21800a/ezkve0k/nH8oiyfl8/tumblr_static_5sx1k42acnswc0soc0000cs4o.jpg);"></div>
+			<div class="carousel-item" style="background-image: url(http://static.tumblr.com/360605fc1d7ed7b7552952154a495af4/ezkve0k/PMHp3d9ek/tumblr_static_86ji9ex7mkkks4sgwks8kkwo0.jpg);"></div>
+		</div>
+		<div class="header-overlay"></div>
+	</div>
+	
+
+	<div class="header-content">
+
+		
+		<a href="/" class="header-logo" title="tinto|graphy">
+			<img src="http://static.tumblr.com/a268bb46a9aa8e3417f68af00c4608fb/ezkve0k/cMDp2k4r6/tumblr_static_luni6drd1lw4osoco8c8go4o.png" alt="tinto|graphy"/>
+		</a>
+		
+		
+		
+
+	</div>
+
+</header>
+
+
+<div class="menu-toggle menu-closed"><div class="menu-toggle-hamburger"><span></span></div></div>
+
+<nav class="menu">
+
+	<div class="menu-wrap">
+
+		
+		<a href="/" class="menu-item">Home</a>
+		
+
+		<div class="menu-item menu-item--drop">
+			<span class="menu-item__label">Menu<i class="social-down-open"></i></span>
+			<ul class="menu-list">
+				
+				
+				<li class="menu-list__item"><a href="/about" title="About" class="menu-list__link">About</a></li>
+				
+				<li class="menu-list__item"><a href="/tagged/people" title="People" class="menu-list__link">People</a></li>
+				
+				<li class="menu-list__item"><a href="/tagged/street" title="Street" class="menu-list__link">Street</a></li>
+				
+				<li class="menu-list__item"><a href="/tagged/parker" title="Parker the Puggle" class="menu-list__link">Parker the Puggle</a></li>
+				
+				<li class="menu-list__item"><a href="/tagged/1-second-everyday" title="1 second everyday" class="menu-list__link">1 second everyday</a></li>
+				
+				<li class="menu-list__item"><a href="/random" title="Random Post" class="menu-list__link">Random Post</a></li>
+				
+				<li class="menu-list__item"><a href="/tagged/nyc" title="Special: NEW YORK" class="menu-list__link">Special: NEW YORK</a></li>
+				
+				
+				
+				<li class="menu-list__item"><a href="/ask" title="Ask me anything" class="menu-list__link">Ask me anything</a></li>
+				
+				
+				
+				<li class="menu-list__item"><a href="/archive" title="Archive" class="menu-list__link">Archive</a></li>
+				
+			</ul>
+		</div>
+
+		
+
+		<!-- <div class="menu-item menu-item--drop">
+			<span class="menu-item__label">Custom<i class="social-down-open"></i></span>
+			<ul class="menu-list">
+				<li class="menu-list__item"><a href="/" title="Custom Menu" class="menu-list__link">Custom Link</a></li>
+			</ul>
+		</div> -->
+
+		
+		<div class="menu-item menu-item--search">
+			<span class="menu-item__label"><i class="social-search"></i><span class="menu-item__label__search">Search</span></span>
+			<form action="/search" method="get" class="menu-search">
+				<i class="social-search"></i>
+				<input class="menu-search__field" type="text" name="q" value="" placeholder="Search..."/>
+			</form>
+		</div>
+		
+
+	</div>
+
+</nav>
+
+
+<section class="the-posts">
+
+	
+
+	
+
+	<article id="page-intro" class="type_description page-intro">
+
+		<div class="article-content">
+
+			
+			<div class="page-intro__description">
+				photography and stuff  by Jörg Schubert
+			</div>
+			
+
+			<ul class="social-menu circle">
+				
+					<li><a href="http://twitter.com/tintobrass" target="_blank" title="Twitter"><i class="social-tweets"></i></a></li>
+				
+				
+					<li><a href="http://facebook.com/joerg.schubert" target="_blank" title="Facebook"><i class="social-facebook"></i></a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+					<li><a href="mailto:joerg.schubert@gmail.com" target="_blank" title="Email"><i class="social-mail"></i></a></li>
+				
+				
+					<li><a href="http://instagram.com/tintography" target="_blank" title="Instagram"><i class="social-instagram"></i></a></li>
+				
+				
+					<li><a href="http://flickr.com/tinto" target="_blank" title="Flickr"><i class="social-flickr"></i></a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+					<li><a href="https://www.youtube.com/channel/UCLY4m2k5vF-cLzg00KkhRlg" target="_blank" title="Youtube"><i class="social-youtube"></i></a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					<li><a href="http://joergschubert.tumblr.com/rss" target="_blank" title="RSS"><i class="social-rss"></i></a></li>
+				
+			</ul>
+
+		</div>
+
+		<div class="page-intro__scroll">
+			<i class="social-down-open"></i>
+		</div>
+
+	</article>
+
+	
+
+	
+
+	
+
+	
+	<article id="instagram-post" class="instagram-feed">
+		<div class="post-header">
+			<a href="http://instagram.com/tintography" class="post-header__timestamp">
+				<span class="post-header__icon"><i class="social-instagram"></i></span>
+				Instagram
+			</a>
+		</div>
+		<div class="instagram-token">30819019.1677ed0.6cf0bd3c786c4b6eb1275e3fb8312ee7</div>
+		<div class="instagram-order">1</div>
+		<div class="article-content">
+			<div id="instagram-feed"></div>
+			<a href="http://instagram.com/tintography" class="instagram-link">Follow me on instagram?</a>
+		</div>
+	</article>
+	
+
+	
+
+
+	<div class="posts-holder posts-grid">
+
+		
+		<div class="grid-sizer"></div>
+		
+		
+
+		
+
+		<article id="178955988926" class="type_video 2017 28mm fuji fujifilm fujilove fujix100t fujixseries manhattan mirrorless new_york nyc tintography vsco vscofilm wcl_x100 wideangel x100t 911 wtc memorial" rel="https://www.tumblr.com/reblog/178955988926/dHTjOOYo">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/178955988926/911-neverforget-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					1 month ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="178955988926">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/30747020408/" title="9/11 #neverforget by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1842/30747020408_4b4fb5f125_b.jpg" width="500" height="333" alt="9/11 #neverforget"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>9/11 #neverforget <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=NTEwMGEzYmIyY2FhY2U3MTZlYTRlODY2MDQ2YjQxYWExZGE1MmMzOCxkSFRqT09Zbw%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F178955988926%2F911-neverforget-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2cgcw__" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/178955988926/911-neverforget-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/178955988926/911-neverforget-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1842/30747020408_4b4fb5f125_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/178955988926/dHTjOOYo" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="178955988926" data-blog-name="joergschubert" id="like_button_178955988926"><iframe id="like_iframe_178955988926" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=178955988926&amp;color=black&amp;rk=dHTjOOYo" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_178955988926"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="178955964391" class="type_video 2018 23mm 28mm 35mm fuji fujifilm fujilove fujix10 fujix100t fujixseries hamburg mirrorless nordsee tintography urlaub vsco vscofilm wcl_x100 wideangel winter x100t" rel="https://www.tumblr.com/reblog/178955964391/xTHImED9">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/178955964391/hamburg-2018-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					1 month ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="178955964391">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/44601761531/" title="Hamburg  2018 by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1894/44601761531_c053b5d392_b.jpg" width="500" height="333" alt="Hamburg  2018"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>Hamburg  2018 <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=N2ZkYmJjMGI2Y2U1M2NlNzRkMzNlNTQzZTc4M2Q3MDIwNjRiNmExOSx4VEhJbUVEOQ%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F178955964391%2Fhamburg-2018-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2cgcq-d" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/178955964391/hamburg-2018-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/178955964391/hamburg-2018-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1894/44601761531_c053b5d392_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/178955964391/xTHImED9" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="178955964391" data-blog-name="joergschubert" id="like_button_178955964391"><iframe id="like_iframe_178955964391" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=178955964391&amp;color=black&amp;rk=xTHImED9" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_178955964391"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="178955956276" class="type_video 2017 28mm fuji fujifilm fujilove fujix100t fujixseries manhattan mirrorless new_york nyc tintography vsco vscofilm wcl_x100 wideangel x100t" rel="https://www.tumblr.com/reblog/178955956276/P3iN8Nwf">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/178955956276/new-york-city-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					1 month ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="178955956276">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/42709278090/" title="New York City by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1848/42709278090_94d46eaf80_b.jpg" width="500" height="333" alt="New York City"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>New York City <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=MjA5ZGUwYWZmMjA0MTI4ZmMyZmQ2NzY0NjZmOTg0NDYzNjA3MjY3ZSxQM2lOOE53Zg%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F178955956276%2Fnew-york-city-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2cgcp0q" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/178955956276/new-york-city-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/178955956276/new-york-city-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1848/42709278090_94d46eaf80_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/178955956276/P3iN8Nwf" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="178955956276" data-blog-name="joergschubert" id="like_button_178955956276"><iframe id="like_iframe_178955956276" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=178955956276&amp;color=black&amp;rk=P3iN8Nwf" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_178955956276"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="178955947411" class="type_video 2017 28mm fuji fujifilm fujilove fujix100t fujixseries manhattan mirrorless new_york nyc tintography vsco vscofilm wcl_x100 wideangel x100t" rel="https://www.tumblr.com/reblog/178955947411/u3PlKrii">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/178955947411/new-york-city-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					1 month ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="178955947411">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/43779559974/" title="New York City by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1894/43779559974_f6e0eae834_b.jpg" width="500" height="333" alt="New York City"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>New York City <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=MjUyZGZkN2ZlNTFmMzcyNDUzMWE1MTlhOWEyYTAxNWQyZmVmYTRhNCx1M1BsS3JpaQ%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F178955947411%2Fnew-york-city-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2cgcmsJ" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/178955947411/new-york-city-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/178955947411/new-york-city-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1894/43779559974_f6e0eae834_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/178955947411/u3PlKrii" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="178955947411" data-blog-name="joergschubert" id="like_button_178955947411"><iframe id="like_iframe_178955947411" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=178955947411&amp;color=black&amp;rk=u3PlKrii" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_178955947411"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="178955935066" class="type_video fuji fujix100t fujixseries neuschweinstein2017 roadtrip roadtrip2017 tintography travel wirsounterwegs x100t" rel="https://www.tumblr.com/reblog/178955935066/vXZgDpHu">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/178955935066/roadtrip-2017-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					1 month ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="178955935066">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/29540163607/" title="Roadtrip 2017 by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1854/29540163607_346de3b814_b.jpg" width="500" height="333" alt="Roadtrip 2017"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>Roadtrip 2017 <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=YmI1ZTUwOTEwOTYwNDI4NDQ4MzIwZjQyZjIwZDQxZDRmMGEzYjdjYix2WFpnRHBIdQ%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F178955935066%2Froadtrip-2017-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2cgcjrQ" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/178955935066/roadtrip-2017-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/178955935066/roadtrip-2017-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1854/29540163607_346de3b814_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/178955935066/vXZgDpHu" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="178955935066" data-blog-name="joergschubert" id="like_button_178955935066"><iframe id="like_iframe_178955935066" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=178955935066&amp;color=black&amp;rk=vXZgDpHu" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_178955935066"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="178955925911" class="type_video chemnitz huaweip20pro ibug2018 p20pro art streetart exhibition" rel="https://www.tumblr.com/reblog/178955925911/FHuD0msg">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/178955925911/ibug-2018-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					1 month ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="178955925911">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/43522079685/" title="IBUg 2018 by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1888/43522079685_c785d752b3_b.jpg" width="500" height="375" alt="IBUg 2018"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>IBUg 2018 <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=ODdjYTI4MGQ3ZjJkMjU3ZjQwNTBlNDBjMzY2NDdiOGZlNGIxOWM4MixGSHVEMG1zZw%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F178955925911%2Fibug-2018-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2cgchcN" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/178955925911/ibug-2018-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/178955925911/ibug-2018-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1888/43522079685_c785d752b3_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/178955925911/FHuD0msg" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="178955925911" data-blog-name="joergschubert" id="like_button_178955925911"><iframe id="like_iframe_178955925911" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=178955925911&amp;color=black&amp;rk=FHuD0msg" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_178955925911"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="178955915606" class="type_video 2017 28mm fuji fujifilm fujilove fujix100t fujixseries manhattan mirrorless new_york nyc tintography vsco vscofilm wcl_x100 wideangel x100t" rel="https://www.tumblr.com/reblog/178955915606/7WFox2A1">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/178955915606/thank-god-its-friday-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					1 month ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="178955915606">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/44393132621/" title="Thank God it's friday by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1857/44393132621_c0bb8e69ac_b.jpg" width="500" height="333" alt="Thank God it's friday"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>Thank God it&rsquo;s friday <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=MDEyMWUyMGMwNTJhYzBmMDUyYTM3MTAyMTI0MTQ0NDZhZDk0OThkNiw3V0ZveDJBMQ%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F178955915606%2Fthank-god-its-friday-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2cgcf5M" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/178955915606/thank-god-its-friday-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/178955915606/thank-god-its-friday-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1857/44393132621_c0bb8e69ac_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/178955915606/7WFox2A1" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="178955915606" data-blog-name="joergschubert" id="like_button_178955915606"><iframe id="like_iframe_178955915606" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=178955915606&amp;color=black&amp;rk=7WFox2A1" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_178955915606"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="177590217281" class="type_video 2017 28mm fuji fujifilm fujilove fujix100t fujixseries manhattan mirrorless new_york nyc tintography vsco vscofilm wcl_x100 wideangel x100t" rel="https://www.tumblr.com/reblog/177590217281/LxqM50NL">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/177590217281/new-york-city-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					2 months ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="177590217281">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/44345997321/" title="New York City by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1860/44345997321_4ed70e6ebe_b.jpg" width="500" height="333" alt="New York City"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>New York City <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=YWRjNDlmODc0NjM0NjI4MTE3Njk2OWFmNjY2ZDM5MWFhNWI2NjY4NixMeHFNNTBOTA%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F177590217281%2Fnew-york-city-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2bPCwf1" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/177590217281/new-york-city-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/177590217281/new-york-city-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1860/44345997321_4ed70e6ebe_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/177590217281/LxqM50NL" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="177590217281" data-blog-name="joergschubert" id="like_button_177590217281"><iframe id="like_iframe_177590217281" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=177590217281&amp;color=black&amp;rk=LxqM50NL" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_177590217281"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="177590206151" class="type_video fuji fujix100t fujixseries neuschweinstein2017 roadtrip roadtrip2017 tintography travel wirsounterwegs x100t prag prague praha street" rel="https://www.tumblr.com/reblog/177590206151/O4LPAaRo">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/177590206151/prague-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					2 months ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="177590206151">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/30436066518/" title="Prague by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1855/30436066518_d8af151629_b.jpg" width="500" height="333" alt="Prague"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>Prague <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=OGNkNDNmNmI0NWNkZGIxMTAyMmRkMGUxYmNmNzBiMjc5Mzg5M2ZiOCxPNExQQWFSbw%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F177590206151%2Fprague-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2bPCtx7" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/177590206151/prague-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/177590206151/prague-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1855/30436066518_d8af151629_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/177590206151/O4LPAaRo" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="177590206151" data-blog-name="joergschubert" id="like_button_177590206151"><iframe id="like_iframe_177590206151" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=177590206151&amp;color=black&amp;rk=O4LPAaRo" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_177590206151"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="177590188211" class="type_video 2018 23mm 28mm 35mm fuji fujifilm fujilove fujix10 fujix100t fujixseries hamburg mirrorless nordsee tintography urlaub vsco vscofilm wcl_x100 wideangel winter x100t" rel="https://www.tumblr.com/reblog/177590188211/fBEx6DvQ">
+
+			<div class="article-content">
+
+
+			
+			
+			<div class="post-header">
+
+				
+				<a href="http://joergschubert.tumblr.com/post/177590188211/hamburg-2018-by-jörg-schubert" class="post-header__timestamp">
+					<span class="post-header__icon">
+						
+						
+						
+						
+						<i class="social-post_video"></i>
+						
+						
+						
+						
+						
+					</span>
+					2 months ago
+				</a>
+				
+				
+			</div>
+			
+			
+
+			 
+			
+
+			 
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<!-- Video Post -->
+
+			<div class="video-stage">
+				<div class="video-container" id="177590188211">
+					<a data-flickr-embed="true" href="https://www.flickr.com/photos/tinto/44237510192/" title="Hamburg  2018 by tinto, on Flickr"><img src="https://farm2.staticflickr.com/1857/44237510192_030d9043b8_b.jpg" width="500" height="333" alt="Hamburg  2018"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+				</div>
+			</div>
+
+			
+			<div class="caption">
+				<p><strong>Hamburg  2018 <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftinto%2F&amp;t=NzY3MmRkYzA5MTlkYTdmZDIzMTFlMTYxMDhmYWJkZTgyMjE3MGM4YixmQkV4NkR2UQ%3D%3D&amp;b=t%3AHaT9S69QKz5MGGRnXfH7Ow&amp;p=http%3A%2F%2Fjoergschubert.tumblr.com%2Fpost%2F177590188211%2Fhamburg-2018-by-j%C3%B6rg-schubert&amp;m=1">by J&ouml;rg Schubert</a></strong></p>
+			</div>
+			
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+			<div class="post-footer">
+
+				<ul class="icons">
+					
+					<li class="sharer">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								<li class="twitter">
+									<a href="https://twitter.com/intent/tweet?url=https://tmblr.co/ZB5oUl2bPCpYp" title="Share on Twitter" class="social-tweets" target="_blank"></a>
+								</li>
+								
+								
+								<li class="facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http://joergschubert.tumblr.com/post/177590188211/hamburg-2018-by-jörg-schubert" title="Share on Facebook" class="social-facebook" target="_blank"></a>
+								</li>
+								
+								
+								
+								<li class="pinterest">
+									<a href="https://pinterest.com/pin/create/button/?url=http://joergschubert.tumblr.com/post/177590188211/hamburg-2018-by-jörg-schubert&media=https://66.media.tumblr.com/avatar_1e8b98070e67_128.pnj&media=https://farm2.staticflickr.com/1857/44237510192_030d9043b8_b.jpg" title="Share on Pinterest" class="social-pinterest" target="_blank"></a>
+								</li>
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="reblog">
+						<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/177590188211/fBEx6DvQ" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>
+					<li class="like"><div class="like_button" data-post-id="177590188211" data-blog-name="joergschubert" id="like_button_177590188211"><iframe id="like_iframe_177590188211" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=joergschubert&amp;post_id=177590188211&amp;color=black&amp;rk=fBEx6DvQ" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_177590188211"></iframe></div></li>
+				</ul>
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+	</div>
+
+
+	
+	<article class="type_pagination pagination_infinite-scroll next">
+
+		<div class="article-content">
+
+			
+			<div class="pagination">
+				<a href="/page/1" class="prev"><i class="social-left"></i> Previous page</a>
+				<a href="/page/3" class="next">Next page <i class="social-right"></i></a>
+			</div>
+			
+
+			
+			<div class="load-more">
+				<span class="load-more-loading">Loading...</span>
+				<span class="load-more-end">No More Posts</span>
+				<span class="load-more-text">Load More Posts</span>
+			</div>
+			
+
+		</div>
+
+	</article>
+	
+
+	
+
+	<footer class="footer">
+
+		<span>Thanks for stopping by</span>
+		<span>&copy; tinto|graphy 2015–2018</span>
+
+		<div class="credit">
+			<a href="http://precrafted.com?ref=selfie" title="Precrafted Tumblr Themes" target="_blank">Selfie Tumblr Theme by Precrafted</a>
+		</div>
+
+		<a href="#top" class="scroll-top"><i class="social-up-open"></i></a>
+
+	</footer>
+
+
+</section>
+
+
+
+
+<!-- Javascript Assets -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<script src="http://static.tumblr.com/e6lc7yi/1oio9kojd/selfie-plugins.js"></script>
+<script src="http://static.tumblr.com/e6lc7yi/v74oahw5s/selfie-app.js"></script>
+
+
+
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?dfab06320413a6a34dbca419c4c70f2c#" +
+                              "http://joergschubert.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/page/2?route=%2Fpage%2F%3Apage'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/page/:page';
+                    var tumblelog_id = 't:HaT9S69QKz5MGGRnXfH7Ow';
+                    var yahoo_space_id = '1197719233';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1542650592&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2pvZXJnc2NodWJlcnQudHVtYmxyLmNvbS9wYWdlLzIiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wYWdlLzpwYWdlIn0=&U=DBNFKIABPE&K=2a2d683f0b98cb22f27fda6c63b7f37a7324870f9c1c53ad9857631b84417c5f&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1542650592&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2pvZXJnc2NodWJlcnQudHVtYmxyLmNvbS9wYWdlLzIiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wYWdlLzpwYWdlIiwibm9zY3JpcHQiOjF9&U=DBNFKIABPE&K=15da4cc6bf4d148e1de5a25efdc9ddaf88592e777dc6999bee5b581abab564ec&R="></noscript><script >
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/1-13960-radar10.min.js?_v=9cb7316a4f10444d75c23859aa4014c1';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1542650592&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9qb2VyZ3NjaHViZXJ0LnR1bWJsci5jb20vcGFnZS8yIiwicmVxdHlwZSI6MCwicm91dGUiOiIvcGFnZS86cGFnZSIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNzg5NTU5ODg5MjYiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE3ODk1NTk2NDM5MSIsImJsb2dpZCI6IjIxOTk3OTc2MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTc4OTU1OTU2Mjc2IiwiYmxvZ2lkIjoiMjE5OTc5NzYxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNzg5NTU5NDc0MTEiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE3ODk1NTkzNTA2NiIsImJsb2dpZCI6IjIxOTk3OTc2MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTc4OTU1OTI1OTExIiwiYmxvZ2lkIjoiMjE5OTc5NzYxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNzg5NTU5MTU2MDYiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE3NzU5MDIxNzI4MSIsImJsb2dpZCI6IjIxOTk3OTc2MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTc3NTkwMjA2MTUxIiwiYmxvZ2lkIjoiMjE5OTc5NzYxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNzc1OTAxODgyMTEiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfV19&U=EEDLEFEPPC&K=3094b78fec61ae7bf613e08efe66189a492604c9ce822bedda21ef22d68dc91f&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1542650592&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9qb2VyZ3NjaHViZXJ0LnR1bWJsci5jb20vcGFnZS8yIiwicmVxdHlwZSI6MCwicm91dGUiOiIvcGFnZS86cGFnZSIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNzg5NTU5ODg5MjYiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE3ODk1NTk2NDM5MSIsImJsb2dpZCI6IjIxOTk3OTc2MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTc4OTU1OTU2Mjc2IiwiYmxvZ2lkIjoiMjE5OTc5NzYxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNzg5NTU5NDc0MTEiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE3ODk1NTkzNTA2NiIsImJsb2dpZCI6IjIxOTk3OTc2MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTc4OTU1OTI1OTExIiwiYmxvZ2lkIjoiMjE5OTc5NzYxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNzg5NTU5MTU2MDYiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE3NzU5MDIxNzI4MSIsImJsb2dpZCI6IjIxOTk3OTc2MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTc3NTkwMjA2MTUxIiwiYmxvZ2lkIjoiMjE5OTc5NzYxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNzc1OTAxODgyMTEiLCJibG9naWQiOiIyMTk5Nzk3NjEiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=EEDLEFEPPC&K=302b426ad813424d5c8688d831077ddb7af68802842ea646ab046d6401026dda&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;http:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;http:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=756eea1496b0777edbe066ee73646b9e&quot;,&quot;tumblelogName&quot;:&quot;joergschubert&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;tinto|graphy&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/66.media.tumblr.com\/avatar_1e8b98070e67_40.pnj&quot;,&quot;tumblelogHost&quot;:&quot;http:\/\/joergschubert.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/a9d6f18bad31adf44db937f7a0e12134\/ezkve0k\/Qhwningqe\/tumblr_static_9visdg2lba0c8wkog0o08ksgw_2048_v2.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#FFFFFF&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#000000&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:&quot;2&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/joergschubert.tumblr.com\/page\/2&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;http:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dblog_network_floating_cta&quot;,&quot;ios&quot;:&quot;https:\/\/itunes.apple.com\/app\/apple-store\/id305343404?pt=9029\u0026ct=blog_network_floating_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;tumblr_new_iframe&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwic2FmZV9tb2RlIjp0cnVlLCJzYWZlX21vZGVfZW5hYmxlZCI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwia3Jha2VuX3dlYl9sb2dnaW5nX2xpYnJhcnkiOnRydWUsInNlY3VyZV9mb3JtX2tleSI6dHJ1ZSwic2VjdXJlX2Zvcm1fa2V5X2Z1bGx5X29uIjp0cnVlLCJ0dW1ibGVsb2dfcG9wb3ZlciI6dHJ1ZSwiY2Fub25pY2FsX3VybF93cml0ZXMiOnRydWUsImVuYWJsZV9jYXB0dXJlX2pzIjp0cnVlLCJwcmltYV9wb3N0X2Zvcm1zIjp0cnVlLCJsb2NrZWRfcmVibG9nX3VpIjp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwidHVtYmxyX3R2Ijp0cnVlLCJkZXByZWNhdGVfZmVhdHVyZWRfdGFncyI6dHJ1ZSwicmVibG9nX3VpX3JlZnJlc2giOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwibW9iaWxlX3dlYl9hYnVzZV9mb3JtIjp0cnVlLCJkb250X2Nhc3RfanNfZm9sbG93cyI6dHJ1ZSwiYWRzX25ld192ZW5kb3JfYnV0dG9ucyI6dHJ1ZSwicmVhY3RpdmF0aW9uX2Zsb3ciOnRydWUsImd1bHBqc19hZG1pbiI6dHJ1ZSwiZW5hYmxlX2pzX2VwaGVtZXJhbF9sb2ciOnRydWUsImxvZ19sYWR5Ijp0cnVlLCJjc2xvZ2dlcl9qcyI6dHJ1ZSwiZGlzY292ZXJ5X2h1Yl9hY2Nlc3MiOnRydWUsImhlYWRlcl9hY2NvdW50X21lbnUiOnRydWUsImVuYWJsZV9zaGFyZV9lbWJlZF9jb2RlIjp0cnVlLCJyZWRkaXRfc2hhcmluZyI6dHJ1ZSwicG9zdF9pdF9mb3J3YXJkIjp0cnVlLCJwZWVwcl9zZWFyY2hfYW5kX2ZpbHRlciI6dHJ1ZSwiaW50ZXJuc19wYWdlIjp0cnVlLCJmb2xsb3dlZF9zZWFyY2hlc19iaWdfd2ViIjp0cnVlLCJsaXZlcGhvdG9zX3dlYiI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJoaWRlX2RlZmF1bHRfaGVhZGVyc19ibG9nX2NhcmRzIjp0cnVlLCJ0eXBpbmdfaW5kaWNhdG9yX3dyaXRlIjp0cnVlLCJnZHByX2d1Y2VfaXNfcmVxdWlyZWQiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJhcmNoaXZlLXBsdXMiOnRydWUsImRhcmxhX2FkX2ZlZWRiYWNrIjp0cnVlLCJzdGF0dXNfaW5kaWNhdG9yIjp0cnVlLCJjb252ZXJzYXRpb25hbF9ub3RpZmljYXRpb25zIjp0cnVlLCJkaXNhYmxlX3lhaG9vX2JfY29va2llIjp0cnVlLCJsaXZlcGhvdG9zIjp0cnVlfQ==&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1542650592000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;http:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;http:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;http:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;http:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=756eea1496b0777edbe066ee73646b9e"></script></body>
+<!--
+    This Tumblr Theme and all of its CSS, Javascript,
+    and media assets are subject to Tumblr's Terms of Service:
+
+    http://www.tumblr.com/terms_of_service
+-->
+</html>r.com/terms_of_service
+-->
+</html>

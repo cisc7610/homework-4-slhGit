@@ -1,0 +1,1468 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="DAXX Nearshore IT">
+    <meta name="copyright" content="DAXX Nearshore IT">
+    <meta name="description" content="What are the average programmer salaries by country in 2018? We bring you a comparison of developer salaries in Norway, Denmark, Switzerland, Germany, and other countries." />
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache"> 
+        <link rel="canonical" href="https://www.daxx.com/article/it-salaries-software-developer-trends-2018"/>
+                <link rel="alternate" hreflang="en" href="https://www.daxx.com/article/it-salaries-software-developer-trends-2018" />
+<link rel="alternate" hreflang="nl" href="https://www.daxx.nl/article/it-salaries-software-developer-trends-2018" />
+<link rel="alternate" hreflang="de" href="https://www.daxx.de/article/it-salaries-software-developer-trends-2018" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_16.png">
+    <meta property="og:title" content="Software Engineer Salaries by Country | Salary Comparison for Java, .NET, С++" />
+    <meta property="og:image" content="https://www.daxx.com/./uploads/1482837270_picture.png" />
+    <meta property="og:url" content="https://www.daxx.com/article/it-salaries-software-developer-trends-2018" />
+    <meta property="og:description" content="What are the average programmer salaries by country in 2018? We bring you a comparison of developer salaries in Norway, Denmark, Switzerland, Germany, and other countries." />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="DAXX Nearshore IT" />
+    <meta property="fb:app_id" content="210610959000219" />
+    <meta name="google-site-verification" content="7_Z4WFaeA_Zfaq3jXhYdWhDAPlG7uGU7k01CW4OdfAA" />
+    <meta name="yandex-verification" content="48edc539bf432a1e" />
+    <meta name="msvalidate.01" content="A0C9D708CCBF731462C3D87CF2B7E6D8" />
+    <title>Software Engineer Salaries by Country | Salary Comparison for Java, .NET, С++</title>
+    <meta name="msvalidate.01" content="C94FB3713F79B3D7260724F3BE3C2914" />
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K48D79');</script>
+	<!-- End Google Tag Manager -->
+
+	
+
+            <script type="application/ld+json">
+						{
+						"@context": "http://schema.org",
+						"@type": "BlogPosting",
+						"mainEntityOfPage":{
+						"@type":"WebPage",
+						"@id":"https://www.daxx.com/article/it-salaries-software-developer-trends-2018"
+						},
+						"headline": "Software Engineer Salaries by Country | Salary Comparison for Java, .NET, С++",
+						"image": {
+						"@type": "ImageObject",
+						"url": "https://www.daxx.com/uploads/1482837270_picture.png",
+						"height": 514,
+						"width": 853
+						},
+						"datePublished": "2015-04-20 00:00:00",
+						"dateModified": "2015-04-20 00:00:00",
+						"author": {
+						"@type": "Person",
+						"name": "Daxx"
+						},
+						"publisher": {
+						"@type": "Organization",
+						"name": "Daxx",
+						"logo": {
+						"@type": "ImageObject",
+						"url": "https://www.daxx.com/images/logo.gif",
+						"width": "461",
+						"height": "170"
+						}
+						},
+						"description": "Software developer salaries differ drastically around the world. In this post, we take the average software engineer salaries throughout a selection of European countries, Israel, the USA, Australia, and New Zealand.&nbsp;We also look at how salaries range depending on experience levels and tech stack.
+"
+
+						}
+						</script>    <script type="application/ld+json">
+                            {"@context":"http:\/\/schema.org",
+                            "@type":"WebSite",
+                            "@id":"#website",
+                            "url":"https://www.daxx.com/",
+                            "name":"Daxx"
+                            }
+                         </script>
+                         <script type="application/ld+json">
+                         {"@context":"http:\/\/schema.org",
+                         "@type":"Organization",
+                         "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "New York City, USA",
+                            "postalCode": "10004",
+                            "streetAddress": "30 Broad Street"
+                          },
+                         "url":"https://www.daxx.com/",
+                         "@id":"#organization",
+                         "name":"Daxx: Your Custom-Recruited Software Development Teams in Ukraine by Daxx",
+                         "logo":"https://www.daxx.com/images/logo.gif"
+                         }</script>
+    <link rel="stylesheet" href="/css/libraries.min.css">
+    <link rel="stylesheet" href="/css/app.min.css?ver=17">
+    <script src="/js/vendor/modernizr.min.js"></script>
+    <script src="/js/vendor/libraries.min.js"></script>
+    <script src="/js/vendor/foundation.min.js?ver=2"></script>
+    <script src="/js/app.min.js?ver=9"></script>
+    <script type="text/javascript">
+    $( document ).on( "click", 'a[href^="mailto:"]',function(){_gaq.push(['_trackPageview', '/mail/'+$(this).attr('href')]);});
+    $( document ).on( "click", 'a[href^="skype:"]',function(){_gaq.push(['_trackPageview', '/skype/'+$(this).attr('href')]);});
+    </script>
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4379061.js"></script>
+<!-- End of HubSpot Embed Code -->
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+  </head>
+  <body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K48D79"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div class="off-canvas-wrap" data-offcanvas>
+<div class="inner-wrap">
+
+<aside class="left-off-canvas-menu">
+<ul class="off-canvas-list">
+    <li><a href="/">Home</a></li>
+    		<li class="">
+		<a>About</a>				    <ul>
+               <li><a href="https://www.daxx.com/view/about-daxx">About Us</a></li><li><a href="https://www.daxx.com/view/why-daxx">Why Daxx</a></li><li><a href="https://www.daxx.com/view/mission-values">Mission and Values</a></li><li><a href="https://www.daxx.com/view/quality-policy">Quality Policy</a></li><li><a href="https://www.daxx.com/view/careers">Careers</a></li>		    </ul>
+	        </li>
+		<li class="">
+		<a href="https://www.daxx.com/team">Team</a>		    </li>
+		<li class="">
+		<a href="https://www.daxx.com/view/process">Process</a>		    </li>
+		<li class="active">
+		<a href="https://www.daxx.com/news" class='active'>Blog</a>		    </li>
+		<li class="">
+		<a href="https://www.daxx.com/cases">Clients</a>		    </li>
+		<li class="">
+		<a href="https://www.daxx.com/view/faq">FAQ</a>		    </li>
+		<li class="">
+		<a href='#contact'>Contact</a>		    </li>
+		<li class="">
+		<a href="https://www.daxx.com/view/hire-software-developers-ukraine">Hire Software Developers in Ukraine</a>		    </li>
+		<li class="">
+		<a href="https://www.daxx.com/view/it-relocation">IT Relocation</a>		    </li>
+		<li class="">
+		<a href="https://www.daxx.com/expertise">Expertise</a>		    </li>
+		<li class="">
+		<a href="https://www.daxx.com/cvs">Available Developers</a>		    </li>
+		<li class="">
+		<a href='##'>Services</a>				    <ul>
+               <li><a href="https://www.daxx.com/view/agile-consulting">Agile Consulting</a></li><li><a href="https://www.daxx.com/view/quality-control-software-testing">Quality Control </a></li><li><a href="https://www.daxx.com/view/extended-software-development-team">Extended Team</a></li><li><a href="https://www.daxx.com/view/software-security-testing">Software Security Testing</a></li>		    </ul>
+	        </li>
+	      <li class="language">
+                    <a href="http://www.daxx.com/article/it-salaries-software-developer-trends-2018"  class='active'><img src='/images/flag-en.png'>EN</a>                    <a href="http://www.daxx.nl/article/it-salaries-software-developer-trends-2018"><img src='/images/flag-nl.png'>NL</a>                    <a href="http://www.daxx.de/article/it-salaries-software-developer-trends-2018"><img src='/images/flag-de.png'>DE</a>                </li>
+</ul>
+</aside>
+
+<nav class="tab-bar hide-for-large-up">
+    <a class="left-off-canvas-toggle menu-icon ">
+        <span></span><img src="/images/logo-small.png">
+    </a>
+</nav>
+<div class="grey show-for-large-up">
+
+<div class="main-nav contain-to-grid">
+<nav class="top-bar" data-topbar role="navigation" data-options="mobile_show_parent_link:false">
+    <ul class="title-area">
+        <li class="name">
+          <h2><a href="/">
+              <img src="/images/daxx-logo-rgb.png">
+            </a></h2>
+        </li>
+    </ul>
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+        	        	<li class=" has-dropdown">
+        		<a>About</a>        		        		    <ul class="dropdown">
+                       <span class="nav-arrow"></span>
+                       <li><a href="https://www.daxx.com/view/about-daxx">About Us</a></li><li><a href="https://www.daxx.com/view/why-daxx">Why Daxx</a></li><li><a href="https://www.daxx.com/view/mission-values">Mission and Values</a></li><li><a href="https://www.daxx.com/view/quality-policy">Quality Policy</a></li><li><a href="https://www.daxx.com/view/careers">Careers</a></li>        		    </ul>
+        	                </li>
+        	        	<li class=" has-dropdown">
+        		<a href="https://www.daxx.com/team">Team</a>        		            </li>
+        	        	<li class=" has-dropdown">
+        		<a href="https://www.daxx.com/view/process">Process</a>        		            </li>
+        	        	<li class="active has-dropdown">
+        		<a href="https://www.daxx.com/news" class='active'>Blog</a>        		            </li>
+        	        	<li class=" has-dropdown">
+        		<a href="https://www.daxx.com/cases">Clients</a>        		            </li>
+        	        	<li class=" has-dropdown">
+        		<a href="https://www.daxx.com/view/faq">FAQ</a>        		            </li>
+        	        	<li class=" has-dropdown">
+        		<a href='#contact'>Contact</a>        		            </li>
+        	
+            <li class="has-dropdown language">
+                <a href="http://www.daxx.com/article/it-salaries-software-developer-trends-2018"  class='active'><img src='/images/flag-en.png'>EN</a>                <ul class="dropdown">
+                      <span class="nav-arrow"></span>
+                                            <li><a href="http://www.daxx.com/article/it-salaries-software-developer-trends-2018"  class='active'><img src='/images/flag-en.png'>EN</a></li>
+                                            <li><a href="http://www.daxx.nl/article/it-salaries-software-developer-trends-2018"><img src='/images/flag-nl.png'>NL</a></li>
+                                            <li><a href="http://www.daxx.de/article/it-salaries-software-developer-trends-2018"><img src='/images/flag-de.png'>DE</a></li>
+                                      </ul>
+            </li>
+        </ul>
+    </section>
+</nav>
+</div>
+
+<div class="second-nav show-for-medium-up  contain-to-grid ">
+<nav class="top-bar"  data-topbar role="navigation">
+  <section class="top-bar-section">
+    <ul class="right">
+    	    	<li class=" has-dropdown">
+    		<a href="https://www.daxx.com/view/hire-software-developers-ukraine">Hire Software Developers in Ukraine</a>    		        </li>
+    	    	<li class=" has-dropdown">
+    		<a href="https://www.daxx.com/view/it-relocation">IT Relocation</a>    		        </li>
+    	    	<li class=" has-dropdown">
+    		<a href="https://www.daxx.com/expertise">Expertise</a>    		        </li>
+    	    	<li class=" has-dropdown">
+    		<a href="https://www.daxx.com/cvs">Available Developers</a>    		        </li>
+    	    	<li class=" has-dropdown">
+    		<a href='##'>Services</a>    		    		    <ul class="dropdown">
+        		   <div class="dropdown-inside">
+                   <span class="nav-arrow"></span>
+                   <li><a href="https://www.daxx.com/view/agile-consulting">Agile Consulting</a></li><li><a href="https://www.daxx.com/view/quality-control-software-testing">Quality Control </a></li><li><a href="https://www.daxx.com/view/extended-software-development-team">Extended Team</a></li><li><a href="https://www.daxx.com/view/software-security-testing">Software Security Testing</a></li>        		   </div>
+    		    </ul>
+    	            </li>
+    	 
+        <li class="has-dropdown not-click">
+            <a href="https://jobs.daxx.com/">Careers</a>
+        </li>
+        </ul>
+  </section>
+</nav>
+</div>
+
+</div>
+
+<div class="slide-placeholder"></div>
+
+<div class="row">
+    <div class="small-24 columns" >
+    <ul class="breadcrumbs" >
+        <li>
+            <a href="https://www.daxx.com/">Daxx</a>        </li>
+                                <li><a href="https://www.daxx.com/news">Blog</a></li>
+                                    <li class="current">IT Salaries: Which Is the Highest-Paying Country for a Software Developer?</li>
+            </ul>
+    </div>
+</div>
+
+<div class="row">
+
+	<div class="large-16 small-24 columns">
+	
+	<h1>IT Salaries: Which Is the Highest-Paying Country for a Software Developer?</h1>
+	
+	<div class="description">
+    	<div><b>Apr 20, 2015</b></div>
+		<div class="hsg-featured-snippet">
+<h2>The Highest Paying Countries for Software Developers in the World</h2>
+
+<ul>
+ <li>USA &ndash; $92,240</li>
+ <li>Switzerland &ndash; $85,709</li>
+ <li>Norway &ndash; $70,776</li>
+ <li>Israel &ndash; $70,290</li>
+ <li>Denmark &ndash; $70,082</li>
+ <li>UK &ndash; $59,268</li>
+ <li>Germany &ndash; $57,345</li>
+ <li>Australia &ndash; $53,721</li>
+ <li>Sweden &ndash; $53,469</li>
+ <li>Netherlands &ndash; $51,488</li>
+</ul>
+</div>
+
+<p><em>This post was updated on February 9, 2018</em></p>
+
+<p>We&rsquo;ve been publishing our salary overview for three years in a row now. Last year&rsquo;s article proved to be rather popular among our readers. That&rsquo;s why we updated the information and are happy to present the most relevant data as of the beginning of 2018.</p>
+
+<p>What follows is a salary comparison that includes the average annual incomes of software engineers in Norway, Sweden, Finland, Switzerland, the Netherlands, Denmark, Germany, France, Israel, the UK, the US, Australia,&nbsp;and New Zealand.</p>
+
+<p>We also provide a more detailed description of developer salaries in European countries&nbsp;depending on experience (entry-level, mid-career, and senior) and tech skills (Java, <a href="/view/hire-c-developers-remotely">C++</a>, <a href="/view/Csharp-Developers-Outsourcing" target="_blank">C#</a>,&nbsp;<a href="/view/hire-net-developers">.NET</a>, <a href="/view/hire-javascript-developers">JavaScript</a>, <a href="/view/hire-php-web-developer">PHP</a>).</p>
+
+<blockquote>
+<p><a href="https://www.daxx.com/view/hire-java-developer-remotely?utm_source=article-it-salaries-software-developer-trends-2018" target="_blank"><strong><font face="Arial"><span style="white-space: pre-wrap;">Hire Offshore Java Developers </span></font></strong></a></p>
+</blockquote>
+
+<h2>General Salary Comparison</h2>
+
+<p>Quite predictably, with an average annual developer salary of $90K, the US tops our list of the highest-paying countries for software engineers.</p>
+
+<h2><img alt="average-software-developer-salary-world" src="/uploads/average-software-developer-salary-world.png" style="width: 100%;" /></h2>
+
+<p>The US is followed by Switzerland, which offers developers close to $86K per year. $70K is the average salary for Israel, Norway, and Denmark.</p>
+
+<h3><span style="font-size:16px;"><strong>Average Software Engineer Salaries Worldwide, February 2018</strong></span></h3>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+ <tbody>
+  <tr>
+   <td>USA</td>
+   <td style="background-color: rgb(255, 204, 0);">$92,240</td>
+  </tr>
+  <tr>
+   <td>Switzerland</td>
+   <td style="background-color: rgb(255, 204, 0);">$85,709</td>
+  </tr>
+  <tr>
+   <td>Denmark</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,082</td>
+  </tr>
+  <tr>
+   <td>Norway</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,776</td>
+  </tr>
+  <tr>
+   <td>Israel</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,290</td>
+  </tr>
+  <tr>
+   <td>Sweden</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,469</td>
+  </tr>
+  <tr>
+   <td>United Kingdom</td>
+   <td style="background-color: rgb(255, 204, 0);">$59,268</td>
+  </tr>
+  <tr>
+   <td>Germany</td>
+   <td style="background-color: rgb(255, 204, 0);">$57,345</td>
+  </tr>
+  <tr>
+   <td>Australia</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,721</td>
+  </tr>
+  <tr>
+   <td>Canada</td>
+   <td style="background-color: rgb(255, 204, 0);">$50,252</td>
+  </tr>
+  <tr>
+   <td>Netherlands</td>
+   <td style="background-color: rgb(255, 204, 0);">$51,488</td>
+  </tr>
+  <tr>
+   <td>Finland</td>
+   <td style="background-color: rgb(255, 204, 0);">$47,145</td>
+  </tr>
+  <tr>
+   <td>New Zealand</td>
+   <td style="background-color: rgb(255, 204, 0);">$46,563</td>
+  </tr>
+  <tr>
+   <td>France</td>
+   <td style="background-color: rgb(255, 204, 0);">$43,749</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2><img alt="average-software-developer-salary-europe" src="/uploads/average-software-developer-salary-europe.png" style="width: 100%;" /></h2>
+
+<p>Meanwhile, in Germany, the UK, and Sweden, computer programmers can expect to make between $53K and $59K annually. Software engineers that live in Finland and the Netherlands command slightly lower salaries &mdash; between $47K and $51K. France closes the list with $44K on offer.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Engineer Salaries in Europe, February 2018</strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%;">
+ <tbody>
+  <tr>
+   <td>Switzerland</td>
+   <td style="background-color: rgb(255, 204, 0);">$85,709</td>
+  </tr>
+  <tr>
+   <td>Denmark</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,082</td>
+  </tr>
+  <tr>
+   <td>Norway</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,776</td>
+  </tr>
+  <tr>
+   <td>Sweden</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,469</td>
+  </tr>
+  <tr>
+   <td>UK</td>
+   <td style="background-color: rgb(255, 204, 0);">$59,268</td>
+  </tr>
+  <tr>
+   <td>Germany</td>
+   <td style="background-color: rgb(255, 204, 0);">$57,345</td>
+  </tr>
+  <tr>
+   <td>Netherlands</td>
+   <td style="background-color: rgb(255, 204, 0);">$51,488</td>
+  </tr>
+  <tr>
+   <td>Finland</td>
+   <td style="background-color: rgb(255, 204, 0);">$47,145</td>
+  </tr>
+  <tr>
+   <td>France</td>
+   <td style="background-color: rgb(255, 204, 0);">$43,749</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2><img alt="average-software-developer-salaries-entry-senior-level" src="/uploads/average-software-developer-salaries-entry-senior-level.png" style="width: 100%;" /></h2>
+
+<h2><span style="font-size:16px;"><strong>Developer Salaries Based on Experience, February 2018</strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%;">
+ <tbody>
+  <tr>
+   <td>Switzerland</td>
+   <td style="background-color: rgb(255, 204, 0);">$83,688</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$115,649</span></td>
+  </tr>
+  <tr>
+   <td>Finland</td>
+   <td style="background-color: rgb(255, 204, 0);">$44,740</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$65,031</span></td>
+  </tr>
+  <tr>
+   <td>Sweden</td>
+   <td style="background-color: rgb(255, 204, 0);">$49,158</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$68,210</span></td>
+  </tr>
+  <tr>
+   <td>Denmark</td>
+   <td style="background-color: rgb(255, 204, 0);">$64,277</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$77,563</span></td>
+  </tr>
+  <tr>
+   <td>Netherlands</td>
+   <td style="background-color: rgb(255, 204, 0);">$46,431</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$67,277</span></td>
+  </tr>
+  <tr>
+   <td>United Kingdom</td>
+   <td style="background-color: rgb(255, 204, 0);">$40,426</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$64,852</span></td>
+  </tr>
+  <tr>
+   <td>Norway</td>
+   <td style="background-color: rgb(255, 204, 0);">$67,301</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$85,360</span></td>
+  </tr>
+  <tr>
+   <td>Israel</td>
+   <td style="background-color: rgb(255, 204, 0);">$61,020</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$100,093</span></td>
+  </tr>
+  <tr>
+   <td>USA</td>
+   <td style="background-color: rgb(255, 204, 0);">$64,650</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$115,593</span></td>
+  </tr>
+  <tr>
+   <td>Germany</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,810</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$73,422</span></td>
+  </tr>
+  <tr>
+   <td>France</td>
+   <td style="background-color: rgb(255, 204, 0);">$42,784</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$61,679</span></td>
+  </tr>
+  <tr>
+   <td>Canada</td>
+   <td style="background-color: rgb(255, 204, 0);">$47,175</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#ffffff;">$70,986</span></td>
+  </tr>
+  <tr>
+   <td>Australia</td>
+   <td style="background-color: rgb(255, 204, 0);">$47,719</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$78,539</span></td>
+  </tr>
+  <tr>
+   <td>New Zealand</td>
+   <td style="background-color: rgb(255, 204, 0);">$42,421</td>
+   <td style="background-color: rgb(255, 102, 102);"><span style="color:#FFFFFF;">$68,944</span></td>
+  </tr>
+ </tbody>
+</table>
+
+<p>To put this into perspective, the average salary of a developer in <a href="/article/why-ukraine-best-it-outsourcing-destination" target="_blank">Ukraine</a>,&nbsp;where we build, maintain, and retain software development teams for our clients, hovers around the $27K mark. Bear in mind though, that the actual annual income of Ukrainian software engineers can be much lower as well as significantly higher than this national average depending on the city they live in, their tech stack, and the level of experience they possess.</p>
+
+<h2>The Average Developer Salaries in the US</h2>
+
+<h2><img alt="software-developer-salary-usa" src="/uploads/32746542692_c5b0e810d1_k.jpg" style="width: 100%;" /></h2>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by&nbsp;<a href="https://www.flickr.com/photos/tinto/32746542692/in/photolist-RTGAgE-bDLoQF-dougYv-8LMc5L-5HB833-dtYUjY-R1TaCh-RG2ADW-dtZeD3-dtTF5i-cdArWQ-SwGacn-9PHcg4-Bg4Df1-GkZHbL-SJLNbu-a7fJFg-aeHdCw-yf2ouS-Cf6AtC-cEdMrC-aashHE-SH7ddw-SQSTzW-T3PWaL-7zcchq-rnFULV-S8YQTZ-N5m3v2-SJv7sq-SmU4Q6-QWCPRW-SeCNzd-89FSsM-DuTtYK-RL9JP8-RYizoy-RtNW6d-SkuocW-S3KpsK-TbrKFF-StevNG-Areaen-rdZd85-SJLS92-TaEH7q-S9FFfE-Spr6TS-8UpRYX-SBTp4L" target="_blank">J&ouml;rg Schubert</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a></span></p>
+
+<p>According to Indeed&rsquo;s <a href="https://www.indeed.com/salaries/Software-Developer-Salaries?start=10">salary calculator</a>, developer salaries in the US range from about $65,204 to $115,593, with a median of $92,240 per year.</p>
+
+<p style="text-align: center;"><img alt="software-developer-salary-usa" src="/uploads/software-developer-salary-usa.png" style="width: 100%;" /></p>
+
+<p>In terms of skills, C++ seems to pay the best out of the languages we researched &mdash; close&nbsp;to&nbsp;$116K annually. JavaScript developers make slightly less than that (around $110K). The average&nbsp;Java developer salary in the USA is&nbsp;$102K per year. However, developers who know several programming languages can expect higher salaries, which forces software engineers <a href="https://woz-u.com/software-developer/" target="_blank">learn</a> new skills continuously.&nbsp;</p>
+
+<p>It is worth mentioning that although we didn&rsquo;t include Python in this overview, we conducted a separate piece of research on <a href="/article/python-developer-salary-usa">Python developer salaries in the US</a> a while ago. Our results showed that the US national average for Python engineers is nearly $110K per year.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in the US, February 2018 </strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$92,240</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$65,204</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$115,593</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$102,985</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$115,430</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$94,567</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$88,919</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$110,514</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$86,335</td>
+  </tr>
+ </tbody>
+</table>
+
+<blockquote>
+<p><strong>Read more:</strong> <strong><a href="https://www.daxx.com/article/average-software-developer-salaries-in-usa?utm_source=article-it-salaries-software-developer-trends-2018" target="_blank">What Are the Average Software Developer Salaries in Different US States?</a></strong></p>
+</blockquote>
+
+<h2>The Average Developer Salaries in Switzerland</h2>
+
+<p><img alt="software-developer-salary-switzerland" src="/uploads/4558295765_0541a28650_b.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by&nbsp;<a href="https://www.flickr.com/photos/didierbaertschiger/4558295765/in/photolist-7WNswi-ACv9rY-B8QXeE-BsHREp-B8R9nw-7wcYFN-BzYmoa-6XsSxh-96HyjU-6eWurW-egzatZ-B2vcVZ-nYPJdB-Bqsb3b-cCZF2U-qmNR8-BzZR6D-zEyM4Q-r7Sy2x-BxFuNo-rmczpn-BsEbrv-hZgiJy-B2t2H8-vT5wve-a5svwA-B2uciD-Bqs1aq-zuFU7K-BqpEN3-oeeqeQ-chfgLq-B2wjBx-B2w61e-BA1exT-sgZP3M-Bqr9DG-BqoxGG-BqqpvC-ACt39b-BzZiVx-BqqGEs-BzYc8B-B8TAqQ-BqrVWL-cDF3uu-ACAPhc-xe5iou-cD14M5-BxEmSA" target="_blank">Didier Baertschiger</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0</a></span></p>
+
+<p>In Switzerland, entry-level software developers generally make close to $84K per year, while senior engineers make approximately $115K (according to PayScale). Overall, the average programmer salary in Switzerland is $88,133.</p>
+
+<p style="text-align: center;"><img alt="software-developer-salary-switzerland" src="/uploads/software-developer-salary-switzerland.png" style="width: 100%;" /></p>
+
+<p>The salaries of Swiss PHP developers are below the national average at $67,267. The .NET developer salary in Switzerland is little higher and can reach $78,680 annually. Java and JavaScript programmers command some of the highest salaries in the country &mdash; around $93&ndash;94K per year, while C# and C++ developers follow closely ranging $88&ndash;89K.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in Switzerland, February 2018 </strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$88,133</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$83,688</td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$98,740</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$115,640</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$94,015</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$89,086</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$78,680</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$92,726</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$67,267</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$88,176</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in Denmark</h2>
+
+<p><img alt="Software Developer Salary Denmark" src="/uploads/12387568295_1197a00809_k.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by <a href="https://www.flickr.com/photos/roman581/12387568295/in/photolist-jSDwtH-ojSakM-oM2eXd-74ADin-LBFRvD-nn24pa-MehvZv-pjWpyJ-yibZ1e-u6mXHd-uFwuYx-5vvFWk-uGBiwF-oUNWdG-u1UWS6-8rpnCS-tRmoB3-yCri9a-78eVYQ-oA3PZr-79ypRC-zeBcxt-uKswM8-oP9ct9-csNBYm-5ndbPQ-cpNwkA-4GV7no-curq9d-MtNAeF-awVzzp-9TfaLW-tayaq9-78jHyT-788JH4-823xRB-AndDEj-o5m9RF-4NxR31-oGgEpk-eagGop-GvdiuN-4HGhfZ-uyseP3-4Grkrs-qANiAD-qMjmFt-74JoPw-uin7jp-8dx7SV" target="_blank">Roman Pfeiffer</a>&nbsp;/ <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">CC BY-ND 2.0</a></span></p>
+
+<p>According to PayScale, the average developer salary in Denmark is $70,082. Depending on experience, software engineer salaries can range from $64,277 to $77,563.</p>
+
+<p style="text-align: center;"><img alt="software-developer-salary-denmark" src="/uploads/software-developer-salary-denmark.png" style="width: 100%;" /></p>
+
+<p>When it comes to programming languages, C#&nbsp;engineers make about $65K per year, while .NET developers enjoy a higher income &mdash; close to $75K. The average Java developer salary in Denmark is $70,380&nbsp;per year.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in Denmark, February 2018 </strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,082</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);"><span 2="" data-sheets-userformat="{">$64,277</span></td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$76,720</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$77,563</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$72,800</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$65,176</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,782</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$75,688</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$69,205</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$69,980</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in Norway</h2>
+
+<p style="text-align: center;"><img alt="tech-salaries-norway" src="/uploads/29413810780_b0a4d1c489_k.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by&nbsp;<a href="https://www.flickr.com/photos/almusaiti/29413810780/in/photolist-LPctbC-8kjfix-64kuN7-52UeAx-a6dgnr-dGTgSQ-fgdH3E-5TPZQu-gg1K3-4XFqjq-divdG5-s1egE4-rqv3MB-8muFUQ-8mYYYS-8BDwY7-df8tqH-odrBCw-8nnNFe-8mui75-4EZjCc-ocQBSj-7fBTU-8nAi6h-8pVGni-5hUSjB-bRmoJR-a1Rvsd-8kjgCH-AkYQsv-9AxqRY-5yKJRY-oq4aYv-r6A26a-bMieNr-9zKy61-LyYYm4-8Fk1b1-DVMSE-6VjY5o-8oj8j4-8owa2x-a5BaoN-a6ypDT-9ZALAG-admvtg-bBFiBs-7fBHZ-8VFyx1-wC58r" target="_blank">Almusaiti</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0</a></span></p>
+
+<p>The salaries of Norwegian programmers range from about $67K to $85K, with the average at $70,776, according to PayScale.</p>
+
+<p style="text-align: center;"><img alt="software-developer-salary-norway" src="/uploads/software-developer-salary-norway.png" style="width: 100%;" /></p>
+
+<p>The average JavaScript developer salary in Norway is below the national median salary &mdash; about $66K, while PHP programmers make $68K. .NET and Java engineers top the list with $68&ndash;71K.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in Norway, February 2018 </strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$70,776</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$67,301</td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$76,748</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$85,360</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$67,979</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$66,740</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$65,320</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$71,486</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$66,471</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$68,166</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in Israel</h2>
+
+<p><img alt="tech-salaries-israel" src="/uploads/7716443116_bd1a9daf2b_b.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by <a href="https://www.flickr.com/photos/visitisrael/7716443116/in/photolist-cKSMGG-nPU93D-cKRonW-o5R9D7-4TTZsS-4TUSWS-4TTyPf-mbhFR-4TQP4D-o5Xu6z-o1J8uW-97Biq8-8aADU8-nLh7gJ-nLhfXj-JLKY2-4TV1Lw-CSstG-aaGm3y-a9ADKb-o3LvLH-o3DKuL-nLhfsm-dhKXbf-cKTkpy-cKTmQE-cKTo2u-cKTpko-o5QGWC-5oYjDT-a9xRXF-nLi3FH-4TToi5-4TThy1-4TP5Nr-4TPCBz-o4Ytw2-2Mx4x-A5HCi-6b9ZKC-yCXLam-qtKztk-qtKDtp-o9WX6-4TTDqC-nNsV74-o7hMvh-cKSVny-wyuvBt-cKS1PU" target="_blank">israeltourism</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA&nbsp;2.0</a></span></p>
+
+<p>According to PayScale, software engineer salaries in Israel range from about $60K to $100K, with the median at $69K per annum.</p>
+
+<p style="text-align: center;"><img alt="software-developer-salary-israel" src="/uploads/software-developer-salary-israel.png" style="width: 100%;" /></p>
+
+<p>When it comes to programming languages, PHP developers again earn the least salaries with an average of just $46,873. C#, C++, and JavaScript developers all make $68&ndash;70K per year. And the average Java developer salary in Israel is $54,270.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in Israel, February 2018 </strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$69,237</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$59,846</td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$81,421</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$100,093</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$54,270</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$69,927</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$69,037</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$60,588</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$67,857</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$46,873</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in Sweden</h2>
+
+<p><img alt="tech-salaries-sweden" src="/uploads/34574684405_c19a30638b_k.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by&nbsp;<a href="https://www.flickr.com/photos/pedrosz/34574684405/in/photolist-UFfi7n-UDJTc8-TFDgr9-UJP3oB-NTqSCm-UzMcsB-TALxdK-TysbP6-TvaEKt-Tw34ft-5maoH5-Ukofa9-TF5Bj1-UzheSL-UNiwtq-U79kVU-UH8sBn-UbbHKC-anjfSo-KXudU-e27RnL-o3tM21-4VxCTa-imdVdX-imdTz6-c9ZxDw-cws1om-5kf3ix-qFDwLN-CTZkgZ-RNSH5N-qnhbG4-EjvDD3-S9Rxam-noAi3d-dMSjqm-yjJb8-7tFdEb-CkStEY-jv4D2A-5zP9YP-BesGPL-eT32SJ-xgCtwt-4MpbJS-eivqJX-eivqoK-53s6H7-dWaEZq-SjLbEo" target="_blank">Pedro Szekely</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0</a></span></p>
+
+<p>In Sweden, the average entry-level programmer will make somewhere in the region of $49K per year, while their senior colleagues command salaries that are about $20K higher. According to PayScale, the average developer salary is Sweden is $53,469.</p>
+
+<p><img alt="software-developer-salary-sweden" src="/uploads/software-developer-salary-sweden.png" style="width: 100%;" /></p>
+
+<p>The salaries of Swedish JavaScript and PHP developers are below the national average ranging $46&ndash;49K. C# developers take the second position and earn $51,330, C++ and .NET developers go next with approximately $52&ndash;53K. And Java developers top the list with $56K per year.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in Sweden, February 2018</strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,469</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$49,158</td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$57,658</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$68,210</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$56,009</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$51,330</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$52,339</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,469</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$49,726</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in the UK</h2>
+
+<p><img alt="Tech Salaries in the UK, 2017" src="/uploads/25843494203_1a7b27fc74_k.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by&nbsp;<a href="https://www.flickr.com/photos/pedrosz/25843494203/in/photolist-FnGEsg-Hm66gz-Fm33dG-G8aqPG-G9rqwx-GqCjW7-RbVNVg-4ALPah-NDD8vs-2Z4xzN-nxrBCd-iwrdU4-dpWG1V-jJaV5i-ideKi2-dhqvAN-99yUaj-zRxvfe-hAzZ9z-4smLQE-hAE6NE-8oD1X7-gZ7DTe-9G3Kdq-akJeTe-7YY4d7-7H7fHv-NDD7SJ-hACvMf-R4UueL-eai2wz-8QeEeS-cEV5e5-SBCMVw-KHqbT5-Dc3iR5-ea2jy1-cVq3vb-ejZeEJ-bwh7no-pyTKeZ-hedJCD-pCSt4K-7wgKMF-pakrwd-4tcBWN-jMikDV-g9hgky-p39arT-RiwThj" target="_blank">Pedro Szekely</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0</a></span></p>
+
+<p>According to <a href="http://www.itjobswatch.co.uk/default.aspx?q=Software+Developer&l=&id=0">ITJobsWatch</a>, the average software engineer salary in the UK is $59,268. However, salaries can range from $38K to as high as $76K depending on the developer&rsquo;s level of experience.</p>
+
+<p style="text-align: center;"><img alt="software-developer-salary-uk" src="/uploads/software-developer-salary-uk.png" style="width: 100%;" /></p>
+
+<p>The highest-paying programming language in the UK is Java, which offers developers over $69K per annum. JavaScript follows closely &mdash; the average JavaScript developer salary in the UK is $66,349 per year. The salaries of PHP programmers are slightly lower than the national average &mdash; about $52K.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in the UK, February 2018</strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$59,268</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$38,278</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$76,555</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$69,114</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$62,203</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$58,747</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$66,349</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$52,197</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in Germany</h2>
+
+<p style="text-align: center;"><img alt="Tech Salaries in Germany, 2017" src="/uploads/13332870035_5ce7caec05_k.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by&nbsp;<a href="https://www.flickr.com/photos/tinto/13332870035/in/photolist-mjbrKz-mrcnQM-pJCkW3-4Dq1xr-rok6Go-qbWEjx-qDnr5r-NhFgW-LvetFx-r7HJm5-mb9PqR-QNZtzs-oV9Sz6-B7FJEQ-LLCoH2-Fh5NCU-xMP3xD-qNwaav-65znao-csBP5m-qE3XuZ-rAGEJR-AZkKZy-nonJoX-yaBtRz-9vEXAo-txw6ST-rANdAR-gyu9CD-hoBkx3-uQHG1F-KWWgz2-Fnz7po-Kw2hEv-vZUhmU-Q5Uiov-ckAwbN-RQpERy-jCae3t-pTViAd-ayS9dc-SoFcX7-qsrVvZ-LhpDqS-Bcd5ke-bxyRXi-w1ktSe-jYe8h4-EmSDgc-hpTkcf" target="_blank">J&ouml;rg Schubert</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a></span></p>
+
+<p>The average developer salary in Germany is $57,345. Entry-level programmers make less than the national average &mdash; over $53K.</p>
+
+<p style="text-align: center;"><img alt="software-developer-salary-germany" src="/uploads/software-developer-salary-germany.png" style="width: 100%;" /></p>
+
+<p>German JavaScript developers make a little less than those working with other technologies &mdash; only $53,823 per year. .NET developers top the list with over $58K per year. Java and C# engineers make approximately the same &mdash; the average C# developer salary in Germany is $56,733.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in Germany, February 2018</strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$57,345</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,810</td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$62,201</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$73,422</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$56,475</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$56,733</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$55,563</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$58,359</td>
+  </tr>
+  <tr>
+   <td>JavaScript</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,823</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$54,737</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in the Netherlands</h2>
+
+<p><img alt="Tech Salaries in the Netherlands, 2017" src="/uploads/15292433899_209894e2c2_k.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by <a href="https://www.flickr.com/photos/bribri/15292433899/in/photolist-pikHPr-8CXVgm-w5b9-p2BLcq-caDmhw-JWCNgP-R3jJTM-nEAqQR-Snz3Dg-bRf5i2-QSUgin-6fE7sg-4Vicaz-eQH1F4-ooEAUs-caDjHw-G4EKMb-aDCJLq-9eHF9L-QYYDfa-edBdZt-oRqpRX-EaiDBN-62VTK-oVkWPm-dh9pjz-cQcMZh-KFAAqv-pRfKcM-7uUkf4-NQWRLq-8u6Qji-951qTq-6z4oNa-6arjaW-RavVUp-7kkcAR-4CXe4U-4nfwpX-PJg63y-7trJew-6z4oMk-5kVvAG-tRwoYb-e9BEvV-4SXKnX-6sa2S8-dLPLtJ-6zmnVB-5xFcSC" target="_blank">BriYYZ</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA 2.0</a></span></p>
+
+<p>According to PayScale, software developer salaries in the Netherlands range from about $46K to $67K, with $51,914 being the national average.</p>
+
+<p><img alt="software-developer-salary-netherlands" src="/uploads/software-developer-salary-netherlands.png" style="width: 100%;" />When it comes to technologies, C++ engineers receive the best packages &mdash; the average salary of these professionals is more than $53K. The average JavaScript developer salary in the Netherlands is $52,157 per year. Java developers make approximately as much as $51K. PHP again brings up the rear with about $45K per year on offer.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in the Netherlands, February 2018</strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$51,914</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$46,431</td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$60,833</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$67,277</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$50,896</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$47,897</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$53,217</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$49,428</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$52,157</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$44,981</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>The Average Developer Salaries in Finland</h2>
+
+<p><img alt="Tech Salaries in Finland, 2017" src="/uploads/34162642953_1f95406bb1_k.jpg" style="width: 100%;" /></p>
+
+<p style="text-align: center;"><span style="font-size:12px;">Photo by <a href="https://www.flickr.com/photos/pixelsblue/34162642953/in/photolist-U3Qtxp-VdTxQ1-VdTutS-Hx7tMw-HcEpg9-qhBPAt-p7hNQw-qo38Hj-qtF2bA-zvN7hW-q4NZsk-q14cnQ-ppeAi5-zcmaFN-GGjcQ1-zgtgx5-SJic2h-SdphvC-Jw5bMb-TeapGY-SthxAr-Ha7R2d-NVY9cQ-S45muH-UGduAN-RKRKwb-zyXokX-uNimhu-yBdm1K-qgzynj-u8SS7m-v3z8nw-v3za61-zx1Qwm-QTn2Qe-u93jRV-uNrpCF-u8SSYG-v3z79u-qL4Uqv-HS79KY-NTL83g-NYkyU1-uNrp2k-SJUPLb-Rpq6K3-TdbkP4-MFedLS-JxESEU-qEWw1V" target="_blank">Sami C</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a></span></p>
+
+<p>According to PayScale, entry-level programmers in Finland make close to $45K per year, while the salaries of senior engineers hover around the $65K mark. The median programmer salary in Finland is $47,883.</p>
+
+<p><img alt="software-developer-salary-finland" src="/uploads/software-developer-salary-finland.png" style="width: 100%;" />Here, developers with strong Java skills tend to make the most money &mdash; more than $50K per year. JavaScript programmers come second &mdash; the average JavaScript developer salary in Finland is $48,746. C++ and PHP bring Finnish engineers the lowest salaries &mdash; $44K per year.</p>
+
+<h2><span style="font-size:16px;"><strong>Average Software Developer Salaries in Finland, February 2018</strong></span></h2>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
+ <tbody>
+  <tr>
+   <td style="width: 65%;">Software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$47,883</td>
+  </tr>
+  <tr>
+   <td>Entry-level software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$44,740</td>
+  </tr>
+  <tr>
+   <td>Mid-career software developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$54,208</td>
+  </tr>
+  <tr>
+   <td>Senior software engineer</td>
+   <td style="background-color: rgb(255, 204, 0);">$65,031</td>
+  </tr>
+  <tr>
+   <td>Java developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$50,196</td>
+  </tr>
+  <tr>
+   <td>C# developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$45,856</td>
+  </tr>
+  <tr>
+   <td>C++ developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$44,406</td>
+  </tr>
+  <tr>
+   <td>.NET developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$45,956</td>
+  </tr>
+  <tr>
+   <td>JavaScript developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$48,746</td>
+  </tr>
+  <tr>
+   <td>PHP developer</td>
+   <td style="background-color: rgb(255, 204, 0);">$44,886</td>
+  </tr>
+ </tbody>
+</table>
+
+<h2>Tech Salary Trends for 2018</h2>
+
+<p>As the need for technical skills continues to grow and the supply of tech talent remains lower than the demand, IT workers will continue to negotiate higher wages. In the US, for one, the tech salaries in 2018 are expected to increase by <a href="http://www.computereconomics.com/article.cfm?id=2302">nearly 3%</a> on average.</p>
+
+<p>The <a href="https://www.roberthalf.com/sites/default/files/documents/2018_salary_guide_NA_technology_1.pdf" target="_blank">2018 Robert Half Technology Salary Guide</a> forecasts that the salaries of C++, AJAX, PHP, and .NET developers will increase by 5&ndash;10% in 2018. However, the increase will differ from state to state. While engineers in Minnesota will enjoy a pay raise of about 6%, North Carolina developers will experience no positive salary shifts.</p>
+
+<h2>About Daxx</h2>
+
+<p>With over <a href="/article/why-ukraine-best-it-outsourcing-destination">90,000 IT workers and more than 36,000 tech graduates per year</a>, Ukraine is the perfect destination for hiring software engineers, regardless of the location of your head office.</p>
+
+<p>Daxx connects companies from all over the world with skilled programmers and maintains top-performing development teams in Ukraine.</p>
+
+<p>All you need to do is specify what kind of tech skills you&rsquo;re looking for, and wait a short while while for our recruiters to pre-screen the candidates that will match your requirements 100%. You can then interview the best candidates via phone, Skype, or through a one-on-one meeting.</p>
+
+<p>Once you select and approve your new team members, we place them in one of our comfortable, fully-equipped offices located in Ukraine&rsquo;s largest tech cities &mdash; Kyiv, Kharkiv, and Dnipro.</p>
+
+<p>You manage the workload of your remote developers directly, while we handle HR, retention, payroll, taxes, and a lot more &mdash; all for a flat monthly fee added to your developers&rsquo; salaries.</p>
+
+<p><strong>Ask us a question, or specify your requirements right now using the form below.</strong></p>
+
+<p><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span></p>
+
+<p><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; top: 2389px; left: 30px; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; top: 2389px; left: 30px; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span></p>
+
+<p><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; top: 374px; left: 30px; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; top: 374px; left: 30px; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span></p>
+
+<p><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; top: 341px; left: 30px; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; top: 341px; left: 30px; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span></p>
+
+<p><span style="border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-size: 11px; line-height: 20px; font-family: 'Helvetica Neue', Helvetica, sans-serif; color: rgb(255, 255, 255); background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==); background-size: 14px 14px; background-color: rgb(189, 8, 28); position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; border: none; -webkit-font-smoothing: antialiased; background-position: 3px 50%; background-repeat: no-repeat no-repeat;">Зберегти</span></p>
+
+	</div>
+        		<div style="margin-top:10px; margin-bottom:10px;">
+        <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style">
+        <a class="addthis_button_tweet"></a>
+        <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+        <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+        <a class="addthis_button_linkedin_counter"></a>
+        </div>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=undefined"></script>
+        <!-- AddThis Button END -->    		
+		</div>
+    <div id="disqus_thread"></div>
+    <script>
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://daxx-2.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	
+	</div>
+	
+	<div class="large-8 small-24 columns">
+    	<h2>Categories</h2>
+    	<ul class="side-nav">
+    	   <li><a href="https://www.daxx.com/news">All Posts</a></li>
+    	       	   <li><a href="https://www.daxx.com/news/dedicated-developers-tips">How to Succeed with Offshore Team</a></li>
+    	       	   <li><a href="https://www.daxx.com/news/it-trends-predictions">Tech Trends & Job Market Research</a></li>
+    	       	   <li><a href="https://www.daxx.com/news/ukrainian-it-industry">Why Outsourcing to Ukraine </a></li>
+    	       	   <li><a href="https://www.daxx.com/news/company-news">Daxx News</a></li>
+    	       	   <li><a href="https://www.daxx.com/news/life">Daxx Events and Office News </a></li>
+    	       	   <li><a href="https://www.daxx.com/news/development-team">How to Manage Development Teams</a></li>
+    	       	</ul>
+    	
+    	    	<h2>Related Posts</h1>
+        	        	        	<div class="news_date"><b>Oct 25, 2018</b></div>        	<div class="news_title"><a href="https://www.daxx.com/article/how-hire-reactjs-native-developers-for-project">How to Choose and Hire the Best React.js Developers for a Project</a></div>
+        	        	        	<div class="news_date"><b>Oct 04, 2018</b></div>        	<div class="news_title"><a href="https://www.daxx.com/article/javascript-developers-are-the-hardest-to-hire">JavaScript Developers Using React, Node.js, and AngularJS Are the Most Difficult to Hire According to HackerRank Research</a></div>
+        	        	        	<div class="news_date"><b>Jul 13, 2018</b></div>        	<div class="news_title"><a href="https://www.daxx.com/article/software-development-companies-in-the-netherlands">Why Will Software Development Companies in the Netherlands Outsource More in 2018?</a></div>
+        	        	        	<div class="news_date"><b>Mar 01, 2018</b></div>        	<div class="news_title"><a href="https://www.daxx.com/article/software-development-outsourcing-in-eastern-europe">How Software Development in Eastern Europe Transforms the Way We See Outsourcing</a></div>
+        	        	        	<div class="news_date"><b>Dec 13, 2017</b></div>        	<div class="news_title"><a href="https://www.daxx.com/article/software-development-company-ukraine">Software Development Companies in Ukraine: Exploring the Trends and Opportunities Within the Largest European IT Market</a></div>
+        	    	    		</div>	
+	
+	<div class="clear"></div>
+
+</div>
+
+
+<!--<div class="hidden">-->
+    <div id="contact-popup" class="reveal-modal" data-reveal aria-hidden="true" role="dialog">
+        <div class="row" id="contact-popup">
+
+<div class="large-24 small-24 columns">
+
+		<h2>Contact <span id="contact-name"></span></h2>
+		
+		<form method="post" action="/contact" class="contact-form">
+			
+<input type="hidden" name="person_email" value="" />
+		<div class="row">
+            <div class="large-12 small-24 columns">
+    			<label>First and Last Name    			<input type="text" name="contact_name" value=""  />    			</label>    		</div>
+    
+    		<div class="large-12 small-24 columns">
+    			<label>Business E-mail    			<input type="text" name="contact_email" value=""  /></label>
+    			    		</div>
+     
+    		<div class="small-24 columns">
+    			<label>Write your message    			<textarea name="contact_text" cols="90" rows="12" style='height:120px' ></textarea></label>
+    			    		</div>
+    
+    		    
+            <p class="antispam">Leave this empty: <input type="text" name="url" /><input type="text" name="contact_comments" /></p>
+            
+    		<div class="small-24 columns">
+                <input type="submit" name="send" value="Send  Request" class='button small expanded-mobile' />    		</div>
+		</div>
+		</form>	
+		
+</div>
+        
+</div>
+<script>
+	$('.contact-popup').click(function(e){
+		e.preventDefault();
+		var that = $(this);
+		var name = that.attr('data-name');
+		var email = that.attr('data-email');
+		$('#contact-popup').find('#contact-name').text(name);
+		$('#contact-popup').find('input[name="person_email"]').val(email);
+		$('#contact-popup').foundation('reveal', 'open')
+	})
+</script>
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+<!--</div>-->
+<div class="yellow contacts">
+    <div class="row" id="contact">
+
+<div class="large-16 small-24 columns">
+
+		<h2>Contact us</h2>
+		
+		<form method="post" action="/contact" class="contact-form" id="contact_form_yellow">
+		
+		<div class="row">
+            <div class="large-12 small-24 columns">
+                <label>First Name                <input type="text" name="contact_form_firstname" value=""  />                </label>            </div>
+            <div class="large-12 small-24 columns">
+                <label>Last Name                <input type="text" name="contact_form_lastname" value=""  />                </label>            </div>
+    		<div class="large-12 small-24 columns">
+    			<label>Business E-mail    			<input type="text" name="contact_email" value=""  /></label>
+    			    		</div>
+     
+    		<div class="small-24 columns">
+    			<label>Write your message    			<textarea name="contact_text" cols="90" rows="12" style='height:120px' ></textarea></label>
+    			    		</div>
+            <div class="small-24 columns">
+                <label>
+                <input type="checkbox" name="form_privacy" value="accept"  />I agree to Daxx <a href='https://www.daxx.com/view/privacy'>Terms and Privacy Policy</a></label>
+                            </div>
+    		    
+            <p class="antispam">Leave this empty: <input type="text" name="url" /><input type="text" name="contact_comments" /></p>
+
+            <div class="small-24 columns" style="margin-bottom:10px;">
+                <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+                <div class="g-recaptcha" data-sitekey="6LeVR3gUAAAAAJBujoOaNfCsvgOztVRVLGrSPLss"></div>
+            </div>
+
+    		<div class="small-24 columns">
+            <button name="send" type="submit" id="button" value="true" onsubmit="ga('send', 'event', 'Form', 'Submission');" class="button small expanded-mobile" >Send  Request</button>    		</div>
+		</div>
+		</form>	
+		
+</div>
+
+<div class="large-8 small-24 columns">
+            	<h2>Call us</h2>
+       <div>
+       <p><strong>Netherlands &nbsp; &nbsp;</strong><a href="skype:+310753020011">+31 0&nbsp;75 302 0011</a></p>
+
+<p><strong>Israel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong><a href="skype:+97223760374">+972 23 760 374</a></p>
+
+<p><strong>UK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><a href="skype:+442080806557">+44 20 8080 6557</a></p>
+
+<p><strong>Germany &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong><a href="skype:+49 30 255 555 726">+49 30 255 555 726</a></p>
+
+<p><strong>USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><a href="skype:+16787837681​">+1 678 783 7681​</a></p>
+
+<p style="margin-left: 80px;">&nbsp; &nbsp; &nbsp;<a href="skype:+16467699099">+1 646 769 9099</a></p>
+
+<p style="margin-left: 80px;">&nbsp; &nbsp; &nbsp;<a href="skype:+16787837681​">+1 646 500 8698</a></p>
+
+<p><a href="/view/privacy">Privacy policy</a></p>
+       </div>
+</div>
+
+        
+        
+</div>
+	
+</div>
+</div>
+<div class="footer">
+    <div class="row">
+        <div class="large-6 medium-12 small-24 columns">    
+            <a href="/"><img src="/images/logo-footer.png" class="logo"></a>
+     		<a href="https://www.daxx.com/view/hire-software-developers-ukraine">Hire Software Developers in Ukraine</a><a href="https://www.daxx.com/view/it-relocation">IT Relocation</a><a href="https://www.daxx.com/cvs">Available Developers</a><a href="https://www.daxx.com/news" class='active'>Blog</a>            <a href="https://jobs.daxx.com/">Careers</a>
+            <div class="social-icons">
+                <a href="https://www.facebook.com/daxxukraine" target="_blank" class="icon"><img src="/images/facebook.png"></a>
+                <a href="https://www.linkedin.com/company/daxx-bv" target="_blank" class="icon"><img src="/images/linkedin.png"></a>
+                <a href="https://twitter.com/Daxx_IT_Staff" target="_blank" class="icon"><img src="/images/twitter.png"></a>
+                <a href="https://plus.google.com/+DaxxDaxx-Dedicated-Offshore-Developers/posts" target="_blank" class="icon"><img src="/images/google.png"></a>
+            </div>
+        </div>
+        <div class="large-12 medium-12 small-24 columns  show-for-large-up">
+            <b><a href="/cvs">Developers for Hire</a></b>
+            <p>
+                <div class="row">
+                                <div class="small-8 columns">
+                    <a href="/view/Dedicated-Front-End-Developers">
+                        Front-end                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-fullstack-developers">
+                        Full-Stack                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-angularjs-developers">
+                        Angular                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/nodejs-developer-hire">
+                        Nodejs                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-javascript-developers">
+                        JavaScript                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-react-developers-ukraine">
+                        React                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-net-developers ">
+                        NET                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-Java-developer-remotely">
+                        Java                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-Scala-developers">
+                        Scala                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-php-web-developer">
+                        PHP                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-spring-developers-remotely">
+                        Spring                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-python-developers">
+                        Python                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-c-developers-remotely">
+                        C/C++                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/Csharp-Developers-Outsourcing">
+                        C#                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/ruby-rails-developers-hire ">
+                        Ruby                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-unity3d-developer-remotely">
+                        Unity3D                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-ios-developers">
+                        iOS                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/Android-developers">
+                        Android                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-xamarin-developer-remotely">
+                        Xamarin                     </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-zend-developers">
+                        Zend                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-symfony-developers ">
+                        Symfony                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/Magento-developers">
+                        Magento                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/dedicated-drupal-developers">
+                        Drupal                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/dedicated-wordpress-developers">
+                        WordPress                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-sql-developers">
+                        SQL                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-qa-engineers ">
+                        QA                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-ui-ux-designers">
+                        UI/UX                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-product-owner-daxx">
+                        Product Owner                    </a>
+                </div>
+                                <div class="small-8 columns">
+                    <a href="/view/hire-scrum-master-daxx">
+                        Scrum Master                    </a>
+                </div>
+                                </div>
+            </p>
+        </div>
+        <div class="large-6 medium-12 small-24 columns show-for-medium-up">
+
+            	<b>About</b>
+        <div><p>We are Daxx. We help you add experienced developers to your in-house team through remote collaboration and relocation. Today Daxx operates offices in Kyiv, Dnipro, Kharkiv, Lviv and New York in addition to our headquarters in Amsterdam.</p>
+</div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-24 columns social-icons">
+        </div>
+    </div>
+</div>
+<div class="cookie-message row">
+    <div class="large-24 text-center">
+            This site uses cookies. By using our site, you agree to our <a class="terms_link" href="https://www.daxx.com/view/privacy" target="_blank">Terms and Privacy Policy</a>
+        <a class="button tiny close-cookie">Agree</a>
+        </div>
+</div>
+
+</div>
+</div>
+<div style="position:absolute; bottom:0px;">
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 982330209;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/982330209/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+</div>
+<!-- begin olark code --><script data-cfasync="false" type='text/javascript'>/*{literal}<![CDATA[*/
+window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('7856-559-10-5028');/*]]>{/literal}*/</script><noscript><a href="https://www.olark.com/site/7856-559-10-5028/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript><!-- end olark code -->
+
+<script>
+  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/51429/script.js');
+</script>
+<script type="text/javascript" async=1>
+;(function(l,e,a,d,s,i){i=l.createElement(e);
+s=l.getElementsByTagName(e)[0];i.async=1;
+i.src=("https:"==l.location.protocol?"https://":"http://")+a+"/djs/tracker.js?_k="+d;
+s.parentNode.insertBefore(i,s)
+}(document,"script","tracker.leadsius.com","11dec7473623584a668bb931d15f71c0f7017b77"));
+</script>
+<script id="__maSrc" type="text/javascript" data-pid="18177">
+    (function(c,a,p,j,s) {
+        p=c.createElement(a);j=!c.URL.indexOf('https:')?'s':'';
+        p.type='text/java'+a;
+        p.src='http'+j+'://'+j+'c.cdnma.com/apps/18177/capture.js';
+        s=c.getElementsByTagName(a)[0];s.parentNode.insertBefore(p,s);
+    }(document,'script'));
+</script>
+  </body>
+</html>
