@@ -47,7 +47,7 @@ def populate_whoosh(text_dir, whoosh_dir):
     for root, dirs, files in os.walk(text_dir, topdown=False):
         for name in files:
             text_file = os.path.join(root, name)
-            with open(text_file) as tf:
+            with open(text_file, encoding="utf8") as tf:
                 body = tf.read()
                 url = text_file.replace(text_dir, "")
                 writer.add_document(url=url, body=body)
