@@ -20,17 +20,16 @@ whoosh_dir = os.path.join(data_dir, "whoosh/")
 def main():
     populate_whoosh(text_dir, whoosh_dir)
     print_top_terms(whoosh_dir)
-    query_whoosh(whoosh_dir)
+    query_whoosh(whoosh_dir,20)
 
 
 def populate_whoosh(text_dir, whoosh_dir):
     loaded = 0
 
     ## Create analyzer used for tokenizing and normalizing tokens
-    #my_analyzer = (analysis.RegexTokenizer() | analysis.LowercaseFilter()
-    #              | analysis.StopFilter())
+    my_analyzer = (analysis.RegexTokenizer() | analysis.LowercaseFilter()
+                  | analysis.StopFilter())
  
-    my_analyzer = analysis.StemmingAnalyzer()
     # Create schema
     schema = Schema(url=ID(stored=True),
                     body=TEXT(stored=True, analyzer=my_analyzer))
@@ -80,7 +79,7 @@ def query_whoosh(whoosh_dir, num_results=5):
     weighting = scoring.BM25F()
     
     # Run queries and print results
-    for q in ["new york", "empire state building", "oculus"]:
+    for q in ["empire state building", "new york"]:
         with ix.searcher(weighting=weighting) as searcher:
             query = QueryParser("body", ix.schema).parse(q)
             results = searcher.search(query, limit=num_results)
