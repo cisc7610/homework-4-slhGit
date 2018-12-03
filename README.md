@@ -167,6 +167,7 @@ For this part, we will only use the "Top 20 terms" returned after indexing the d
 
 Paste here the "Top 20 terms" that result from indexing using each of the following analysis pipelines:
 1. `analysis.RegexTokenizer()`
+```
 	the     1.3037791555841314
 	of      1.2856720639792742
 	and     1.285067654715793
@@ -187,7 +188,9 @@ Paste here the "Top 20 terms" that result from indexing using each of the follow
 	that    1.1747113648649536
 	your    1.1661691222580117
 	at      1.159907004477876
+```
 2. `analysis.RegexTokenizer() | analysis.LowercaseFilter()`
+```
 	the     1.3067382932505052
 	to      1.28554472925298
 	of      1.2854610557193074
@@ -208,7 +211,9 @@ Paste here the "Top 20 terms" that result from indexing using each of the follow
 	it      1.1786306069049397
 	this    1.1752068654362056
 	your    1.1751407020872995
+```
 3. `analysis.RegexTokenizer() | analysis.LowercaseFilter() | analysis.StopFilter()`
+```
 	new     1.2379017736230968
 	york    1.2136974797038964
 	was     1.152531571847837
@@ -229,14 +234,17 @@ Paste here the "Top 20 terms" that result from indexing using each of the follow
 	there   1.03116735360441
 	their   1.027558568831997
 	out     1.0165304981304573
-
+```
 List the terms that are present in all cases here
+```
 	If we take capitalizion in consideration no terms are present in all.
 	Else:
 		New
 		York
+```
 
 List the terms that are only present in the last case
+```
 	was 
 	city 
 	all 
@@ -255,8 +263,10 @@ List the terms that are only present in the last case
 	there 
 	their 
 	out 
+```
 
 Paste here the "Top 20 terms" that result from indexing using the `analysis.StemmingAnalyzer()`.
+```
 	new     1.2403944269973532
 	york    1.213203429589267
 	photo   1.168302803218743
@@ -277,17 +287,22 @@ Paste here the "Top 20 terms" that result from indexing using the `analysis.Stem
 	orlean  1.0513038897754718
 	time    1.0436137681325373
 	world   1.0354997179539986
+```
 
 How are these results different from those using the `analysis.RegexTokenizer()`?
+```
 	The stemming analyzer has both a lower case and stop filter built into it. So its very similar to the
 	`analysis.RegexTokenizer() | analysis.LowercaseFilter() | analysis.StopFilter()` But is also has stemming,
 	which attempts to remove suffixes and sometimes prefixes of words to group them together. So for example 
 	photos is reduceds to photo, and so on.
+```
 
 Which top terms seem to be the most descriptive of the content of the web pages?  Why?
+```
 	Currently it appears the third set of terms seems to be the best. It has much less unimportant words like 'the'
 	and 'of', and while stemming is good in theory, the filter as applied also gave strang results, like changing
 	'bridge' to 'bridg' and 'orleans' to 'orlean' which does affect their meaning.
+```
 
 Use the `analysis.RegexTokenizer() | analysis.LowercaseFilter() | analysis.StopFilter()` tokenizer for subsequent questions.
 
@@ -300,6 +315,7 @@ List the tokenizers under which "de" is a top 20 term.
 	
 
 One of the top terms is "de".  List the URLs of the documents in which this term occurs (by running a query for it, see [Line 82 of runWhoosh.py](https://github.com/cisc7610/homework4/blob/master/runWhoosh.py#L82)).
+```
 	Url: www.hdfondos.eu\imagen\223881\wtc-world-trade-center-ciudades-de-rascacielos-de-la-ciudad-de-nueva-york-edificio
 	Url: www.flickr.com\photos\tags\new york pennsilvania station\
 	Url: www.actualitix.com\villes-les-plus-visitees-au-monde.txt
@@ -336,7 +352,7 @@ One of the top terms is "de".  List the URLs of the documents in which this term
 	Url: www.localdatabase.com\newyork\New_York
 	Url: www.flickr.com\photos\tags\statue_of_liberty\
 	Url: www.timeout.com\newyork\attractions\new-york-attractions
-
+```
 
 What do these pages have in common?
 	They mostly appear to be in spanish, or at least another non english language.
@@ -346,6 +362,7 @@ What do these pages have in common?
 For this part, we will use the two queries, "new york" and "empire state building".
 
 List the number of documents returned for each query and the URLs of the top 20 results for each query using the default weighting, `scoring.BM25F()`.
+```
 	************************************************************
 	Query:   new york   returned 196 results
 	************************************************************
@@ -394,10 +411,11 @@ List the number of documents returned for each query and the URLs of the top 20 
 	Url: www.flickr.com\photos\hickatee\34643516810
 	Url: www.flickr.com\photos\hickatee\35024953080
 	Url: mapcarta.com\25005378
-
+```
 
 List the number of documents returned for each query and the URLs of the top 20 results for each query using the weightings:
 1. `scoring.TF_IDF()`
+```
 	************************************************************
 	Query:   new york   returned 196 results
 	************************************************************
@@ -447,8 +465,10 @@ List the number of documents returned for each query and the URLs of the top 20 
 	Url: www.seduniatravel.com\tours\americas\usa\eastern-highlights
 	Url: elevation.maplogs.com\poi\e_14th_st_new_york_ny_usa.231190.txt
 	Url: elevation.maplogs.com\poi\riverside_dr_new_york_ny_usa.231154.txt
+```
 
 2. `scoring.Frequency()`
+```
 	************************************************************
 	Query:   new york   returned 196 results
 	************************************************************
@@ -497,11 +517,12 @@ List the number of documents returned for each query and the URLs of the top 20 
 	Url: www.seduniatravel.com\tours\americas\usa\eastern-highlights
 	Url: elevation.maplogs.com\poi\e_14th_st_new_york_ny_usa.231190.txt
 	Url: elevation.maplogs.com\poi\riverside_dr_new_york_ny_usa.231154.txt
-
+```
 
 List the URLs that are present for all weightings.
+```
 	************************************************************
-	Query:   new york   returned 196 results
+	Query:   new york
 	************************************************************
 	Url: indulgy.com\post\9oS6UVpli2\empire-state-building-at-night-new-york-city
 	Url: www.flickr.com\photos\tags\New_York
@@ -513,7 +534,7 @@ List the URLs that are present for all weightings.
 
 
 	************************************************************
-	Query:   empire state building   returned 47 results
+	Query:   empire state building
 	************************************************************
 	Url: indulgy.com\post\9oS6UVpli2\empire-state-building-at-night-new-york-city
 	Url: indulgy.com\post\nGdsQo4VJ2\george-rodger-new-york-city-the-empire-stat
@@ -527,9 +548,12 @@ List the URLs that are present for all weightings.
 	Url: www.thehotelguru.com\best-hotels-in\united-states-of-america\new-york
 	Url: www.flickr.com\photos\tags\Port Authority of New York and New Jersey\
 	Url: www.myadventuresacrosstheworld.com\things-to-do-in-new-york\
+```
 
 Which URLs seem to be the most relevant to the queries?  Why?
+```
 	The URLs from BM25F appear most relevant, as the other ones produced a lot more photo, while this seems to have returned more informative results.
+```
 
 
 Use the `scoring.BM25F()` weighting for subsequent questions.
@@ -540,17 +564,19 @@ Use the `scoring.BM25F()` weighting for subsequent questions.
 Recall that *precision* is a measure of retrieval performance calculated as the proportion of correct results returned to the total number of results returned.  Normally the correct results are determined by hand, but in this case we will use a more specific query as the target correct results.
 
 Measure the precision of the top 10 results returned by the query "empire state" with respect to retrieving the results of the query "empire state building".  This means that correct results are those that are returned by the query "empire state building" and we are measuring the performance of the query "empire state" in retrieving those pages.  Because the *highlights* might be different between the two queries, make sure to compare URLs, which are unique.
-	0.8
+	```0.8```
 
 Measure the precision of the top 20 results returned by the query "empire state" with respect to retrieving the results of the query "empire state building".
-	0.9
+	```0.9````
 
 Measure the precision of the top 20 results returned by the query "new york" with respect to retrieving the results of the query "new york city".
-	0.6
+	```0.6```
 
 ### Describe any problems that you ran into in the course of this project
 
 Describe any problems that you ran into in the course of this project
+```
 	As far as I can tell, a lot of the data had symbols in its names that couldnt be download onto windows with get.
 	For example '?=' in urls are invalid in file names. So I think I got all the data downloaded and working, but I
 	Cant be sure.
+```
