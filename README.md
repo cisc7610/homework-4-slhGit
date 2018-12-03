@@ -167,12 +167,94 @@ For this part, we will only use the "Top 20 terms" returned after indexing the d
 
 Paste here the "Top 20 terms" that result from indexing using each of the following analysis pipelines:
 1. `analysis.RegexTokenizer()`
-1. `analysis.RegexTokenizer() | analysis.LowercaseFilter()`
-1. `analysis.RegexTokenizer() | analysis.LowercaseFilter() | analysis.StopFilter()`
+	the     1.3037791555841314
+	of      1.2856720639792742
+	and     1.285067654715793
+	to      1.2846583021453661
+	a       1.2730243401508674
+	in      1.2703124093026643
+	for     1.229095837292915
+	you     1.2265749480085957
+	is      1.2240995859845578
+	on      1.215081249611279
+	The     1.2146130510907465
+	s       1.2133323980298831
+	New     1.199515673705514
+	by      1.1939935683353056
+	York    1.1896696480958109
+	I       1.1887369757029826
+	with    1.1879591065884456
+	that    1.1747113648649536
+	your    1.1661691222580117
+	at      1.159907004477876
+2. `analysis.RegexTokenizer() | analysis.LowercaseFilter()`
+	the     1.3067382932505052
+	to      1.28554472925298
+	of      1.2854610557193074
+	and     1.2853020763716763
+	a       1.2764304825577468
+	in      1.2736417509116345
+	you     1.2378651162720165
+	for     1.2350573948756958
+	is      1.225883807680983
+	on      1.2186198018337329
+	new     1.2180882023914608
+	s       1.2148533176190297
+	by      1.199931671144417
+	york    1.1942713168368804
+	i       1.1938181978819107
+	with    1.192645627507902
+	that    1.182916340074976
+	it      1.1786306069049397
+	this    1.1752068654362056
+	your    1.1751407020872995
+3. `analysis.RegexTokenizer() | analysis.LowercaseFilter() | analysis.StopFilter()`
+	new     1.2379017736230968
+	york    1.2136974797038964
+	was     1.152531571847837
+	city    1.1518687769955114
+	all     1.1279151309280322
+	photos  1.1230316110126444
+	flickr  1.1203549696182569
+	de      1.1148004283120685
+	my      1.1132077148105946
+	but     1.0756638074292622
+	one     1.0673601719636745
+	art     1.0614478377108494
+	has     1.0587643053765545
+	orleans 1.051952492615239
+	bridge  1.0389883654681298
+	world   1.0349834061343315
+	la      1.0317606782540332
+	there   1.03116735360441
+	their   1.027558568831997
+	out     1.0165304981304573
 
 List the terms that are present in all cases here
+	If we take capitalizion in consideration no terms are present in all.
+	Else:
+		New
+		York
 
 List the terms that are only present in the last case
+	was 
+	city 
+	all 
+	photos 
+	flickr 
+	de 
+	my 
+	but 
+	one 
+	art 
+	has 
+	orleans 
+	bridge 
+	world 
+	la 
+	there 
+	their 
+	out 
 
 Paste here the "Top 20 terms" that result from indexing using the `analysis.StemmingAnalyzer()`.
 

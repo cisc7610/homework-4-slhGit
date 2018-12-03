@@ -27,9 +27,10 @@ def populate_whoosh(text_dir, whoosh_dir):
     loaded = 0
 
     ## Create analyzer used for tokenizing and normalizing tokens
-    my_analyzer = (analysis.RegexTokenizer() | analysis.LowercaseFilter()
-                   | analysis.StopFilter())
-    
+    #my_analyzer = (analysis.RegexTokenizer() | analysis.LowercaseFilter()
+    #              | analysis.StopFilter())
+ 
+    my_analyzer = analysis.StemmingAnalyzer()
     # Create schema
     schema = Schema(url=ID(stored=True),
                     body=TEXT(stored=True, analyzer=my_analyzer))
