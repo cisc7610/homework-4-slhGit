@@ -564,13 +564,19 @@ Use the `scoring.BM25F()` weighting for subsequent questions.
 Recall that *precision* is a measure of retrieval performance calculated as the proportion of correct results returned to the total number of results returned.  Normally the correct results are determined by hand, but in this case we will use a more specific query as the target correct results.
 
 Measure the precision of the top 10 results returned by the query "empire state" with respect to retrieving the results of the query "empire state building".  This means that correct results are those that are returned by the query "empire state building" and we are measuring the performance of the query "empire state" in retrieving those pages.  Because the *highlights* might be different between the two queries, make sure to compare URLs, which are unique.
-	```0.8```
+	```
+	0.8
+	```
 
 Measure the precision of the top 20 results returned by the query "empire state" with respect to retrieving the results of the query "empire state building".
-	```0.9````
+	```
+	0.9
+	```
 
 Measure the precision of the top 20 results returned by the query "new york" with respect to retrieving the results of the query "new york city".
-	```0.6```
+	```
+	0.6
+	```
 
 ### Describe any problems that you ran into in the course of this project
 
